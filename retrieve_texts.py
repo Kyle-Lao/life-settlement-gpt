@@ -4,8 +4,14 @@ import openai
 from langchain_openai import OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
 
+# Get OpenAI API Key from Streamlit Secrets
+OPENAI_API_KEY = st.secrets["general"]["OPENAI_API_KEY"]
 
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")  # Retrieve from environment variable
+# Pass API key to OpenAI client
+client = openai.OpenAI(api_key=OPENAI_API_KEY)
+
+# Ensure embeddings also use the API key
+embeddings = OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)
 
 
 # 🔹 State Abbreviation Mapping
