@@ -165,8 +165,7 @@ def generate_gpt_response(query, statute_texts):
           📌 **Source:** {statute_file}
         """
 
-        response = openai.ChatCompletion.create(
-    api_key=OPENAI_API_KEY,  # Ensure API key is included
+     response = openai.Client().chat.completions.create(
     model="gpt-4-turbo",
     messages=[{"role": "system", "content": prompt}],
     temperature=0
