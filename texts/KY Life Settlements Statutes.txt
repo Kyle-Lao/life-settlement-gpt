@@ -1,0 +1,812 @@
+State of Kentucky: Life Settlement Statutes 
+Section 304.15-020 - Definitions(1) "Advertisement" means any written, electronic, or printed 
+communication or any communication by means of recorded telephone messages or transmitted 
+on radio, television, the Internet, or similar communication media, including film strips, motion 
+pictures, and videos, published, disseminated, circulated, or placed directly before the public, for 
+the purpose of creating an interest in or inducing a person to purchase or sell, assign, devise, 
+bequest, or transfer the death benefit or ownership of a life insurance policy or an interest in a 
+life insurance policy pursuant to a life settlement contract.(2) "Business of life settlements" 
+means an activity involved in but not limited to the offering, solicitation, negotiation, 
+procurement, effectuation, purchasing, investing, financing, monitoring, tracking, underwriting, 
+selling, transferring, assigning, pledging, hypothecating, or in any other manner, of life 
+settlement contracts.(3) "Chronically ill" means:(a) Being unable to perform at least two (2) 
+activities of daily living, including but not limited to eating, toileting, transferring, bathing, 
+dressing, or continence;(b) Requiring substantial supervision to protect the individual from 
+threats to health and safety due to severe cognitive impairment; or(c) Having a level of disability 
+similar to that described in paragraph (a) of this subsection as determined by the Secretary of 
+Health and Human Services.(4) "College life insurance" is that form of life insurance sold to 
+college students, the initial premiums for which are financed by a promissory note.(5) "Financing 
+entity" means an underwriter, placement agent, lender, purchaser of securities, purchaser of a 
+policy from a life settlement provider, credit enhancer, or any entity that has a direct ownership 
+in a policy that is the subject of a life settlement contract but:(a) Whose principal activity related 
+to the transaction is providing funds to effect the life settlement contract or purchase of one (1) 
+or more policies or to provide credit enhancement; and(b) Who has an agreement in writing with 
+one (1) or more licensed life settlement providers to finance the acquisition of life settlement 
+contracts or to provide stop loss insurance. 
+"Financing entity" does not include a nonaccredited investor or purchaser. 
+(6) "Financing transaction" means a transaction in which a life settlement provider obtains 
+financing from a financing entity, including without limitation any secured or unsecured 
+financing, any securitization transaction, or any securities offering which either is registered or 
+exempt from registration under federal and state securities law.(7) "Fraudulent life settlement 
+act" includes:(a) Acts or omissions committed by any person who, knowingly or with intent to 
+defraud, for the purpose of depriving another of property or for pecuniary gain, commits or 
+permits his employees or its agents to engage in acts including:1. Presenting, causing to be 
+presented, or preparing with knowledge or belief that it will be presented to or by a life 
+settlement provider, life settlement broker, life insurance producer, financing entity, insurer, 
+premium finance lender, or any other person, false material information, or concealing material 
+information, as part of, in support of, or concerning a fact material to one (1) or more of the 
+following:a. An application for the issuance of a life settlement contract or policy;b. The 
+underwriting of a life settlement contract or policy;c. A claim for payment or benefit pursuant to 
+a life settlement contract or policy;d. Premiums paid on a policy;e. Payments and changes in 
+ownership or beneficiary made in accordance with the terms of a life settlement contract or 
+policy;f. The reinstatement or conversion of a policy;g. In the solicitation, offer, effectuation, or 
+sale of a life settlement contract or policy;h. The issuance of written evidence of a life settlement 
+contract or policy;i. A financing transaction;j. Any application for or the existence of or any 
+payments related to a loan secured directly or indirectly by any interest in a life insurance policy; 
+
+ork. Stranger-originated life insurance;2. Employing any device, scheme, or artifice to defraud 
+related to policies acquired pursuant to a life settlement contract;3. In the solicitation, 
+application, or issuance of a life insurance policy, employing any device, scheme, or artifice in 
+violation of state insurable interest laws;(b) Any of the following acts committed by any person 
+or permitted by a person to be committed by the person's employees or agents in the furtherance 
+of a fraud or to prevent detection of a fraud to:1. Remove, conceal, alter, destroy, or sequester 
+from the commissioner the assets or records of a licensee or other person engaged in the business 
+of life settlements;2. Misrepresent or conceal the financial condition of a licensee, financing 
+entity, insurer, or other person;3. Transact the business of life settlements in violation of laws 
+requiring a license, certificate of authority, or other legal authority for the transaction of the 
+business of life settlements;4. File with the commissioner or the chief insurance regulatory 
+official of another jurisdiction a document containing false information or which otherwise 
+conceals information about a material fact from the commissioner; or5. Misrepresent the state of 
+residence of an owner to be a state or jurisdiction that does not have a law substantially similar to 
+this section and KRS 304.15-700 to 304.15-720;(c) Embezzlement, theft, misappropriation, or 
+conversion of moneys, funds, premiums, credits, or other property of a life settlement provider, 
+life settlement broker, insurer, insured, owner, insurance policyowner, or any other person 
+engaged in the business of life settlements or insurance;(d) Recklessly entering into, brokering, 
+or otherwise dealing in a life settlement contract, the subject of which is a policy that was 
+obtained by presenting false information concerning any fact material to the policy or by 
+concealing, for the purpose of misleading another, information concerning any fact material to 
+the policy, where the owner or the owner's agent intended to defraud the policy issuer. For the 
+purposes of this paragraph, "recklessly" means engaging in the conduct in conscious and clearly 
+unjustifiable disregard of a substantial likelihood of the existence of the relevant facts or risks, 
+such disregard involving a gross deviation from acceptable standards of conduct; 
+or(e) Attempting to commit, assisting, aiding, or abetting in the commission of, or conspiracy to 
+commit the acts or omissions specified in this subsection.(8) "Industrial life insurance" is that 
+form of life insurance written under policies of face amount of $3,000 or less issued on the basis 
+of an industrial mortality table, and under which premiums are payable monthly or more 
+often.(9) "Life expectancy" means the number of months the insured under the life insurance 
+policy to be settled can be expected to live considering medical records and appropriate 
+experiential data.(10) "Premium finance loan" means a loan made primarily for the purposes of 
+making premium payments on a life insurance policy, which loan is secured by an interest in 
+such life insurance policy.(11) "Purchaser" means a person who pays compensation or anything 
+of value as consideration for a beneficial interest in a trust which is vested with, or for the 
+assignment, transfer, or sale of, an ownership or other interest in a life insurance policy or 
+certificate issued pursuant to a group life insurance policy which has been the subject of a life 
+settlement contract.(12) "Related provider trust" means a titling trust or other trust established by 
+a licensed life settlement provider or financing entity for the sole purpose of holding the 
+ownership or beneficial interest in policies. The trust shall have a written agreement with the 
+licensed life settlement provider under which the licensed life settlement provider is responsible 
+for ensuring compliance with all statutory and regulatory requirements and under which the trust 
+agrees to make all records and files related to life settlement transactions available to the 
+commissioner as if those records and files were maintained directly by the licensed life 
+settlement provider.(13) "Settled policy" means a life insurance policy or certificate that has been 
+acquired by a life settlement provider pursuant to a life settlement contract.(14) "Special purpose 
+
+entity" means a corporation, partnership, trust, limited liability company, or other similar entity 
+formed solely to provide, either directly or indirectly, access to institutional capital markets for a 
+financing entity or licensed life settlement provider.(15) "Stranger-originated life insurance" or 
+"STOLI" means the procurement of new life insurance by persons or entities that lack insurable 
+interest on the insured and, at policy inception, such person or entity owns or controls, or has an 
+arrangement or agreement to own or control, the policy or the majority of the death benefit in the 
+policy and the insured or insured's beneficiaries receive little or none of the proceeds of the death 
+benefits of the policy. Trusts that are created to give the appearance of insurable interest and are 
+used to initiate policies for investors violate insurable interest laws and the prohibition against 
+wagering on life. STOLI arrangements do not include those practices set forth in paragraph (b) of 
+subsection (17) of this section.(16) "Life settlement broker" or "broker" means an individual, 
+partnership, corporation, or other person who is working exclusively on behalf of an owner and 
+for a fee, commission, or other valuable consideration, offers or advertises the availability of life 
+settlements, introduces an owner to life settlement providers, or offers or attempts to negotiate 
+life settlements between an owner and one (1) or more life settlement providers. "Life settlement 
+broker" does not include an attorney, certified public accountant, or financial planner who is 
+retained to represent the owner and whose compensation is not paid directly or indirectly by the 
+life settlement provider or any other person except the owner.(17)(a) "Life settlement contract" 
+means a written agreement entered into between a life settlement provider and an owner owning 
+a policy or who owns or is covered under a group policy insuring the life of a person and the 
+agreement establishes the terms under which the life settlement provider will pay compensation 
+or anything of value, which compensation or value is less than the expected death benefit of the 
+insurance policy or certificate, in return for the owner's assignment, transfer, sale, devise or 
+bequest of the death benefit or ownership of any portion of the insurance policy or certificate. A 
+life settlement contract also includes a contract for a loan or other financing transaction with an 
+owner secured primarily by an individual or group life insurance policy, other than a loan by a 
+life insurance company pursuant to the terms of the life insurance contract, or a loan secured by 
+the cash value of a policy. A life settlement contract includes an agreement with an owner to 
+transfer ownership or change the beneficiary designation of a policy at a later date regardless of 
+the date that compensation is paid to the owner. "Life settlement contract" does not mean a 
+written agreement entered into between an owner and a person having an insurable interest in the 
+insured's life.(b) "Life settlement contract" also includes a premium finance loan made for a 
+policy on or before the date of issuance of the policy where:1. The loan proceeds are not used 
+solely to pay premiums for the policy and any costs or expenses incurred by the lender or the 
+borrower in connection with the financing;2. The owner receives on the date of the premium 
+finance loan a guarantee of the future life settlement value of the policy; or3. The owner agrees 
+on the date of the premium finance loan to sell the policy or any portion of its death benefit on 
+any date following the issuance of the policy.(c) "Life settlement contract" does not include:1. A 
+policy loan by a life insurance company pursuant to the terms of the life insurance policy or 
+accelerated death provisions contained in the life insurance policy, whether issued with the 
+original policy or as a rider;2. A premium finance loan or any loan made by a bank or other 
+licensed financial institution, provided that neither default on such loan nor the transfer of the 
+policy in connection with such default is pursuant to an agreement or understanding with any 
+other person for the purpose of evading regulation under KRS 304.15-700 to 304.15-720;3. A 
+collateral assignment of a life insurance policy by an owner;4. A loan made by a lender that does 
+not violate Subtitle 30 of this chapter, if the loan is not described in paragraph (b) of this 
+
+subsection and is not otherwise within the definition of life settlement contract;5. An agreement 
+where all the parties are closely related to the insured by blood or law or have a lawful 
+substantial economic interest in the continued life, health, and bodily safety of the person 
+insured, or are trusts established primarily for the benefit of such parties;6. Any designation, 
+consent, or agreement by an insured who is an employee of an employer in connection with the 
+purchase by the employer, or trust established by the employer, of life insurance on the life of the 
+employee;7. A bona fide business succession planning arrangement:a. Between one (1) or more 
+shareholders in a corporation or between a corporation and one (1) or more of its shareholders or 
+one (1) or more trust established by its shareholders;b. Between one (1) or more partners in a 
+partnership or between a partnership and one (1) or more of its partners or one (1) or more trust 
+established by its partners; orc. Between one (1) or more members in a limited liability company 
+or between a limited liability company and one (1) or more of its members or one (1) or more 
+trust established by its members;8. An agreement entered into by a service recipient, or a trust 
+established by the service recipient, and a service provider, or a trust established by the service 
+provider, who performs significant services for the service recipient's trade or business; or9. Any 
+other contract, transaction, or arrangement not included in the definition of life settlement 
+contract as determined by the commissioner by administrative regulation.(18) "Life settlement 
+provider" or "provider" means an individual, partnership, corporation, or other person who or 
+that enters into an agreement with a person owning a policy under the terms of which the life 
+settlement provider pays compensation or anything of value, which compensation or value is less 
+than the expected death benefit of the insurance policy or certificate, in return for the 
+policyowner's assignment, transfer, sale, devise, or bequest of the death benefit or ownership of 
+the policy to the life settlement provider. Life settlement provider does not include:(a) Any bank, 
+savings bank, savings and loan association, credit union, or other licensed lending institution or 
+creditor or secured party that takes an assignment of a policy as collateral for a loan;(b) The 
+issuer of a policy that provides accelerated benefits that accelerate in anticipation of death or 
+upon the occurrence of specified life-threatening or catastrophic conditions as defined by the 
+policy or rider;(c) Any natural person who is not licensed in accordance with KRS 304.15-
+700 and who enters into no more than one (1) agreement in a calendar year for the transfer of life 
+insurance policies for any value less than the expected death benefit;(d) A related provider 
+trust;(e) An authorized or eligible insurer that provides stop-loss coverage to a life settlement 
+provider, financing entity, special purpose entity, or related provider trust;(f) A special purpose 
+entity;(g) A related provider trust;(h) An accredited investor or qualified institutional buyer as 
+defined respectively in Regulation D, Rule 501 or Rule 144A of the Federal Securities Act of 
+1933, as amended, and who acquires a policy from a life settlement provider;(i) A 
+purchaser;(j) A financing entity; or(k) Broker.(19) "Owner" means a resident of this 
+Commonwealth who is the owner of a policy or a certificate holder under a group policy who 
+enters or seeks to enter into a life settlement contract. An owner shall not be limited to an owner 
+of a life insurance policy or a certificate holder under a group policy insuring the life of an 
+individual with a terminal or chronic illness or condition except where specifically addressed. If 
+there is more than one (1) owner on a single policy and the owners are residents of different 
+states, the transaction shall be governed by the law of the state in which the owner having the 
+largest percentage of ownership resides or, if the owners hold equal ownership, the state of 
+residence of one (1) owner agreed upon in writing by all owners. "Owner" does not include:(a) A 
+life settlement provider licensed pursuant to KRS 304.9-440;(b) A qualified institutional buyer 
+as defined in Rule 144A of the Federal Securities Act of 1933, as amended;(c) A financing 
+
+entity;(d) A special purpose entity; or(e) A related provider trust.(20) "Terminally ill" means 
+having an illness or sickness that can reasonably be expected to result in death in twenty-four 
+(24) months or less.(21) "Wholesale life insurance" is that plan of life insurance, other than 
+salary savings life insurance or pension trust insurance and annuities, under which individual 
+policies are issued to the employees of any employer and where policies are issued on the lives 
+of not less than four (4) employees at date of issue. Premiums for the policies shall be paid either 
+wholly from the employer's funds, or funds contributed by him, or partly from the funds and 
+partly from funds contributed by the insured employees. 
+KRS 304.15-020 
+Section 304.15-700 - Licensing requirements governing life settlement providers and brokers - 
+Contracts - Commissioner's approval required - Forms(1) No person may act as a life settlement 
+provider without first having obtained a license as a life settlement provider from the 
+commissioner.(2) Except as provided in paragraph (b) or (c) of this subsection, no person may 
+broker, solicit, or negotiate life settlement contracts between an owner and one (1) or more life 
+settlement providers or otherwise act on behalf of an owner without first having obtained a 
+license as a life settlement broker from the commissioner as follows:(a) All applicants for a life 
+settlement broker license shall attend the required life broker training and pass a life broker 
+examination designated by the commissioner through administrative regulation;(b) A person 
+licensed as a resident or nonresident insurance agent with a life line of authority, as set forth 
+in KRS 304.9-030(2)(a), shall be deemed to meet the licensing requirements of a life settlement 
+broker and shall be permitted to operate as a life settlement broker without obtaining a license as 
+a life settlement broker as set forth in this subtitle if:1. That person has been licensed as a 
+resident insurance agent with a life line of authority in his home state for at least one (1) 
+year;2. Not later than thirty (30) days from the first day of operating as a life settlement broker, 
+the agent notifies the commissioner, on a notification form prescribed by the commissioner, that 
+he is acting as a life settlement broker and pays any applicable fees to be determined by the 
+commissioner. The notification shall include an acknowledgment by the agent that he will 
+operate as a life settlement broker in accordance with this subtitle; and3. Irrespective of the 
+manner in which a life settlement broker or life insurance agent is compensated, the life 
+settlement broker or life insurance agent is deemed to represent only the owner and owes a 
+fiduciary duty to the owner to act according to the owner's instructions and in the best interests of 
+the owner;(c) Notwithstanding this subsection, a person licensed as an attorney, certified public 
+accountant, or financial planner accredited by a nationally recognized accreditation agency, who 
+is retained to represent the owner, whose compensation is not paid directly or indirectly by the 
+life settlement provider, may negotiate life settlement contracts without having to obtain a 
+license as a life settlement broker; and(d) A life insurance agent operating as a life settlement 
+broker in accordance with paragraph (b) of this subsection, prior to the execution of the life 
+settlement contract by all the parties for which such agent is operating as a life settlement broker, 
+shall have in force evidence of financial responsibility as follows:1. A policy of insurance 
+covering the legal liability of the agent as the result of erroneous acts or failure to act in his or 
+her capacity as a life settlement broker, and inuring to the benefit of any aggrieved party as the 
+result of any single occurrence in the sum of not less than twenty thousand dollars ($20,000) and 
+one hundred thousand dollars ($100,000) in the aggregate for all occurrences within one (1) year; 
+or2. An agreement with a licensed life settlement provider whereby the agent is an additional 
+insured on the policy of insurance covering the legal liability of both the life settlement provider 
+
+and the agent as the result of erroneous acts or failure to act in his or her capacity as a life 
+settlement broker on a life settlement contract to which the life settlement provider is a party, in 
+the sum of twenty thousand dollars ($20,000) for any single occurrence; or3. A cash surety bond, 
+executed by an insurer authorized to write business in this Commonwealth, in the sum of twenty 
+thousand dollars ($20,000), which shall be subject to lawful levy of execution by any party to 
+whom the agent has been found to be legally liable as the result of erroneous acts or failure to act 
+in his or her capacity as a life settlement broker.(3) Application for a life settlement provider 
+license or a life settlement broker license shall be made in accordance with KRS 304.9-
+150.(4) Licenses for life settlement providers and life settlement brokers shall be in accordance 
+with Subtitle 9 of KRS Chapter 304. A business entity licensed as a life settlement broker or life 
+settlement provider shall designate individuals to act under its license in accordance with KRS 
+304.9-133.(5) Prior to issuance of a license as a life settlement broker or life settlement provider, 
+except as provided in subsection (2)(d) of this section, the applicant shall obtain, and thereafter 
+for as long as the license remains in effect shall keep in force, evidence of financial 
+responsibility in the sum of not less than twenty thousand dollars ($20,000) per occurrence, and 
+the sum of one hundred thousand dollars ($100,000) in the aggregate, for all occurrences within 
+one (1) year. This evidence shall be in the form of an errors and omissions insurance policy 
+issued by an authorized insurer, a bond issued by an authorized corporate surety, a deposit, or 
+any combination of these evidences of financial responsibility. The policy, bond, deposit, or 
+combination thereof shall not be terminated without thirty (30) days' prior written notice to the 
+licensee. This subsection shall not apply to a life insurance agent operating as a life settlement 
+broker in accordance with subsection (2) of this section.(6) No person shall use a life settlement 
+contract form or provide to an owner a disclosure statement form in this Commonwealth unless it 
+has been filed with and approved by the commissioner in the following manner:(a) At the 
+expiration of sixty (60) days from the date the filing is complete, the form filed shall be deemed 
+approved unless the commissioner has by order given prior approval or disapproval. Approval of 
+a form by the commissioner shall constitute a waiver of any unexpired portion of the waiting 
+period. The commissioner may extend by not more than thirty (30) days the time period in which 
+he or she may approve or disapprove the form. The commissioner shall give notice to the 
+licensee of the extension before expiration of the initial sixty (60) day period. At the expiration 
+of the extended period, and in the absence of the prior approval or disapproval, the form shall be 
+deemed approved. The commissioner may at any time, after notice and for cause shown, 
+withdraw any approval. The commissioner shall disapprove a life settlement contract form or 
+disclosure statement form if, in the determination of the commissioner, the contract or provisions 
+contained therein are unreasonable, contrary to the interests of the public, or otherwise are 
+misleading or unfair to the owner. Upon notice and hearing the commissioner shall withdraw 
+approval of any contract later determined to be unreasonable, misleading, unfair, or contrary to 
+the interest of the public; and(b) Forms may be submitted simultaneously with an application or 
+at any time during the process of approving an application for a license pursuant to this subtitle 
+or at any other time.(7) A licensed life settlement provider shall not use any person to perform 
+the functions of a life settlement broker as defined in KRS 304.15-020 unless the person holds a 
+current and valid license or is a licensed insurance agent authorized pursuant to this subtitle to 
+operate as a life settlement broker. A licensed life settlement broker shall not use any person to 
+perform the functions of a life settlement provider as defined in KRS 304.15-020 unless the 
+person holds a current and valid license as a life settlement provider.(8) If any employee of a 
+licensee violates any provision of KRS 304.15-020, 304.15-700 to 304.15-720, 304.42-190, 
+
+and 304.99-126, the department may take disciplinary action against the employer 
+licensee.(9) When a life settlement provider elects to use a related provider trust, the life 
+settlement provider shall file notice of its intention to use that trust with the department with a 
+copy of the trust agreement. Any change in the trust agreement shall be filed with the 
+commissioner prior to its effect.(10) Any additional death benefit payment on a life insurance 
+policy that is the subject of a life settlement contract with a double or additional indemnity for 
+accidental death shall be payable to the following:(a) The beneficiary last named by the policy 
+owner prior to entering into the life settlement contract; or(b) To the estate of the owner in the 
+absence of a beneficiary.(11) An insurer that issued a policy that is the subject of a life settlement 
+contract shall not be responsible for any act or omission of a broker, provider, or purchaser 
+arising out of or in connection with the life settlement transaction, unless the insurer receives 
+compensation for the placement of the life settlement contract from the provider, purchaser, or 
+broker in connection with the life settlement contract.(12) No insurer may, as a condition of 
+responding to a request for verification of coverage or in connection with the transfer of a policy 
+pursuant to a life settlement contract, require that the owner, insured, provider, or broker sign 
+any form, disclosure, consent, waiver, or acknowledgment that has not been expressly approved 
+by the commissioner for use in connection with life settlement contracts in the Commonwealth. 
+KRS 304.15-700 
+Section 304.15-702 - Permitted questioning of life insurance applicant concerning financing of 
+premium payments(1) In addition to other questions an insurer may lawfully pose to a life 
+insurance applicant, insurers may inquire in the application for insurance whether the proposed 
+owner intends to pay premiums with the assistance of financing from a lender that will use the 
+policy as collateral to support the financing.(a) If, as described in KRS 304.15-020(17), the loan 
+provides funds which can be used for a purpose other than paying for the premiums, costs, and 
+expenses associated with obtaining and maintaining the life insurance policy and loan, the 
+application shall be rejected as a violation of the prohibited practices in KRS 304.15-717.(b) If 
+the financing does not violate KRS 304.15-717 in this manner, the insurer:1. May make 
+disclosures to the applicant and the insured, either on the application or an amendment to the 
+application to be completed no later than the delivery of the policy, which shall include but not 
+be limited to the following statement or a substantially similar statement: 
+"If you have entered into a loan arrangement where the policy is used as collateral, and the 
+policy does change ownership at some point in the future in satisfaction of the loan, the 
+following may be true: 
+a. A change of ownership could lead to a stranger owning an interest in the insured's life;b. A 
+change of ownership could in the future limit your ability to purchase future insurance on the 
+insured's life because there is a limit to how much coverage insurers will issue on one (1) 
+life;c. Should there be a change of ownership and you wish to obtain more insurance coverage on 
+the insured's life in the future, the insured's higher issue age, a change in health status, or other 
+factors may reduce the ability to obtain coverage and may result in significantly higher 
+premiums; andd. You should consult a professional advisor, since a change in ownership in 
+satisfaction of the loan may result in tax consequences to the owner, depending on the structure 
+of the loan."; and2. May require certifications from the applicant or the insured or both which 
+shall include but not be limited to the following statement or a substantially similar statement: 
+"I certify that: 
+
+a. I have not entered into any agreement or arrangement providing for the future sale of this life 
+insurance policy;b. My loan arrangement for this policy provides funds sufficient to pay for 
+some or all of the premiums, costs, and expenses associated with obtaining and maintaining my 
+life insurance policy, but I have not entered into any agreement by which I am to receive 
+consideration in exchange for procuring this policy; andc. The borrower has an insurable interest 
+in the insured." 
+KRS 304.15-702 
+Section 304.15-705 - Commissioner's authority to examine - Retention and inspection of 
+records(1) The commissioner may, when the commissioner deems it reasonably necessary to 
+protect the interests of the public, examine the business and affairs of any licensee or applicant 
+for a license. The commissioner shall have the authority to order information reasonably 
+necessary to ascertain whether the licensee or applicant is acting or has acted in violation of the 
+law or otherwise contrary to the interest of the public. The reasonable expenses incurred in 
+conducting any examination shall be paid by the licensee or applicant.(2) Records of all 
+transactions of life settlement contracts shall be subject to the following:(a) The following 
+records of all transactions of life settlement contracts shall be maintained by the licensee for five 
+(5) years after the death of the owner, and shall be available to the commissioner for inspection 
+during reasonable business hours:1. Proposed, offered, or executed settlement contracts, 
+underwriting documents, policy forms, and applications from the date of the proposal, offer, or 
+execution of the settlement contract, whichever is later; and2. All checks, drafts, or other 
+evidence and documentation related to the payment, transfer, deposit, or release of funds from 
+the date of the transaction.(b) All other business records shall be kept for a period of five (5) 
+years following creation of records, or the completion of the purpose for which records were 
+created, whichever shall occur last.(c) This section shall not relieve a licensed settlement 
+provider of the obligation to produce these documents to the commissioner after the retention 
+period has expired if the settlement provider has retained the documents.(d) Records required to 
+be retained by this section shall be legible and complete and may be retained in paper, 
+photograph, microprocess, magnetic, mechanical, or electronic media, or by any process that 
+accurately reproduces or forms a durable medium for the reproduction of the record. 
+KRS 304.15-705 
+Section 304.15-708 - Emergency cease and desist order when public health, safety, or welfare is 
+endangered - Fee(1) When the department finds that a violation presents an immediate danger to 
+the public health, safety, or welfare that requires an immediate final order, it shall issue an 
+emergency cease and desist order reciting with particularity the facts underlying the findings. 
+The emergency cease and desist order is effective immediately upon service of a copy of the 
+order on the respondent.(2) The department may impose and collect an administrative fine not to 
+exceed ten thousand dollars ($10,000) for each violation of a cease and desist order issued in 
+accordance with this section. 
+KRS 304.15-708 
+Section 304.15-709 - Remedies of department and of persons damaged by life settlement 
+violations(1) In addition to the penalties and other enforcement provisions of KRS 304.15-
+020, 304.15-700 to 304.15-720, 304.42-190, and 304.99-126, if any person violates any 
+provision of KRS 304.15-020, 304.15-700 to 304.15-720, 304.42-190, and 304.99-126, or any 
+
+administrative regulations promulgated under KRS 304.15-020, 304.15-700 to 304.15-
+720, 304.42-190, and 304.99-126, the department may seek an injunction in Franklin Circuit 
+Court or in the Circuit Court of the county where the person resides or has a principal place of 
+business and may apply for temporary and permanent orders that the department determines 
+necessary to restrain the person from committing the violation.(2) Any person damaged by the 
+acts of a person in violation of any provision of KRS 304.15-020, 304.15-700 to 304.15-
+720, 304.42-190, and 304.99-126 may bring a civil action against the person in the Circuit Court 
+of the county in which the alleged violator resides, or has a principal place of business, or in the 
+county where the alleged violation occurred. 
+KRS 304.15-709 
+Section 304.15-710 - Life settlement provider's duties of disclosure to owner(1) With each 
+application for a life settlement contract, a life settlement provider or life settlement broker shall 
+provide the owner a copy of the department's consumer guide relating to life settlements. The 
+provider shall provide in writing, in a separate document that is signed by the owner and 
+provider the information in this subsection to the owner no later than the date the life settlement 
+contract is signed by all parties. The written disclosures shall be conspicuously displayed in any 
+life settlement contract or in a separate document furnished to the owner by a provider including 
+any affiliations or contractual arrangements between the provider and the broker and shall 
+provide the following information:(a) That there are possible alternatives to life settlement 
+contracts including but not limited to accelerated benefits or policy loans offered under the 
+owner's policy;(b) That some or all of the proceeds of the life settlement may be taxable under 
+federal income tax laws and state franchise and income tax laws, and that assistance should be 
+sought from a personal tax advisor;(c) That proceeds of the life settlement contract could be 
+subject to the claims of creditors;(d) That receipt of the proceeds of a life settlement contract 
+may adversely affect the owner's eligibility for Medicaid or other government benefits or 
+entitlements, and that advice should be obtained from the appropriate government 
+agencies;(e) That the owner has a right to rescind a life settlement contract before the earlier of 
+thirty (30) calendar days of the date it is executed by all parties or fifteen (15) calendar days after 
+the receipt of the proceeds of the life settlement contract by the owner. If exercised by the owner, 
+rescission is effective only if both notice of the rescission is given, and within the rescission 
+period all proceeds, and any premiums, loans, and loan interest are repaid to the settlement 
+provider. If the insured dies during the rescission period, the settlement contract shall be deemed 
+to have been rescinded, subject to repayment of all life settlement proceeds and any premiums, 
+loans, and loan interest to the life settlement provider. The life settlement provider shall 
+effectuate the change of ownership of the policy or certificate to the owner immediately upon 
+effective rescission by the owner;(f) That entering into a life settlement contract may cause other 
+rights or benefits, including conversion rights and waiver of premium benefits that may exist 
+under the policy, to be forfeited by the owner and that assistance should be sought from a 
+financial adviser;(g) That funds will be sent to the owner within three (3) business days after the 
+life settlement provider has received the insurer's or group administrator's acknowledgment that 
+ownership of the policy has been transferred and the beneficiary has been designated pursuant to 
+the life settlement contract;(h) That the disclosure document shall contain the following 
+language: 
+"All medical, financial, or personal information solicited or obtained by a life settlement provider 
+or life settlement broker about an insured, including the insured's identity or the identity of 
+
+family members, a spouse, or a significant other may be disclosed as necessary to effect the life 
+settlement between the owner and the life settlement provider. If you are asked to provide this 
+information, you will be asked to consent to the disclosure. The information may be provided to 
+someone who buys the policy or provides funds for the purchase. You may be asked to renew 
+your permission to share information every two (2) years."; and 
+(i) That the insured may be contacted by the life settlement provider or its authorized 
+representative for the purpose of determining the insured's health status or to verify the insured's 
+address. This contact shall be limited to once every three (3) months if the insured has a life 
+expectancy of more than one (1) year, and no more than once per month if the insured has a life 
+expectancy of one (1) year or less.(2) A life settlement provider shall provide the owner with at 
+least the following disclosures no later than the date the life settlement contract is signed by all 
+parties. The disclosures shall be conspicuously displayed in the life settlement contract or in a 
+separate document signed by the owner and the life settlement provider and provide the 
+following information:(a) State the affiliation, if any, between the life settlement provider and 
+the issuer of the policy to be acquired pursuant to a settlement contract;(b) State the name, 
+address and telephone number of the life settlement provider;(c) If a policy to be acquired 
+pursuant to a life settlement contract has been issued as a joint policy or involves family riders or 
+any coverage of a life other than the insured under the policy to be acquired pursuant to a 
+settlement contract, the owner shall be informed of the possible loss of coverage on the other 
+lives and shall be advised to consult with his insurance producer or the company issuing the 
+policy for advice on the proposed life settlement contract;(d) State the dollar amount of the 
+current death benefit payable to the life settlement provider under the policy. The life settlement 
+provider shall, if known, also disclose the availability of any additional guaranteed insurance 
+benefits, the dollar amount of any accidental death and dismemberment benefits under the 
+policy, and the life settlement provider's interest in those benefits;(e) State the name, business 
+address, and telephone number of the independent third party escrow agent, and the fact that the 
+owner may inspect or receive copies of the relevant escrow or trust agreements or 
+documents;(f) The date by which the funds will be available to the owner and the transmitter of 
+the funds;(g) That a consumer guide shall be delivered to owners with each application as 
+required in this subsection;(h) That applications and life settlement contracts shall contain the 
+statement as required in KRS 304.15-717(2);(i) That a broker represents exclusively the owner, 
+and not the insurer or the provider or any other person, and owes a fiduciary duty to the owner, 
+including a duty to act according to the owner's instructions and in the best interests of the 
+owner; and(j) The fact that a change in ownership could in the future limit the insured's ability to 
+purchase future insurance on the insured's life because there is a limit to how much coverage 
+insurers will issue on one (1) life.(3) If the life settlement provider transfers ownership or 
+changes the beneficiary of the policy, the life settlement provider shall communicate the change 
+in ownership or beneficiary to the insured within twenty (20) days after the change.(4) A broker 
+shall provide the owner and the provider with at least the following disclosures no later than the 
+date the life settlement contract is signed by all parties. The disclosures shall be conspicuously 
+displayed in the life settlement contract or in a separate document signed by the owner and 
+provide the following information:(a) The name, business address, and telephone number of the 
+broker;(b) A full, complete, and accurate description of all the offers, counter-offers, 
+acceptances, and rejections relating to the proposed life settlement contract;(c) The name of each 
+broker who receives compensation and the amount of compensation received by the broker, 
+
+which compensation includes anything of value paid or given to the broker in connection with 
+the life settlement contract;(d) A complete reconciliation of the gross offer or bid by the provider 
+to the net amount of proceeds or value to be received by the owner. For the purposes of this 
+paragraph, "gross offer or bid" means the total amount or value offered by the provider for the 
+purchase of one (1) or more life insurance policies, inclusive of the commissions and fees; 
+and(e) The failure to provide the disclosures or rights described in this section shall be deemed 
+an unfair trade practice. 
+KRS 304.15-710 
+Section 304.15-712 - Permitted and prohibited life insurance advertising and marketing(1) A 
+broker or provider licensed pursuant to KRS 304.15-700 to 304.15-720 may conduct or 
+participate in advertisements within this state. Such advertisements shall comply with all 
+advertising and marketing laws of this chapter or rules and administrative regulations 
+promulgated by the commissioner that are applicable to life insurers or to brokers, and providers 
+licensed pursuant to this chapter.(2) Advertisements shall be accurate, truthful, and not 
+misleading in fact or by implication.(3) No person or trust shall:(a) Directly or indirectly market, 
+advertise, solicit, or otherwise promote the purchase of a life insurance policy for the sole 
+purpose of, or with a primary emphasis on, settling the policy; or(b) Except as provided in KRS 
+304.12-092, use the words "free," "no cost," or words of similar import in the marketing, 
+advertising, soliciting, or otherwise promoting the purchase of a life insurance policy. 
+KRS 304.15-712 
+Section 304.15-715 - Requirements for life settlement contracts(1) A life settlement provider 
+entering into a life settlement contract with any person shall first obtain:(a) If the owner is 
+insured, a written statement from a licensed attending physician that the owner is of sound mind 
+and under no constraint or undue influence to enter into a life settlement contract; and(b) A 
+document in which the insured consents to the release of his or her medical records to a life 
+settlement provider, life insurance agent, or life settlement broker and, if the policy was issued 
+less than two (2) years from the date of application for a life settlement contract, to the insurance 
+company that issued the policy.(2) The insurer shall respond to a request for verification of 
+coverage submitted by a life settlement provider or life settlement broker not later than thirty 
+(30) calendar days after the date the request is received. The request for verification of coverage 
+shall be made on a form approved by the commissioner. The insurer shall complete and issue the 
+verification of coverage or indicate in which respects it is unable to respond. In its response, the 
+insurer shall indicate whether, based on the medical evidence and documents provided, the 
+insurer intends to pursue an investigation at that time regarding the validity of the insurance 
+contract or possible fraud, and shall provide sufficient detail of all reasons for the investigation to 
+the life settlement provider or life settlement broker.(3) Prior to or at the time of execution of the 
+life settlement contract, the life settlement provider shall obtain a witnessed document in which 
+the owner consents to the life settlement contract, represents that he or she has a full and 
+complete understanding of the life settlement contract and a full and complete understanding of 
+the benefits of the policy, and acknowledges that he or she has entered into the life settlement 
+contract freely and voluntarily and, for persons with a terminal or chronic illness or condition, 
+that the terminal or chronic illness or condition was diagnosed after the policy was issued.(4) All 
+medical information solicited or obtained by any licensee shall be subject to the applicable 
+provision of state law relating to confidentiality of medical information.(5) All life settlement 
+
+contracts entered into in this state shall contain an unconditional right to rescind a life settlement 
+contract before the earlier of thirty (30) calendar days after the date it is executed or fifteen (15) 
+calendar days after the date of receipt of the proceeds of the life settlement contract by the 
+owner. If exercised by the owner, rescission is effective only if both notice of the rescission is 
+given, and within the rescission period all proceeds, and any premiums, loans, and loan interest 
+are repaid to the life settlement provider. If the insured dies during the rescission period, the life 
+settlement contract shall be deemed to have been rescinded subject to repayment of all proceeds 
+and any premiums, loans, and loan interest to the life settlement provider. The life settlement 
+provider shall effectuate the change of ownership of the policy or certificate to the owner 
+immediately upon effective rescission by the owner.(6) The independent third-party trustee shall 
+transfer the proceeds that are due to the owner within two (2) business days upon receipt of 
+acknowledgment of the transfer of ownership from the insurer.(7) Failure to tender consideration 
+to the owner for the life settlement contract by the date disclosed renders the life settlement 
+contract voidable by the owner for lack of consideration until the time consideration is tendered 
+to and accepted by the owner.(8) Contacts with the insured for the purpose of determining the 
+health status of the insured after the execution of the life settlement contract shall only be made 
+by the life settlement provider or its authorized representative and shall be limited to once every 
+three (3) months for an insured with a life expectancy of more than one (1) year, and to no more 
+than once per month for an insured with a life expectancy of one (1) year or less. The life 
+settlement provider shall explain the procedure for these contacts at the time the life settlement 
+contract is entered into. The limitations set forth in this subsection shall not apply to any contacts 
+with an insured for reasons other than determining the insured's health status. Life settlement 
+providers shall be responsible for the actions of their authorized representatives.(9) The insurer 
+shall not unreasonably delay effecting change of ownership or beneficiary with any life 
+settlement contract lawfully entered into in the Commonwealth or with a resident of the 
+Commonwealth.(10) If a life settlement broker performs any activities required of the provider 
+under this section, the provider is deemed to have fulfilled those requirements of this section that 
+have been properly performed by the broker.(11) If a life settlement broker performs any of the 
+disclosure activities required of the provider under KRS 304.15-710, the provider is deemed to 
+have fulfilled those requirements of KRS 304.15-710 that have been properly performed by the 
+broker.(12) Within twenty (20) days after an owner executes the life settlement contract, the 
+provider shall give written notice to the insurer that issued that insurance policy that the policy 
+has become subject to a life settlement contract. The notice shall be accompanied by the 
+documents required by KRS 304.15-702(1)(b).(13) Any fee paid by a provider, party, individual, 
+or an owner to a broker in exchange for services provided to the owner pertaining to a life 
+settlement contract shall be computed as a percentage of the offer obtained, not the face value of 
+the policy. Nothing in this section shall be construed as prohibiting a broker from reducing such 
+broker's fee below this percentage if the broker so chooses.(14) The broker shall disclose to the 
+owner anything of value paid or given to a broker which relates to a life settlement contract. 
+KRS 304.15-715 
+Section 304.15-716 - Violation due to time of contract - Conditions - Procedure - Satisfaction of 
+requirements(1) It is a violation of this subtitle for a person to enter into a life settlement contract 
+at any time prior to, or at the time of application for, issuance of a policy, or within a two (2) 
+year period commencing with the date of issuance of the policy unless the owner certifies to the 
+life settlement provider that one (1) or more of the following conditions has been met within the 
+
+two (2) year period:(a) The policy was issued upon the owner's exercise of conversion rights 
+arising out of a group or individual policy, if the total of the time covered under the conversion 
+policy plus the time covered under the prior policy is at least twenty-four (24) months. The time 
+covered under a group policy shall be calculated without regard to a change in insurance carriers, 
+if the coverage has been continuous and under the same group sponsorship; or(b) The owner 
+submits independent evidence to the life settlement provider that one (1) or more of the 
+following conditions has been met within the two (2) year period:1. The owner or insured is 
+terminally or chronically ill;2. The owner or insured disposes of his ownership interests in a 
+closely held corporation, pursuant to the terms of a buyout or other similar agreement in effect at 
+the time the insurance policy was initially issued;3. The owner's spouse dies;4. The owner 
+divorces his or her spouse;5. The owner retires from full-time employment;6. The owner 
+becomes physically or mentally disabled and a physician determines that the disability prevents 
+the owner from maintaining full-time employment; or7. A final order, judgment, or decree is 
+entered by a court of competent jurisdiction, on the application of the creditor of the owner, 
+adjudicating the owner bankrupt or insolvent, or approving a petition seeking reorganization of 
+the owner or appointing a receiver, trustee, or liquidator to all or a substantial part of the owner's 
+assets.(2) Copies of the independent evidence described in subsection (1) of this section and the 
+documents required by KRS 304.15-710 shall be submitted to the insurer when the life 
+settlement provider submits a request to the insurer for verification of coverage. The copies shall 
+be accompanied by a letter of attestation from the life settlement provider that the copies are true 
+and correct copies of the documents received by the life settlement provider.(3) If the life 
+settlement provider submits to the insurer a copy of independent evidence provided for in 
+subsection (2) of this section when the life settlement provider submits a request to the insurer to 
+effect the transfer of the policy to the life settlement provider, the copy shall be deemed to 
+conclusively establish that the life settlement contract satisfies the requirements of this section 
+and the insurer shall respond timely to the request. 
+KRS 304.15-716 
+Section 304.15-717 - Circumstances under which life settlement transactions are unlawful - 
+Required statement regarding false information - Furnishing information regarding fraudulent 
+life settlement acts(1) It is unlawful for any person:(a) To knowingly or intentionally enter into a 
+life settlement contract when the subject life insurance policy was obtained by means of a false, 
+deceptive, or misleading application for the life insurance policy;(b) To knowingly or 
+intentionally interfere with the enforcement of the provisions of this subtitle or investigations of 
+suspected or actual violations of this subtitle;(c) To knowingly or intentionally permit a person 
+convicted of a felony involving dishonesty or breach of trust to participate in the business of life 
+settlements as defined in KRS 304.15-020(5);(d) To commit a fraudulent life settlement 
+act;(e) To misrepresent that the life settlement provider, life settlement broker, other licensee, or 
+any other person has been guaranteed, sponsored, recommended, or approved by the state, or by 
+any local, state, or federal agency or officer thereof;(f) To act as a life settlement broker if the 
+person is acting as a life settlement provider in the same life settlement contract;(g) For any 
+person to pay any compensation or provide anything of value to an insured's physician, attorney, 
+accountant, or any other person who provides medical, legal, or financial advice to the insured as 
+a finder's or referral fee;(h) To engage in any transaction, practice, or course of business if such 
+person knows or reasonably should have known that the intent was to avoid the notice 
+requirements of KRS 304.15-020 and 304.15-700 to 304.15-720;(i) To engage in any fraudulent 
+
+act or practice in connection with any transaction relating to any settlement involving an owner 
+who is a resident of this state;(j) To issue, solicit, market, or otherwise promote the purchase of a 
+life insurance policy for the sole purpose of or with a primary emphasis on settling the 
+policy;(k) To enter into a life settlement contact on a policy that was the subject of a premium 
+finance agreement as described in KRS 304.15-020(17)(b) 2.;(l) With respect to any life 
+settlement contract or life insurance policy and a broker, to knowingly solicit an offer from, 
+effectuate a life settlement contract with or make a sale to any provider, financing entity, or 
+related provider trust, or any insurer that is controlling, controlled by, or under common control 
+with such broker unless disclosed to the owner;(m) With respect to any life settlement contract 
+or life insurance policy and a provider, to knowingly enter into a life settlement contract with an 
+owner if, in connection with such life settlement contract, anything of value will be paid to a 
+broker or provider that is controlling, controlled by, or under common control with such 
+provider, the financing entity, or related provider trust that is involved in such life settlement, or 
+any insurer unless disclosed to the owner;(n) With respect to a provider, to enter into a life 
+settlement contract unless the life settlement promotional, advertising, and marketing materials, 
+as may be prescribed by administrative regulation, have been filed with the commissioner. 
+Marketing materials shall not expressly reference that the insurance is "free" for any period of 
+time. The inclusion of any reference in the marketing materials that would cause an owner to 
+reasonably believe that the insurance is free for any period of time shall be considered a violation 
+of KRS 304.15-700 to 304.15-720;(o) With respect to any insurance company, insurance 
+producer, broker, or provider, or any other person, to make any statement or representation to the 
+applicant or policyholder in connection with the sale or financing of a life insurance policy to the 
+effect that the insurance is free or without cost to the policyholder for any period of time unless 
+provided in the policy; or(p) If an insurer, to:1. Engage in or permit any discrimination between 
+individuals of the same class, same policy amount, and equal expectation of life in the rates 
+charged for any life insurance policy or annuity contract based upon an individual's having 
+entered into a life settlement contract or being insured under a settled policy;2. Make any false or 
+misleading statement as to the business of life settlements or financing premiums due for a 
+policy or to any owner or insured for the purpose of inducing or tending to induce the owner or 
+insured not to enter into a life settlement contract; or3. Engage in any transaction, act, practice, 
+or course of business, or dealing which restricts, limits, or impairs in any way the lawful transfer 
+of ownership, change of beneficiary, or assignment of a policy. 
+This subsection shall not prohibit a statement that the person is licensed, if that statement is true 
+and the effect of the statement is not misrepresented. 
+(2) A life settlement contract and an application for a life settlement contract, regardless of the 
+form of transmission, shall contain the following statement or a substantially similar statement: 
+"Any person who knowingly presents false information in an application for insurance or life 
+settlement contract is guilty of a crime and upon conviction may be subject to fines or 
+confinement in prison, or both." 
+The lack of a statement required by this section does not constitute a defense in any prosecution 
+for a fraudulent life settlement act. 
+(3)(a) A person engaged in the business of life settlements who has knowledge or a reasonable 
+belief that a fraudulent life settlement act is being, will be, or has been committed shall provide 
+
+the information required to the commissioner, in a manner prescribed by the 
+commissioner.(b) Any person who has knowledge or a reasonable belief that a fraudulent life 
+settlement act is being, will be, or has been committed may provide the information required to 
+the commissioner, in a manner prescribed by the commissioner in administrative 
+regulations.(4)(a) Civil liability may not be imposed on and a cause of action may not arise from 
+a person's furnishing information concerning suspected, anticipated, or completed fraudulent life 
+settlement acts, or suspected or completed fraudulent insurance acts, if the information is 
+provided to or received from:1. The commissioner or the commissioner's employees, agents, or 
+representatives;2. Federal, state, or local law enforcement or regulatory officials, or their 
+employees, agents, or representatives;3. A person involved in the prevention and detection of 
+fraudulent life settlement acts or that person's agents, employees, or representatives;4. The 
+National Association of Insurance Commissioners (NAIC), the National Association of 
+Securities Dealers (NASD), the North American Securities Administrators Association 
+(NASAA), or their employees, agents, or representatives, or any other regulatory body 
+overseeing life insurance or life settlement contracts;5. The insurer that issued the policy 
+covering the life of the insured; or6. The licensee and any agents, employees, or 
+representatives.(b) This subsection shall not apply to a statement made with actual malice. In an 
+action brought against a person for filing a report or furnishing other information concerning a 
+fraudulent life settlement act or a fraudulent insurance act, the party bringing the action shall 
+plead specifically any allegation that this subsection shall not apply because the person filing the 
+report or furnishing the information did so with actual malice.(c) A person who furnishes 
+information concerning fraudulent life settlement acts and who is a party in a civil cause of 
+action for libel, slander, or another relevant tort arising out of activities in carrying out the 
+provisions of this chapter shall be entitled to an award of attorney's fees and court costs if he is 
+the prevailing party in the suit and the party bringing the action was not substantially justified in 
+filing the cause of action. For purposes of this paragraph, a proceeding is "substantially justified" 
+if a person had a reasonable basis in law or fact at the time the cause of action was 
+initiated.(d) This subsection shall not abrogate or modify common law or statutory privileges or 
+immunities enjoyed by a person.(e) This subsection shall not apply to a person who furnishes 
+information concerning his own suspected, anticipated, or completed fraudulent life settlement 
+acts or suspected, anticipated, or completed fraudulent insurance acts.(5) The documents and 
+evidence provided pursuant to subsection (4) of this section or obtained by the commissioner in 
+an investigation of suspected or actual fraudulent life settlement acts shall be privileged and 
+confidential and shall not be a public record and shall not be subject to discovery or subpoena in 
+a civil or criminal action, except that:(a) This subsection shall not prohibit release by the 
+commissioner of documents and evidence obtained in an investigation of suspected or actual 
+fraudulent life settlement acts:1. In administrative or judicial proceedings to enforce laws 
+administered by the commissioner;2. To federal, state, or local law enforcement or regulatory 
+agencies, to an organization established for the purpose of detecting and preventing fraudulent 
+life settlement acts, or to the National Association of Insurance Commissioners (NAIC); or3. At 
+the discretion of the commissioner, to a person in the business of life settlements that is 
+aggrieved by a fraudulent life settlement act; and(b) The release of documents and evidence 
+provided by paragraph (a) of this subsection shall not abrogate or modify the privilege granted 
+by this subsection.(6) This section shall not:(a) Preempt the authority or relieve the duty of other 
+law enforcement or regulatory agencies to investigate, examine, and prosecute suspected 
+violations of law;(b) Prevent or prohibit a person from voluntarily disclosing information 
+
+concerning fraudulent life settlement acts to a law enforcement or regulatory agency other than 
+the Department of Insurance;(c) Limit the powers granted elsewhere by the laws of this state to 
+the commissioner or an insurance fraud unit to investigate and examine possible violations of 
+law and to take appropriate action against wrongdoers; or(d) Preempt, supersede, or limit any 
+provision of any state securities law or any rule, order, administrative regulation, or notice issued 
+thereunder.(7) A life settlement provider shall adopt antifraud initiatives reasonably calculated to 
+detect, prosecute, and prevent fraudulent life settlement acts. The commissioner may order or, if 
+a licensee requests, may grant modifications of the required initiatives listed in this subsection as 
+necessary to ensure an effective antifraud program. The modifications may be more or less 
+restrictive than the required initiatives so long as the modifications reasonably may be expected 
+to accomplish the purpose of this section. Antifraud initiatives shall include the 
+following:(a) Fraud investigators, who may be life settlement providers or employees or 
+independent contractors of those life settlement providers; and(b) An antifraud plan that shall be 
+filed with the commissioner and that shall include but is not limited to the following:1. The 
+procedures for detecting and investigating possible fraudulent life settlement acts and procedures 
+for resolving material inconsistencies between medical records and insurance applications;2. The 
+procedures for reporting possible fraudulent life settlement acts to the commissioner;3. The plan 
+for antifraud education and training of underwriters and other personnel; and4. A chart outlining 
+the organizational arrangement of the antifraud personnel who are responsible for the 
+investigation and reporting of possible fraudulent life settlement acts and investigating 
+unresolved material inconsistencies between medical records and insurance applications. 
+Antifraud plans filed with the commissioner shall be privileged and confidential and shall not be 
+a public record and shall not be subject to discovery or subpoena in a civil or criminal action. 
+KRS 304.15-717 
+Section 304.15-718 - Requirements governing execution of life settlement contracts 
+The life settlement provider shall instruct the owner to send the executed documents required to 
+effect the change in ownership, assignment, or change in beneficiary directly to the independent 
+escrow agent. Within three (3) business days after the date the escrow agent receives the 
+document, or from the date the life settlement provider receives the documents, if the owner 
+erroneously sends the documents directly to the provider, the life settlement provider shall pay 
+the proceeds due to the owner to an escrow or trust account maintained in a state or federally 
+chartered financial institution whose deposits are insured by the Federal Deposit Insurance 
+Corporation (FDIC). Upon payment of the settlement proceeds into the escrow account, the 
+escrow agent shall deliver the original change in ownership, assignment, or change in beneficiary 
+forms to the life settlement provider or related provider trust. Upon the escrow agent's receipt of 
+the acknowledgment of the properly completed transfer of ownership, assignment, or designation 
+of beneficiary from the insurance company, the escrow agent shall pay the settlement proceeds to 
+the owner. 
+KRS 304.15-718 
+Section 304.15-719 - Annual statement to be filed with commissioner - Administrative 
+regulations 
+
+Each provider shall file with the commissioner on or before March 1 of each year an annual 
+statement containing such information as the commissioner may prescribe by administrative 
+regulation. In addition to any other requirements, the annual statement of each provider shall also 
+include the names of the insurance companies whose policies have been settled. 
+KRS 304.15-719 
+Section 304.15-720 - Powers of commissioner 
+The commissioner shall have the authority to: 
+(1) Promulgate administrative regulations in accordance with KRS Chapter 13A 
+implementing KRS 304.15-020 and 304.15-700 to 304.15-720;(2) Establish standards for 
+evaluating reasonableness of payments under life settlement contracts where the insured under 
+the policy which is the subject of a life settlement contract is terminally or chronically ill. This 
+authority includes but is not limited to regulation of discount rates used to determine the amount 
+paid in exchange for assignment, transfer, sale, devise, or bequest of a benefit under a policy. A 
+life settlement provider, where the insured is not terminally or chronically ill, shall pay an 
+amount greater than the cash surrender value or accelerated death benefit then 
+available;(3) Establish appropriate licensing requirements and fees for agents and brokers; 
+and(4) Promulgate administrative regulations governing the relationship and responsibilities of 
+an insurer and a life settlement provider, life insurance producer, and others in the business of 
+life settlements during the period of consideration or effectuation of a life settlement contract. 
+KRS 304.15-720 
+Section 304.15-725 - KRS 304.15-020 and KRS 304.15-700 to 304.15-720 subject to Subtitle 12 
+of this chapter 
+The activities regulated by KRS 304.15-020 and KRS 304.15-700 to 304.15-720 shall 
+be deemed the business of insurance and subject to Subtitle 12 of this chapter. 
+ 
+Section 304.15-726 - Life settlement contracts for payments directly to long-term care services 
+providers - Administrative regulations(1) For purposes of this section:(a) "Long-term care 
+services" means:1. Home health care;2. Assisted living;3. Nursing home care; and4. Any other 
+service or support deemed a long-term care service pursuant to administrative regulations 
+promulgated by the Department for Medicaid Services; and(b) "Recipient" means the recipient 
+of the long-term care services that are being paid for from the proceeds of the life settlement 
+contract entered into pursuant to this section.(2) The owner of a life insurance policy with a face 
+value in excess of ten thousand dollars ($10,000) may enter into a life settlement contract 
+pursuant to KRS 304.15-700 to 304.15-720, in exchange for payments directly to a long-term 
+care services provider as of the effective date of the life settlement contract in accordance with 
+this section.(3)(a) All proceeds of the life settlement contract entered into pursuant to this section 
+shall:1. Not be subject to any statute or administrative regulation relating to minimum payments 
+for a life settlement which conflict with the provisions of this section; and2. Be held in an 
+irrevocable state or federally insured account for the benefit of the recipient of the long-term care 
+services and administered in accordance with this section.(b) The type of long-term care services 
+payable from the irrevocable account shall be chosen only by the recipient of the services. Any 
+
+attempt by any person to require the use of a long-term care services provider to obtain long-term 
+care services pursuant to this section is prohibited and shall constitute an unfair or deceptive act 
+or practice in violation of KRS 304.12-010.(c) In addition to the requirements in KRS 304.15-
+700 to 304.15-720, any life settlement contract entered into pursuant to this section shall include 
+the following:1. A provision in the contract that five percent (5%) of the face amount of the life 
+insurance policy, not to exceed seven thousand five hundred dollars ($7,500), or five thousand 
+dollars ($5,000), whichever is greater, may be reserved and if reserved shall be payable to the 
+owner's estate or a named beneficiary of the irrevocable account upon the death of the insured 
+under the policy that is the subject of the life settlement contract for final expenses; and2. The 
+balance of proceeds of the life settlement contract that are unpaid at the death of the owner shall 
+be paid to the owner's estate or a named beneficiary of the irrevocable account.(d) Any life 
+settlement provider entering into a life settlement contract pursuant to this section shall maintain 
+one (1) of the following:1. A surety bond executed and issued by an insurer authorized to issue 
+bonds in this state in the amount of five hundred thousand dollars ($500,000). Any surety bond 
+issued shall be in favor of this state and shall specifically authorize recovery by the 
+commissioner on behalf of any person in this state who sustained damages as the result of 
+erroneous acts, failure to act, conviction of fraud, or conviction of unfair practices by the life 
+settlement provider; or2. A policy of errors and omissions insurance covering legal liability 
+resulting from erroneous acts or failure to act in their capacity as a life settlement provider in the 
+sum of no less than five hundred thousand dollars ($500,000) per occurrence and in the 
+aggregate.(e) For purposes of this section, in addition to any requirements of KRS 304.15-
+700 to 304.15-720:1. Life settlement contract forms entered into pursuant to this section shall be 
+filed and approved by the department; and2. Advertising and marketing materials used by a life 
+settlement provider pursuant to this section shall be filed with the department.(f) Any claim 
+against a life settlement provider from an owner of a policy, the owner's estate, any beneficiary, 
+or any other person with respect to the life settlement contract shall not exceed the face amount 
+of the policy, less the proceeds paid under the life settlement contract, the total amount of 
+premiums paid subsequent to entering into the life settlement contract, and any other reasonable 
+costs or expenses associated with the acquisition or maintenance of the policy that is the subject 
+of a life settlement contract. Any payment of a claim by a life settlement provider shall be made 
+from the funds established pursuant to paragraph (a)2. of this subsection.(g) The department 
+shall conduct periodic market examinations of each life settlement provider regarding the life 
+settlement contracts entered into pursuant to this section in accordance with KRS 304.15-
+705.(4) Nothing in this section shall be the exclusive method for a life insurance policy to be 
+excluded as a resource or asset in determining the applicant's or recipient's eligibility for 
+Medicaid.(5) The commissioner may promulgate administrative regulations to implement this 
+section. 
+KRS 304.15-726 
+ 

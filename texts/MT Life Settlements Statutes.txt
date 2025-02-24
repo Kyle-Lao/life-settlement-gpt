@@ -1,0 +1,463 @@
+State of Montana: Life Settlements Statutes 
+Montana Code → Title 33 Insurance → Chapter 20 Life Insurance → Part 13 - Viatical 
+Settlements 
+Section 33-20-1301 - Short title 
+This part may be cited as the "Viatical Settlement Act". 
+§ 33-20-1301, MCA 
+ 
+Section 33-20-1302 - Definitions 
+As used in this part, unless the context requires otherwise, the following definitions apply: 
+(1) "Financing entity" means an underwriter, placement agent, lender, or any entity, other than a 
+nonaccredited investor, that has a direct ownership in a policy or certificate that is the subject of 
+a viatical settlement contract, whose sole activity related to the transaction is the provision of 
+funds to effect the viatical settlement contract, and who has an agreement in writing with one or 
+more licensed viatical settlement providers.(2) "Related provider trust" means a trust established 
+by a licensed viatical settlement provider or a financing entity for the sole purpose of holding the 
+ownership or beneficial interest in purchased policies in connection with a financing transaction. 
+The trust must have a written agreement with the viatical settlement provider under which the 
+licensed viatical settlement provider is responsible for ensuring compliance with all statutory and 
+regulatory requirements and under which the trust agrees to make all records and files related to 
+viatical settlement transactions available to the commissioner.(3) "Special purpose entity" means 
+a corporation, partnership, trust, limited liability company, or other similar entity formed solely 
+to provide, either directly or indirectly, access to institutional capital markets for a financing 
+entity or licensed viatical settlement provider.(4)(a) "Viatical settlement broker" means an 
+individual who, for a fee, commission, or other consideration:(i) offers or advertises the 
+availability of viatical settlement contracts;(ii) introduces holders of life insurance policies or 
+certificates insuring the lives of individuals with a terminal illness or condition to viatical 
+settlement providers; or(iii) offers or attempts to negotiate viatical settlement contracts between 
+the policyholders or certificate holders and one or more viatical settlement providers.(b) Viatical 
+settlement broker does not mean an attorney, accountant, or financial planner retained to 
+represent the policyholder or certificate holder unless compensation paid to the attorney, 
+accountant, or consultant is paid by the viatical settlement provider.(5)(a) "Viatical settlement 
+contract" means a written agreement establishing the terms under which compensation or 
+anything of value will be paid, when the compensation or value is less than the expected death 
+benefit of the insurance policy or certificate, in return for the viator's assignment, transfer, sale, 
+devise, or bequest of the death benefit or ownership of any portion of the insurance policy or 
+certificate of insurance.(b) The term includes:(i) a contract for a loan or other financing 
+transaction with a viator secured primarily by an individual or group life insurance policy, other 
+than a loan by a life insurance company pursuant to the terms of the life insurance contract, or a 
+loan secured by the cash value of a policy; or(ii) an agreement with a viator to transfer ownership 
+or change the beneficiary designation at a later date regardless of the date that compensation is 
+paid to the viator.(c) The term does not mean a written agreement entered into between a viator 
+
+and a person having an insurable interest in the viator's life.(6)(a) "Viatical settlement provider" 
+means a person who solicits, enters into, or negotiates viatical settlement contracts or offers to 
+enter into or negotiate viatical settlement contracts.(b) Viatical settlement provider does not 
+mean:(i) a bank, savings bank, savings and loan association, credit union, or other licensed 
+lending institution that takes an assignment of a life insurance policy only as collateral for a 
+loan;(ii) an insurer issuing a life insurance policy providing accelerated benefits pursuant to 33-
+20-127 or pursuant to the laws of the state to which the policy was subject when issued;(iii) an 
+individual who enters into a single agreement in a calendar year for the transfer of life insurance 
+policies for any value less than the expected death benefit; or(iv) any corporation, partnership, or 
+partner that purchases a life insurance contract of an employee or retiree of the corporation or of 
+a partner. The settlement made on any contract exempt under this section must be reasonable and 
+subject to the standards imposed on licensees under 33-20-1304.(7)(a) "Viatical settlement 
+purchase agreement" means a contract or agreement entered into by a viatical settlement 
+purchaser with a viatical settlement provider to purchase a life insurance policy or an interest in a 
+life insurance policy for the purpose of deriving an economic benefit.(b) A viatical settlement 
+purchase agreement does not include a viatical settlement contract.(8)(a) "Viatical settlement 
+purchaser" means a person who, for the purpose of deriving an economic benefit:(i) gives 
+consideration for a life insurance policy or an interest in the death benefits of a life insurance 
+policy; or(ii) owns, acquires, or is entitled to a beneficial interest in a trust that owns a viatical 
+settlement contract or that is the beneficiary of a life insurance policy that has been or will be the 
+subject of a viatical settlement contract.(b) A viatical settlement purchaser does not include a 
+licensed viatical settlement provider, a licensed viatical settlement broker, a qualified 
+institutional buyer as defined in 17 CFR 230.144A, a financing entity, a special purpose entity, 
+or a related provider trust.(9)(a) "Viator" means the owner of a life insurance policy or the 
+certificate holder under a group policy who enters or seeks to enter into a viatical settlement 
+contract.(b) The term does not include a licensed viatical settlement provider, a licensed viatical 
+settlement broker, a qualified institutional buyer as defined in 17 CFR 230.144A, a financing 
+entity, a special purpose entity, or a related provider trust. 
+§ 33-20-1302, MCA 
+Section 33-20-1303 - License requirements(1) A person may not act as or purport to be a viatical 
+settlement provider unless licensed as a viatical settlement provider under this part.(2)(a) Except 
+as provided in subsections (2)(b) and (2)(c), an individual may not broker, solicit, or negotiate 
+viatical settlement contracts between a viator and one or more viatical settlement providers or 
+otherwise act on behalf of a viator without first having obtained a license as a viatical settlement 
+broker from the commissioner. An applicant for a viatical settlement broker's license 
+shall:(i) attend required viatical settlement broker training and pass a viatical settlement broker 
+examination designated by the commissioner by rule; and(ii) pay a fee for an original viatical 
+settlement broker's license pursuant to 33-2-708. The fees for license renewal and lapsed license 
+reinstatement for a viatical settlement broker's license are as provided in 33-2-708.(b) A resident 
+or nonresident insurance producer must be considered to meet the licensing requirements of a 
+viatical settlement broker and must be permitted to operate as a viatical settlement broker if the 
+insurance producer is licensed as an insurance producer with a life insurance line of authority in 
+this state or in the insurance producer's home state and has been licensed for at least 1 year. In 
+addition:(i) not later than 30 days from the first day of operating as a viatical settlement broker, 
+the insurance producer shall notify the commissioner, on a form or in a manner prescribed by the 
+
+commissioner, that the insurance producer is acting as a viatical settlement broker and shall pay a 
+fee pursuant to 33-2-708(1)(b)(viii). The notification must include an acknowledgment by the 
+insurance producer that the insurance producer will operate as a viatical settlement broker in 
+accordance with this part.(ii) regardless of the manner in which the insurance producer is 
+compensated, the insurance producer must be considered to represent only the viator and owes a 
+fiduciary duty to the viator to act according to the viator's instructions and in the best interests of 
+the viator.(c) If requested by the commissioner, a life insurance producer acting as a viatical 
+settlement broker under this subsection (2) who has previously complied with subsection 
+(2)(b)(i) shall report to the commissioner when renewing a resident or nonresident life insurance 
+producer's license regarding the life insurance producer's intent to continue to act as a viatical 
+settlement broker. The statement regarding an intent to continue acting as a viatical settlement 
+broker must be made on the life insurance producer's license renewal form. An individual who 
+makes a statement pursuant to this subsection (2)(c) may not be charged an additional 
+fee.(d) The provisions of subsections (2)(a) and (2)(b) do not prohibit an individual licensed as 
+an attorney, certified public accountant, or certified financial planner who is accredited by a 
+nationally recognized accreditation agency, who is retained to represent the viator, and whose 
+compensation is not paid directly or indirectly by the viatical settlement provider from 
+negotiating viatical settlement contracts without having to obtain a license as a viatical 
+settlement broker.(3) Regardless of the manner in which a viatical settlement broker or insurance 
+producer is compensated, the viatical settlement broker or insurance producer must be 
+considered to represent only the viator and the viatical settlement broker or insurance producer 
+owes a fiduciary duty to the viator to act according to the viator's instructions and in the best 
+interests of the viator.(4)(a) To obtain a license to transact business as a viatical settlement 
+provider or as a viatical settlement broker, if required to obtain a viatical settlement broker's 
+license under the provisions of subsection (2)(a), an applicant shall apply for the license in a 
+form approved by the commissioner and shall pay the fee required for the application.(b) The 
+commissioner may request biographical, organizational, locational, financial, employment, and 
+other information on the application form that the commissioner determines to be relevant to the 
+evaluation of applications and to the granting of the license. The commissioner may require a 
+statement of the business plan or plan of operation of the applicant. The commissioner shall 
+require an applicant for a viatical settlement provider license to file with the application for the 
+commissioner's approval a copy of the viatical settlement contract that the applicant intends to 
+use in business under the license.(c) If an applicant is a corporation, the corporation must 
+be:(i) incorporated or organized under the laws of this state; or(ii) a foreign corporation 
+authorized to transact business in this state.(d) If the applicant is a partnership, the partnership 
+must be organized under the laws of this state.(e) If the applicant is a business entity other than a 
+corporation or partnership, the business entity must be organized under the laws of this 
+state.(5)(a) An individual licensed as a viatical settlement broker must meet the continuing 
+education requirements in 33-17-1203.(b) The hours of continuing education required under 
+subsection (5)(a) must be in the subjects of life insurance, viaticals, or ethics.(c) For an 
+individual licensed as a viatical settlement broker, the 24-month period for meeting the 
+continuing education requirements must correlate with the broker's license renewal 
+period.(d) The viatical settlement broker's license of an individual who fails to comply with this 
+continuing education requirement and who has not been granted an extension of time to comply 
+in accordance with 33-17-1203(2) must be terminated and promptly surrendered to the 
+commissioner. 
+
+§ 33-20-1303, MCA 
+ 
+Section 33-20-1304 - Issuance of license(1) The commissioner may issue a license to the 
+applicant if the commissioner determines that the applicant:(a) has satisfied all of the 
+requirements for the license for which an application is made;(b) has not engaged in conduct that 
+would authorize the commissioner to refuse to issue a license under this part; and(c) is 
+financially responsible and has a good business reputation.(2) If the commissioner denies an 
+application, the commissioner shall inform the applicant and state the grounds for the 
+denial.(3) An individual may act as a viatical settlement provider or viatical settlement broker 
+under the authority of the license of a firm or of a corporate viatical settlement provider whether 
+or not the individual holds a license as a viatical settlement provider if:(a) the individual is a 
+member or employee of the firm or is an employee, officer, or director of the corporation; 
+and(b) the individual is designated by the firm or corporation on its license application or on a 
+form that amends or supplements the application as being authorized to act as a viatical 
+settlement provider under the authority of the license. 
+§ 33-20-1304, MCA 
+Section 33-20-1305 - Expiration of license(1) A license issued under this part expires on its 
+expiration date unless it is renewed on or before its expiration date.(2) Unless the commissioner 
+designates another date, a license expires on the last day of the month in which the second 
+anniversary of the initial issuance date of the license occurs and on the last day of the month of 
+the second anniversary following each renewal. 
+§ 33-20-1305, MCA 
+Section 33-20-1306 - Notification by licensee of material change affecting qualification for 
+license 
+A licensee shall immediately notify the commissioner of any material change in 
+ownership or control or in any other matter affecting the qualification of the licensee 
+for the license in this state, including keeping the commissioner informed about 
+personnel and address changes. 
+§ 33-20-1306, MCA 
+ 
+Section 33-20-1307 - Suspension - revocation - refusal to issue or renew license(1) The 
+commissioner may suspend, revoke, refuse to issue, or refuse to renew a license if the 
+commissioner determines that the licensee or applicant for a license is untrustworthy or 
+incompetent to act as a licensee or is guilty of one or more of the following:(a) dishonesty, fraud, 
+or gross negligence in the conduct of business as a licensee;(b) a pattern of unreasonable 
+payments to policyholders or certificate holders;(c) falsification of an application for the license 
+or renewal of the license or misrepresentation or engagement in any other dishonest act in 
+relation to the application;(d) conduct resulting in a conviction of a felony under the laws of any 
+state or of the United States;(e) conviction of any crime, an essential element of which is 
+dishonesty or fraud, under the laws of any state or of the United States;(f) refusal to renew or 
+cancellation, revocation, or suspension of authority to transact insurance or business as a viatical 
+
+settlement provider, viatical settlement broker, or similar entity in another state;(g) failure to pay 
+a civil penalty imposed by final order of the commissioner or to carry out terms of probation set 
+by the commissioner;(h) refusal by a licensee to be examined or to produce accounts, records, or 
+files for examination, refusal by any officers or employees to give information with respect to the 
+affairs of the licensee, or refusal to perform any other legal obligation as to the examination, 
+when required by the commissioner;(i) affiliation with or under the same general management or 
+interlocking directorate or ownership as another viatical settlement provider, viatical settlement 
+broker, or insurer, any of which unlawfully transacts business in this state;(j) failure at any time 
+to meet any qualification for which issuance of the license could have been refused had the 
+failure then existed and been known to the commissioner; or(k) violation of any rule or order of 
+the commissioner or any provision of Montana law.(2) The commissioner may suspend or refuse 
+to renew a license immediately and without hearing if the commissioner determines that one or 
+both of the following circumstances exist:(a) the licensee is insolvent;(b) the financial condition 
+or business practices of the licensee otherwise pose an imminent threat to the public health, 
+safety, or welfare of the residents of this state.(3) The commissioner may refuse to issue a license 
+in the name of any business entity if the commissioner believes that any member, officer, 
+employee, stockholder, or partner who may materially influence the conduct of the applicant 
+does not meet the standards of this section.(4) A viatical settlement provider or viatical 
+settlement broker holding a license that has not been renewed or that has been revoked shall 
+surrender the license to the commissioner at the commissioner's request.(5) The commissioner 
+may take any other administrative action authorized under Montana law in addition to or in lieu 
+of the actions authorized under this part. 
+§ 33-20-1307, MCA 
+Section 33-20-1308 - Terms of contract(1) A viatical settlement contract must be in writing. A 
+viatical settlement provider shall establish in the contract the terms under which the viatical 
+settlement provider will pay compensation or anything of value in return for the policyholder's or 
+certificate holder's assignment, transfer, sale, devise, or bequest of the death benefit or ownership 
+of the insurance policy or certificate to the viatical settlement provider.(2) A viatical settlement 
+provider may not use a viatical settlement contract in this state unless the viatical settlement 
+provider has filed the contract form with the commissioner and the commissioner has approved 
+the contract form according to the provisions set forth in 33-1-501. The commissioner shall 
+disapprove a viatical settlement contract form if, in the commissioner's judgment, the contract or 
+any provision of the contract is unreasonable, contrary to the interests of the public, or otherwise 
+misleading or unfair to the policyholder or certificate holder.(3) Each viatical settlement contract 
+entered into in this state must contain a provision enabling the policyholder or certificate holder 
+to rescind the contract not later than the 30th day after the date on which the contract is executed 
+by all parties or not later than the 15th day after the policyholder or certificate holder receives the 
+viatical settlement proceeds, whichever is the longer period. In order to rescind a contract, a 
+policyholder or certificate holder who has received the proceeds shall return them to the viatical 
+settlement provider or financing entity.(4) If a viatical settlement provider enters into a viatical 
+settlement that allows the viator to retain an interest in the policy, the viatical settlement contract 
+must contain all of the following provisions:(a) that the viatical settlement provider shall effect 
+the transfer of the amount of the death benefit only to the extent or portion of the amount 
+viaticated. Benefits in excess of the amount viaticated must be paid directly to the viator's 
+beneficiary by the insurance company.(b) that the premiums to be paid by the viatical settlement 
+
+provider and the viator will be apportioned unless the viatical settlement contract specifies that 
+all premiums must be paid by the viatical settlement provider. The contract may also require that 
+the viator reimburse the viatical settlement provider for the premiums attributable to the retained 
+interest.(c) that the viatical settlement provider shall, upon acknowledgment of the perfection of 
+the transfer, either:(i) advise the insured in writing that the insurance company has confirmed the 
+viator's interest in the policy; or(ii) provide the insured with a copy of the instrument provided by 
+the insurance company to the viatical settlement provider that acknowledges the viator's interest 
+in the policy. 
+§ 33-20-1308, MCA 
+Section 33-20-1309 - Annual report by provider 
+Unless the commissioner grants a time extension, a viatical settlement provider shall file a report 
+for the preceding calendar year with the commissioner on or before March 1 of each year. The 
+report must be in the form and must contain the information that the commissioner prescribes. 
+The report must be verified as follows: 
+(1) if the viatical settlement provider is a corporation, by at least two principal officers of the 
+viatical settlement provider;(2) if the viatical settlement provider is a partnership, by two 
+partners; or(3) if the viatical settlement provider is not a corporation or a partnership, by the 
+provider's owner and manager. 
+§ 33-20-1309, MCA 
+Section 33-20-1310 - Examination of business and practices of licensee or applicant - 
+maintenance of business records(1) The commissioner may examine the business and practices 
+of any licensee or applicant for a license when the commissioner determines an examination to 
+be necessary. The commissioner may order a licensee or applicant to produce any records, 
+books, files, or other information reasonably necessary to ascertain whether the licensee or 
+applicant is acting or has acted in violation of the law or contrary to the interests of the public. 
+The licensee or applicant shall pay the expenses incurred in conducting an examination.(2) A 
+viatical settlement provider shall maintain records of all transactions of viatical settlement 
+contracts of the viatical settlement provider and shall make the records available to the 
+commissioner for inspection during reasonable business hours. The records must be maintained 
+for a period of not less than 5 years from the date of their creation.(3) The commissioner may at 
+any time require a licensee to fully disclose the identity of all stockholders, partners, officers, and 
+employees.(4) The names of and individual identification data for all policyholders and 
+certificate holders who have entered viatical settlement contracts with viatical settlement 
+providers are confidential and may not be disclosed except in cases in which the commissioner 
+determines that the merits of public disclosure exceed the demands of individual privacy. 
+§ 33-20-1310, MCA 
+ 
+Section 33-20-1311 - Disclosure of information to policyholder 
+A viatical settlement provider shall disclose the information specified in this section to the 
+policyholder or certificate holder entering the viatical settlement contract prior to the date on 
+which the viatical settlement contract is signed by all parties. The disclosure must be in the form 
+approved by the commissioner. The information must include the following: 
+
+(1) possible alternatives to viatical settlement contracts for persons with terminal illnesses or 
+conditions, including but not limited to accelerated benefits offered by the issuer of the life 
+insurance policy;(2) the fact that some or all of the proceeds of the viatical settlement may be 
+taxable and that assistance should be sought from a personal tax adviser. Viatical settlement 
+brokers, viatical settlement providers, or their respective employees or agents may not act as 
+personal tax advisers for purposes of this disclosure requirement.(3) the fact that the viatical 
+settlement could be subject to the claims of creditors;(4) the fact that receipt of a viatical 
+settlement may adversely affect the recipient's eligibility for medicaid or other government 
+benefits or entitlement and that advice should be obtained from the appropriate agencies;(5) the 
+right of a policyholder or certificate holder to rescind a viatical settlement contract as provided 
+in 33-20-1308. The disclosure must state the deadlines for rescission and the return of proceeds 
+received.(6) the date by which the funds will be available to the policyholder or certificate holder 
+and the source of the funds; and(7) the fact that the viatical settlement contract is void if the 
+viatical settlement provider or viatical settlement broker fails to tender payment of the proceeds 
+as provided in the viatical settlement contract. 
+§ 33-20-1311, MCA 
+Section 33-20-1312 - Conditions precedent to entering into viatical settlement contract(1) Before 
+a viatical settlement provider enters into a viatical settlement contract with a policyholder or 
+certificate holder who has a terminal illness or condition, the viatical settlement provider shall 
+first obtain the following:(a) a written statement from an attending physician that the 
+policyholder or certificate holder is of sound mind and not under constraint or undue influence; 
+and(b) a witnessed document in which the policyholder or certificate holder:(i) consents to the 
+viatical settlement contract;(ii) acknowledges that the illness or condition is 
+terminal;(iii) represents that the policyholder or certificate holder has a full and complete 
+understanding of the viatical settlement contract;(iv) confirms that the policyholder or certificate 
+holder has a full and complete understanding of the benefits of the life insurance 
+policy;(v) releases the medical records of the policyholder or certificate holder relating to the 
+terminal illness or condition; and(vi) acknowledges that the policyholder or certificate holder has 
+entered into the viatical settlement contract freely and voluntarily.(2) A viatical settlement 
+provider may enter a viatical settlement contract only after the individual whose life would be 
+the subject of the viatical settlement contract is determined to have a terminal illness or 
+condition, as follows:(a) if the individual is the policyholder or certificate holder, an attending 
+physician of the policyholder or certificate holder shall make the determination; or(b) if the 
+individual is a person other than the policyholder or certificate holder, an attending physician of 
+the individual or of the policyholder or certificate holder shall make the determination.(3) For 
+purposes of this section, "attending physician" means a medical doctor, a doctor of osteopathy, 
+or a naturopathic physician licensed in this state, who is primarily responsible for the treatment 
+or a portion of treatment of the individual whose life would be the subject of the viatical 
+settlement contract. 
+§ 33-20-1312, MCA 
+Section 33-20-1313 - Requirements for entering into viatical settlement contract - prohibitions on 
+finder's fee - solicitations - discrimination - false or misleading advertising or solicitation - 
+misuse of confidential information(1) A person may not enter into a viatical settlement contract 
+within a 2-year period from the date of issuance of an insurance policy or certificate unless the 
+
+person certifies to the viatical settlement provider that one or more of the following conditions 
+have been met within the 2-year period:(a)(i) the policy or certificate was issued upon the 
+person's exercise of conversion rights arising out of a group or individual policy or certificate 
+and the total of the time covered under the conversion policy or certificate plus the time covered 
+by the policy or certificate prior to the conversion equal at least 24 months; and(ii) the time 
+covered under a group policy or certificate was calculated without regard to any change in 
+insurance carriers if the coverage was continuous and under the same group sponsorship; 
+or(b) the person submits independent evidence to the viatical settlement provider that one or 
+more of the following conditions have been met within the 2-year period:(i) the person is 
+terminally ill or chronically ill; or(ii) the person has disposed of the person's ownership interest 
+in a closely held corporation pursuant to the terms of a buyout agreement or similar agreement 
+that was in effect at the time that the insurance policy or certificate was issued.(2) Copies of the 
+certification and independent evidence required under subsection (1) must be submitted by the 
+viatical settlement provider to the insurer when the viatical settlement provider submits a request 
+to the insurer for verification of coverage. The copies must be accompanied by a letter of 
+attestation from the viatical settlement provider that the copies are true and correct copies of the 
+documents received by the viatical settlement provider.(3) A licensee may not pay or offer to pay 
+a finder's fee, commission, or other compensation to a person described in this subsection (3) in 
+connection with a policy insuring the life of an individual with a terminal illness or condition. 
+The prohibition under this subsection (3) applies with respect to payments or offers of payment 
+to:(a) the physician, attorney, or accountant of the policyholder, the certificate holder, or the 
+insured individual;(b) any person other than a physician, attorney, or accountant described in 
+subsection (3)(a) who provides medical, legal, or financial planning services to the policyholder, 
+to the certificate holder, or to the insured individual when the individual is other than the 
+policyholder or certificate holder; or(c) any person other than one described in subsection (3)(a) 
+or (3)(b) who acts as an agent of the policyholder, certificate holder, or insured individual.(4) A 
+licensee may not solicit an investor who could influence the treatment of the illness or condition 
+of the individual whose life would be the subject of a viatical settlement contract.(5) All 
+information solicited or obtained from a policyholder or certificate holder by a licensee is subject 
+to the confidentiality requirements set forth in Title 33, chapter 19. For purposes of this 
+subsection, a licensee must be considered an insurance-support organization as defined in 33-19-
+104.(6) A licensee may not discriminate in the making of a viatical settlement contract on the 
+basis of race, age, sex, national origin, creed, religion, occupation, marital or family status, or 
+sexual orientation and may not discriminate between persons who have dependents and persons 
+who do not have dependents.(7) A person licensed pursuant to 33-20-1304 may not engage in 
+any false or misleading advertising, solicitation, or practice as described in 33-18-203.(8) A 
+person licensed pursuant to 33-20-1304 may not sell another product of insurance to the contract 
+holder unless approval is obtained from the commissioner. 
+§ 33-20-1313, MCA 
+ 
+Section 33-20-1314 - Payment to escrow or trust account - lump-sum payment(1) Within 3 
+business days after receipt of documents from the policyholder or certificate holder effecting the 
+transfer of the insurance policy or certificate, the viatical settlement provider shall pay the 
+proceeds of the settlement to an escrow or trust account managed by a trustee or escrow agent in 
+a bank approved by the commissioner, pending acknowledgment of the transfer by the issuer of 
+
+the life insurance policy. The trustee or escrow agent shall transfer the proceeds due to the 
+policyholder or certificate holder immediately upon receipt of acknowledgment of the transfer 
+from the insurer.(2) A viatical settlement provider shall make payment of the proceeds of a 
+viatical settlement contract in a lump sum except as provided in this subsection. A viatical 
+settlement provider may not retain any portion of the proceeds. A viatical settlement provider 
+may make installment payments only if the viatical settlement provider has purchased an annuity 
+issued by an authorized insurer or a similar financial instrument issued by a financial institution 
+authorized to engage in the business of a financial institution in this state.(3) Failure by the 
+viatical settlement provider to tender the viatical settlement by the date disclosed to the 
+policyholder or certificate holder renders the contract void. 
+§ 33-20-1314, MCA 
+ 
+Section 33-20-1315 - Rules - standards - bond 
+The commissioner may, in accordance with the provisions of 33-1-313, adopt rules for the 
+purpose of carrying out this part. In addition, the commissioner: 
+(1) may establish standards for evaluating reasonableness of payments under viatical settlement 
+contracts for insured individuals who are terminally ill or chronically ill. The authority includes 
+but is not limited to regulation of discount rates used to determine the amount paid in exchange 
+for assignment, transfer, sale, devise, or bequest of a benefit under a life insurance policy. For 
+the purpose of the standards, the commissioner shall consider payments made in regional and 
+national viatical settlement markets to the extent that this information is available, as well as 
+model standards developed by the national association of insurance commissioners. When the 
+insured is not terminally ill or chronically ill, the commissioner may not establish standards for 
+evaluating the reasonableness of payments, except that a viatical settlement provider shall pay an 
+amount greater than the greater of the cash surrender value or the accelerated death benefit then 
+available.(2) shall require a bond or other mechanism for financial accountability of viatical 
+settlement providers and viatical settlement brokers; and(3) shall adopt rules to 
+establish:(a) trade practice standards for the purpose of regulating advertising and solicitation of 
+viatical settlement contracts;(b) fees that are commensurate with fees charged pursuant to 33-2-
+708; and(c) the continuing education program provided for in 33-20-1303(5). 
+§ 33-20-1315, MCA 
+Section 33-20-1316 - Service of process(1) For viatical settlement providers, the provisions of 
+Title 33, chapter 1, part 6, apply.(2) For viatical settlement brokers, service of process must be 
+made pursuant to 35-7-113 or in any other manner permitted by law. 
+§ 33-20-1316, MCA 
+ 
+Section 33-20-1317 - Disclosure of information to viatical settlement purchasers(1) A viatical 
+settlement provider shall disclose the information specified in this section to a viatical settlement 
+purchaser prior to the date on which the parties sign the viatical settlement purchase 
+agreement.(2) The viatical settlement purchaser shall date and sign the information disclosure. 
+The viatical settlement provider shall provide a copy of the information disclosure to the viatical 
+settlement purchaser.(3) The information disclosure must include the following:(a) that the 
+
+viatical settlement purchaser will not receive payment until the insured dies;(b) that the actual 
+annual rate of return on a viatical settlement purchase agreement is dependent upon an accurate 
+projection of the insured's life expectancy and the actual date of the insured's death and that an 
+annual guaranteed rate of return is not determinable;(c) that the viatical insurance contract is not 
+a liquid purchase since it is impossible to predict the exact timing of its maturity, that the funds 
+are probably not available until the death of the insured, and that there is not an established 
+secondary market for the resale of viatical settlement products by the viatical settlement 
+purchaser;(d) that the viatical settlement purchaser may lose all benefits or may receive 
+substantially reduced benefits if the insurer goes out of business during the term of the viatical 
+settlement investment;(e)(i) that the viatical settlement purchaser is responsible for payment of 
+the insurance premium or other costs related to the policy, if required by the terms of the viatical 
+purchase agreement, and that these payments may reduce the viatical settlement purchaser's 
+return and may continue beyond the insured's projected life expectancy; and(ii) if a party other 
+than the viatical settlement purchaser is responsible for the payment, that the name of that party 
+must also be disclosed;(f) the amount of the premium that a purchaser is required to pay, if 
+applicable;(g) that the viatical settlement purchaser may be responsible for payment of the 
+insurance premium or other costs related to the policy if the insured returns to health;(h) the 
+amount of any fees or other expenses to be charged to the viatical settlement 
+purchaser;(i) whether or not the viatical settlement purchaser is entitled to a refund of all or part 
+of the investment under the viatical settlement purchase agreement if the policy is later 
+determined to be void;(j) that group policies:(i) may contain limitations on conversion 
+rights;(ii) may require additional premiums to be paid if the group policy is converted; 
+and(iii) may be terminated and replaced by another group policy, with benefits under the new 
+policy that may be substantially less than those in the original coverage;(k) for group policies, 
+the name of the party responsible for the payment of any additional premiums;(l) that there are 
+risks associated with policy contestability, including the risk that the viatical settlement 
+purchaser may not have a claim or may have only a partial claim to death benefits if the insurer 
+rescinds the policy within the contestability period;(m) whether or not the viatical settlement 
+purchaser will be the beneficiary or owner of the policy and, if the viatical settlement purchaser 
+is the beneficiary, the special risks associated with beneficiary status, including the risk that the 
+beneficiary may be changed;(n) a description of:(i) the experience and qualifications of the 
+person who has determined the life expectancy of the insured, such as in-house staff, 
+independent physicians, or specialty firms that weigh medical and actuarial data;(ii) the 
+information on which the projection of life expectancy is based; and(iii) the relationship of the 
+person who has made the determination of life expectancy to the viatical settlement provider, if 
+any;(o) all of the life expectancies obtained in the process of determining the price paid to the 
+policyholder or certificate holder;(p) a description and amount of any loan or other encumbrance 
+against or in connection with the policy; and(q) that the viatical settlement purchaser is 
+encouraged to consult with an attorney, accountant, or financial planner who is not affiliated with 
+the viatical settlement broker or viatical settlement provider prior to purchase. 
+§ 33-20-1317, MCA 
+Section 33-20-1318 - Conflict of laws(1) If there is more than one owner on a single life 
+insurance policy and the owners are residents of different states, the viatical settlement contract 
+is governed by the law of the state in which the owner having the largest percentage ownership 
+resides or, if the owners hold equal ownership, the state of residence of one owner agreed upon 
+
+in writing by all of the owners. The law of the state of the insured governs if equal owners fail to 
+agree in writing upon a state of residence for jurisdictional purposes.(2)(a) A viatical settlement 
+provider from this state who enters into a viatical settlement contract with a viator who is a 
+resident of another state that has enacted statutes or adopted regulations governing viatical 
+settlement contracts is governed in the effectuation of that viatical settlement contract by the 
+statutes and regulations of the viator's state of residence.(b) A viatical settlement provider from 
+this state who enters into a viatical settlement contract with a viator who is a resident of another 
+state that has not enacted statutes or adopted regulations governing viatical settlement contracts 
+is governed in the effectuation of that viatical settlement contract by the laws of this state. The 
+viatical settlement provider shall give the viator notice that this state regulates the transaction 
+into which the viator is entering. The viatical settlement provider shall maintain all records 
+required by this state and use forms approved in this state.(3) If there is a conflict in the laws that 
+apply to a viator and a viatical settlement purchaser in any individual transaction, the laws of the 
+state that apply to the viator take precedence and the viatical settlement provider shall comply 
+with those laws. 
+§ 33-20-1318, MCA 
+ 

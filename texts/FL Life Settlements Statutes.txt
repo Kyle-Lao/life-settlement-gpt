@@ -1,0 +1,721 @@
+Florida 
+Section 626.991 - Short title 
+This act may be referred to as the "Viatical Settlement Act." 
+Fla. Stat. § 626.991 
+ 
+Section 626.9911 - Definitions 
+As used in this act, the term: 
+(1) "Financing entity" means an underwriter, placement agent, lender, purchaser of securities, or 
+purchaser of a policy or certificate from a viatical settlement provider, credit enhancer, or any entity 
+that has direct ownership in a policy or certificate that is the subject of a viatical settlement 
+contract, but whose principal activity related to the transaction is providing funds or credit 
+enhancement to effect the viatical settlement or the purchase of one or more viaticated policies and 
+who has an agreement in writing with one or more licensed viatical settlement providers to finance 
+the acquisition of viatical settlement contracts. The term does not include a nonaccredited investor 
+or other natural person. A financing entity may not enter into a viatical settlement 
+contract.(2) "Fraudulent viatical settlement act" means an act or omission committed by a person 
+who knowingly, or with intent to defraud for the purpose of depriving another of property or for 
+pecuniary gain, commits or allows an employee or agent to commit any of the following 
+acts: (a) Presenting, causing to be presented, or preparing with the knowledge or belief that it will be 
+presented to or by another person, false or concealed material information as part of, in support of, 
+or concerning a fact material to:1. An application for the issuance of a viatical settlement contract or 
+a life insurance policy;2. The underwriting of a viatical settlement contract or a life insurance 
+policy;3. A claim for payment or benefit pursuant to a viatical settlement contract or a life insurance 
+policy;4. Premiums paid on a life insurance policy;5. Payments and changes in ownership or 
+beneficiary made in accordance with the terms of a viatical settlement contract or a life insurance 
+policy;6. The reinstatement or conversion of a life insurance policy;7. The solicitation, offer, 
+effectuation, or sale of a viatical settlement contract or a life insurance policy;8. The issuance of 
+written evidence of a viatical settlement contract or a life insurance policy; or9. A financing 
+transaction for a viatical settlement contract or life insurance policy.(b) Employing a plan, financial 
+structure, device, scheme, or artifice relating to viaticated policies for the purpose of perpetrating 
+fraud.(c) Engaging in a stranger-originated life insurance practice.(d) Failing to disclose, upon 
+request by an insurer, that the prospective insured has undergone a life expectancy evaluation by a 
+person other than the insurer or its authorized representatives in connection with the issuance of the 
+life insurance policy.(e) Perpetuating a fraud or preventing the detection of a fraud by: 1. Removing, 
+concealing, altering, destroying, or sequestering from the office the assets or records of a licensee 
+or other person engaged in the business of viatical settlements;2. Misrepresenting or concealing the 
+financial condition of a licensee, financing entity, insurer, or other person;3. Transacting in the 
+business of viatical settlements in violation of laws requiring a license, certificate of authority, or 
+other legal authority to transact such business; or4. Filing with the office or the equivalent chief 
+insurance regulatory official of another jurisdiction a document that contains false information or 
+conceals information about a material fact from the office or other regulatory 
+official.(f) Embezzlement, theft, misappropriation, or conversion of moneys, funds, premiums, 
+
+credits, or other property of a viatical settlement provider, insurer, insured, viator, insurance 
+policyowner, or other person engaged in the business of viatical settlements or life 
+insurance.(g) Entering into, negotiating, brokering, or otherwise dealing in a viatical settlement 
+contract, the subject of which is a life insurance policy that was obtained based on information that 
+was falsified or concealed for the purpose of defrauding the policy's issuer, viatical settlement 
+provider, or viator.(h) Facilitating the viator's change of residency state to avoid the provisions of this 
+act.(i) Facilitating or causing the creation of a trust with a non-Florida or other nonresident entity for 
+the purpose of owning a life insurance policy covering a Florida resident to avoid the provisions of 
+this act.(j) Facilitating or causing the transfer of the ownership of an insurance policy covering a 
+Florida resident to a trust with a situs outside this state or to another nonresident entity to avoid the 
+provisions of this act.(k) Applying for or obtaining a loan that is secured directly or indirectly by an 
+interest in a life insurance policy with intent to defraud, for the purpose of depriving another of 
+property or for pecuniary gain.(l) Attempting to commit, assisting, aiding, or abetting in the 
+commission of, or conspiring to commit, an act or omission specified in this 
+subsection.(3) "Independent third-party trustee or escrow agent" means an attorney, certified public 
+accountant, financial institution, or other person providing escrow services under the authority of a 
+regulatory body. The term does not include any person associated, affiliated, or under common 
+control with a viatical settlement provider or viatical settlement broker.(4) "Life expectancy" means 
+an opinion or evaluation as to how long a particular person is to live, or relating to such person's 
+expected demise.(5) "Life expectancy provider" means a person who determines, or holds himself or 
+herself out as determining, life expectancies or mortality ratings used to determine life 
+expectancies: (a) On behalf of a viatical settlement provider, viatical settlement broker, life agent, or 
+person engaged in the business of viatical settlements;(b) In connection with a viatical settlement 
+investment as defined in s. 517.021; or(c) On residents of this state in connection with a viatical 
+settlement contract or viatical settlement investment.(6) "Person" has the meaning specified in 
+s. 1.01.(7) "Related form" means any form, created by or on behalf of a licensee, which a viator is 
+required to sign or initial. The forms include, but are not limited to, a power of attorney, a release of 
+medical information form, a suitability questionnaire, a disclosure document, or any addendum, 
+schedule, or amendment to a viatical settlement contract considered necessary by a provider to 
+effectuate a viatical settlement transaction.(8) "Related provider trust" means a titling trust or other 
+trust established by a licensed viatical settlement provider or financing entity for the sole purpose of 
+holding the ownership or beneficial interest in purchased policies in connection with a financing 
+transaction. The trust must have a written agreement with a licensed viatical settlement provider or 
+financing entity under which the licensed viatical settlement provider or financing entity is 
+responsible for insuring compliance with all statutory and regulatory requirements and under which 
+the trust agrees to make all records and files relating to viatical settlement transactions available to 
+the office as if those records and files were maintained directly by the licensed viatical settlement 
+provider. This term does not include an independent third-party trustee or escrow agent or a trust 
+that does not enter into agreements with a viator. A related provider trust shall be subject to all 
+provisions of this act that apply to the viatical settlement provider who established the related 
+provider trust, except s. 626.9912, which shall not be applicable. A viatical settlement provider may 
+establish no more than one related provider trust, and the sole trustee of such related provider trust 
+shall be the viatical settlement provider licensed under s. 626.9912. The name of the licensed 
+viatical settlement provider shall be included within the name of the related provider 
+trust.(9) "Stranger-originated life insurance practice" means an act, practice, arrangement, or 
+agreement to initiate a life insurance policy for the benefit of a third-party investor who, at the time of 
+policy origination, has no insurable interest in the insured. Stranger-originated life insurance 
+
+practices include, but are not limited to: (a) The purchase of a life insurance policy with resources or 
+guarantees from or through a person who, at the time of such policy's inception, could not lawfully 
+initiate the policy and the execution of a verbal or written arrangement or agreement to directly or 
+indirectly transfer the ownership of such policy or policy benefits to a third party.(b) The creation of a 
+trust or other entity that has the appearance of an insurable interest in order to initiate policies for 
+investors, in violation of insurable interest laws and the prohibition against wagering on 
+life.(10) "Special purpose entity" means an entity established by a licensed viatical settlement 
+provider or by a financing entity, which may be a corporation, partnership, trust, limited liability 
+company, or other similar entity formed solely to provide, either directly or indirectly, access to 
+institutional capital markets to a viatical settlement provider or financing entity. A special purpose 
+entity may not obtain capital from any natural person or entity with less than $50 million in assets 
+and may not enter into a viatical settlement contract.(11) "Viatical settlement broker" means a 
+person who, on behalf of a viator and for a fee, commission, or other valuable consideration, offers 
+or attempts to negotiate viatical settlement contracts between a viator resident in this state and one 
+or more viatical settlement providers. Notwithstanding the manner in which the viatical settlement 
+broker is compensated, a viatical settlement broker is deemed to represent only the viator and owes 
+a fiduciary duty to the viator to act according to the viator's instructions and in the best interest of 
+the viator. The term does not include an attorney, licensed Certified Public Accountant, or 
+investment adviser lawfully registered under chapter 517, who is retained to represent the viator and 
+whose compensation is paid directly by or at the direction and on behalf of the viator.(12) "Viatical 
+settlement contract" means a written agreement entered into between a viatical settlement 
+provider, or its related provider trust, and a viator. The viatical settlement contract includes an 
+agreement to transfer ownership or change the beneficiary designation of a life insurance policy at a 
+later date, regardless of the date that compensation is paid to the viator. The agreement must 
+establish the terms under which the viatical settlement provider will pay compensation or anything 
+of value, which compensation or value is less than the expected death benefit of the insurance 
+policy or certificate, in return for the viator's assignment, transfer, sale, devise, or bequest of the 
+death benefit or ownership of all or a portion of the insurance policy or certificate of insurance to the 
+viatical settlement provider. A viatical settlement contract also includes a contract for a loan or 
+other financial transaction secured primarily by an individual or group life insurance policy, other 
+than a loan by a life insurance company pursuant to the terms of the life insurance contract, or a 
+loan secured by the cash value of a policy.(13) "Viatical settlement investment" has the same 
+meaning as specified in s. 517.021.(14) "Viatical settlement provider" means a person who, in this 
+state, from this state, or with a resident of this state, effectuates a viatical settlement contract. The 
+term does not include: (a) Any bank, savings bank, savings and loan association, credit union, or 
+other licensed lending institution that takes an assignment of a life insurance policy as collateral for 
+a loan.(b) A life and health insurer that has lawfully issued a life insurance policy that provides 
+accelerated benefits to terminally ill policyholders or certificateholders.(c) Any natural person who 
+enters into no more than one viatical settlement contract with a viator in 1 calendar year, unless 
+such natural person has previously been licensed under this act or is currently licensed under this 
+act.(d) A trust that meets the definition of a "related provider trust."(e) A viator in this state.(f) A 
+financing entity.(15) "Viaticated policy" means a life insurance policy, or a certificate under a group 
+policy, which is the subject of a viatical settlement contract.(16) "Viator" means the owner of a life 
+insurance policy or a certificateholder under a group policy, which policy is not a previously 
+viaticated policy, who enters or seeks to enter into a viatical settlement contract. This term does not 
+include a viatical settlement provider or any person acquiring a policy or interest in a policy from a 
+viatical settlement provider, nor does it include an independent third-party trustee or escrow agent. 
+
+Fla. Stat. § 626.9911 
+ 
+Section 626.9912 - Viatical settlement provider license required; application for license 
+(1) A person may not perform the functions of a viatical settlement provider as defined in this act or 
+enter into or solicit a viatical settlement contract without first having obtained a license from the 
+office.(2) Application for a viatical settlement provider license must be made to the office by the 
+applicant on a form prescribed by the commission, under oath and signed by the applicant. The 
+application must be accompanied by a fee of $500. If the applicant is a corporation, the application 
+must be under oath and signed by the president and the secretary of the corporation.(3) In the 
+application, the applicant must provide all of the following:(a) The applicant's full name, age, 
+residence address, and business address, and all occupations engaged in by the applicant during 
+the 5 years preceding the date of the application.(b) A copy of the applicant's basic organizational 
+documents, if any, including the articles of incorporation, articles of association, partnership 
+agreement, trust agreement, or other similar documents, together with all amendments to such 
+documents.(c) Copies of all bylaws, rules, regulations, or similar documents regulating the conduct 
+of the applicant's internal affairs.(d) A list showing the name, business and residence addresses, 
+and official position of each individual who is responsible for conduct of the applicant's affairs, 
+including, but not limited to, any member of the applicant's board of directors, board of trustees, 
+executive committee, or other governing board or committee and any other person or entity owning 
+or having the right to acquire 10 percent or more of the voting securities of the applicant.(e) With 
+respect to each individual identified under paragraph (d):1. A sworn biographical statement on forms 
+adopted by the commission and supplied by the office.2. A set of fingerprints on forms prescribed by 
+the commission, certified by a law enforcement officer, and accompanied by the fingerprinting fee 
+specified in s. 624.501.3. Authority for release of information relating to the investigation of the 
+individual's background.(f) All applications, viatical settlement contract forms, escrow forms, and 
+other related forms proposed to be used by the applicant.(g) A general description of the method the 
+viatical settlement provider will use in determining life expectancies, including a description of the 
+applicant's intended receipt of life expectancies, the applicant's intended use of life expectancy 
+providers, and the written plan or plans of policies and procedures used to determine life 
+expectancies.(h) Such other information as the commission or office deems necessary to determine 
+that the applicant and the individuals identified under paragraph (d) are competent and trustworthy 
+and can lawfully and successfully act as a viatical settlement provider.(4) The office may not issue a 
+license to an entity other than a natural person if it is not satisfied that all officers, directors, 
+employees, stockholders, partners, and any other persons who exercise or have the ability to 
+exercise effective control of the entity or who have the ability to influence the transaction of business 
+by the entity meet the standards of this act and have not violated any provision of this act or rules of 
+the commission related to the business of viatical settlement contracts.(5) Upon the filing of a sworn 
+application and the payment of the license fee, the office shall investigate each applicant and may 
+issue the applicant a license if the office finds that the applicant:(a) Has provided a detailed plan of 
+operation.(b) Is competent and trustworthy and intends to act in good faith in the business 
+authorized by the license applied for.(c) Has a good business reputation and has had experience, 
+training, or education that qualifies the applicant to conduct the business authorized by the license 
+applied for.(d) If the applicant is a corporation, is a corporation incorporated under the laws of this 
+state, or is a foreign corporation authorized to transact business in this state.(e) Has designated the 
+
+Chief Financial Officer as its agent for service of process.(f) Has made the deposit required by 
+s. 626.9913(3). 
+Fla. Stat. § 626.9912 
+ 
+Section 626.9913 - Viatical settlement provider license continuance; annual report; fees; 
+deposit 
+(1) A viatical settlement provider license continues in force until suspended or revoked.(2) Annually, 
+on or before March 1, the viatical settlement provider licensee shall file a statement containing 
+information the commission requires and shall pay to the office a license fee in the amount of $500. 
+After December 31, 2007, the annual statement shall include an annual audited financial statement 
+of the viatical settlement provider prepared in accordance with generally accepted accounting 
+principles by an independent certified public accountant covering a 12-month period ending on a 
+day falling during the last 6 months of the preceding calendar year. If the audited financial statement 
+has not been completed, however, the licensee shall include in its annual statement an unaudited 
+financial statement for the preceding calendar year and an affidavit from an officer of the licensee 
+stating that the audit has not been completed. In this event, the licensee shall submit the audited 
+statement on or before June 1. The annual statement, due on or before March 1 each year, shall also 
+provide the office with a report of all life expectancy providers who have provided life expectancies 
+directly or indirectly to the viatical settlement provider for use in connection with a viatical 
+settlement contract or a viatical settlement investment. A viatical settlement provider shall include 
+in all statements filed with the office all information requested by the office regarding a related 
+provider trust established by the viatical settlement provider. The office may require more frequent 
+reporting. Failure to timely file the annual statement or the audited financial statement or to timely 
+pay the license fee is grounds for immediate suspension of the license. The commission may by rule 
+require all or part of the statements or filings required under this section to be submitted by 
+electronic means in a computer-readable form compatible with the electronic data format specified 
+by the commission.(3) To ensure the faithful performance of its obligations to its viators in the event 
+of insolvency or the loss of its license, a viatical settlement provider licensee must deposit and 
+maintain deposited in trust with the department securities eligible for deposit under s. 625.52, 
+having at all times a value of not less than $100,000.(4) There shall be no additional annual license 
+fee or deposit requirements under this act for a related provider trust established by a viatical 
+settlement provider.(5) A judgment creditor or other claimant of a viatical settlement provider does 
+not have the right to levy upon any of the assets or securities held in this state pursuant to this 
+section. 
+Fla. Stat. § 626.9913 
+ 
+Section 626.9914 - Suspension, revocation, denial, or nonrenewal of viatical settlement 
+provider license; grounds; administrative fine 
+(1) The office shall suspend, revoke, deny, or refuse to renew the license of any viatical settlement 
+provider if the office finds that the licensee: (a) Has made a misrepresentation in the application for 
+the license;(b) Has engaged in fraudulent or dishonest practices, or otherwise has been shown to be 
+untrustworthy or incompetent to act as a viatical settlement provider;(c) Demonstrates a pattern of 
+
+unreasonable payments to viators;(d) Has been found guilty of, or has pleaded guilty or nolo 
+contendere to, any felony, or a misdemeanor involving fraud or moral turpitude, regardless of 
+whether a judgment of conviction has been entered by the court;(e) Has issued viatical settlement 
+contracts that have not been approved pursuant to this act;(f) Has failed to honor contractual 
+obligations related to the business of viatical settlement contracts;(g) Deals in bad faith with 
+viators;(h) Has violated any provision of the insurance code or of this act;(i) Employs any person who 
+materially influences the licensee's conduct and who fails to meet the requirements of this act;(j) No 
+longer meets the requirements for initial licensure; or(k) Obtains or utilizes life expectancies from 
+life expectancy providers who are not registered with the office pursuant to this act.(2) The office 
+may, in lieu of or in addition to any suspension or revocation, assess an administrative fine not to 
+exceed $2,500 for each nonwillful violation or $10,000 for each willful violation by a viatical 
+settlement provider licensee. The office may also place a viatical settlement provider licensee on 
+probation for a period not to exceed 2 years.(3) If an employee of a viatical settlement provider 
+violates any provision of this act, the office may take disciplinary action against such employee as if 
+the employee were licensed under this act, including suspending or otherwise prohibiting the 
+employee from performing the functions of a viatical settlement provider or viatical settlement 
+broker as defined in this act.(4) If a viatical settlement provider establishes a related provider trust as 
+permitted by this act, the viatical settlement provider shall be liable and responsible for the 
+performance of all obligations of the related provider trust under all viatical settlement contracts 
+entered into by the related provider trust, and for the compliance of the related provider trust with all 
+provisions of this act. Any violation of this act by the related provider trust shall be deemed a 
+violation of this act by the viatical settlement provider as well as the related provider trust. If the 
+related provider trust violates any provisions of this act, the office may exercise all remedies set forth 
+in this act for such violations against the viatical settlement provider, as well as the related provider 
+trust. 
+Fla. Stat. § 626.9914 
+ 
+Section 626.9915 - Effect of suspension or revocation of viatical settlement provider license; 
+duration of suspension; reinstatement 
+(1) When its license is suspended or revoked, the provider must proceed, immediately following the 
+effective date of the suspension or revocation, to conclude the affairs it is transacting under its 
+license. The provider may not solicit, negotiate, advertise, or effectuate new contracts. The office 
+retains jurisdiction over the provider until all contracts have been fulfilled or canceled or have 
+expired. A provider whose license is suspended or revoked may continue to maintain and service 
+viaticated policies subject to the approval of the office.(2) The suspension of the license of a viatical 
+settlement provider licensee may be for such period, not to exceed 2 years, as determined by the 
+office. The office may shorten, rescind, or modify the suspension.(3) During the period of 
+suspension, the licensee shall file its annual statement and pay license fees as if the license had 
+continued in full force.(4) If, upon expiration of the suspension order, the license has not otherwise 
+been terminated, the office must reinstate the license only upon written request by the suspended 
+licensee unless the office finds that the grounds giving rise to the suspension have not been 
+removed or that the licensee is otherwise not in compliance with the requirements of this act. The 
+office shall give the licensee notice of its findings no later than 90 days after receipt of the request or 
+upon expiration of the suspension order, whichever occurs later. If a license is not reinstated 
+
+pursuant to the procedures set forth in this subsection, it expires at the end of the suspension or on 
+the date it otherwise would have expired, whichever is sooner. 
+Fla. Stat. § 626.9915 
+ 
+Section 626.9916 - Viatical settlement broker license required 
+(1) After October 1, 2006, a person, other than a life agent licensed under this chapter, may not in 
+this state, from this state, or with a resident of this state perform the functions of a viatical 
+settlement broker.(2) Before performing the functions of a viatical settlement broker, a life agent 
+shall appoint himself or herself with the department and pay applicable fees pursuant to 
+s. 624.501(7)(a).(3) Each natural person who on July 1, 2005, held a viatical settlement broker's 
+license and self-appointment may, upon obtaining a life agent license on or before October 1, 2006, 
+transfer an existing broker self-appointment to such license.(4) All viatical settlement broker 
+licenses shall terminate on October 1, 2006, and shall not be subject to continuation or 
+renewal.(5) Notwithstanding the manner in which the viatical settlement broker is compensated, he 
+or she is deemed to represent only the viator and owes a fiduciary duty to the viator to act according 
+to the viator's instructions and in the best interest of the viator.(6) The compensation received by a 
+life agent for activities performed as a viatical settlement broker may not be divided or shared with 
+another person unless such other person is a life agent licensed under this chapter and appointed 
+as provided in this part. 
+Fla. Stat. § 626.9916 
+ 
+Section 626.99175 - Life expectancy providers; registration required; denial, suspension, 
+revocation 
+(1) A person may not perform the functions of a life expectancy provider without first having 
+registered as a life expectancy provider, except as provided in subsection (6).(2) Application for 
+registration as a life expectancy provider must be made to the office by the applicant on a form 
+prescribed by the office, under oath and signed by the applicant. The application must be 
+accompanied by a fee of $500.(3) A completed application shall be evidenced on a form and in a 
+manner prescribed by the office and shall require the registered life expectancy provider to update 
+such information and renew such registration as required by the office.(4) In the application, the 
+applicant must provide all of the following:(a) The full name, age, residence address, and business 
+address, and all occupations engaged in by the applicant during the 5 years preceding the date of 
+the application.(b) A copy of the applicant's basic organizational documents, if any, including the 
+articles of incorporation, articles of association, partnership agreement, trust agreement, or other 
+similar documents, together with all amendments to such documents.(c) Copies of all bylaws, 
+rules, regulations, or similar documents regulating the conduct of the applicant's internal 
+affairs.(d) A list showing the name, business and residence addresses, and official position of each 
+individual who is responsible for conduct of the applicant's affairs, including, but not limited to, any 
+member of the board of directors, board of trustees, executive committee, or other governing board 
+or committee and any other person or entity owning or having the right to acquire 10 percent or more 
+of the voting securities of the applicant, and any person performing life expectancies by the 
+applicant.(e) A sworn biographical statement on forms supplied by the office with respect to each 
+
+individual identified under paragraph (d), including whether such individual has been associated 
+with any other life expectancy provider or has performed any services for a person in the business of 
+viatical settlements.(f) A sworn statement of any criminal and civil actions pending or final against 
+the registrant or any individual identified under paragraph (d).(g) A general description of the 
+following policies and procedures covering all life expectancy determination criteria and 
+protocols:1. The plan or plans of policies and procedures used to determine life expectancies.2. A 
+description of the training, including continuing training, of the individuals who determine life 
+expectancies.3. A description of how the life expectancy provider updates its manuals, underwriting 
+guides, mortality tables, and other reference works and ensures that the provider bases its 
+determination of life expectancies on current data.(h) A plan for assuring confidentiality of personal, 
+medical, and financial information in accordance with federal and state laws.(i) An anti-fraud plan 
+as required pursuant to s. 626.99278.(j) A list of any agreements, contracts, or any other 
+arrangement to provide life expectancies to a viatical settlement provider, viatical settlement broker, 
+or any other person in the business of viatical settlements in connection with any viatical settlement 
+contract or viatical settlement investment.(5) As part of the application, and on or before March 1 of 
+every 3 years thereafter, a registered life expectancy provider shall file with the office an audit of all 
+life expectancies by the life expectancy provider for the 5 calendar years immediately preceding 
+such audit, which audit shall be conducted and certified by a nationally recognized actuarial firm 
+and shall include only the following: (a) A mortality table.(b) The number, percentage, and an actual-
+to-expected ratio of life expectancies in the following categories: life expectancies of less than 24 
+months, life expectancies of 25 months to 48 months, life expectancies of 49 months to 72 months, 
+life expectancies of 73 months to 108 months, life expectancies of 109 months to 144 months, life 
+expectancies of 145 months to 180 months, and life expectancies of more than 180 months.(6) No 
+viatical settlement broker, viatical settlement provider, or insurance agent in the business of viatical 
+settlements in this state shall directly or indirectly own or be an officer, director, or employee of a life 
+expectancy provider.(7) Each registered life expectancy provider shall provide the office, as 
+applicable, at least 30 days' advance notice of any change in the registrant's name, residence 
+address, principal business address, or mailing address.(8) A person required to be registered by this 
+section shall for 5 years retain copies of all life expectancies and supporting documents and 
+medical records unless those personal medical records are subject to different retention or 
+destruction requirements of a federal or state personal health information law.(9) An application for 
+life expectancy provider registration shall be approved or denied by the commissioner within 60 
+calendar days following receipt of a completed application by the commissioner. The office shall 
+notify the applicant that the application is complete. A completed application that is not approved or 
+denied in 60 calendar days following its receipt shall be deemed approved.(10) The office may, in its 
+discretion, deny the application for a life expectancy provider registration or suspend, revoke, or 
+refuse to renew or continue the registration of a life expectancy provider if the office finds:(a) Any 
+cause for which registration could have been refused had it then existed and been known to the 
+office;(b) A violation of any provision of this code or of any other law applicable to the applicant or 
+registrant;(c) A violation of any lawful order or rule of the department, commission, or office; 
+or(d) That the applicant or registrant: 1. Has been found guilty of or pled guilty or nolo contendere to 
+a felony or a crime punishable by imprisonment of 1 year or more under the law of the United States 
+of America or of any state thereof or under the law of any other country;2. Has knowingly and 
+willfully aided, assisted, procured, advised, or abetted any person in the violation of a provision of 
+the insurance code or any order or rule of the department, commission, or office;3. Has knowingly 
+and with intent to defraud, provided a life expectancy that does not conform to an applicant's or 
+registrant's general practice;4. Does not have a good business reputation or does not have 
+
+experience, training, or education that qualifies the applicant or registrant to conduct the business 
+of a life expectancy provider; or5. Has demonstrated a lack of fitness or trustworthiness to engage in 
+the business of issuing life expectancies.(11) The office may, in lieu of or in addition to any 
+suspension or revocation, assess an administrative fine not to exceed $2,500 for each nonwillful 
+violation or $10,000 for each willful violation by a registered life expectancy provider. The office may 
+also place a registered life expectancy provider on probation for a period not to exceed 2 years.(12) It 
+is a violation of this section for a person to represent, orally or in writing, that a life expectancy 
+provider's registration pursuant to this act is in any way a recommendation or approval of the entity 
+or means that the qualifications or abilities have in any way been approved of.(13) The Financial 
+Services Commission may, by rule, require that all or part of the statements or filings required under 
+this section be submitted by electronic means and in a computer-readable format specified by the 
+commission. 
+Fla. Stat. § 626.99175 
+ 
+Section 626.99181 - Viatical settlement broker's compensation 
+A viatical settlement broker shall disclose to a prospective viator the amount and method of 
+calculating the broker's compensation. The term "compensation" includes anything of value paid or 
+given to a viatical settlement broker for the placement of a policy. 
+Fla. Stat. § 626.99181 
+ 
+Section 626.9919 - Notice of change of licensee or registrant's address or name 
+Each viatical settlement provider licensee and registered life expectancy provider must provide the 
+office at least 30 days' advance notice of any change in the licensee's or registrant's name, 
+residence address, principal business address, or mailing address. 
+Fla. Stat. § 626.9919 
+ 
+Section 626.992 - Use of licensed viatical settlement providers, viatical settlement brokers, 
+and registered life expectancy providers required 
+(1) A licensed viatical settlement provider may not use any person to perform the functions of a 
+viatical settlement broker as defined in this act unless such person holds a current, valid life agent 
+license and has appointed himself or herself in conformance with this chapter.(2) A viatical 
+settlement broker may not use any person to perform the functions of a viatical settlement provider 
+as defined in this act unless such person holds a current, valid license as a viatical settlement 
+provider.(3) A person may not operate as a life expectancy provider unless such person is registered 
+as a life expectancy provider pursuant to this act.(4) A viatical settlement provider, viatical 
+settlement broker, or any other person in the business of viatical settlements may not obtain life 
+expectancies from a person who is not registered as a life expectancy provider pursuant to this act. 
+Fla. Stat. § 626.992 
+ 
+
+Section 626.9921 - Filing of forms; required procedures; approval 
+(1) A viatical settlement contract form, escrow form, or related form may be used in this state only 
+after the form has been filed with the office and only after the form has been approved by the 
+office.(2) The viatical settlement contract form, escrow form, or related form must be filed with the 
+office at least 60 days before its use. The form is considered approved on the 60th day after its date 
+of filing unless it has been previously disapproved by the office. The office must disapprove a viatical 
+settlement contract form, escrow form, or related form that is unreasonable, contrary to the public 
+interest, discriminatory, misleading, or unfair to the viator.(3) If a viatical settlement provider elects 
+to use a related provider trust in accordance with this act, the viatical settlement provider shall file 
+notice of its intention to use a related provider trust with the office, including a copy of the trust 
+agreement of the related provider trust. The organizational documents of the trust must be 
+submitted to and approved by the office before the transacting of business by the trust.(4) The 
+commission may adopt, by rule, standardized forms to be used by licensees, at the licensee's option 
+in place of separately approved forms. 
+Fla. Stat. § 626.9921 
+ 
+ 
+Section 626.9922 – Examination 
+(1) The office or department may examine the business and affairs of any of its respective licensees 
+or applicants for a license. The office or department may order any such licensee or applicant to 
+produce any records, books, files, advertising and solicitation materials, or other information and 
+may take statements under oath to determine whether the licensee or applicant is in violation of the 
+law or is acting contrary to the public interest. The expenses incurred in conducting any examination 
+or investigation must be paid by the licensee or applicant. Examinations and investigations must be 
+conducted as provided in chapter 624, and licensees are subject to all applicable provisions of the 
+insurance code.(2) All accounts, books and records, documents, files, contracts, and other 
+information relating to all transactions of viatical settlement contracts, life expectancies, or viatical 
+settlement purchase agreements made before July 1, 2005, must be maintained by the licensee for a 
+period of at least 3 years after the death of the insured and must be available to the office or 
+department for inspection during reasonable business hours.(3) All such records or accurate copies 
+of such records must be maintained at the licensee's home office. As used in this section, the term 
+"home office" means the principal place of business and any other single storage facility, the street 
+address of which shall be disclosed to the office or department within 20 days after its initial use, or 
+within 20 days of the effective date of this subsection.(4) The originals of records required to be 
+maintained under this section must be made available to the office or department for examination at 
+the office's or department's request.(5) The office has jurisdiction over all viatical settlement 
+purchase agreements made before July 1, 2005, including, but not limited to, the authority to 
+examine persons in possession of records relating to viatical settlement purchase agreements made 
+before July 1, 2005, and that authority set forth in s. 624.319.(6) If the office makes the determination 
+that a viatical settlement provider does not have the financial ability to perform its present or future 
+obligations under the viatical settlement purchase agreements made before July 1, 2005, the office 
+shall make a referral to the United States Securities and Exchange Commission or the Office of 
+Financial Regulation for further administrative action pursuant to s. 517.191, including, but not 
+
+limited to, the appointment of a receiver by the court.(7) Subsections (1), (2), (3), and (4) apply to life 
+expectancy providers providing life expectancies in the state and providing life expectancies to 
+viatical settlement providers in the state, as if life expectancy providers were licensees. 
+Fla. Stat. § 626.9922 
+ 
+Section 626.9923 - Viatical settlement contracts; required disclosures 
+The viatical settlement broker, or the viatical settlement provider in transactions in which no broker 
+is used, must inform the viator by the date of application for a viatical settlement contract: 
+(1) That there are possible alternatives to viatical settlement contracts for persons who have a 
+catastrophic or life-threatening illness, including, but not limited to, accelerated benefits offered by 
+the issuer of a life insurance policy.(2) That proceeds of the viatical settlement could be taxable, and 
+assistance should be sought from a personal tax advisor.(3) That viatical settlement proceeds could 
+be subject to the claims of creditors.(4) That receipt of viatical settlement proceeds could adversely 
+affect the recipient's eligibility for Medicaid or other government benefits or entitlements, and advice 
+should be obtained from the appropriate agencies.(5) That all viatical settlement contracts entered 
+into in this state must contain an unconditional rescission provision which allows the viator to 
+rescind the contract within 15 days after the viator receives the viatical settlement proceeds, 
+conditioned on the return of such proceeds.(6) The name, business address, and telephone number 
+of the independent third-party escrow agent, and the fact that the viator may inspect or receive 
+copies of the relevant escrow or trust agreements or documents. 
+Fla. Stat. § 626.9923 
+ 
+Section 626.9924 - Viatical settlement contracts; procedures; rescission 
+(1) A viatical settlement provider entering into a viatical settlement contract with any viator must first 
+obtain a witnessed document in which the viator consents to the viatical settlement contract, 
+represents that he or she has a full and complete understanding of the viatical settlement contract 
+and the benefits of the life insurance policy, releases his or her medical records, and acknowledges 
+that he or she has entered into the viatical settlement contract freely and voluntarily.(2) All viatical 
+settlement contracts subject to this act must contain an unconditional rescission provision which 
+allows the viator to rescind the contract within 15 days after the viator receives the viatical 
+settlement proceeds, conditioned on the return of such proceeds.(3) A viatical settlement 
+transaction may be completed only through the use of an independent third-party trustee or escrow 
+agent. Immediately upon receipt by the independent third-party trustee or escrow agent of 
+documents from the viator to effect the transfer of the insurance policy, the viatical settlement 
+provider must pay the proceeds of the settlement to an escrow or trust account managed by the 
+independent third-party trustee or escrow agent in a financial institution licensed under Florida law 
+or a federally chartered financial institution that is a member of the Federal Reserve System, pending 
+acknowledgment of the transfer by the issuer of the policy. An advance or partial payment of the 
+proceeds due under a viatical settlement contract may not be used to effect transfer of the subject 
+policy; any such advance or partial payment is made at the sole discretion and risk of the viatical 
+settlement provider.(4) Upon receipt of all viatical settlement contract proceeds, the independent 
+third-party trustee or escrow agent must release to the viatical settlement provider all documents 
+
+necessary to complete the transfer of the insurance policy or certificate of insurance so that the 
+transfer, assignment, sale, bequest, or devise may be effected.(5) The independent third-party 
+trustee or escrow agent must transfer all proceeds of the viatical settlement contract within 3 
+business days after receiving from the issuer of the subject policy acknowledgment of the transfer, 
+assignment, bequest, sale, or devise. Failure to transfer proceeds as required by this subsection 
+renders the viatical settlement contract and the transfer, assignment, bequest, sale, or devise 
+voidable.(6) A viatical settlement provider may not negotiate or enter into a viatical settlement 
+contract with a viator if the subject policy contains an accelerated benefits provision allowing 
+benefits to be paid for a period in advance of the expected death which is equal to or exceeds the 
+time period available under the viatical settlement contract, and at an amount which is equal to or 
+exceeds the amount available under the viatical settlement contract, unless the issuer of the policy, 
+in writing, denies, declines, or refuses to provide such accelerated benefits. If the insurer does not 
+respond to a request to effectuate an accelerated benefits provision sent by certified mail within 30 
+days after receiving the request, the insurer shall be deemed to have denied, declined, or refused to 
+provide such accelerated benefits.(7) At any time during the contestable period, within 20 days after 
+a viator executes documents necessary to transfer rights under an insurance policy or within 20 days 
+of any agreement, option, promise, or any other form of understanding, express or implied, to 
+viaticate the policy, the provider must give notice to the insurer of the policy that the policy has or 
+will become a viaticated policy. The notice must be accompanied by the documents required by 
+s. 626.99287.(8) If the owner of the insurance policy is not the insured, the provider shall notify the 
+insured that the policy has become the subject of a viatical settlement contract within 20 days after 
+the transfer of rights under the contract.(9) If the provider transfers ownership or changes the 
+beneficiary of the insurance policy, the provider must communicate the initial change in ownership 
+or beneficiary to the insured within 20 days after the change.(10) The viatical settlement provider 
+who effectuated the viatical settlement contract with the viator (the "initial provider") is responsible 
+for tracking the insured, including, but not limited to, keeping track of the insured's whereabouts and 
+health status, submission of death claims or assisting the beneficiary in the submission of death 
+claims, and the status of the payment of premiums until the death of the insured. This responsibility 
+may be contracted out to a third party; however, the ultimate responsibility remains with the initial 
+provider. This responsibility continues with the initial provider, notwithstanding any transfers of the 
+viaticated policy in the secondary market. This subsection applies only to those viaticated policies 
+that are or are to become the subject of viatical settlement purchase agreements. 
+Fla. Stat. § 626.9924 
+ 
+Section 626.99245 - Conflict of regulation of viaticals 
+(1) A viatical settlement provider who from this state enters into a viatical settlement contract with a 
+viator who is a resident of another state that has enacted statutes or adopted regulations governing 
+viatical settlement contracts shall be governed in the effectuation of that viatical settlement 
+contract by the statutes and regulations of the viator's state of residence. If the state in which the 
+viator is a resident has not enacted statutes or regulations governing viatical settlement agreements, 
+the provider shall give the viator notice that neither Florida nor his or her state regulates the 
+transaction upon which he or she is entering. For transactions in those states, however, the viatical 
+settlement provider is to maintain all records required as if the transactions were executed in 
+Florida. The forms used in those states need not be approved by the office.(2) This section does not 
+
+affect the requirement of ss. 626.9911(14) and 626.9912(1) that a viatical settlement provider doing 
+business from this state must obtain a viatical settlement license from the office. As used in this 
+subsection, the term "doing business from this state" includes effectuating viatical settlement 
+contracts from offices in this state, regardless of the state of residence of the viator. 
+Fla. Stat. § 626.99245 
+ 
+Section 626.9925 - Rules 
+The commission may adopt rules to administer this act, including rules establishing standards for 
+evaluating advertising by licensees; rules providing for the collection of data, for disclosures to 
+viators, for the reporting of life expectancies, and for the registration of life expectancy providers; 
+and rules defining terms used in this act and prescribing recordkeeping requirements relating to 
+executed viatical settlement contracts. 
+Fla. Stat. § 626.9925 
+ 
+Section 626.9926 - Rate regulation not authorized 
+Nothing in this act shall be construed to authorize the office or department to directly or indirectly 
+regulate the amount paid as consideration for entry into a viatical settlement contract. 
+Fla. Stat. § 626.9926 
+ 
+Section 626.9927 - Unfair trade practices; cease and desist; injunctions; civil remedy 
+(1) A violation of this act is an unfair trade practice under ss. 626.9521 and 626.9541 and is subject 
+to the penalties provided in the insurance code. Part IX of this chapter, entitled Unfair Insurance 
+Trade Practices, applies to a licensee under this act or a transaction subject to this act as if a viatical 
+settlement contract were an insurance policy.(2) In addition to the penalties and other enforcement 
+provisions of this act, if any person violates this act or any rule implementing this act, the office or 
+department, as appropriate, may seek an injunction in the circuit court of the county where the 
+person resides or has a principal place of business and may apply for temporary and permanent 
+orders that the office or department determines necessary to restrain the person from committing 
+the violation.(3) Any person damaged by the acts of a person in violation of this act may bring a civil 
+action against the person committing the violation in the circuit court of the county in which the 
+alleged violator resides or has a principal place of business or in the county wherein the alleged 
+violation occurred. Upon an adverse adjudication, the defendant is liable for damages, together with 
+court costs and reasonable attorney's fees incurred by the plaintiff. When so awarded, court costs 
+and attorney's fees must be included in the judgment or decree rendered in the case. If it appears to 
+the court that the suit brought by the plaintiff is frivolous or brought for purposes of harassment, the 
+plaintiff is liable for court costs and reasonable attorney's fees incurred by the defendant. 
+Fla. Stat. § 626.9927 
+ 
+Section 626.99272 - Cease and desist orders and fines 
+
+(1) The office or department as appropriate may issue a cease and desist order upon a person that 
+violates any provision of this part, any rule or order adopted by the commission, office, or 
+department, or any written agreement entered into with the office or department.(2) When the office 
+or department finds that such an action presents an immediate danger to the public which requires 
+an immediate final order, it may issue an emergency cease and desist order reciting with 
+particularity the facts underlying such findings. The emergency cease and desist order is effective 
+immediately upon service of a copy of the order on the respondent and remains effective for 90 
+days. If the office or department begins nonemergency cease and desist proceedings under 
+subsection (1), the emergency cease and desist order remains effective, absent an order by an 
+appellate court of competent jurisdiction pursuant to s. 120.68, until the conclusion of proceedings 
+under ss. 120.569 and 120.57.(3) The office or department may impose and collect an administrative 
+fine not to exceed $10,000 for each nonwillful violation and $25,000 for each willful violation of any 
+provision of this part. 
+Fla. Stat. § 626.99272 
+ 
+Section 626.99275 - Prohibited practices; penalties 
+(1) It is unlawful for a person to: (a) Knowingly enter into, broker, or otherwise deal in a viatical 
+settlement contract the subject of which is a life insurance policy, knowing that the policy was 
+obtained by presenting materially false information concerning any fact material to the policy or by 
+concealing, for the purpose of misleading another, information concerning any fact material to the 
+policy, where the viator or the viator's agent intended to defraud the policy's issuer.(b) Knowingly or 
+with the intent to defraud, for the purpose of depriving another of property or for pecuniary gain, 
+issue or use a pattern of false, misleading, or deceptive life expectancies.(c) Knowingly engage in 
+any transaction, practice, or course of business intending thereby to avoid the notice requirements 
+of s. 626.9924(7).(d) Knowingly or intentionally facilitate the change of state of residency of a viator 
+to avoid the provisions of this chapter.(e) Knowingly enter into a viatical settlement contract before 
+the application for or issuance of a life insurance policy that is the subject of a viatical settlement 
+contract or during an applicable period specified in s. 626.99287(1) or (2), unless the viator provides 
+a sworn affidavit and accompanying independent evidentiary documentation in accordance with 
+s. 626.99287.(f) Engage in a fraudulent viatical settlement act, as defined in 
+s. 626.9911.(g) Knowingly issue, solicit, market, or otherwise promote the purchase of a life 
+insurance policy for the purpose of or with an emphasis on selling the policy to a third 
+party.(h) Engage in a stranger-originated life insurance practice, as defined in s. 626.9911.(2) A 
+person who violates any provision of this section commits:(a) A felony of the third degree, 
+punishable as provided in s. 775.082, s. 775.083, or s. 775.084, if the insurance policy involved is 
+valued at any amount less than $20,000.(b) A felony of the second degree, punishable as provided in 
+s. 775.082, s. 775.083, or s. 775.084, if the insurance policy involved is valued at $20,000 or more, 
+but less than $100,000.(c) A felony of the first degree, punishable as provided in s. 775.082, 
+s. 775.083, or s. 775.084, if the insurance policy involved is valued at $100,000 or more. 
+Fla. Stat. § 626.99275 
+ 
+Section 626.99278 - Viatical provider anti-fraud plan 
+
+Every licensed viatical settlement provider and registered life expectancy provider must adopt an 
+anti-fraud plan and file it with the Division of Investigative and Forensic Services of the department. 
+Each anti-fraud plan shall include: 
+(1) A description of the procedures for detecting and investigating possible fraudulent acts and 
+procedures for resolving material inconsistencies between medical records and insurance 
+applications.(2) A description of the procedures for the mandatory reporting of possible fraudulent 
+insurance acts and prohibited practices set forth in s. 626.99275 to the Division of Investigative and 
+Forensic Services of the department.(3) A description of the plan for anti-fraud education and 
+training of its underwriters or other personnel.(4) A written description or chart outlining the 
+organizational arrangement of the anti-fraud personnel who are responsible for the investigation and 
+reporting of possible fraudulent insurance acts and for the investigation of unresolved material 
+inconsistencies between medical records and insurance applications.(5) For viatical settlement 
+providers, a description of the procedures used to perform initial and continuing review of the 
+accuracy of life expectancies used in connection with a viatical settlement contract or viatical 
+settlement investment. 
+Fla. Stat. § 626.99278 
+ 
+Section 626.9928 - Acquisitions 
+Acquisition of interest in a viatical settlement provider is subject to s. 628.4615. 
+Fla. Stat. § 626.9928 
+ 
+Section 626.99285 - Applicability of insurance code 
+In addition to other applicable provisions cited in the insurance code, the office or department, as 
+appropriate, has the authority granted under ss. 624.310, 626.901, and 626.989 to regulate viatical 
+settlement providers, viatical settlement brokers, viatical settlement contracts, and viatical 
+settlement transactions. 
+Fla. Stat. § 626.99285 
+ 
+Section 626.99287 - Contestability of viaticated policies 
+(1) Except as hereinafter provided, if a viatical settlement contract is entered into within the 2-year 
+period commencing with the date of issuance of the insurance policy or certificate to be acquired, 
+the viatical settlement contract is void and unenforceable by either party.(2) Except as hereinafter 
+provided, if a viatical settlement policy is subject to a loan secured directly or indirectly by an 
+interest in the policy within a 5-year period commencing on the date of issuance of the policy or 
+certificate, the viatical settlement contract is void and unenforceable by either 
+party.(3) Notwithstanding the limitations in subsections (1) and (2), such a viatical settlement 
+contract is not void and unenforceable if the viator provides a sworn affidavit and accompanying 
+independent evidentiary documentation certifying to the viatical settlement provider that one or 
+more of the following conditions were met during the periods applicable to the viaticated policy as 
+stated in subsection (1) or subsection (2):(a) The policy was issued upon the owner's exercise of 
+
+conversion rights arising out of a group or term policy, if the total time covered under the prior policy 
+is at least 60 months. The time covered under a group policy must be calculated without regard to 
+any change in insurance carriers, provided the coverage has been continuous and under the same 
+group sponsorship.(b) The owner of the policy is a charitable organization exempt from taxation 
+under 26 U.S.C. s. 501(c)(3).(c) The viator certifies by producing independent evidence to the viatical 
+settlement provider that one or more of the following conditions were met:1. The viator or insured is 
+terminally or chronically ill and the condition was not known to the insured at the time the life 
+insurance contract was entered into;2. The viator's spouse dies;3. The viator divorces his or her 
+spouse;4. The viator retires from full-time employment;5. The viator becomes physically or mentally 
+disabled and a physician determines that the disability prevents the viator from maintaining full-time 
+employment;6. The owner of the policy was the insured's employer at the time the policy or 
+certificate was issued and the employment relationship terminated;7. A final order, judgment, or 
+decree is entered by a court of competent jurisdiction, on the application of a creditor of the viator, 
+adjudicating the viator bankrupt or insolvent, or approving a petition seeking reorganization of the 
+viator or appointing a receiver, trustee, or liquidator to all or a substantial part of the viator's assets; 
+or8. The viator experiences a significant decrease in income which is unexpected by the viator and 
+which impairs his or her reasonable ability to pay the policy premium.(d) The viator entered into a 
+viatical settlement contract more than 2 years after the policy's issuance date and, with respect to 
+the policy, at all times before the date that is 2 years after policy issuance, each of the following 
+conditions is met: 1. Policy premiums have been funded exclusively with unencumbered assets, 
+including an interest in the life insurance policy being financed only to the extent of its net cash 
+surrender value, provided by, or fully recourse liability incurred by, the insured;2. There is no 
+agreement or understanding with any other person to guarantee any such liability or to purchase, or 
+stand ready to purchase, the policy, including through an assumption or forgiveness of the loan; 
+and3. Neither the insured or the policy has been evaluated for settlement. 
+Fla. Stat. § 626.99287 
+ 
+Section 626.99289 - Void and unenforceable contracts, agreements, arrangements, and 
+transactions 
+Notwithstanding s. 627.455, a contract, agreement, arrangement, or transaction, including, but not 
+limited to, a financing agreement or any other arrangement or understanding entered into, whether 
+written or verbal, for the furtherance or aid of a stranger-originated life insurance practice is void and 
+unenforceable. 
+Fla. Stat. § 626.99289 
+ 
+Section 626.99291 - Contestability of life insurance policies 
+Notwithstanding s. 627.455, a life insurer may contest a life insurance policy if the policy was 
+obtained by a stranger-originated life insurance practice, as defined in s. 626.9911. 
+Fla. Stat. § 626.99291 
+ 
+Section 626.99292 - Notice to insureds 
+
+(1) A life insurer shall provide an individual life insurance policyholder with a statement informing 
+him or her that if he or she is considering making changes in the status of his or her policy, he or she 
+should consult with a licensed insurance or financial advisor. The statement may accompany or be 
+included in notices or mailings otherwise provided to the policyholder.(2) The statement must also 
+advise the policyholder that he or she may contact the department for more information and include 
+a website address or other location or manner by which the policyholder may contact the 
+department. 
+Fla. Stat. § 626.99292 
+ 
+Section 626.99295 - Grace period 
+Any person who, on July 1, 2005, is effectuating a viatical settlement purchase agreement made 
+before July 1, 2005, under provisions of law in effect before such date, which viatical settlement 
+purchase agreement was not registered pursuant to chapter 517, must proceed within 30 days after 
+July 1, 2005, to conclude all viatical settlement purchase transactions in progress, provided, if funds 
+have not been matched with a viaticated policy, such funds, or any unmatched portion of such 
+funds, shall be returned to the viatical settlement purchaser within 30 days after July 1, 2005. The 
+provider may not solicit, negotiate, advertise, or effectuate new viatical settlement purchase 
+agreements after July 1, 2005. 
+Fla. Stat. § 626.99295 
+ 

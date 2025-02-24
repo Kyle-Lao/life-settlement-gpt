@@ -1,0 +1,885 @@
+Wisconsin Life Settlement Statutes 
+ 
+Section 632.69 - Life settlements(1) DEFINITIONS. In this section:(a) "Advertisement" means 
+any written, electronic, or printed communication or any communication made by means of 
+recorded telephone messages or transmitted on radio, television, the Internet, or similar 
+communications media, including film strips, motion pictures, and videos, published, 
+disseminated, circulated, or placed, directly or indirectly, before the public in this state for the 
+purpose of creating an interest in or inducing a person to purchase or sell, assign, devise, 
+bequeath, or transfer the death benefit or ownership of a policy or an interest in a policy pursuant 
+to a life settlement contract.(b) "Broker" means a person who, on behalf of an owner and for a 
+fee, commission, or other valuable consideration, offers or attempts to negotiate life settlement 
+contracts between an owner and one or more providers, or one or more brokers. "Broker" does 
+not include an attorney or certified public accountant who is retained to represent the owner and 
+whose compensation is not paid directly or indirectly by the provider or purchaser.(c) "Business 
+of life settlements" means an activity involved in the offering soliciting, negotiating, procuring, 
+effectuating, purchasing, investing in, financing, monitoring, tracking, underwriting, selling, 
+transferring, assigning, pledging, hypothicating, or in any other manner, acquiring an interest in a 
+policy by means of a life settlement contract.(d) "Chronically ill" means any of the 
+following:1. Being unable to perform at least 2 activities of daily living, including eating, 
+toileting, transferring, bathing, dressing, or continence.2. Requiring substantial supervision to 
+monitor the health and safety of the individual due to his or her severe cognitive 
+impairment.3. Having a level of disability similar to that described in subd. 1., as defined by the 
+U.S. department of health and human services.(e) "Financing entity" means a person whose 
+principal activity related to a life settlement is providing funds to effect the life settlement 
+contract or purchase of one or more policies and who has an agreement in writing with one or 
+more providers to finance the acquisition of life settlement contracts, including an underwriter, 
+placement agent, lender, purchaser of securities, purchaser of a policy from a life settlement 
+provider, credit enhancer, or any entity that has a direct ownership in a policy that is the subject 
+of a life settlement contract. "Financing entity" does not include an investor that is not an 
+accredited investor, as defined in 17 CFR 230.501(a), or a purchaser.(f) "Financing transaction" 
+means a transaction in which a licensed provider obtains financing from a financing entity 
+including any secured or unsecured financing, any securitization transaction, or any securities 
+offering which is either registered or exempt from registration under federal and state securities 
+law.(g) "Fraudulent life settlement act" includes all of the following:1. Acts or omissions that are 
+committed by any person, or that a person permits its employees or its agents to engage in, for 
+the purpose of pecuniary gain, including any of the following:a. Presenting, causing to be 
+presented, or preparing with the knowledge or belief that it will be presented to or by a provider, 
+broker, purchaser, financing entity, insurer, insurance producer, or any other person, false 
+material information, or concealing material information, as part of, in support of, or concerning 
+a fact material to an application for the issuance of a life settlement contract or a policy; the 
+underwriting of a life settlement contract or a policy; a claim for payment or benefit under a life 
+settlement contract or a policy; premiums paid on an insurance policy; payments and changes in 
+ownership or beneficiary made in accordance with the terms of a life settlement contract or a 
+policy; the reinstatement or conversion of a policy; the solicitation, offer, effectuation, or sale of 
+a life settlement contract or a policy; the issuance of written evidence of a life settlement contract 
+or a policy; or a financing transaction.b. Employing any plan, device, scheme, or artifice to 
+
+defraud in the business of life settlements.c. Failing to disclose to an insurer, if the request for 
+such disclosure has been made by the insurer, that the prospective owner has undergone a life 
+expectancy evaluation by any person or entity other than the insurer or its authorized 
+representatives in connection with the issuance of the policy.2. Any of the following acts that 
+any person does, or permits its employees or agents to do, in the furtherance of a fraud or to 
+prevent the detection of a fraud:a. Removing, concealing, altering, destroying, or sequestering 
+from the commissioner the assets or records of a licensee or other person engaged in the business 
+of life settlements.b. Misrepresenting or concealing the financial condition of a licensee, 
+financing entity, insurer, or other person.c. Transacting the business of life settlements in 
+violation of laws requiring a license, certificate of authority, or other legal authority for the 
+transaction of the business of life settlements.d. Filing with the commissioner or the chief 
+insurance regulatory official of another jurisdiction a document containing false information or 
+otherwise concealing information about a material fact from the commissioner or 
+official.3. Embezzlement, theft, misappropriation, or conversion of monies, funds, premiums, 
+credits, or other property of a life settlement provider, insurer, insured, owner, or any other 
+person engaged in the business of life settlements or insurance.4. Recklessly entering into, 
+negotiating, brokering, or otherwise dealing in a life settlement contract, the subject of which is a 
+life insurance policy that was obtained by presenting false information concerning any fact 
+material to the policy or by concealing for the purpose of misleading another information 
+concerning any fact material to the policy, where the person or persons intended to defraud the 
+policy's issuer, the provider, or the owner.5. Attempting to commit; assisting, aiding, or abetting 
+in the commission of; or conspiring to commit the acts or omissions specified in this 
+paragraph.6. Misrepresenting the state of residence of an owner to be a state that does not have a 
+law substantially similar to this section for the purpose of evading or avoiding the provisions of 
+this section.7. STOLI.(h) "Licensee" means a provider or broker that holds a license under sub. 
+(2).(i) "Life expectancy" means the arithmetic mean, considering medical records and 
+appropriate experiential data, of the number of months an insured under the policy to be settled 
+can be expected to live.(j)1. "Life settlement" means an agreement regarding the terms under 
+which compensation or any thing of value will be paid, which compensation or thing of value is 
+less than the expected death benefit of the policy but greater than the cash surrender value or 
+accelerated death benefit available under the policy at the time of the application for the life 
+settlement, in return for the owner's present or future assignment, transfer, sale, devise, or 
+bequest of the death benefit or any interest in a policy. "Life settlement" includes all of the 
+following:a. The transfer for compensation or value of ownership or beneficial interest in a trust 
+or other entity that owns a policy that insures the life of a person residing in this state, if the trust 
+or other entity was formed or availed of for the principal purpose of acquiring one or more 
+policies or certificates of insurance.b. A written agreement for a loan or other lending 
+transaction, secured primarily by an individual or group policy.c. A premium finance loan made 
+for a policy on, before, or after the date of issuance of the policy but only if the loan proceeds are 
+not used solely to pay premiums for the policy and any costs or expenses incurred by the lender 
+or the borrower in connection with the financing, or if the owner receives on the date of the 
+premium finance loan a guarantee of the future life settlement value of the policy, or if the owner 
+agrees on the date of the premium finance loan to sell the policy or any interest in its death 
+benefit on any date following the issuance of the policy.2. "Life settlement" does not include any 
+of the following:a. A policy loan by a life insurance company pursuant to the terms of the policy 
+or accelerated death provisions contained in the policy, whether issued with the original policy or 
+
+as a rider.b. Except as provided in subd. 1. c., a premium finance loan or any loan made by a 
+bank or other licensed financial institution, provided that neither default on such loan nor the 
+transfer of the policy in connection with such default is pursuant to an agreement or 
+understanding with any other person for the purpose of evading regulation under this section.c. A 
+collateral assignment of a policy by an owner.d. A loan made by a lender that does not violate 
+s. 138.12, if the loan is not described in subd. 1. c. and is not otherwise a life settlement 
+contract.e. An agreement where all the parties are closely related to the insured by blood or law, 
+or have a lawful substantial economic interest in the continued life, health, and bodily safety of 
+the person insured, or are trusts or other entities established primarily for the benefit of such 
+parties.f. Any designation, consent, or agreement by an insured who is an employee of an 
+employer in connection with the purchase by the employer, or trust established by the employer, 
+of life insurance on the life of the employee.g. A bona fide business succession planning 
+arrangement between one or more shareholders in a corporation or between a corporation and 
+one or more of its shareholders or one or more trusts established by or for the benefit of its 
+shareholders; between one or more partners in a partnership or between a partnership and one or 
+more of its partners or one or more trusts established by or for the benefit of its partners; or 
+between one or more members in a limited liability company or between a limited liability 
+company and one or more of its members or one or more trusts established by or for the benefit 
+of its members.h. An agreement, contract, or transaction that the commissioner excludes by rule 
+under sub. (20) (a) after determining that the agreement, contract, or transaction is not intended 
+to be regulated by this section.(k) "Life settlement contract" means a written document providing 
+for and establishing the terms of a life settlement.(l) "Owner" means the owner of a policy or a 
+certificate holder under a group policy who resides in this state, unless the context requires 
+otherwise, and enters or seeks to enter into a life settlement contract. "Owner" does not include 
+any of the following:1. A licensee under this section, including a producer acting as a broker 
+under this section.2. A qualified institutional buyer, as defined in 17 CFR 230.144A (a) (1).3. A 
+financing entity.4. A special purpose entity.5. A related provider trust.(m) "Policy" means an 
+individual or group policy, certificate, contract, or arrangement of life insurance owned by a 
+resident of this state, regardless of whether delivered or issued for delivery in this 
+state.(n) "Premium finance loan" means a loan made primarily for the purpose of making 
+premium payments on a policy that is secured by an interest in the policy.(o) "Producer" means 
+any person licensed in this state as a resident or nonresident insurance intermediary or agent who 
+has received qualification or authority for life insurance coverage or a life line of coverage 
+pursuant to s. 628.04.(p) "Provider" means a person, other than an owner, that enters into or 
+effectuates a life settlement contract with an owner. "Provider" does not include:1. A bank, 
+savings bank, savings and loan association, credit union, or other licensed lending institution that 
+takes an assignment of a policy solely as collateral for a loan.2. A premium finance company 
+making premium finance loans and exempted by the commissioner from the licensing 
+requirement under the premium finance law under s. 138.12 that takes an assignment of a policy 
+solely as collateral for a loan.3. The issuer of a policy.4. An authorized or eligible insurer that 
+provides stop loss coverage or financial guaranty insurance to a provider, purchaser, financing 
+entity, special purpose entity, or related provider trust.5. Any natural person who enters into or 
+effectuates no more than one agreement in a calendar year for the transfer of a policy for any 
+value less than the expected death benefit.6. A special purpose entity.7. A related provider 
+trust.8. A purchaser.9. A person that the commissioner excludes by rule under sub. (20) (a) after 
+determining that the definition is not intended to cover the person.(q) "Purchase agreement" 
+
+means a contract or agreement entered into by a purchaser, to which the owner is not a party, to 
+purchase a settled policy or an interest in a settled policy for the purpose of deriving an economic 
+benefit.(r) "Purchaser" means a person who provides a sum of money as consideration for a 
+policy or an interest in the death benefits of a policy, or a person who owns or acquires or is 
+entitled to a beneficial interest in a trust that owns a life settlement contract or is the beneficiary 
+of a policy that has been or will be the subject of a life settlement contract, for the purpose of 
+deriving an economic benefit. "Purchaser" does not include any of the following:1. A 
+licensee.2. An accredited investor, as defined in 17 CFR 230.501 (a), or qualified institutional 
+buyer, as defined in 17 CFR 230.114A (a) (1).3. A financing entity.4. A special purpose 
+entity.5. A related provider trust.(s) "Recklessly" means in conscious and clearly unjustifiable 
+disregard of a substantial likelihood of the existence of the relevant facts or risks, the disregard 
+involving a gross deviation from acceptable standards of conduct.(t) "Related provider trust" 
+means a trust that is established by a licensed provider or a financing entity for the sole purpose 
+of holding the ownership or beneficial interest in purchased policies in connection with a 
+financing transaction and that has a written agreement with the licensed provider under which the 
+licensed provider is responsible for ensuring compliance with all statutory and regulatory 
+requirements and under which the trust agrees to make all records and files relating to life 
+settlement transactions available to the commissioner as if those records were maintained 
+directly by the licensed provider.(u) "Settled" means, with respect to a policy, acquired by a 
+provider under a life settlement contract.(v) "Special purpose entity" means a corporation, 
+partnership, trust, limited liability company, or other similar entity formed solely to provide 
+either direct or indirect access to institutional capital markets either for a financing entity or 
+provider or in connection with a transaction in which the securities in the special purpose entity 
+are either acquired by the owner or by a qualified institutional buyer, as defined in 17 CFR 
+230.114A (a) (1) or pay a fixed rate of return commensurate with established asset-backed 
+institutional capital markets.(w) "Stranger-originated life insurance" or "STOLI" means an act, 
+practice, plan, or arrangement, individually or in concert with others, to initiate a life insurance 
+policy for the benefit of a 3rd-party investor who, at the time of policy origination, has no 
+insurable interest in the insured. STOLI includes cases in which life insurance is purchased with 
+resources or guarantees from or through a person or entity who, at the time of policy inception, 
+could not lawfully initiate the policy by the person or entity, and in which, at the time of 
+inception, there is an arrangement or agreement, whether verbal or written, to directly or 
+indirectly transfer the ownership of the policy or the policy benefits to a 3rd party. Trusts that are 
+created to give the appearance of insurable interest, and are used to initiate policies for investors, 
+violate insurable interest laws under s. 631.07 and the common law prohibition against wagering 
+on life. STOLI does not include a loan, agreement, assignment, arrangement, or transaction set 
+forth in sub. (1) (j) 2.(x) "Terminally ill" means having an illness or sickness that can reasonably 
+be expected to result in death in 24 months or less.(2) LICENSING REQUIREMENTS.(a)1. No 
+person may act as a provider or broker for an owner, without holding a license from the 
+commissioner.2. A licensed attorney or a certified public accountant who is retained to represent 
+the owner and whose compensation is not paid directly or indirectly by the provider or purchaser 
+may negotiate life settlement contracts on behalf of the owner without having to obtain a license 
+as a broker.(b) An applicant shall make an application for a license to the commissioner on a 
+form prescribed by the commissioner. For a broker's license, the applicant shall submit the fee 
+specified in s. 601.31 (1) (mr), subject to s. 601.31 (2m). For a provider's license, the applicant 
+shall submit the fee specified in s. 601.31 (1) (mm), subject to s. 601.31 (2m).(c) The 
+
+commissioner may not issue a license under this subsection unless the applicant provides his or 
+her social security number or its federal employer identification number or, if the applicant does 
+not have a social security number, a statement made or subscribed under oath or affirmation that 
+the applicant does not have a social security number. An applicant who is providing a statement 
+that he or she does not have a social security number, shall provide that statement along with the 
+application for a license on a form prescribed by the department of children and families. A 
+licensee shall provide to the commissioner the licensee's social security number, statement the 
+licensee does not have the social security number, or federal employment identification number 
+of the licensee at the time that the annual license renewal fee is paid, if not previously provided. 
+The commissioner shall disclose a social security number obtained from an applicant or licensee 
+to the department of children and families in the administration of s. 49.22, as provided in a 
+memorandum of understanding entered into under s. 49.857. The commissioner may disclose the 
+social security number or federal employment identification number of an applicant or licensee 
+to the department of revenue for the purpose of requesting certifications under s. 73.0301 and to 
+the department of workforce development for the purpose of requesting certifications under 
+s. 108.227.(d)1. The commissioner shall refuse to issue or renew a license under this subsection 
+if the person is delinquent in court-ordered payments of child or family support, maintenance, 
+birth expenses, medical expenses, or other expenses related to the support of a child or former 
+spouse, or if the person fails to comply, after appropriate notice, with a subpoena or warrant 
+issued by the department of children and families or a county child support agency under s. 59.53 
+(5) and related to paternity or child support proceedings, as provided in a memorandum of 
+understanding entered into under s. 49.857.2. The commissioner shall refuse to issue or renew a 
+license under this subsection if the department of revenue certifies under s. 73.0301 that the 
+applicant for the license or renewal of the license is liable for delinquent taxes or if the 
+department of workforce development certifies under s. 108.227 that the applicant for the license 
+or renewal of the license is liable for delinquent unemployment insurance contributions.(e) The 
+applicant shall provide information that the commissioner may require on forms prepared by the 
+commissioner. The commissioner may require the applicant, at any time, to fully disclose the 
+identity of its partners, officers, employees, and stockholders, except stockholders owning fewer 
+than 10 percent of the shares of an applicant whose shares are publicly traded. The commissioner 
+may refuse to issue a license if not satisfied that any officer, employee, stockholder, or partner 
+who may materially influence the applicant's conduct meets the standards of this section.(f) A 
+license issued to a partnership, corporation, or other entity authorizes all members, officers, and 
+designated employees to act as a licensee under the license, if those persons are named in the 
+application or any supplements to the application.(g) Upon the filing of an application and the 
+payment of the license fee, the commissioner shall make an investigation of each applicant and 
+shall issue a license if the commissioner finds that the applicant satisfies all of the following:1. If 
+applying for a provider license, has provided a detailed plan of operation.2. Is competent and 
+trustworthy and intends to transact its business in good faith.3. Has a good business reputation 
+and has either the experience, training, or education so as to be qualified in the business for 
+which the license is applicable.4.a. If applying for a provider license, has demonstrated evidence 
+of financial responsibility in a format prescribed by the commissioner through either a surety 
+bond executed and issued by an insurer authorized to issue surety bonds in this state or a deposit 
+of cash, certificates of deposit, or securities or any combination of those in the amount of 
+$250,000. Any surety bond issued under this subd. 4. a. shall be in the favor of this state and 
+shall specifically authorize recovery by the commissioner on behalf of any person in this state 
+
+who sustains damages as the result of erroneous acts, failure to act, conviction of fraud, or 
+conviction of unfair practices by the provider. The commissioner shall accept as evidence of 
+financial responsibility proof that financial instruments in accordance with the requirements in 
+this subd. 4. a. have been filed in one state where the applicant is licensed as a provider.b. If 
+applying for a broker license, has provided proof of the acquisition of a policy of professional 
+liability insurance in an amount that is satisfactory to the commissioner.5. If the applicant is a 
+legal entity, is formed or organized under the laws of this state or is a foreign legal entity 
+authorized to transact business in this state, or provides a certificate of good standing from the 
+state of its domicile.6. Has provided to the commissioner an antifraud plan that meets the 
+requirements of sub. (15) (i).7. Has completed the initial training course under sub. (3) 
+(e).(h) The commissioner may request evidence of financial responsibility under par. (g) 4. from 
+an applicant at any time the commissioner deems necessary.(i) The commissioner shall not issue 
+any license to any nonresident applicant, unless a written designation of an agent for service of 
+process is filed and maintained with the commissioner or unless the applicant has filed with the 
+commissioner the applicant's irrevocable consent that any action against the applicant may be 
+commenced against the applicant by service of process on the commissioner in accordance with 
+the procedures set forth in ss. 601.72 and 601.73.(j) Licenses may be renewed annually on July 1 
+upon payment of the fee specified in s. 601.31 (1) (ms) by a broker, or the fee specified in 
+s. 601.31 (1) (mp) by a provider. Failure to pay the fee by the renewal date shall result in the 
+automatic revocation of the license.(k) Each licensee shall file with the commissioner on or 
+before the first day of March of each year an annual statement containing the information 
+required under sub. (6) (a) and any information the commissioner requires by rule.(l) A provider 
+may not use any person to perform the functions of a broker unless the person holds a current, 
+valid license as a broker.(m) A broker may not use any person to perform the functions of a 
+provider unless the person holds a current, valid license as a provider.(n) A provider or broker 
+shall provide to the commissioner new or revised information about officers, partners, directors, 
+members, designated employees, or stockholders, except stockholders owning fewer than 10 
+percent of the shares of a provider or broker whose shares are publicly traded, within 30 days of 
+the change.(o) The insurer that issued the policy that is the subject of a life settlement contract 
+may not be held responsible for any act or omission of a broker or provider arising out of or in 
+connection with the life settlement, unless the insurer receives compensation for the placement of 
+a life settlement contract from the broker or provider or from a purchaser in connection with the 
+life settlement contract.(3) TRAINING.(a) An individual applicant for a license under sub. (2) or 
+a licensee who engages in the business of life settlements in this state shall receive training to 
+ensure all of the following:1. The individual understands the relation of life settlement 
+transactions to the integrity of a comprehensive financial plan of an owner.2. The individual has 
+adequate knowledge to competently discuss the material aspects of life settlements with an 
+owner.3. The individual complies with the laws of this state relating to life 
+settlements.(b) Training required under this subsection must be approved by the commissioner 
+and provided by an education provider that is approved by the commissioner. The commissioner 
+may approve the training required under this subsection for continuing education under s. 628.04 
+(3). Training required under this subsection shall not increase the credit hours of continuing 
+education required by statute or rule. Certification and reporting of completion of the required 
+training shall comply with the requirements of s. Ins 28.07, Wis. Adm. Code. Any person failing 
+to meet the requirements of this subsection shall be subject to the penalties imposed by the 
+commissioner.(c) The satisfaction of the training requirements of another state that are 
+
+substantially similar to the requirements set forth in this subsection, and are approved by the 
+commissioner, satisfy the requirements of this subsection.(d) Training provided under this 
+subsection shall include all of the following topics, at a minimum:1. Legal structuring of life 
+settlements.2. Legal relationships among the parties to a life settlement.3. Required disclosures 
+and privacy requirements.4. Ethical considerations in selling, soliciting, and negotiating life 
+settlements.5. Contract requirements.6. Advertising.7. Remedies.8. Licensing 
+requirements.9. Additional matters as determined by the commissioner.(e) An individual 
+applicant for a license under sub. (2) shall complete an initial training course of not less than 8 
+hours. An electronic confirmation of completion of initial training shall accompany the 
+application for initial licensure. A licensee shall complete training of not less than 4 hours every 
+24 months after the initial training course. A person who holds a license under s. 632.68, 2007 
+stats., on November 1, 2010, shall complete initial training within 6 months after November 1, 
+2010.(4) LICENSE SUSPENSION, REVOCATION, OR REFUSAL TO RENEW.(a) The 
+commissioner may suspend, revoke, or refuse to renew the license of any licensee if, after a 
+hearing, the commissioner finds any of the following:1. Any material misrepresentation in the 
+application for the license.2. That the licensee or any officer, partner, member, or director of the 
+licensee is guilty of fraudulent or dishonest practices, is subject to a final administrative action, 
+or is otherwise shown to be untrustworthy or incompetent to act as a licensee.3. If the licensee is 
+a provider, that the licensee demonstrates a pattern of unreasonably withholding payments to 
+owners.4. That the licensee no longer meets the requirements for licensure.5. That the licensee or 
+any officer, partner, member, or director of the licensee has been convicted of a felony or of any 
+misdemeanor of which criminal fraud is an element or has pleaded other than not guilty with 
+respect to any felony or any misdemeanor of which criminal fraud or moral turpitude is an 
+element, regardless whether a judgment of conviction has been entered by the court.6. If the 
+licensee is a provider, that the licensee has entered into any life settlement contract the form of 
+which has not been approved by the commissioner under this section.7. If the licensee is a 
+provider, that the licensee has failed to honor obligations set out in a life settlement contract.8. If 
+the licensee is a provider, that the licensee has assigned, transferred, or pledged a settled policy 
+to a person other than a provider licensed in this state, a purchaser, an accredited investor as 
+defined in 17 CFR 230.501 (a) or a qualified institutional buyer as defined in 17 CFR 230.144A 
+(a) (1), a financing entity, a special purpose entity, or a related provider trust.9. That the licensee 
+or any officer, partner, member, or key management personnel has violated any of the provisions 
+of this section.(b) Nothing in this subsection limits the authority of the commissioner to 
+summarily suspend a license under s. 227.51 (3).(c) The commissioner shall suspend a license if 
+the licensee is delinquent in court-ordered payments of child or family support, maintenance, 
+birth expenses, medical expenses, or other expenses related to the support of a child or former 
+spouse or if the licensee fails to comply, after appropriate notice, with a subpoena or warrant 
+issued by the department of children and families or a county child support agency under s. 59.53 
+(5) that is related to paternity or child support proceedings, as provided in a memorandum of 
+understanding entered into under s. 49.857.(d) The commissioner shall revoke the license of a 
+licensee if the department of revenue certifies under s. 73.0301 that the licensee is liable for 
+delinquent taxes or if the department of workforce development certifies under s. 108.227 that 
+the licensee is liable for delinquent unemployment insurance contributions.(5) CONTRACT 
+REQUIREMENTS.(a) No person may use a life settlement contract form or provide to an owner 
+a disclosure statement form in this state unless first filed with and approved by the 
+commissioner. The form is approved if the commissioner does not disapprove of the form within 
+
+30 days after filing or within a 30-day extension of that period ordered by the commissioner 
+before the expiration of the first 30 days. To disapprove a form, the commissioner shall state in 
+writing the reasons for disapproval sufficiently explicitly that the licensee is provided reasonable 
+guidance in reformulating its forms. The commissioner shall disapprove a life settlement contract 
+form or disclosure statement form if the commissioner determines the form or provisions 
+contained in the form fail to meet the requirements of this section, are unreasonable, are contrary 
+to the interests of the public, or are otherwise misleading or unfair to the owner.(b) No insurer 
+may, as a condition of responding to a request for verification of coverage or in connection with 
+the transfer of a policy under a life settlement contract, require that the owner, insured, provider, 
+or broker sign any form, disclosure, consent, waiver, or acknowledgment that has not been 
+expressly approved by the commissioner for use in connection with life settlement contracts in 
+this state.(6) REPORTING REQUIREMENTS AND PRIVACY.(a)1. In addition to any other 
+requirements, the annual statement that is filed with the commissioner shall specify the total 
+number, aggregate face amount, and life settlement proceeds of policies settled during the 
+immediately preceding calendar year, together with a breakdown of the information by policy 
+issue year. The annual statement shall also include the names of the insurance companies whose 
+policies have been settled and the brokers that were involved in settling the policies. Each 
+provider shall provide in the annual statement any information about any policy settled within 5 
+years of policy issuance that the commissioner may prescribe by rule.2. Information provided in 
+the annual statement shall be limited to those transactions in which the owner is a resident of this 
+state and shall not include individual transaction data regarding the business of life settlements or 
+information that there is a reasonable basis to believe could be used to identify the owner or the 
+insured.3. Every provider that willfully fails to file an annual statement as required in this 
+section, or willfully fails to reply within 30 days to a written inquiry by the commissioner 
+regarding the annual statement, shall be subject to a forfeiture under s. 601.64 (3) (c) and to 
+license suspension, revocation, or nonrenewal.(b) A provider, broker, insurance company, 
+producer, information bureau, rating agency or company, or any other person with actual 
+knowledge of an insured's identity, shall not disclose the identity of an insured or information 
+that there is a reasonable basis to believe could be used to identify the insured or the insured's 
+financial or medical information to any other person unless one of the following applies:1. The 
+disclosure is necessary to effect a life settlement contract between the owner and a provider, and 
+the owner and insured have provided prior written consent to the disclosure.2. The disclosure is 
+necessary to effectuate a sale of life settlement contracts, or interests in life settlement contracts, 
+as investments, if the sale is conducted in accordance with applicable state and federal securities 
+law and if the owner and the insured have both provided prior written consent to the 
+disclosure.3. The disclosure is provided in response to an investigation or examination by the 
+commissioner or any other governmental officer or agency or pursuant to the requirements of 
+sub. (15).4. The disclosure is a term or condition of the transfer of a policy by one provider to 
+another provider. In such cases, the receiving provider shall be required to comply with the 
+confidentiality requirements of this subsection.5. The disclosure is necessary to allow the 
+provider or broker or their authorized representatives to make contacts for the purpose of 
+determining health status. For the purposes of this subdivision, "authorized representative" does 
+not include any person who has or may have any financial interest in the life settlement contract 
+other than a provider, broker, financing entity, related provider trust, or special purpose entity. A 
+provider or broker shall require its authorized representative to agree in writing to adhere to the 
+privacy provisions of this subsection.6. The disclosure is required to purchase stop loss 
+
+coverage.(c) Nonpublic personal information solicited or obtained in connection with a proposed 
+or actual life settlement contract shall be subject to all applicable laws of this state relating to 
+confidentiality of nonpublic personal information.(7) EXAMINATIONS AND 
+ALTERNATIVES.(a) The commissioner may, whenever the commissioner determines it is 
+necessary in order to be informed about any matter related to the enforcement of this section, 
+examine the business and affairs of any licensee or applicant for a license, under the provisions 
+of ss. 601.43 to 601.45.(b) The commissioner shall consider names and individual identification 
+data for all owners, purchasers, and insureds private and confidential information and shall not 
+disclose names or identification data unless the disclosure is to another regulator or is required 
+by law.(c)1. A person required to be licensed by this section shall for 5 years retain, and make 
+available to the commissioner for inspection at all reasonable times in accordance with s. 601.42, 
+copies of all of the following:a. Proposed, offered, or executed life settlement contracts, purchase 
+agreements, underwriting documents, policy forms, and applications from the date of the 
+proposal, offer, or execution of a life settlement contract or purchase agreement, whichever is 
+later.b. All checks, drafts, or other evidence and documentation related to the payment, transfer, 
+deposit, or release of funds from the date of the financing transaction, life settlement, or purchase 
+agreement.c. All other records and documents related to the requirements of this 
+section.2. Records required to be retained under subd. 1. must be legible and complete and may 
+be retained in paper, photograph, microprocess, magnetic, mechanical or electronic media, or by 
+any process that accurately reproduces or forms a durable medium for reproduction of a 
+record.(8) DISCLOSURES TO OWNER; DISCLOSURE TO INSURED.(a)1. With each 
+application for a life settlement, a provider or broker shall disclose to the owner, in a separate 
+document that is signed by the owner and the provider or broker, at least all of the following 
+information no later than the time the application for the life settlement is signed by all 
+parties:a. That there are possible alternatives to life settlement contracts, including any 
+accelerated death benefits or policy loans offered under the owner's policy.b. That the broker 
+represents exclusively the owner, and not the insurer or the provider, and owes a fiduciary duty 
+to the owner, including the duty to act according to the owner's instructions and in the best 
+interest of the owner.c. That some or all of the proceeds of the life settlement may be taxable 
+under federal income tax and state franchise and income tax laws, and the owner should seek 
+assistance from a professional tax advisor.d. That proceeds from a life settlement may be subject 
+to the claims of creditors.e. That receipt of proceeds from a life settlement may adversely affect 
+the owner's eligibility for Medical Assistance or other government benefits or entitlements, and 
+the owner should seek advice from the appropriate government agencies.f. That the owner has a 
+right to rescind a life settlement contract before the earlier of 30 calendar days after the date 
+upon which the life settlement contract is executed by all parties or 15 calendar days after the life 
+settlement proceeds have been paid to the owner, as provided in sub. (11) (d). Rescission, if 
+exercised by the owner, is effective only if both notice of the rescission is given and the owner 
+repays all proceeds and any premiums, loans, and loan interest paid on account of the life 
+settlement within the rescission period. If the insured dies during the rescission period, the life 
+settlement contract is rescinded, subject to repayment by the owner or the owner's estate to the 
+provider or purchaser of all life settlement proceeds, and any premiums, loans, and loan interest 
+that have been paid by the provider or purchaser, which shall be repaid within 60 calendar days 
+of the death of the insured.g. That funds will be sent to the owner within 3 business days after the 
+provider has received the insurer's or group administrator's written acknowledgement that 
+ownership of the policy or interest in the certificate has been transferred and the beneficiary has 
+
+been designated.h. That entering into a life settlement contract may cause other rights or 
+benefits, including conversion rights and waiver of premium benefits that may exist under the 
+policy, to be forfeited by the owner, and the owner should seek assistance from a professional 
+financial advisor.i. The language: "All medical, financial, or personal information solicited or 
+obtained by a provider or broker about an insured, including the insured's identity or the identity 
+of family members, a spouse, or a significant other, may be disclosed as necessary to effect the 
+life settlement between the owner and provider. If you are asked to provide this information, you 
+will be asked to consent to the disclosure. The information may be provided to someone who 
+buys the policy or provides funds for the purchase. You may be asked to renew your permission 
+to share information every 2 years."j. That, following execution of a life settlement contract, the 
+insured may be contacted for the purpose of determining the insured's health status and to 
+confirm the insured's residential or business street address and telephone number, or as otherwise 
+allowed in this section. This contact shall be limited to once every 3 months if the insured has a 
+life expectancy of more than one year and no more than once per month if the insured has a life 
+expectancy of one year or less. All such contacts with the insured shall be made only by a 
+provider licensed in the state in which the owner resided at the time of the life settlement, or by 
+an authorized representative of the provider.2. At the time the disclosures in subd. 1. are 
+provided, the broker or provider shall provide to the owner a brochure describing the process of 
+life settlements that is approved by the commissioner.(b) A provider shall disclose to the owner, 
+either conspicuously displayed in the life settlement contract or in a separate document signed by 
+the owner, at least all of the following information no later than the date the life settlement 
+contract is signed by all parties:1. The affiliation, if any, between the provider and the issuer of 
+the policy to be settled.2. The name, business address, and telephone number of the 
+provider.3. Any affiliation or contractual arrangements between the provider and the 
+purchaser.4. If a policy to be settled has been issued as a joint policy or involves family riders or 
+any coverage of a life other than that of the insured under the policy to be settled, the possible 
+loss of coverage on the other lives under the policy, together with a statement advising the owner 
+to consult with the insurer issuing the policy for advice concerning the proposed life 
+settlement.5. The dollar amount of the current death benefit that will be payable to the provider 
+under the policy. If known, the provider shall also disclose the availability of any additional 
+guaranteed insurance benefits, the dollar amount of any accidental death and dismemberment 
+benefits under the policy, and the extent to which the owner's interest in those benefits will be 
+transferred as a result of the life settlement contract.6. That the funds will be escrowed with an 
+independent 3rd party during the transfer process; the name, business address, and telephone 
+number of the independent 3rd party escrow agent; and that the owner may inspect or receive 
+copies of the relevant escrow or trust agreements or documents.(c) A broker shall disclose to the 
+owner, either conspicuously displayed in the life settlement contract or in a separate document 
+signed by the owner, at least all of the following information no later than the date the life 
+settlement contract is signed by all parties:1. The name, business address, and telephone number 
+of the broker.2. A full, complete, and accurate description of all offers, counteroffers, 
+acceptances, and rejections related to the proposed life settlement contract.3. A written statement 
+of any affiliation or contractual arrangement between the broker and any person making an offer 
+in connection with the proposed life settlement contract.4. The amount of the broker's 
+compensation, including anything of value paid or given to the broker for the placement of the 
+policy.5. If any portion of the broker's compensation is taken from a proposed life settlement, the 
+total amount of the life settlement offer and the percentage of the life settlement comprised by 
+
+the broker's compensation.(d) If the provider transfers ownership or changes the beneficiary of 
+the policy, the provider shall communicate in writing the change in ownership or beneficiary to 
+the insured within 20 days after the change.(9) DISCLOSURES TO PURCHASER.(a)1. A 
+provider shall disclose to a purchaser, conspicuously displayed in the purchase agreement or in a 
+separate document signed by the purchaser and provider, at least all of the following information 
+prior to the date the purchase agreement is signed by all parties:a. That the purchaser will receive 
+no returns, including dividends and interest, until the insured dies and a death claim payment is 
+made.b. That the actual rate of return on a life settlement contract is dependent upon an accurate 
+projection of the insured's life expectancy and the actual date of the insured's death and that an 
+annual guaranteed rate of return is not determinable.c. That the settled policy should not be 
+considered a liquid purchase since it is impossible to predict the exact timing of its maturity and 
+the funds are not available until the death of the insured and that there is no established 
+secondary market for resale of a settled policy by the purchaser.d. That the purchaser may lose 
+all benefits or may receive substantially reduced benefits if the insurer goes out of business 
+during the contract term of the life settlement investment.e. That the purchaser is responsible for 
+payment of the insurance premiums or other costs related to the policy, if required by the terms 
+of the purchase agreement, even if the insured returns to health, and that the payments may 
+reduce the purchaser's return. If a party other than the purchaser is responsible for the payment, 
+the name and address of the party responsible for payment shall be disclosed.f. The amount of 
+the premiums, if applicable.g. The name, business address, and telephone number of the 
+independent 3rd party providing escrow services and any relationship to the broker.h. The 
+amount of any trust fees or expenses to be charged the purchaser.i. Whether the purchaser is 
+entitled to a refund of all or part of the purchaser's investment under the purchase agreement if 
+the policy is later determined to be null and void.j. That group policies may contain limitations 
+or caps in the conversion rights, that additional premiums may have to be paid if the policy is 
+converted, the name of the party responsible for payment of any additional premiums, and that if 
+a group policy is terminated and replaced by another group policy, there may be no right to 
+convert the original coverage.k. The risks associated with policy contestability, including the risk 
+that the purchaser will have no claim or only a partial claim to death benefits should the insurer 
+rescind the policy within the contestability period.l. Whether the purchaser will be the owner of 
+the policy in addition to being the beneficiary, and if the purchaser is the beneficiary only and 
+not also the owner, the special risks associated with that status, including the risk that the 
+beneficiary may be changed or the premium may not be paid.m. The experience and 
+qualifications of the person who determines the life expectancy of the insured, including in-
+house staff, independent physicians, and specialty firms that weigh medical and actuarial data, 
+the information the projection is based on, and the relationship of the projection maker to the 
+provider, if any.2. At the time the disclosures in subd. 1. are provided, the provider shall provide 
+to the purchaser a brochure approved by the commissioner describing the process of the purchase 
+of a settled policy.(b) A provider shall disclose to a purchaser, in a document signed by the 
+purchaser and provider, at least all of the following no later than at the time of the assignment, 
+transfer, or sale of all of or an interest in a policy:1. All the life expectancy certifications 
+obtained by the provider in the process of determining the price to be paid to the 
+owner.2. Whether the premium payments or other costs related to the policy have been escrowed 
+and, if so, the date upon which the escrowed funds will be depleted, whether the purchaser will 
+be responsible for payment of premiums after the depletion of escrowed funds, and the amount 
+of the premium if the purchaser is responsible for payment.3. Whether the premiums or other 
+
+costs related to the policy have been waived and, if so, whether the purchaser will be responsible 
+for payment of the premiums if the insurer that issued the policy terminates the waiver after 
+purchase and, if so, the amount of the premiums.4. Whether the type of policy offered or sold is 
+whole life, term life, universal life, a group policy, or another type of policy, any additional 
+benefits contained in the policy, and the current status of the policy.5. If the policy is term 
+insurance, the special risks associated with term insurance including the purchaser's 
+responsibility for additional premiums if the owner continues the term policy at the end of the 
+current term.6. Whether the policy is contestable.7. Whether the insurer that issued the policy has 
+any additional rights that could negatively affect or extinguish the purchaser's rights under the 
+purchase agreement and, if so, what those rights are and under what conditions those rights are 
+activated.8. The name and address of the person responsible for monitoring the insured's 
+condition, how often the monitoring is done, how the date of death is determined, and how and 
+when the information will be transmitted to the purchaser.(10) DISCLOSURE TO INSURER. 
+Before initiating a plan, transaction, or series of transactions, a broker or provider shall fully 
+disclose to the insurer a plan, transaction, or series of transactions to which the broker or 
+provider is a party to originate, renew, continue, or finance a policy with the insurer for the 
+purpose of engaging in the business of life settlements at any time prior to, or during the first 5 
+years after, issuance of the policy.(11) GENERAL REQUIREMENTS.(a)1. Before entering into 
+a life settlement contract, a provider shall obtain all of the following:a. If the owner is the 
+insured, a written statement from a licensed attending physician that the owner is of sound mind 
+and under no constraint or undue influence to enter into a life settlement contract.b. A document 
+in which the insured consents to the release of his or her medical records to a licensed provider, 
+licensed broker, and the insurer that issued the policy covering the life of the insured.2. Within 
+20 days after an owner executes documents necessary to transfer any rights under a policy or 
+within 20 days after the owner enters any agreement, option, promise, or any other form of 
+understanding, express or implied, to settle the policy, the provider shall give written notice to 
+the insurer that issued the policy that the policy has or will become a settled policy.3. The 
+provider shall deliver a copy of the medical release required under subd. 1. b., a copy of the 
+owner's application for the life settlement contract, the notice required under subd. 2., and a 
+request for verification of coverage to the insurer that issued the policy that is the subject of the 
+life settlement. The provider shall use a form created by the National Association of Insurance 
+Commissioners for verification of coverage unless the commissioner develops and approves 
+another form.4. The insurer shall respond to a request for verification of coverage that is 
+submitted on an approved form by a provider or broker within 30 calendar days after the date the 
+request is received and shall indicate whether, based on the medical evidence and documents 
+provided, the insurer intends to pursue an investigation regarding the validity of the insurance 
+contract or possible fraud. The insurer shall accept a request for verification of coverage made on 
+a form created by the National Association of Insurance Commissioners or any other form 
+approved by the commissioner, and shall accept an original, facsimile, or electronic copy of the 
+request and any accompanying signed authorization.5. Before or at the time of execution of the 
+life settlement contract, the provider shall obtain a witnessed document in which the owner does 
+all of the following:a. Consents to the life settlement contract.b. Represents that he or she has a 
+complete understanding of the life settlement contract.c. Represents that he or she has a complete 
+understanding of the benefits of the policy.d. Acknowledges that he or she is entering into the 
+life settlement contract freely and voluntarily.e. If applicable, acknowledges that the insured has 
+a terminal or chronic illness and that the terminal or chronic illness or condition was diagnosed 
+
+after the policy was issued.6. If a broker performs any of the activities required in subd. 1., 2., 3., 
+or 5., the provider shall be considered to have performed that activity.(b) All medical 
+information solicited or obtained by any licensee shall be subject to the applicable provisions of 
+state law relating to confidentiality of medical information, including s. 610.70.(c) All life 
+settlement contracts entered into in this state shall provide the owner with an absolute right to 
+rescind the contract before the earlier of 30 calendar days after the date on which the life 
+settlement contract is executed by all parties or 15 calendar days after the life settlement 
+proceeds have been sent to the owner as provided in par. (d). Rescission by the owner may be 
+conditioned upon the owner both giving notice and repaying to the provider, within the 
+rescission period, all proceeds of the settlement and any premiums, loans, and loan interest paid 
+by or on behalf of the provider in connection with or as a consequence of the life settlement. If 
+the insured dies during the rescission period, the life settlement contract is rescinded, subject to 
+repayment, within 60 calendar days after the death of the insured, by the owner or the owner's 
+estate to the provider or purchaser of all life settlement proceeds and any premiums, loans, and 
+loan interest that have been paid by the provider or purchaser. If a life settlement contract is 
+rescinded under this paragraph, ownership of the policy shall revert to the owner or the owner's 
+estate if the owner is deceased, irrespective of any transfer of ownership of the policy by the 
+owner, provider, or any other person. In the event of any rescission, if the provider has paid 
+commissions or other compensation to a broker in connection with the rescinded life settlement 
+contract, the broker shall refund the commissions and compensation to the provider within 5 
+business days following receipt of written demand from the provider, which demand shall be 
+accompanied by the applicable document initiating the rescission within the rescission period, 
+either the owner's notice of rescission or the notice of death of the insured.(d) The provider shall 
+instruct the owner to send the executed documents required to effect the change in ownership, 
+assignment, or change in beneficiary directly to the independent escrow agent. Within 3 business 
+days after the date the independent escrow agent receives the documents, or after the date the 
+provider receives the documents if the owner erroneously provides the documents directly to the 
+provider, the provider shall pay or transfer the proceeds of the life settlement into an escrow or 
+trust account that is maintained in a state or federally chartered financial institution whose 
+deposits are insured by the Federal Deposit Insurance Corporation and managed by an 
+independent trustee or escrow agent. Upon payment of the life settlement proceeds into the 
+escrow account, the independent escrow agent shall deliver the original change in ownership, 
+assignment, or change in beneficiary form to the provider or related provider trust or other 
+designated representative of the provider. Upon the escrow agent's receipt of acknowledgement 
+of the properly completed transfer of ownership, assignment, or designation of beneficiary from 
+the insurer, the independent escrow agent shall pay the life settlement proceeds to the 
+owner.(e) Failure to tender the life settlement proceeds to the owner within the time set forth in 
+the disclosure under sub. (8) (a) 1. g., renders the life settlement contract voidable by the owner 
+for lack of consideration until the time the proceeds are tendered to and accepted by the owner. 
+Funds are sent by a provider to an owner as of the date that the escrow agent either releases 
+funds for wire transfer to the owner or places a check for delivery to the owner via the U.S. 
+postal service or other nationally recognized delivery service.(f) For the purpose of determining 
+the health status of the insured after the life settlement has occurred, only the provider or broker 
+licensed in this state or a person it authorizes may contact the insured. Contact with the insured 
+shall be limited to once every 3 months for an insured with a life expectancy of more than one 
+year, and to no more than once per month for an insured with a life expectancy or one year or 
+
+less. The provider or broker shall explain the procedure for the contacts to the owner at the time 
+the life settlement contract is entered into. The limitations in this paragraph do not apply to any 
+contacts with an insured for reasons other than determining the insured's health status. Providers 
+and brokers shall be responsible for the actions of a person they authorize to make the 
+contact.(12) PROHIBITED CONTRACTS; REQUIRED FORM; ACKNOWLEDGEMENT; 
+FIDUCIARY DUTY.(a) No person may enter into a life settlement contract at any time before 
+the application or issuance of a policy that is the subject of a life settlement contract or within a 
+5-year period commencing with the date of issuance of the policy unless any of the following 
+conditions have been met:1. The owner certifies to the provider that, within the 5-year period, the 
+policy was issued upon the owner's exercise of conversion rights arising out of a group or 
+individual policy, provided the total of the time covered under the conversion policy plus the 
+time covered under the prior policy is at least 60 months. The time covered under the group 
+policy shall be calculated without regard to any change in insurance carriers, if the coverage has 
+been continuous and under the same group sponsorship.2. The owner submits independent 
+evidence to the provider that any of the following conditions have been met within the 5-year 
+period:a. The owner or insured is terminally or chronically ill.b. The owner's spouse or child 
+dies.c. The owner divorces his or her spouse.d. The owner retires from full-time 
+employment.e. The owner becomes physically or mentally disabled and a physician determines 
+that the disability prevents the owner from maintaining full-time employment.f. A final order, 
+judgment, or decree is entered by a court of competent jurisdiction, on the application of a 
+creditor of the owner, adjudicating the owner bankrupt or insolvent, approving a petition seeking 
+reorganization of the owner, or appointing a receiver, trustee, or liquidator to all or a substantial 
+part of the owner's assets.g. The sole beneficiary of the policy is a family member of the owner 
+and the beneficiary dies.h. The owner is a charitable organization with an insurable interest that 
+has received from the federal Internal Revenue Service a determination letter that is currently in 
+effect stating that the charitable organization is described in section 501 (c) (3) of the Internal 
+Revenue Code and is exempt from federal income taxation under section 501 (a) of the Internal 
+Revenue Code.i. The owner or insured disposes of ownership interests in a closely held 
+corporation pursuant to the terms of a buyout or other similar agreement in effect at the time the 
+policy was initially issued.j. Other circumstances exist that are established as eligible exemptions 
+by the commissioner by rule, including substantial adverse financial circumstances or other 
+factors substantially affecting the owner.3. The owner certifies to the provider that the owner is 
+entering into a life settlement contract more than 2 years after the date of issuance of a policy 
+and, with respect to the policy, at all times before the date that is 2 years after policy issuance all 
+of the following conditions are met:a. Policy premiums are funded exclusively with 
+unencumbered assets, including an interest in the policy being financed only to the extent of its 
+net cash surrender value, provided by, or full recourse liability incurred by, the owner or a person 
+described in sub. (1) (j) 2. e.b. There is no agreement or understanding with any other person to 
+guarantee any liability or to purchase, or stand ready to purchase, the policy, including through 
+an assumption or forgiveness of a loan.c. Neither the insured nor the policy has been evaluated 
+for settlement.(b) Copies of the independent evidence described in par. (a) 2. and documents 
+required by sub. (11) (a) shall be submitted to the insurer when the provider entering into a life 
+settlement contract with an owner submits a request to the insurer for verification of coverage. 
+The provider shall submit, along with the copies, a letter of attestation from the provider that the 
+copies are true and correct copies of the documents received by the provider.(c) If the provider 
+submits to the insurer a copy of the owner's certification under par. (a) 1. or 3. or independent 
+
+evidence under par. (a) 2. when the provider submits a request to the insurer to effect the transfer 
+of the policy to the provider, the copy conclusively establishes that the life settlement contract 
+satisfies the requirements of this subsection and the insurer shall timely respond to the 
+request.(d) No insurer may, as a condition of responding to a request for verification of coverage 
+or effecting the transfer of a policy pursuant to a life settlement contract, require that the owner, 
+insured, provider, or broker sign any form, disclosure, consent, or waiver that has not been 
+expressly approved by the commissioner for use in connection with life settlement contracts in 
+this state.(e) Upon receipt of a properly completed request for change of ownership or 
+beneficiary of a policy, the insurer shall respond in writing within 30 calendar days with 
+acknowledgement confirming that the change has been effected or specifying the reasons why 
+the requested change cannot be processed.(f) A broker represents only the owner and owes a 
+fiduciary duty to the owner to act according to the owner's instructions and in the best interest of 
+the owner, notwithstanding the manner in which the broker is compensated.(13) PROHIBITED 
+PRACTICES AND CONFLICTS OF INTEREST.(a) No person may enter into a life settlement 
+contract if the person knows or reasonably should have known that the policy that is the subject 
+of the life settlement contract was obtained by means of a false, deceptive, or misleading 
+application for the policy.(b) No person may engage in any transaction, practice, or course of 
+business if the person knows or reasonably should know that the intent is to avoid the notice 
+requirements of this section.(c) No person may engage in any fraudulent act or practice in 
+connection with any transaction relating to any life settlement involving an owner.(d) No person 
+may issue, solicit, market, or otherwise promote the purchase of a policy for the primary purpose 
+of or with a primary emphasis on settling the policy.(e) No person may enter into a premium 
+finance agreement with any person or agency, or any person affiliated with such person or 
+agency, pursuant to which the person who is providing premium financing receives any 
+proceeds, fees, or other consideration, directly or indirectly, from the policy or owner of the 
+policy or any other person with respect to the premium finance agreement or any life settlement 
+contract or other transaction related to the policy that is in addition to the amounts required to 
+pay the principal, interest, and service charges related to policy premiums pursuant to the 
+premium finance agreement or subsequent sale of the agreement. Any payments, charges, fees, 
+or other amounts in addition to the amounts required to pay the principal, interest, and service 
+charges related to policy premiums paid under the premium finance agreement shall be remitted 
+to the original owner of the policy or to the owner's estate if the owner is not living at the time of 
+the determination of the overpayment.(f) With respect to any life settlement contract or policy, 
+no broker may knowingly solicit an offer from, effectuate a life settlement with, or make a sale 
+to any provider, purchaser, financing entity, or related provider trust that is controlling, 
+controlled by, or under common control with the broker unless the relationship is disclosed to the 
+owner.(g) With respect to any life settlement contract or policy, no provider may knowingly 
+enter into a life settlement contract with an owner, if, in connection with the life settlement 
+contract, anything of value will be paid to a broker that is controlling, controlled by, or under 
+common control with the provider or the purchaser, financing entity, or related provider trust that 
+is involved in the life settlement contract unless the relationship is disclosed to the owner.(h) No 
+life settlement promotional, advertising, or marketing materials may represent that the insurance 
+is "free" for any period of time, or include any reference that would cause an owner to 
+reasonably believe that the insurance is free for any period of time.(i) No producer, insurer, 
+broker, or provider may make any statement or representation to an applicant or policyholder in 
+connection with the sale or financing of a policy to the effect that the insurance is free or without 
+
+cost to the policyholder for any period of time unless provided in the 
+policy.(14) ADVERTISEMENTS OF LIFE SETTLEMENT CONTRACTS AND PURCHASE 
+AGREEMENTS.(a) This subsection applies to any advertising of life settlement contracts, 
+purchase agreements, or related products or services intended for dissemination in this state, 
+including Internet advertising viewed by persons located in this state.(b) If disclosure 
+requirements are established by federal regulation, this subsection shall be interpreted so as to 
+minimize or eliminate conflict with federal regulation.(c) The commissioner may require a 
+broker or provider to submit advertising material at any time.(d) Every licensee shall establish 
+and maintain a system of control over the content, form, and method of dissemination of all 
+advertisements of its life settlement contracts, products, and services. All advertisements, 
+regardless who wrote, created, designed, or presented the advertisement, shall be the 
+responsibility of the licensee and the person who created or presented the advertisement. The 
+system of control shall include regular routine notification of the requirements and procedures 
+for approval prior to use of any advertisements not furnished by the licensee, at least once a year, 
+to producers, brokers, and others authorized by the licensee who disseminate 
+advertisements.(e) Advertisements shall be truthful and not misleading in fact or by implication. 
+The form and content of an advertisement of a life settlement contract or purchase agreement, 
+product, or service shall be sufficiently complete and clear so as to avoid deception. The 
+advertisement may not have the capacity or tendency to mislead or deceive. The commissioner 
+shall determine whether an advertisement has the capacity or tendency to mislead or deceive 
+from the overall impression that the advertisement may be reasonably expected to create upon a 
+person of average education or intelligence within the segment of the public to which it is 
+directed.(f) Disclosures that are required under this subsection may not be minimized, rendered 
+obscure, presented in an ambiguous fashion, or intermingled with the text of the advertisement so 
+as to be confusing or misleading.(g) An advertisement may not do any of the following:1. Omit 
+material information or use words, phrases, statements, references, or illustrations if the omission 
+or use has the capacity, tendency, or effect of misleading or deceiving an owner, purchaser, or 
+prospective purchaser as to the nature or extent of any benefit, covered loss, premium payable, or 
+state or federal tax consequences. A misleading statement is not remedied by any of the 
+following:a. Making the life settlement contract or purchase agreement available for inspection 
+prior to consummation of the sale.b. Offering to refund payment if the owner is not 
+satisfied.c. Including in the life settlement contract or purchase agreement a "free look" period 
+that satisfies or exceeds the requirements of law.2. Use the name or title of a life insurance 
+company or a policy unless the advertisement has been approved by the insurer.3. Represent that 
+premium payments will not be required on the policy that is the subject of a life settlement 
+contract or purchase agreement in order to maintain the policy unless that is the fact.4. State or 
+imply that interest charged on an accelerated death benefit or loan is unfair, inequitable, or, in 
+any manner, an incorrect or improper practice.5. Use the words "free," "no cost," "without cost," 
+"no additional cost," "at no extra cost," or similar words or phrases with respect to any benefit or 
+services, unless true. An advertisement may specify the charge for a benefit or service or may 
+state that a charge is included in the payment or use other appropriate language.6. Use 
+testimonials, appraisals, analyses, or endorsements in advertisements unless they are genuine; 
+represent the current opinion of the author; are applicable to the life settlement contract or 
+purchase agreement, product, or service advertised; and are reproduced with sufficient 
+completeness to avoid misleading or deceiving prospective owners or purchasers as to the nature 
+or scope of the testimonial, appraisal, analysis, or endorsement. Any financial interest in or 
+
+benefit received from the licensee by the person making a testimonial, appraisal, or analysis, 
+directly or indirectly, shall be prominently disclosed in the advertisement. If an endorsement 
+refers to benefits received under a life settlement contract or purchase agreement, the licensee 
+shall retain all pertinent information forming a basis of the endorsement for a period of 5 years 
+following its use.7. State or imply that a life settlement contract or purchase agreement, benefit, 
+or service has been approved or endorsed by a group, society, association, or other organization 
+unless that is the fact and unless any relationship between the organization and the licensee is 
+disclosed. If the entity making the endorsement is owned, controlled, or managed by the licensee, 
+or receives any payment or other consideration from the licensee for making an endorsement or 
+testimonial, that fact must be disclosed in the advertisement.8. Contain statistical information 
+unless the information accurately reflects recent and relevant facts. An advertisement shall 
+identify the source of all statistics used in the advertisement.9. Disparage insurers, providers, 
+brokers, producers, policies, services, or methods of marketing.10. Omit the name of the actual 
+licensee from any advertisement. No advertisement may use a trade name, group designation, 
+name of the parent company of a licensee, name of a division of a life settlement licensee, 
+service mark, slogan, symbol, or other device or reference if the advertisement would have the 
+capacity or tendency to mislead or deceive as to the true identity of the licensee or to create the 
+impression that any entity other than the licensee would have any responsibility for the financial 
+obligation under a life settlement contract or purchase agreement.11. Use any combination of 
+words, symbols, or physical materials that by the their content, phraseology, shape, color, or 
+other characteristics are so similar to a combination of words, symbols, or physical materials 
+used by a government program or agency that they tend to mislead or deceive prospective 
+owners or purchasers into believing the advertisement is in some manner connected with a 
+government program or agency.12. Exaggerate the fact that a licensee under this section is 
+licensed in the state where the advertisement appears or suggest or imply that competing 
+licensees may not be so licensed. An advertisement may ask the audience to consult the 
+licensee's website or contact the office of the commissioner for licensing requirements and the 
+status of a license.13. Create the impression, directly or indirectly, that a licensee; its business 
+practices or methods of operation; the merits, desirability, or advisability of any life settlement 
+contract or purchase agreement; or any life insurance company are recommended, approved, or 
+endorsed by any government entity.14. Emphasize the speed with which the settlement will 
+occur, except that the advertisement may disclose the average time from the completion of the 
+application to the date of offer and from the acceptance of the offer to receipt of the settlement 
+funds by the owner.15. Emphasize the dollar amounts available to an owner, except that the 
+advertisement may disclose the average purchase price as a percent of the face value obtained by 
+owners contracting with the licensee during the prior 6 months.(h) The name of the licensee shall 
+be clearly identified in all advertisements about the licensee or its life settlement contracts, 
+purchase agreements, products, or services. If any specific life settlement contract or purchase 
+agreement of a licensee is advertised, the contract or agreement shall be identified either by form 
+number or other appropriate description. If an application is part of the advertisement, the name 
+of the provider shall be shown on the application.(15) FRAUD PREVENTION AND 
+CONTROL; FRAUDULENT LIFE SETTLEMENT ACTS.(a) No person may commit a 
+fraudulent life settlement act.(b) No person may knowingly or intentionally interfere with the 
+enforcement of this subsection or sub. (13) or investigations of suspected or actual violations of 
+this subsection or sub. (13).(c) No person in the business of life settlements may knowingly or 
+intentionally permit any person convicted of a felony involving dishonesty or breach of trust to 
+
+participate in the business of life settlements.(d)1. Life settlement contracts, purchase 
+agreements, and applications for life settlements, regardless of the form of transmission, shall 
+contain the following statement or a substantially similar statement: "Any person who knowingly 
+presents false information in an application for insurance, a life settlement, or a purchase 
+agreement may be subject to civil and criminal penalties."2. A person may not use the lack of the 
+statement required under subd. 1. as a defense to any prosecution for a violation of this 
+subsection or sub. (13).(e)1. Any person engaged in the business of life settlements having 
+knowledge or a reasonable belief that a violation of this subsection or sub. (13) is being, will be, 
+or has been committed shall provide to the commissioner the information required by, and in a 
+manner prescribed by, the commissioner.2. Any other person having knowledge or a reasonable 
+belief that a violation of this subsection or sub. (13) is being, will be, or has been committed may 
+provide to the commissioner the information required by, and in a manner prescribed by, the 
+commissioner.(f)1. In the absence of actual malice, no civil liability shall be imposed on and no 
+cause of action shall arise from a person's furnishing information concerning suspected, 
+anticipated, or completed violations of this subsection or sub. (13) or suspected, anticipated, or 
+completed fraudulent insurance acts, if the information is provided to or received from any of the 
+following:a. The commissioner or the commissioner's employees, agents, or 
+representatives.b. Federal, state, or local law enforcement or regulatory officials or their 
+employees, agents, or representatives.c. A person involved in the prevention and detection of 
+fraud or that person's agents, employees, or representatives.d. The National Association of 
+Insurance Commissioners, the Financial Industry Regulatory Authority, the North American 
+Securities Administrators Association, or their employees, agents, or representatives or other 
+regulatory body overseeing life insurance, life settlements, securities, or investment fraud.e. The 
+life insurer that issued the policy covering the life of the insured.2. This paragraph does not 
+abrogate or modify common law or statutory privileges or immunities enjoyed by a person who 
+supplies information concerning suspected, anticipated, or completed fraudulent acts related to 
+life settlements or insurance.(g) Information, documents, and evidence provided under par. (e) or 
+obtained by the commissioner in an investigation of suspected or actual violations of this 
+subsection or sub. (13) shall be privileged and confidential, shall not be a public record, and shall 
+not be subject to discovery or subpoena in a civil or criminal action. The commissioner may 
+release information, documents, and evidence provided under par. (e) or obtained in an 
+investigation of suspected or actual violations of this subsection or sub. (13) in administrative or 
+judicial proceedings to enforce laws administered by the commissioner, to federal, state, or local 
+law enforcement or regulatory agencies, to an organization established for the purpose of 
+detecting and preventing fraud related to life settlements, to the National Association of 
+Insurance Commissioners, or, at the discretion of the commissioner, to a person in the business 
+of life settlements that is aggrieved by a violation of this subsection or sub. (13). Release by the 
+commissioner of information, documents, and evidence as set forth in this paragraph does not 
+abrogate, modify, or waive the privilege established in this paragraph.(h) This section does not 
+do any of the following:1. Preempt the authority or relieve the duty of law enforcement or 
+regulatory agencies other than the commissioner to investigate, examine, and prosecute 
+suspected violations of law.2. Prevent or prohibit a person from disclosing voluntarily 
+information concerning life settlement fraud to a law enforcement or regulatory agency other 
+than the commissioner.3. Limit the powers granted elsewhere by the laws of this state to the 
+commissioner to investigate and examine possible violations of law and to take appropriate 
+action.(i)1. Providers and brokers shall have in place antifraud initiatives reasonably calculated 
+
+to detect, prosecute, and prevent violations of this subsection and sub. (13). The commissioner 
+may modify the antifraud initiatives from time to time as necessary to ensure an effective 
+antifraud program and to accomplish the purpose of this paragraph.2. Antifraud initiatives shall 
+include having fraud investigators, who may be employees of the provider or broker or who may 
+be independent contractors, and an antifraud plan, which the provider or broker shall submit to 
+the commissioner and which shall include all of the following:a. A description of the procedures 
+that the provider or broker will use for detecting and investigating possible fraud and violations 
+of this subsection and sub. (13) and for resolving material inconsistencies between medical 
+records and insurance applications.b. A description of the procedures that the provider or broker 
+will use for reporting possible violations of this subsection and sub. (13) to the 
+commissioner.c. A description of the plan that the provider or broker will follow for antifraud 
+education and training of underwriters and other personnel.d. A description or chart outlining the 
+organizational arrangement of the antifraud personnel who are responsible for investigating and 
+reporting possible violations of this subsection and sub. (13) and investigating unresolved 
+material inconsistencies between medical records and insurance applications.3. Antifraud plans 
+submitted to the commissioner are privileged and confidential, are not a public record, and are 
+not subject to discovery or subpoena in a civil or criminal action.(16) CONFLICTS OF LAW. If 
+there is more than one owner on a single policy and the owners are residents of different states, a 
+life settlement shall be governed by the law of the state in which the owner having the largest 
+percentage ownership resides or, if the owners hold equal ownership, the state of residence of 
+one owner agreed upon in writing by all owners.(17) FRATERNAL BENEFIT SOCIETIES. 
+Nothing in this section shall prohibit a fraternal benefit society under ch. 614 from enforcing the 
+terms of its bylaws or rules regarding permitted beneficiaries and owners.(18) CIVIL ACTION. 
+Any person damaged by a violation of this section may bring a civil action against the person 
+committing the violation in a court of competent jurisdiction.(19) PENALTIES. Any person who 
+violates this section is subject to the penalties provided under s. 601.64, suspension or revocation 
+of a license or certificate of authority, and an order under s. 601.41.(20) POWERS OF 
+COMMISSIONER. The commissioner may do any of the following:(a) Adopt rules 
+implementing and administering this section.(b) Establish standards for evaluating the 
+reasonableness of payments under life settlement contracts for persons who are terminally or 
+chronically ill, including regulation of discount rates used to determine the amount paid in 
+exchange for assignment, transfer, sale, devise, or bequest of a benefit under a policy insuring 
+the life of a person who is terminally or chronically ill.(c) Establish appropriate licensing 
+requirements and standards for continued licensure for providers and brokers.(d) Require a bond 
+or other mechanism for financial accountability for providers and brokers.(e) Adopt rules 
+governing the relationship and responsibilities of insurers, providers, and brokers during 
+settlement of a policy. 
+Wis. Stat. § 632.69 
+ 

@@ -1,0 +1,902 @@
+State of Rhode Island: Life Settlements Statutes 
+General Laws of Rhode Island → Title 27 Insurance → Chapter 27-72 – Life Settlements Act 
+Section 27-72-1 - Title 
+This chapter may be cited and shall be known as the "Life Settlements Act." 
+R.I. Gen. Laws § 27-72-1 
+ 
+Section 27-72-2 - Definitions 
+As used in this chapter: 
+(1) "Advertisement" means any written, electronic or printed communication or any 
+communication by means of recorded telephone messages or transmitted on radio, television, the 
+Internet or similar communications media, including film strips, motion pictures and videos, 
+published, disseminated, circulated or placed before the public, directly or indirectly, for the 
+purpose of creating an interest in or inducing a person to purchase or sell, assign, devise, bequest 
+or transfer the death benefit or ownership of a life insurance policy or an interest in a life 
+insurance policy pursuant to a life settlement contract.(2) "Broker" means a person who, on 
+behalf of an owner and for a fee, commission or other valuable consideration, offers or attempts 
+to negotiate life settlement contracts between an owner and provider. A broker represents only 
+the owner and owes a fiduciary duty to the owner to act according to the owner's instructions, 
+and in the best interest of the owner, notwithstanding the manner in which the broker is 
+compensated. A broker does not include an attorney, certified public accountant or financial 
+planner retained in the type of practice customarily performed in their professional capacity to 
+represent the owner whose compensation is not paid directly or indirectly by the provider or any 
+other person, except the owner.(3) "Business of life settlements" means an activity involved in, 
+but not limited to, offering to enter into, soliciting, negotiating, procuring, effectuating, 
+monitoring, or tracking, of life settlement contracts.(4) "Chronically ill" means:(i) Being unable 
+to perform at least two (2) activities of daily living (i.e., eating, toileting, transferring, bathing, 
+dressing or continence);(ii) Requiring substantial supervision to protect the individual from 
+threats to health and safety due to severe cognitive impairment; or(iii) Having a level of 
+disability similar to that described in subdivision (i) as determined by the United States Secretary 
+of Health and Human Services.(5) "Commissioner" means the director of the department of 
+business regulation or his or her designee.(6) "Federally regulated entity" means a national bank, 
+thrift, credit union, or any entity registered or exempt from registration under 15 U.S.C. § 80a-
+1 et seq., 15 U.S.C. § 80b-1 et seq., 15 U.S.C. § 77a et seq., and 15 U.S.C. § 78a et seq., or any 
+affiliate thereof.(7) "Financing entity" means an underwriter, placement agent, lender, purchaser 
+of securities, purchaser of a policy or certificate from a provider, credit enhancer, or any entity 
+that has a direct ownership in a policy or certificate that is the subject of a life settlement 
+contract, but:(i) Whose principal activity related to the transaction is providing funds to effect the 
+life settlement contract or purchase of one or more policies; and(ii) Who has an agreement in 
+writing with one or more providers to finance the acquisition of life settlement contracts. 
+"Financing entity" does not include a non-accredited investor or purchaser. 
+
+(8) "Financing transaction" means a transaction in which a licensed provider obtains financing 
+from a financing entity including, without limitation, any secured or unsecured financing, any 
+securitization transaction, or any securities offering which either is registered or exempt from 
+registration under federal and state securities law.(9) "Fraudulent life settlement act" 
+includes:(i) Acts or omissions committed by any person who, knowingly and with intent to 
+defraud, for the purpose of depriving another of property or for pecuniary gain, commits, or 
+permits its employees or its agents to engage in acts including, but not limited to:(A) Presenting, 
+causing to be presented or preparing with knowledge and belief that it will be presented to or by 
+a provider, premium finance lender, broker, insurer, insurance producer or any other person, 
+false material information, or concealing material information, as part of, in support of, or 
+concerning a fact material to one or more of the following:(I) An application for the issuance of 
+a life settlement contract or insurance policy;(II) The underwriting of a life settlement contract or 
+insurance policy;(III) A claim for payment or benefit pursuant to a life settlement contract or 
+insurance policy;(IV) Premiums paid on an insurance policy;(V) Payments and changes in 
+ownership or beneficiary made in accordance with the terms of a life settlement contract or 
+insurance policy;(VI) The reinstatement or conversion of an insurance policy;(VII) In the 
+solicitation, offer to enter into, or effectuation of a life settlement contract, or insurance 
+policy;(VIII) The issuance of written evidence of life settlement contract or insurance;(IX) Any 
+application for or the existence of or any payments related to a loan secured directly or indirectly 
+by any interest in a life insurance policy; or(X) Enter into any practice or plan which involves 
+stranger originated life insurance (STOLI).(B) Failing to disclose to the insurer where the request 
+for such disclosure has been asked for by the insurer that the prospective insured has undergone a 
+life expectancy evaluation by any person or entity other than the insurer or its authorized 
+representatives in connection with the issuance of the policy.(C) Employing any device, scheme, 
+or artifice to defraud in the business of life settlements.(D) In the solicitation, application or 
+issuance of a life insurance policy, employing any device, scheme or artifice in violation of state 
+insurable interest laws.(ii) In the furtherance of a fraud or to prevent the detection of a fraud any 
+person commits or permits its employees or its agents to:(A) Remove, conceal, alter, destroy or 
+sequester from the commissioner the assets or records of a licensee or other person engaged in 
+the business of life settlements;(B) Misrepresent or conceal the financial condition of a licensee, 
+financing entity, insurer or other person;(C) Transact the business of life settlements in violation 
+of laws requiring a license, certificate of authority or other legal authority for the transaction of 
+the business of life settlements;(D) File with the commissioner or the chief insurance regulatory 
+official of another jurisdiction a document containing false information or otherwise concealing 
+information about a material fact from the commissioner;(E) Engage in embezzlement, theft, 
+misappropriation or conversion of monies, funds, premiums, credits or other property of a 
+provider, insurer, insured, owner, insurance, policy owner or any other person engaged in the 
+business of life settlements or insurance;(F) Knowingly and with intent to defraud, enter into, 
+broker, or otherwise deal in a life settlement contract, the subject of which is a life insurance 
+policy that was obtained by presenting false information concerning any fact material to the 
+policy or by concealing, for the purpose of misleading another, information concerning any fact 
+material to the policy, where the owner or the owner's agent intended to defraud the policy's 
+issuer;(G) Attempt to commit, assist, aid or abet in the commission of, or conspiracy to commit 
+the acts or omissions specified in this subsection; or(H) Misrepresent the state of residence of an 
+owner to be a state or jurisdiction that does not have a law substantially similar to this chapter for 
+the purpose of evading or avoiding the provisions of this chapter.(10) "Insured" means the 
+
+person covered under the policy being considered for sale in a life settlement contract.(11) "Life 
+expectancy" means the arithmetic mean of the number of months the insured under the life 
+insurance policy to be settled can be expected to live as determined by a life expectancy 
+company provider, broker, or financing entity considering medical records and appropriate 
+experiential data.(12) "Life insurance producer" means any person licensed in this state as a 
+resident or nonresident insurance producer who has received qualification or authority for life 
+insurance coverage or a life line of coverage pursuant to chapter 2.4 of this title.(13) "Life 
+settlement contract" means a written agreement entered into between a provider and an owner, 
+establishing the terms under which compensation or any thing of value will be paid, which 
+compensation or thing of value is less than the expected death benefit of the insurance policy or 
+certificate, in return for the owner's assignment, transfer, sale, devise or bequest of the death 
+benefit or any portion of an insurance policy or certificate of insurance for compensation; 
+provided, however, that the minimum value for a life settlement contract shall be greater than a 
+cash surrender value or accelerated death benefit available at the time of an application for a life 
+settlement contract. "Life settlement contract" also includes the transfer for compensation or 
+value of ownership or beneficial interest in a trust or other entity that owns such policy if the 
+trust or other entity was formed or availed of for the principal purpose of acquiring one or more 
+life insurance contracts, which life insurance contract insures the life of a person residing in this 
+state.(i) "Life settlement contract" also includes a premium finance loan made for a policy on or 
+before the date of issuance where:(A) The loan proceeds are not used solely to pay premiums for 
+the policy and any costs or expenses incurred by the lender or the borrower in connection with 
+the financing; or(B) The owner receives on the date of the premium finance loan a guarantee of 
+the future life settlement value of the policy; or(C) The owner agrees on the date of the premium 
+finance loan to sell the policy or any portion of its death benefit on any date following the 
+issuance of the policy.(ii) "Life settlement contract" does not include:(A) A policy loan by a life 
+insurance company pursuant to the terms of the life insurance policy or accelerated death 
+provisions contained in the life insurance policy, whether issued with the original policy or as a 
+rider;(B) A premium finance loan, as defined herein, or any loan made to an insured, a trust 
+established by an insured, or an entity established by the insured by a bank, federally regulated 
+entity, or other licensed financial institution or any transfer, foreclosure, option to transfer, sale 
+of any interest in collateral of such loan subsequent thereto for the purpose of evading regulation 
+under this chapter;(C) A collateral assignment of a life insurance policy by an owner;(D) A loan 
+made by a lender that does not violate chapter 14.6 of title 19, provided such loan is not 
+described in subdivision (i) above, and is not otherwise within the definition of life settlement 
+contract;(E) An agreement where all the parties:(I) are closely related to the insured by blood or 
+law; or(II) have a lawful substantial economic interest in the continued life, health and bodily 
+safety of the person insured, or are trusts established primarily for the benefit of such 
+parties;(F) Any designation, consent or agreement by an insured who is an employee of an 
+employer in connection with the purchase by the employer, or trust established by the employer, 
+of life insurance on the life of the employee;(G) A bona fide business succession planning 
+arrangement:(I) Between one or more shareholders in a corporation or between a corporation and 
+one or more of its shareholders or one or more trust established by its shareholders;(II) Between 
+one or more partners in a partnership or between a partnership and one or more of its partners or 
+one or more trust established by its partners; or(III) Between one or more members in a limited 
+liability company or between a limited liability company and one or more of its members or one 
+or more trust established by its members;(H) An agreement entered into by a service recipient, or 
+
+a trust established by the service recipient, and a service provider, or a trust established by the 
+service provider, who performs significant services for the service recipient's trade or business; 
+or(I) Any other contract, transaction or arrangement from the definition of life settlement 
+contract that the commissioner determines is not of the type intended to be regulated by this 
+chapter.(14) "Net death benefit" means the amount of the life insurance policy or certificate to be 
+settled less any outstanding debts or liens.(15) "Owner" means the owner of a life insurance 
+policy or a certificate holder under a group policy, with or without a terminal illness, who enters 
+or seeks to enter into a life settlement contract. For the purposes of this article, an owner shall not 
+be limited to an owner of a life insurance policy or a certificate holder under a group policy that 
+insures the life of an individual with a terminal or chronic illness or condition except where 
+specifically addressed. The term "owner" does not include:(i) Any provider or other licensee 
+under this chapter;(ii) A qualified institutional buyer as defined in Rule 144A of the Federal 
+Securities Act of 1933, as amended;(iii) A financing entity;(iv) A special purpose entity; or(v) A 
+related provider trust.(16) "Patient identifying information" means an insured's address, 
+telephone number, facsimile number, electronic mail address, photograph or likeness, employer, 
+employment status, social security number, or any other information that is likely to lead to the 
+identification of the insured.(17) "Policy" means an individual or group policy, group certificate, 
+contract or arrangement of life insurance owned by a resident of this state, regardless of whether 
+delivered or issued for delivery in this state.(18) "Premium finance loan" is a loan made 
+primarily for the purposes of making premium payments on a life insurance policy, which loan is 
+secured by an interest in such life insurance policy.(19) "Person" means any natural person or 
+legal entity including, but not limited to, a partnership, limited liability company, association, 
+trust or corporation.(20) "Provider" means a person, other than an owner, who enters into or 
+effectuates a life settlement contract with an owner, a provider does not include:(i) Any bank, 
+savings bank, savings and loan association, credit union;(ii) A licensed lending institution or 
+creditor or secured party pursuant to a premium finance loan agreement which takes an 
+assignment of a life insurance policy or certificate issued pursuant to a group life insurance 
+policy as collateral for a loan;(iii) The insurer of a life insurance policy or rider to the extent of 
+providing accelerated death benefits or riders or cash surrender value;(iv) Any natural person 
+who enters into or effectuates no more than one agreement in a calendar year for the transfer of a 
+life insurance policy or certificate issued pursuant to a group life insurance policy, for 
+compensation or anything of value less than the expected death benefit payable under the 
+policy;(v) A purchaser;(vi) Any authorized or eligible insurer that provides stop loss coverage to 
+a provider; purchaser, financing entity, special purpose entity, or related provider trust;(vii) A 
+financing entity;(viii) A special purpose entity;(ix) A related provider trust;(x) A broker; 
+or(xi) An accredited investor or qualified institutional buyer as defined; respectively, in 
+regulation D, rule 501 or rule 144A of the Federal Securities Act of 1933, as amended, who 
+purchases a life settlement policy from a provider.(21) "Purchased policy" means a policy or 
+group certificate that has been acquired by a provider pursuant to a life settlement 
+contract.(22) "Purchaser" means a person who pays compensation or anything of value as 
+consideration for a beneficial interest in a trust which is vested with, or for the assignment, 
+transfer or sale of, an ownership or other interest in a life insurance policy or a certificate issued 
+pursuant to a group life insurance policy which has been the subject of a life settlement 
+contract.(23) "Related provider trust' means a titling trust or other trust established by a licensed 
+provider or a financing entity for the sole purpose of holding the ownership or beneficial interest 
+in purchased policies in connection with a financing transaction. In order to qualify as a related 
+
+provider trust, the trust must have a written agreement with the licensed provider under which 
+the licensed provider is responsible for ensuring compliance with all statutory and regulatory 
+requirements and under which the trust agrees to make all records and files relating to life 
+settlement transactions available to the commissioner as if those records and files were 
+maintained directly by the licensed provider.(24) "Settled policy" means a life insurance policy 
+or certificate that has been acquired by a provider pursuant to a life settlement 
+contract.(25) "Special purpose entity" means a corporation, partnership, trust, limited liability 
+company, or other legal entity formed solely to provide either directly or indirectly access to 
+institutional capital markets:(i) For a financing entity or provider; or(ii) In connection with a 
+transaction in which the securities in the special purpose entity are acquired by the owner or by a 
+"qualified institutional buyer" as defined in Rule 144 promulgated under the Federal Securities 
+Act of 1933, as amended; or(iii) The securities pay a fixed rate of return commensurate with 
+established asset-backed institutional capital markets.(26) "Stranger-originated life insurance" or 
+"STOLI" is a practice or plan to initiate a life insurance policy for the benefit of a third-party 
+investor who, at the time of policy origination, has no insurable interest in the insured. STOLI 
+practices include, but are not limited to, cases in which life insurance is purchased with resources 
+or guarantees from or through a person, or entity, who, at the time of policy inception, could not 
+lawfully initiate the policy himself/herself or itself, and where, at the time of inception, there is 
+an arrangement or agreement, whether verbal or written, to directly or indirectly transfer the 
+ownership of the policy and/or the policy benefits to a third party. Trusts, that are created to give 
+the appearance of insurable interest, and are used to initiate policies for investors, violate 
+insurable interest laws and the prohibition against wagering on life. STOLI arrangements do not 
+include those practices set forth in this chapter.(27) "Terminally ill" means having an illness or 
+sickness that can reasonably be expected to result in death in twenty-four (24) months or less. 
+R.I. Gen. Laws § 27-72-2 
+Section 27-72-3 - Licensing requirements(a) No person, wherever located, shall act as a provider 
+or broker with an owner or multiple owners who is a resident of this state, without first having 
+obtained a license from the commissioner. If there is more than one owner on a single policy and 
+the owners are residents of different states, the life settlement contract shall be governed by the 
+law of the state in which the owner having the largest percentage ownership resides or, if the 
+owners hold equal ownership, the state of residence of one owner agreed upon in writing by all 
+owners.(b) Application for a provider, or broker, license shall be made to the commissioner by 
+the applicant on a form prescribed by the commissioner, and the application shall be 
+accompanied by a fee reasonable in an amount established by the commissioner.(c) A life 
+insurance producer who has been duly licensed as a resident insurance producer with a life line 
+of authority in this state or his or her home state for at least one year and is licensed as a 
+nonresident producer in this state shall be deemed to meet the licensing requirements of this 
+section and shall be permitted to operate as a broker.(d) Not later than thirty (30) days from the 
+first day of operating as a broker, the life insurance producer shall notify the commissioner that 
+he or she is acting as a broker on a form prescribed by the commissioner, and shall pay any 
+applicable fee to be determined by the commissioner. Notification shall include an 
+acknowledgement by the life insurance producer that he or she will operate as a broker in 
+accordance with this chapter.(e) The insurer that issued the policy that is the subject of a life 
+settlement contract shall not be responsible for any act or omission of a broker or provider or 
+purchaser arising out of or in connection with the life settlement transaction, unless the insurer 
+
+receives compensation for the placement of a life settlement contract from the provider or 
+purchaser or broker in connection with the life settlement contract.(f) A person licensed as an 
+attorney, certified public accountant or financial planner accredited by a nationally recognized 
+accreditation agency, who is retained to represent the owner, whose compensation is not paid 
+directly or indirectly by the provider or purchaser, may negotiate life settlement contracts on 
+behalf of the owner without having to obtain a license as a broker.(g) Broker licenses may be 
+renewed on a schedule prescribed by the commissioner and upon payment of the reasonable 
+renewal fee as prescribed by the commissioner. Failure to pay the fee within the terms prescribed 
+shall result in the automatic revocation of the license requiring periodic renewal.(h) The term of 
+a provider license shall be perpetual; provided, that the provider files the annual report and pays 
+the fee as prescribed by the commissioner. Failure to file the annual report or pay the fees on or 
+before the due date shall result in immediate suspension of the license.(i) The applicant shall 
+provide such information as the commissioner may require on forms prepared by the 
+commissioner. The commissioner shall have authority, at any time, to require such applicant to 
+fully disclose the identity of its stockholders (except stockholders owning fewer than ten percent 
+(10%) of the shares of an applicant whose shares are publicly traded), partners, officers and 
+employees, and the commissioner may, in the exercise of the commissioner's sole discretion, 
+refuse to issue such a license in the name of any person if not satisfied that any officer, 
+employee, stockholder or partner thereof who may materially influence the applicant's conduct 
+meets the standards set forth in this chapter.(j) Upon the filing of an application and the payment 
+of the license fee, the commissioner shall make an investigation of each applicant and may issue 
+a license if the commissioner finds that the applicant:(1) If a provider, has provided a detailed 
+plan of operation;(2) Is competent and trustworthy and intends to transact its business in good 
+faith;(3) Has a good business reputation and has had experience, training or education so as to be 
+qualified in the business for which the license is applied;(4) If the provider applicant is a legal 
+entity, is formed or organized pursuant to the laws of this state or is a foreign legal entity 
+authorized to transact business in this state, or provides a certificate of good standing from the 
+state of its domicile; and(5) Has provided to the commissioner an anti-fraud plan that meets the 
+requirements of this chapter and includes:(i) A description of the procedures for detecting and 
+investigating possible fraudulent acts and procedures for resolving material inconsistencies 
+between medical records and insurance applications;(ii) A description of the procedures for 
+reporting fraudulent insurance acts to the commissioner;(iii) A description of the plan for anti-
+fraud education and training of its underwriters and other personnel; and(iv) A written 
+description or chart outlining the arrangement of the anti-fraud personnel who are responsible for 
+the investigation and reporting of possible fraudulent insurance acts and investigating unresolved 
+material inconsistencies between medical records and insurance applications.(k) The 
+commissioner shall not issue any license to any nonresident applicant, unless a written 
+designation of an agent for service of process is filed and maintained with the commissioner or 
+unless the applicant has filed with the commissioner the applicant's written irrevocable consent 
+that any action against the applicant may be commenced against the applicant by service of 
+process on the commissioner.(l) Each licensee shall file with the commissioner on or before the 
+first day of March of each year an annual statement containing such information as the 
+commissioner by rule may prescribe. The department may have this annual statement renewed 
+and analyzed by outside consultant(s) and the total cost of that review shall be borne by, billed 
+directly to and paid by the provider filing the annual statement.(m) A provider may not use any 
+person to perform the functions of a broker as defined in this chapter unless the person holds a 
+
+current, valid license as a broker, and as provided in this section.(n) A broker may not use any 
+person to perform the functions of a provider as defined in this chapter unless such person holds 
+a current, valid license as a provider, and as provided in this section.(o) A provider, or broker 
+shall provide to the commissioner new or revised information about officers, ten percent (10%) 
+or more stockholders, partners, directors, members or designated employees within thirty (30) 
+days of the change.(p) An individual licensed as a broker shall complete, on a biennial basis, 
+fifteen (15) hours of training related to life settlements and life settlement transactions, as 
+required by the commissioner; provided, however, that a life insurance producer who is 
+operating as a broker pursuant to this section shall not be subject to the requirements of this 
+subsection. Any person failing to meet the requirements of this subsection shall be subject to the 
+penalties imposed by the commissioner. 
+R.I. Gen. Laws § 27-72-3 
+Section 27-72-4 - License suspension, revocation or refusal to renew(a) The commissioner may 
+suspend, revoke or refuse to renew the license of any licensee if the commissioner finds 
+that:(1) There was any material misrepresentation in the application for the license;(2) The 
+licensee or any officer, partner, member or director has been guilty of fraudulent or dishonest 
+practices, is subject to a final administrative action or is otherwise shown to be untrustworthy or 
+incompetent to act as a licensee;(3) The provider demonstrates a pattern of unreasonably 
+withholding payments to policy owners;(4) The licensee no longer meets the requirements for 
+initial licensure;(5) The licensee or any officer, partner, member or director has been convicted 
+of a felony, or of any misdemeanor of which criminal fraud is an element; or the licensee has 
+pleaded guilty or nolo contendere with respect to any felony or any misdemeanor of which 
+criminal fraud is an element, regardless whether a judgment of conviction has been entered by 
+the court;(6) The provider has entered into any life settlement contract using a form that has not 
+been approved pursuant to this chapter;(7) The provider has failed to honor contractual 
+obligations set out in a life settlement contract;(8) The provider has assigned, transferred or 
+pledged a settled policy to a person other than a provider licensed in this state, a purchaser, an 
+accredited investor or qualified institutional buyer as defined respectively in Regulation D, Rule 
+501 or Rule 144A of the Federal Securities Act of 1933, as amended, financing entity, special 
+purpose entity, or related provider trust; or(9) The licensee or any officer, partner, member or 
+key management personnel has violated any of the provisions of this chapter.(b) Before the 
+commissioner denies a license application or suspends, revokes or refuses to renew the license of 
+any licensee under this chapter, the commissioner shall conduct a hearing in accordance with this 
+state's laws governing administrative hearings. 
+R.I. Gen. Laws § 27-72-4 
+Section 27-72-5 - Contract requirements(a) No person may use any form of life settlement 
+contract in this state unless it has been filed with and approved, if required, by the commissioner 
+in a manner that conforms with the filing procedures and any time restrictions or deeming 
+provisions, if any, for life insurance forms, policies and contracts. The commissioner is 
+authorized to contract with outside consultants to review life settlement forms and the total cost 
+of that review shall be borne by, billed directly to, and paid by the provider filing the 
+form(s).(b) No insurer may, as a condition of responding to a request for verification of coverage 
+or in connection with the transfer of a policy pursuant to a life settlement contract, require that 
+the owner, insured, provider or broker sign any form, disclosure, consent, waiver or 
+
+acknowledgment that has not been expressly approved by the commissioner for use in 
+connection with life settlement contracts in this state.(c) A person shall not use a life settlement 
+contract form or provide to an owner a disclosure statement form in this state unless first filed 
+with and approved by the commissioner. The commissioner shall disapprove a life settlement 
+contract form or disclosure statement form if, in the commissioner's opinion, the contract or 
+provisions contained therein fail to meet the requirements of this chapter or are unreasonable, 
+contrary to the interests of the public, or otherwise misleading or unfair to the owner. At the 
+commissioner's discretion, the commissioner may require the submission of advertising material. 
+The commissioner is authorized to contract with outside consultants to review life settlement 
+forms and/or advertising and the total cost of that review shall be borne by, billed directly to, and 
+paid by the provider filing the form(s). 
+R.I. Gen. Laws § 27-72-5 
+Section 27-72-6 - Reporting requirements and privacy(a) For any policy settled within five (5) 
+years of policy issuance, each provider shall file with the commissioner on or before March 1 of 
+each year an annual statement containing such information as the commissioner may prescribe 
+by regulation. In addition to any other requirements, the annual statement shall specify the total 
+number, aggregate face amount and life settlement proceeds of policies settled during the 
+immediately preceding calendar year, together with a breakdown of the information by policy 
+issue year. The annual statement shall also include the names of the insurance companies whose 
+policies have been settled and the brokers that have settled said policies.(1) Such information 
+shall be limited to only those transactions where the insured is a resident of this state and shall 
+not include individual transaction data regarding the business of life settlements or information 
+that there is a reasonable basis to believe could be used to identify the owner or the 
+insured.(2) Every provider that willfully fails to file an annual statement as required in this 
+section, or willfully fails to reply within thirty (30) days to a written inquiry by the commissioner 
+in connection therewith, shall, in addition to other penalties provided by this chapter, be subject, 
+upon due notice and opportunity to be heard, to a penalty of up to two hundred fifty dollars 
+($250) per day of delay, not to exceed twenty-five thousand dollars ($25,000) in the aggregate, 
+for each such failure.(3) The department may have this annual report reviewed and analyzed by 
+outside consultant(s) and the total cost of that review shall be borne by, billed directly to, and 
+paid by the provider filing the annual statement.(b) Except as otherwise allowed or required by 
+law, a provider, broker, insurance company, insurance producer, information bureau, rating 
+agency or company, or any other person with actual knowledge of an insured's identity, shall not 
+disclose the identity of an insured or information that there is a reasonable basis to believe could 
+be used to identify the insured or the insured's financial or medical information to any other 
+person unless the disclosure:(1) Is necessary to effect a life settlement contract between the 
+owner and a provider and the owner and insured have provided prior written consent to the 
+disclosure;(2) Is necessary to effectuate the sale of life settlement contracts, or interests therein, 
+as investments, provided the sale is conducted in accordance with applicable state and federal 
+securities law and provided further that the owner and the insured have both provided prior 
+written consent to the disclosure;(3) Is provided in response to an investigation or examination 
+by the commissioner or any other governmental officer or agency or pursuant to the requirements 
+of this chapter;(4) Is a term or condition to the transfer of a policy by one provider to another 
+provider, in which case the receiving provider shall be required to comply with the 
+confidentiality requirements of this chapter;(5) Is necessary to allow the provider or its 
+
+authorized representatives to make contacts for the purpose of determining health status. For the 
+purposes of this section, the term "authorized representative " shall not include any person who 
+has or may have any financial interest in the settlement contract other than a provider, licensed 
+broker, financing entity, related provider trust or special purpose entity; further, a provider or 
+broker shall require its authorized representative to agree in writing to adhere to the privacy 
+provisions of this chapter; or(6) Is required to purchase stop loss coverage.(c) Non-public 
+personal information solicited or obtained in connection with a proposed or actual life settlement 
+contract shall be subject to the provisions applicable to financial institutions under the federal 
+Gramm Leach Bliley Act, Pub. L. No. 106-102 (1999), and all other state and federal laws 
+relating to confidentiality of non-public personal information. 
+R.I. Gen. Laws § 27-72-6 
+Section 27-72-7 - Examination(a) The commissioner may, when the commissioner deems it 
+reasonably necessary to protect the interests of the public, examine the business and affairs of 
+any licensee or applicant for a license. The commissioner may order any licensee or applicant to 
+produce any records, books, files or other information reasonably necessary to ascertain whether 
+such licensee or applicant is acting or has acted in violation of the law or otherwise contrary to 
+the interests of the public. The expenses incurred in conducting any examination shall be paid by 
+the licensee or applicant.(b) In lieu of an examination under this chapter of any foreign or alien 
+licensee licensed in this state, the commissioner may, at the commissioner's discretion, accept an 
+examination report on the licensee as prepared by the commissioner for the licensee's state of 
+domicile or port-of-entry state.(c) Names of and individual identification data, or for all owners 
+and insureds shall be considered private and confidential information and shall not be disclosed 
+by the commissioner unless required by law.(d) Records of all consummated transactions and 
+life settlement contracts shall be maintained by the provider for three (3) years after the death of 
+the insured and shall be available to the commissioner for inspection during reasonable business 
+hours.(e)Conduct of examinations.(1) Upon determining that an examination should be 
+conducted, the commissioner shall issue an examination warrant appointing one or more 
+examiners to perform the examination and instructing them as to the scope of the examination. In 
+conducting the examination, the examiner shall use methods common to the examination of any 
+life settlement licensee and should use those guidelines and procedures set forth in an examiners' 
+handbook adopted by a national organization.(2) Every licensee or person from whom 
+information is sought, its officers, directors and agents shall provide to the examiners timely, 
+convenient and free access at all reasonable hours at its offices to all books, records, accounts, 
+papers, documents, assets and computer or other recordings relating to the property, assets, 
+business and affairs of the licensee being examined. The officers, directors, employees and 
+agents of the licensee or person shall facilitate the examination and aid in the examination so far 
+as it is in their power to do so. The refusal of a licensee, by its officers, directors, employees or 
+agents, to submit to examination or to comply with any reasonable written request of the 
+commissioner shall be grounds for suspension or refusal of, or nonrenewal of any license or 
+authority held by the licensee to engage in the life settlement business or other business subject 
+to the commissioner's jurisdiction. Any proceedings for suspension, revocation or refusal of any 
+license or authority shall be conducted pursuant to § 42-35-1 et seq.(3) The commissioner shall 
+have the power to issue subpoenas, to administer oaths and to examine under oath any person as 
+to any matter pertinent to the examination. Upon the failure or refusal of a person to obey a 
+subpoena, the commissioner may petition a court of competent jurisdiction, and upon proper 
+
+showing, the court may enter an order compelling the witness to appear and testify or produce 
+documentary evidence.(4) When making an examination under this chapter, the commissioner 
+may retain attorneys, appraisers, independent actuaries, independent certified public accountants 
+or other professionals and specialists as examiners, the reasonable cost of which shall be borne 
+by the licensee that is the subject of the examination.(5) Nothing contained in this chapter shall 
+be construed to limit the commissioner's authority to terminate or suspend an examination in 
+order to pursue other legal or regulatory action pursuant to the insurance laws of this state. 
+Findings of fact and conclusions made pursuant to any examination shall be prima facie evidence 
+in any legal or regulatory action.(6) Nothing contained in this chapter shall be construed to limit 
+the commissioner's authority to use and, if appropriate, to make public any final or preliminary 
+examination report, any examiner or licensee work papers or other documents, or any other 
+information discovered or developed during the course of any examination in the furtherance of 
+any legal or regulatory action which the commissioner may, in his or her sole discretion, deem 
+appropriate.(f)Examination reports.(1) Examination reports shall be comprised of only facts 
+appearing upon the books, from the testimony of its officers or agents or other persons examined 
+concerning its affairs, and such conclusions and recommendations as the examiners find 
+reasonably warranted from the facts.(2) No later than sixty (60) days following completion of the 
+examination, the examiner in charge shall file with the commissioner a verified written report of 
+examination under oath. Upon receipt of the verified report, the commissioner shall transmit the 
+report to the licensee examined, together with a notice that shall afford the licensee examined a 
+reasonable opportunity of not more than thirty (30) days to make a written submission or rebuttal 
+with respect to any matters contained in the examination report and which shall become part of 
+the report or to request a hearing on any matter in dispute.(3) In the event the commissioner 
+determines that regulatory action is appropriate as a result of an examination, the commissioner 
+may initiate any proceedings or actions provided by law.(g)Confidentiality of examination 
+information.(1) Names and individual identification data for all owners, purchasers, and 
+insureds shall be considered private and confidential information and shall not be disclosed by 
+the commissioner, unless the disclosure is to another regulator or is required by law.(2) Except as 
+otherwise provided in this chapter, all examination reports, working papers, recorded 
+information, documents and copies thereof produced by, obtained by or disclosed to the 
+commissioner or any other person in the course of an examination made under this chapter, or in 
+the course of analysis or investigation by the commissioner of the financial condition or market 
+conduct of a licensee shall be confidential by law and privileged, shall not be subject to open 
+records, shall not be subject to subpoena, and shall not be subject to discovery or admissible in 
+evidence in any private civil action. The commissioner is authorized to use the documents, 
+materials or other information in the furtherance of any regulatory or legal action brought as part 
+of the commissioner's official duties. The licensee being examined may have access to all 
+documents used to make the report.(h)Conflict of interest.(1) An examiner may not be 
+appointed by the commissioner if the examiner, either directly or indirectly, has a conflict of 
+interest or is affiliated with the management of or owns a pecuniary interest in any person subject 
+to examination under this chapter. This section shall not be construed to automatically preclude 
+an examiner from being:(i) An owner;(ii) An insured in a life settlement contract or insurance 
+policy; or(iii) A beneficiary in an insurance policy that is proposed for a life settlement 
+contract.(2) Notwithstanding the requirements of this clause, the commissioner may retain from 
+time to time, on an individual basis, qualified actuaries, certified public accountants, or other 
+similar individuals who are independently practicing their professions, even though these persons 
+
+may from time to time be similarly employed or retained by persons subject to examination 
+under this chapter.(i)Immunity from liability.(1) No cause of action shall arise nor shall any 
+liability be imposed against the commissioner, the commissioner's authorized representatives or 
+any examiner appointed by the commissioner for any statements made or conduct performed in 
+good faith while carrying out the provisions of this chapter.(2) No cause of action shall arise, nor 
+shall any liability be imposed against any person for the act of communicating or delivering 
+information or data to the commissioner or the commissioner's authorized representative or 
+examiner pursuant to an examination made under this chapter, if the act of communication or 
+delivery was performed in good faith and without fraudulent intent or the intent to deceive. This 
+paragraph does not abrogate or modify in any way any common law or statutory privilege or 
+immunity heretofore enjoyed by any person identified in subdivision (1).(3) A person identified 
+in subdivision (1) or (2) shall be entitled to an award of attorney's fees and costs if he or she is 
+the prevailing party in a civil cause of action for libel, slander or any other relevant tort arising 
+out of activities in carrying out the provisions of this chapter and the party bringing the action 
+was not substantially justified in doing so. For purposes of this section a proceeding is 
+"substantially justified" if it had a reasonable basis in law or fact at the time that it was 
+initiated.(j)Investigative authority of the commissioner.(1) The commissioner may investigate 
+suspected fraudulent life settlement acts and persons engaged in the business of life 
+settlements.(k)Cost of examinations.(1) The total cost of examinations performed pursuant to 
+this chapter shall be borne by the provider(s) or broker(s) examined companies in accordance 
+with the provision of paragraph 27-13.1-7. The commissioner is authorized to retain contract 
+examiners and consultants to perform the examinations. The commissioner shall review and 
+affirmatively endorse detailed billings from the qualified contract examiner before summary 
+billings are sent to the insurer. 
+R.I. Gen. Laws § 27-72-7 
+Section 27-72-8 - Advertising(a) A broker, or provider licensed pursuant to this chapter may 
+conduct or participate in advertisements within this state. Such advertisements shall comply with 
+all Rhode Island advertising and marketing laws or rules and regulations promulgated by the 
+commissioner that are applicable to life insurers or to brokers, and providers licensed pursuant to 
+this chapter.(b) Advertisements shall be accurate, truthful and not misleading in fact or by 
+implication.(c) No person or trust shall:(1) Directly or indirectly, market, advertise, solicit or 
+otherwise promote the purchase of a policy for the sole purpose of or with an emphasis on 
+settling the policy; or(2) Use the words "free," "no cost" or words of similar import in the 
+marketing, advertising, soliciting or otherwise promoting of the purchase of a policy.(d) The 
+commissioner is authorized to contract with outside consultants to review advertisements and the 
+total cost of that review shall be borne by, billed directly to, and paid by the provider utilizing or 
+proposing to utilize the advertisement. 
+R.I. Gen. Laws § 27-72-8 
+ 
+Section 27-72-9 - Disclosures to owners(a) The provider or broker shall provide in writing, in a 
+separate document that is signed by the owner, the following information to the owner no later 
+than the date of application for a life settlement contract:(1) The fact that possible alternatives to 
+life settlement contracts exist, including, but not limited to, accelerated benefits offered by the 
+issuer of the life insurance policy;(2) The fact that some or all of the proceeds of a life settlement 
+
+contract may be taxable and that assistance should be sought from a professional tax 
+advisor;(3) The fact that the proceeds from a life settlement contract could be subject to the 
+claims of creditors;(4) The fact that receipt of proceeds from a life settlement contract may 
+adversely affect the recipients' eligibility for public assistance or other government benefits or 
+entitlements and that advice should be obtained from the appropriate agencies;(5) The fact that 
+the owner has a right to terminate a life settlement contract within fifteen (15) days of the date it 
+is executed by all parties and the owner has received the disclosures contained herein. 
+Rescission, if exercised by the owner, is effective only if both notice of the rescission is given, 
+and the owner repays all proceeds and any premiums, loans, and loan interest paid on account of 
+the provider within the rescission period. If the insured dies during the rescission period, the 
+contract shall be deemed to have been rescinded subject to repayment by the owner or the 
+owner's estate of all proceeds and any premiums, loans, and loan interest to the provider;(6) The 
+fact that proceeds will be sent to the owner within three (3) business days after the provider has 
+received the insurer or group administrator's acknowledgement that ownership of the policy or 
+interest in the certificate has been transferred and the beneficiary has been designated in 
+accordance with the terms of the life settlement contract;(7) The fact that entering into a life 
+settlement contract may cause other rights or benefits, including conversion rights and waiver of 
+premium benefits that may exist under the policy or certificate of a group policy to be forfeited 
+by the owner and that assistance should be sought from a professional financial advisor;(8) The 
+date by which the funds will be available to the owner and the transmitter of the funds;(9) The 
+fact that the commissioner shall require delivery of a buyer's guide or a similar consumer 
+advisory package in the form prescribed by the commissioner to owners during the solicitation 
+process;(10) The disclosure document shall contain the following language: "all medical, 
+financial or personal information solicited or obtained by a provider or broker about an insured, 
+including the insured's identity or the identity of family members, a spouse or a significant other, 
+may be disclosed as necessary to effect the life settlement contract between the owner and 
+provider. If you are asked to provide this information, you will be asked to consent to the 
+disclosure. The information may be provided to someone who buys the policy or provides funds 
+for the purchase. You may be asked to renew your permission to share information every two (2) 
+years";(11) The fact that the commissioner shall require providers and brokers to print separate 
+signed fraud warnings on their applications and on their life settlement contracts is as follows: 
+"Any person who knowingly presents false information in an application for insurance or life 
+settlement contract is guilty of a crime and may be subject to fines and confinement in prison." 
+(12) The fact that the insured may be contacted by either the provider or its authorized 
+representative for the purpose of determining the insured's health status or to verify the insured's 
+address. This contact is limited to once every three (3) months if the insured has a life 
+expectancy of more than one year, and no more than once per month if the insured has a life 
+expectancy of one year or less;(13) The affiliation, if any, between the provider and the issuer of 
+the insurance policy to be settled;(14) That a broker represents exclusively the owner, and not the 
+insurer or the provider or any other person, and owes a fiduciary duty to the owner, including a 
+duty to act according to the owner's instructions and in the best interest of the owner;(15) The 
+document shall include the name, address and telephone number of the provider;(16) The name, 
+business address, and telephone number of the independent third-party escrow agent, and the fact 
+that the owner may inspect or receive copies of the relevant escrow or trust agreements or 
+documents;(17) The fact that a change of ownership could in the future limit the insured's ability 
+
+to purchase future insurance on the insured's life because there is a limit to how much coverage 
+insurers will issue on one life;(b) The written disclosures shall be conspicuously displayed in any 
+life settlement contract furnished to the owner by a provider including any affiliations or 
+contractual arrangements between the provider and the broker.(c) A broker shall provide the 
+owner and the provider with at least the following disclosures no later than the date the life 
+settlement contract is signed by all parties. The disclosures shall be conspicuously displayed in 
+the life settlement contract or in a separate document signed by the owner and provide the 
+following information:(1) The name, business address and telephone number of the broker;(2) A 
+full, complete and accurate description of all the offers, counter-offers, acceptances and 
+rejections relating to the proposed life settlement contract;(3) A written disclosure of any 
+affiliations or contractual arrangements between the broker and any person making an offer in 
+connection with the proposed life settlement contracts;(4) The name of each broker who receives 
+compensation and the amount of compensation received by that broker, which compensation 
+includes anything of value paid or given to the broker in connection with the life settlement 
+contract;(5) A complete reconciliation of the gross offer or bid by the provider to the net amount 
+of proceeds or value to be received by the owner. For the purpose of this section, gross offer or 
+bid shall mean the total amount or value offered by the provider for the purchase of one or more 
+life insurance policies, inclusive of commissions and fees; and(6) The failure to provide the 
+disclosures or rights described in this section shall be deemed an unfair trade practice pursuant to 
+§ 27-72-17. 
+R.I. Gen. Laws § 27-72-9 
+Section 27-72-10 - Disclosure to insurer(a) Without limiting the ability of an insurer from 
+assessing the insurability of a policy applicant and determining whether or not to issue the 
+policy, and in addition to other questions an insurance carrier may lawfully pose to a life 
+insurance applicant, insurance carriers may inquire in the application for insurance whether the 
+proposed owner intends to pay premiums with the assistance of financing from a lender that will 
+use the policy as collateral to support the financing.(1) If, as described in this chapter, the loan 
+provides funds which can be used for a purpose other than paying for the premiums, costs, and 
+expenses associated with obtaining and maintaining the life insurance policy and loan, the 
+application shall be rejected as a violation of the prohibited practices in § 27-72-13.(2) If the 
+financing does not violate § 27-72-13, the insurance carrier:(i) May make disclosures, including 
+but not limited to such as the following, to the applicant and the insured, either on the application 
+or an amendment to the application to be completed no later than the delivery of the policy: 
+"If you have entered into a loan arrangement where the policy is used as collateral, and the 
+policy does change ownership at some point in the future in satisfaction of the loan, the 
+following may be true: 
+(A) A change of ownership could lead to a stranger owning an interest in the insured's life;(B) A 
+change of ownership could in the future limit your ability to purchase future insurance on the 
+insured's life because there is a limit to how much coverage insurers will issue on one 
+life;(C) Should there be a change of ownership and you wish to obtain more insurance coverage 
+on the insured's life in the future, the insured's higher issue age, a change in health status, and/or 
+other factors may reduce the ability to obtain coverage and/or may result in significantly higher 
+premiums;(D) You should consult a professional advisor, since a change in ownership in 
+satisfaction of the loan may result in tax consequences to the owner, depending on the structure 
+
+of the loan;" and(b) May require certifications, such as the following, from the applicant and/or 
+the insured:(1) "I have not entered into any agreement or arrangement providing for the future 
+sale of this life insurance policy";(2) "My loan arrangement for this policy provides funds 
+sufficient to pay for some or all of the premiums, costs, and expenses associated with obtaining 
+and maintaining my life insurance policy, but I have not entered into any agreement by which I 
+am to receive consideration in exchange for procuring this policy"; and(3) "The borrower has an 
+insurable interest in the insured." 
+R.I. Gen. Laws § 27-72-10 
+Section 27-72-11 - General rules(a) A provider entering into a life settlement contract with any 
+owner of a policy, wherein the insured is terminally or chronically ill, shall first obtain:(1) If the 
+owner is the insured, a written statement from a licensed attending physician that the owner is of 
+sound mind and under no constraint or undue influence to enter into a settlement contract; 
+and(2) A document in which the insured consents to the release of his/her medical records to a 
+provider, settlement broker, or insurance producer and, if the policy was issued less than two (2) 
+years from the date of application for a settlement contract, to the insurance company that issued 
+the policy.(b) The insurer shall respond to a request for verification of coverage submitted by a 
+provider, settlement broker, or life insurance producer not later than thirty (30) calendar days 
+from the date the request is received. The request for verification of coverage must be made on a 
+form approved by the commissioner. The insurer shall complete and issue the verification of 
+coverage or indicate in which respects it is unable to respond. In its response, the insurer shall 
+indicate whether, based on the medical evidence and documents provided, the insurer intends to 
+pursue an investigation at this time regarding the validity of the insurance contract.(c) Before or 
+at the time of execution of the settlement contract, the provider shall obtain a witnessed 
+document in which the owner consents to the settlement contract, represents that the owner has a 
+full and complete understanding of the settlement contract, that the owner has a full and 
+complete understanding of the benefits of the policy, acknowledges that the owner is entering 
+into the settlement contract freely and voluntarily, and, for persons with a terminal or chronic 
+illness or condition, acknowledges that the insured has a terminal or chronic illness and that the 
+terminal or chronic illness or condition was diagnosed after the policy was issued.(d) The insurer 
+shall not unreasonably delay effecting change of ownership or beneficiary with any life 
+settlement contract lawfully entered into in this state or with a resident of this state.(e) If a 
+settlement broker or life insurance producer performs any of these activities required of the 
+provider, the provider is deemed to have fulfilled the requirements of this chapter.(f) If a broker 
+performs those verification of coverage activities required of the provider, the provider is 
+deemed to have fulfilled the requirements of § 27-72-9.(g) Within twenty (20) days after an 
+owner executes the life settlement contract, the provider shall give written notice to the insurer 
+that issued that insurance policy that the policy has become subject to a life settlement contract. 
+The notice shall be accompanied by the documents required by § 27-72-10(a)(2).(h) All medical 
+information solicited or obtained by any licensee shall be subject to the applicable provision of 
+state law relating to confidentiality of medical information, if not otherwise provided in this 
+chapter.(i) All life settlement contracts entered into in this state shall provide that the owner may 
+rescind the contract on or before fifteen (15) days after the date it is executed by all parties 
+thereto. Rescission, if exercised by the owner, is effective only if both notice of the rescission is 
+given, and the owner repays all proceeds and any premiums, loans, and loan interest paid on 
+account of the provider within the rescission period. If the insured dies during the rescission 
+
+period, the contract shall be deemed to have been rescinded subject to repayment by the owner or 
+the owner's estate of all proceeds and any premiums, loans, and loan interest to the 
+provider.(j) Within three (3) business days after receipt from the owner of documents to effect 
+the transfer of the insurance policy, the provider shall pay the proceeds of the settlement to an 
+escrow or trust account managed by a trustee or escrow agent in a state or federally chartered 
+financial institution pending acknowledgement of the transfer by the issuer of the policy. The 
+trustee or escrow agent shall be required to transfer the proceeds due to the owner within three 
+(3) business days of acknowledgement of the transfer from the insurer.(k) Failure to tender the 
+life settlement contract proceeds to the owner by the date disclosed to the owner renders the 
+contract voidable by the owner for lack of consideration until the time the proceeds are tendered 
+to and accepted by the owner. A failure to give written notice of the right of rescission hereunder 
+shall toll the right of rescission until thirty (30) days after the written notice of the right of 
+rescission has been given.(l) Any fee paid by a provider, party, individual, or an owner to a 
+broker in exchange for services provided to the owner pertaining to a life settlement contract 
+shall be computed as a percentage of the offer obtained, not the face value of the policy. Nothing 
+in this section shall be construed as prohibiting a broker from reducing such broker's fee below 
+this percentage if the broker so chooses.(m) The broker shall disclose to the owner anything of 
+value paid or given to a broker, which relates to a life settlement contract.(n) No person at any 
+time prior to, or at the time of, the application for, or issuance of, a policy, or during a two (2) 
+year period commencing with the date of issuance of the policy, shall enter into a life settlement 
+regardless of the date the compensation is to be provided and regardless of the date the 
+assignment, transfer, sale, devise, bequest or surrender of the policy is to occur. This prohibition 
+shall not apply if the owner certifies to the provider that:(1) The policy was issued upon the 
+owner's exercise of conversion rights arising out of a group or individual policy, provided the 
+total of the time covered under the conversion policy plus the time covered under the prior policy 
+is at least twenty-four (24) months. The time covered under a group policy must be calculated 
+without regard to a change in insurance carriers, provided the coverage has been continuous and 
+under the same group sponsorship; or(2) The owner submits independent evidence to the 
+provider that one or more of the following conditions have been met within the two (2) year 
+period:(i) The owner or insured is terminally or chronically ill;(ii) The owner or insured disposes 
+of his/her ownership interests in a closely held corporation, pursuant to the terms of a buyout or 
+other similar agreement in effect at the time the insurance policy was initially issued;(iii) The 
+owner's spouse dies;(iv) The owner divorces his or her spouse;(v) The owner retires from full-
+time employment;(vi) The owner becomes physically or mentally disabled and a physician 
+determines that the disability prevents the owner from maintaining full-time employment; 
+or(vii) A final order, judgment or decree is entered by a court of competent jurisdiction, on the 
+application of a creditor of the owner, adjudicating the owner bankrupt or insolvent, or approving 
+a petition seeking reorganization of the owner or appointing a receiver, trustee or liquidator to all 
+or a substantial part of the owner's assets;(3) Copies of the independent evidence required by 
+subdivision (n)(2) of this section shall be submitted to the insurer when the provider submits a 
+request to the insurer for verification of coverage. The copies shall be accompanied by a letter of 
+attestation from the provider that the copies are true and correct copies of the documents 
+received by the provider. Nothing in this section shall prohibit an insurer from exercising its right 
+to contest the validity of any policy;(4) If the provider submits to the insurer a copy of 
+independent evidence provided for in subdivision (n)(2) of this section when the provider 
+
+submits a request to the insurer to effect the transfer of the policy to the provider, the copy is 
+deemed to establish that the settlement contract satisfies the requirements of this section. 
+R.I. Gen. Laws § 27-72-11 
+Section 27-72-12 - Authority to promulgate regulations - Conflict of laws(a) The Commissioner 
+may:(1) Promulgate regulations implementing this chapter and regulating the activities and 
+relationships of providers, brokers, insurers and their agents, subject to statutory limitations on 
+administrative rule making.(2) Provide by regulation that the commissioner is authorized and 
+may in his or her discretion recover the reasonable cost of legal services incurred by the 
+department in enforcement actions under this chapter either from the licensee against whom the 
+action is taken or by way of an assessment of all providers licensed pursuant to § 27-72-3(a). The 
+assessment formula shall be set by regulation based upon information provided in the prior years 
+annual statement filed pursuant to § 27-72-3 (l).(b)Conflict of laws.(1) If there is more than one 
+owner on a single policy, and the owners are residents of different states, the life settlement 
+contract shall be governed by the law of the state in which the owner having the largest 
+percentage ownership resides or, if the owners hold equal ownership, the state of residence of 
+one owner agreed upon in writing by all of the owners. The law of the state of the insured shall 
+govern in the event that equal owners fail to agree in writing upon a state of residence for 
+jurisdictional purposes.(2) A provider from this state who enters into a life settlement contract 
+with an owner who is a resident of another state that has enacted statutes or adopted regulations 
+governing life settlement contracts, shall be governed in the effectuation of that life settlement 
+contract by the statutes and regulations of the owner's state of residence. If the state in which the 
+owner is a resident has not enacted statutes or regulations governing life settlement contracts, the 
+provider shall give the owner notice that neither state regulates the transaction upon which he or 
+she is entering. For transactions in those states, however, the provider is to maintain all records 
+required as if the transactions were executed in the state of residence. The forms used in those 
+states need not be approved by the department.(3) If there is a conflict in the laws that apply to 
+an owner and a purchaser in any individual transaction, the laws of the state that apply to the 
+owner shall take precedence and the provider shall comply with those laws. 
+R.I. Gen. Laws § 27-72-12 
+ 
+Section 27-72-13 - Prohibited practices(a) It is unlawful for any person to:(1) Enter into a life 
+settlement contract if such person knows or reasonably should have known that the life insurance 
+policy was obtained by means of a false, deceptive or misleading application for such 
+policy;(2) Engage in any transaction, practice or course of business if such person knows or 
+reasonably should have known that the intent was to avoid the notice requirements of this 
+chapter;(3) Engage in any fraudulent act or practice in connection with any transaction relating to 
+any settlement involving an owner who is a resident of this state;(4) Issue, solicit, market or 
+otherwise promote the purchase of an insurance policy for the purpose of or with an emphasis on 
+settling the policy;(5) Enter into a premium finance agreement with any person or agency, or any 
+person affiliated with such person or agency, pursuant to which such person shall receive any 
+proceeds, fees or other consideration, directly or indirectly, from the policy or owner of the 
+policy or any other person with respect to the premium finance agreement or any settlement 
+contract or other transaction related to such policy that are in addition to the amounts required to 
+pay the principal, interest and service charges related to policy premiums pursuant to the 
+
+premium finance agreement or subsequent sale of such agreement; provided, further, that any 
+payments, charges, fees or other amounts in addition to the amounts required to pay the 
+principal, interest and service charges related to policy premiums paid under the premium 
+finance agreement shall be remitted to the original owner of the policy or to his or her estate if he 
+or she is not living at the time of the determination of the overpayment;(6) With respect to any 
+settlement contract or insurance policy and a broker, knowingly solicit an offer from, effectuate a 
+life settlement contract with or make a sale to any provider, financing entity or related provider 
+trust that is controlling, controlled by, or under common control with such broker unless such 
+relationship has been disclosed to the owner;(7) With respect to any life settlement contract or 
+insurance policy and a provider, knowingly enter into a life settlement contract with an owner, if, 
+in connection with such life settlement contract, anything of value will be paid to a broker that is 
+controlling, controlled by, or under common control with such provider or the financing entity or 
+related provider trust that is involved in such settlement contract unless such relationship has 
+been disclosed to the owner;(8) With respect to a provider, enter into a life settlement contract 
+unless the life settlement promotional, advertising and marketing materials, as may be prescribed 
+by regulation, have been filed with the commissioner. In no event shall any marketing materials 
+expressly reference that the insurance is "free" for any period of time. The inclusion of any 
+reference in the marketing materials that would cause an owner to reasonably believe that the 
+insurance is free for any period of time shall be considered a violation of this chapter; or(9) With 
+respect to any life insurance producer, insurance company, broker, or provider make any 
+statement or representation to the applicant or policyholder in connection with the sale or 
+financing of a life insurance policy to the effect that the insurance is free or without cost to the 
+policyholder for any period of time unless provided in the policy.(b) A violation of this section 
+shall be deemed a fraudulent life settlement act. 
+R.I. Gen. Laws § 27-72-13 
+Section 27-72-14 - Fraud prevention and control(a)Fraudulent life settlement acts, 
+interference and participation of convicted felons prohibited.(1) A person shall not commit a 
+fraudulent life settlement act.(2) A person shall not knowingly and intentionally interfere with 
+the enforcement of the provisions of this chapter or investigations of suspected or actual 
+violations of this chapter.(3) A person in the business of life settlements shall not knowingly or 
+intentionally permit any person convicted of a felony involving dishonesty or breach of trust to 
+participate in the business of life settlements.(b)Fraud warning required.(1) Life settlement 
+contracts and applications for life settlement contracts, regardless of the form of transmission, 
+shall contain the following statement or a substantially similar statement: 
+"Any person who knowingly presents false information in an application for insurance or life 
+settlement contract is guilty of a crime and may be subject to fines and confinement in prison." 
+(2) The lack of a statement as required in subdivision (1) of this subsection does not constitute a 
+defense in any prosecution for a fraudulent life settlement act.(c)Mandatory reporting of 
+fraudulent life settlement acts.(1) Any person engaged in the business of life settlements 
+having knowledge or a reasonable belief that a fraudulent life settlement acts is being, will be or 
+has been committed shall provide to the commissioner the information required by, and in a 
+manner prescribed by, the commissioner.(2) Any other person having knowledge or a reasonable 
+belief that a fraudulent life settlement act is being, will be or has been committed may provide to 
+the commissioner the information required by, and in a manner prescribed by, the 
+
+commissioner.(d)Immunity from liability.(1) No civil liability shall be imposed on and no 
+cause of action shall arise from a person's furnishing information concerning suspected, 
+anticipated or completed fraudulent life settlement acts or suspected or completed fraudulent 
+insurance acts, if the information is provided to or received from:(i) The commissioner or the 
+commissioner's employees, agents or representatives;(ii) Federal, state or local law enforcement 
+or regulatory officials or their employees, agents or representatives;(iii) A person involved in the 
+prevention and detection of fraudulent life settlement acts or that person's agents, employees or 
+representatives;(iv) Any regulatory body or their employees, agents or representatives, 
+overseeing life insurance, life settlements, securities or investment fraud;(v) The life insurer that 
+issued the life insurance policy covering the life of the insured; or(vi) The licensee and any 
+agents, employees or representatives.(2) Subdivision (1) of this subsection shall not apply to 
+statements made with actual malice. In an action brought against a person for filing a report or 
+furnishing other information concerning a fraudulent life settlement act or a fraudulent insurance 
+act, the party bringing the action shall plead specifically any allegation that subdivision (1) does 
+not apply because the person filing the report or furnishing the information did so with actual 
+malice.(3) A person identified in subdivision (1) shall be entitled to an award of attorney's fees 
+and costs if he or she is the prevailing party in a civil cause of action for libel, slander or any 
+other relevant tort arising out of activities in carrying out the provisions of this chapter and the 
+party bringing the action was not substantially justified in doing so. For purposes of this section a 
+proceeding is "substantially justified" if it had a reasonable basis in law or fact at the time that it 
+was initiated.(4) This section does not abrogate or modify common law or statutory privileges or 
+immunities enjoyed by a person described in subdivision (1).(e)Confidentiality.(1) The 
+documents and evidence provided pursuant to subsection (d) of this section or obtained by the 
+commissioner in an investigation of suspected or actual fraudulent life settlement acts shall be 
+privileged and confidential and shall not be a public record and shall not be subject to discovery 
+or subpoena in a civil or criminal action.(2) Subdivision (1) of this subsection does not prohibit 
+release by the commissioner of documents and evidence obtained in an investigation of 
+suspected or actual fraudulent life settlement acts:(i) In administrative or judicial proceedings to 
+enforce laws administered by the commissioner;(ii) To federal, state or local law enforcement or 
+regulatory agencies, to an organization established for the purpose of detecting and preventing 
+fraudulent life settlement acts or to the NAIC; or(iii) At the discretion of the commissioner, to a 
+person in the business of life settlements that is aggrieved by a fraudulent life settlement 
+act.(3) Release of documents and evidence under subdivision (2) of this subsection does not 
+abrogate or modify the privilege granted in subdivision (1).(f)Other law enforcement or 
+regulatory authority. This chapter shall not:(1) Preempt the authority or relieve the duty of 
+other law enforcement or regulatory agencies to investigate, examine and prosecute suspected 
+violations of law;(2) Preempt, supersede, or limit any provision of any state securities law or any 
+rule, order, or notice issued thereunder;(3) Prevent or prohibit a person from voluntarily 
+disclosing information concerning life settlement fraud to a law enforcement or regulatory 
+agency other than the insurance department; or(4) Limit the powers granted elsewhere by the 
+laws of this state to the commissioner or an insurance fraud unit to investigate and examine 
+possible violations of law and to take appropriate action against wrongdoers.(g)Life settlement 
+antifraud initiatives.(1) Providers and brokers shall have in place antifraud initiatives 
+reasonably calculated to detect, prosecute and prevent fraudulent life settlement acts. At the 
+discretion of the commissioner, the commissioner may order, or a licensee may request and the 
+commissioner may grant, such modifications of the following required initiatives as necessary to 
+
+ensure an effective antifraud program. The modifications may be more or less restrictive than the 
+required initiatives so long as the modifications may reasonably be expected to accomplish the 
+purpose of this section. Antifraud initiatives shall include:(i) Fraud investigators, who may be 
+provider or broker employees or independent contractors; and(ii) An antifraud plan, which shall 
+be submitted to the commissioner. The antifraud plan shall include, but not be limited to:(A) A 
+description of the procedures for detecting and investigating possible fraudulent life settlement 
+acts and procedures for resolving material inconsistencies between medical records and 
+insurance applications;(B) A description of the procedures for reporting possible fraudulent life 
+settlement acts to the commissioner;(C) A description of the plan for antifraud education and 
+training of underwriters and other personnel; and(D) A description or chart outlining the 
+organizational arrangement of the antifraud personnel who are responsible for the investigation 
+and reporting of possible fraudulent life settlement acts and investigating unresolved material 
+inconsistencies between medical records and insurance applications.(2) Antifraud plans 
+submitted to the commissioner shall be privileged and confidential and shall not be a public 
+record and shall not be subject to discovery or subpoena in a civil or criminal action. 
+R.I. Gen. Laws § 27-72-14 
+Section 27-72-15 - Injunctions - Civil remedies - Cease and desist(a) In addition to the penalties 
+and other enforcement provisions of this chapter, if any person violates this chapter or any rule 
+implementing this chapter, the commissioner may seek an injunction in a court of competent 
+jurisdiction in this state and may apply for temporary and permanent orders that the 
+commissioner determines necessary to restrain the person from further committing the 
+violation.(b) Any person damaged by the acts of another person in violation of this chapter or 
+any rule or regulation implementing this chapter, may bring a civil action for damages against 
+the person committing the violation in a court of competent jurisdiction.(c) The commissioner 
+may issue a cease and desist order upon a person who violates any provision of this part, any rule 
+or order adopted by the commissioner, or any written agreement entered into with the 
+commissioner, in accordance with the chapter governing administrative procedures, § 42-35-1 et 
+seq.(d) When the commissioner finds that such an action presents an immediate danger to the 
+public and requires an immediate final order, he may issue an emergency cease and desist order 
+reciting with particularity the facts underlying such findings. The emergency cease and desist 
+order is effective immediately upon service of a copy of the order on the respondent and remains 
+effective for ninety (90) days. If the department begins non-emergency cease and desist 
+proceedings under subsection (a), the emergency cease and desist order remains effective, absent 
+an order by a court of competent jurisdiction pursuant to § 42-35-1 et seq. In the event of a 
+willful violation of this chapter, the superior court may award statutory damages in addition to 
+actual damages in an additional amount up to three (3) times the actual damage award. The 
+provisions of this chapter may not be waived by agreement. No choice of law provision may be 
+utilized to prevent the application of this chapter to any settlement in which a party to the 
+settlement is a resident of this state. 
+R.I. Gen. Laws § 27-72-15 
+Section 27-72-16 - Penalties(a) It is a violation of this chapter for any person, provider, broker, 
+or any other party related to the business of life settlements, to commit a fraudulent life 
+settlement act.(b) For criminal liability purposes, a person that commits a fraudulent life 
+settlement act is guilty of committing insurance fraud and shall be subject to additional penalties 
+
+under § 27-54-1 et seq.(c) The commissioner shall be empowered to levy a civil penalty not 
+exceeding one thousand dollars ($1,000) and the amount of the claim for each violation upon any 
+person, including those persons and their employees licensed pursuant to this chapter, who is 
+found to have committed a fraudulent life settlement act or violated any other provision of this 
+chapter.(d) The license of a person licensed under this chapter that commits a fraudulent life 
+settlement act shall be revoked. 
+R.I. Gen. Laws § 27-72-16 
+Section 27-72-17 - Unfair trade practices 
+A violation of this chapter shall be considered an unfair trade practice pursuant to state law and 
+subject to the penalties provided by state law. 
+R.I. Gen. Laws § 27-72-17 
+Section 27-72-18 - Effective Date(a) A provider lawfully transacting business in this state prior 
+to the effective date of this act may continue to do so pending approval or disapproval of that 
+person's application for a license as long as the application is filed with the commissioner not 
+later than thirty (30) days after publication by the commissioner of an application form and 
+instructions for licensure of providers. If the publication of the application form and instructions 
+is prior to the effective date of this act, then the filing of the application shall not be later than 
+thirty (30) days after the effective date of this act. During the time that such an application is 
+pending with the commissioner, the applicant may use any form of life settlement contract that 
+has been filed with the commissioner pending approval thereof, provided that such form is 
+otherwise in compliance with the provisions of this chapter. Any person transacting business in 
+this state under this provision shall be obligated to comply with all other requirements of this 
+chapter.(b) A person who has lawfully negotiated life settlement contracts between any owner 
+residing in this state and one or more providers for at least one year immediately prior to the 
+effective date of this act may continue to do so pending approval or disapproval of that person's 
+application for a license as long as the application is filed with the commissioner not later than 
+thirty (30) days after publication by the commissioner of an application form and instructions for 
+licensure of brokers. If the publication of the application form and instructions is prior to the 
+effective date of this chapter, then the filing of the application shall not be later than thirty (30) 
+days after the effective date of this act. Any person transacting business in this state under this 
+provision shall be obligated to comply with all other requirements of this chapter. 
+R.I. Gen. Laws § 27-72-18 
+ 

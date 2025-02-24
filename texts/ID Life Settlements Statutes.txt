@@ -1,0 +1,509 @@
+State of Idaho: Life Settlements Statutes 
+Idaho Code → Title 41 Insurance → Chapter 19 Life Insurance Policies and Annuity 
+Contracts → 1950-1965 Life Settlement Act 
+Section 41-1950 - SHORT TITLE AND SCOPE(1) Sections 41-1950 through 41-1965, Idaho 
+Code, may be cited as the "Life Settlements Act."(2) Nothing contained herein is intended to 
+abrogate or conflict with the Idaho uniform securities act contained in chapter 14, title 30, Idaho 
+Code, or supersede the duty of persons to comply with that or any other applicable law. Given 
+the combined interest and regulation of life settlements by the department and the department of 
+finance, the director and the director of the department of finance should cooperate in the 
+exercise of discretionary acts and enforcement of the applicable laws within their respective 
+authority and responsibility.(3) Unless clearly inapplicable, other provisions and chapters of title 
+41, Idaho Code, apply to licensees and persons subject to sections 41-1950 through 41-1965, 
+Idaho Code, including, but not limited to, chapters 1 through 5, 10, 13, 18 and 19, title 41, Idaho 
+Code. Specifically, section 41-220, Idaho Code, applies to licensees under sections 41-
+1950 through 41-1965, Idaho Code. 
+Idaho Code § 41-1950 
+Section 41-1951 - DEFINITIONS 
+In sections 41-1950 through 41-1965, Idaho Code: 
+(1) "Advertising" means any written, electronic or printed communication or any communication 
+by means of recorded telephone messages or transmitted on radio, television, the internet or 
+similar communications media, including film strips, motion pictures and videos, published, 
+disseminated, circulated or placed directly before the public, in this state, for the purpose of 
+creating an interest in or inducing a person to sell, assign, devise, bequest or transfer the death 
+benefit or ownership of a life insurance policy pursuant to a life settlement contract.(2) "Business 
+of life settlements" means an activity involved in, but not limited to, the offering to enter into, 
+soliciting, negotiating, procuring or effectuating a life settlement contract. The transaction of the 
+business of life settlements is within the scope of the transaction of the business of insurance as 
+provided in section 41-112, Idaho Code.(3) "Chronically ill" means:(a) Being unable to perform 
+at least two (2) activities of daily living such as eating, toileting, transferring, bathing, dressing 
+or continence; or(b) Requiring substantial supervision to protect the individual from threats to 
+health and safety due to severe cognitive impairment.(4) "Financing entity" means an 
+underwriter, placement agent, lender, purchaser of securities, purchaser of a policy or certificate 
+from a life settlement provider, credit enhancer or any entity that has a direct ownership in a 
+policy or certificate that is the subject of a life settlement contract, but:(a) Whose principal 
+activity related to the transaction is providing funds to effect the life settlement or purchase of 
+one (1) or more settled policies; and(b) Who has an agreement in writing with one (1) or more 
+licensed life settlement providers to finance the acquisition of life settlement contracts. 
+"Financing entity" does not include a nonaccredited investor. An "accredited investor" is defined 
+by rule 501 of regulation D, 17 CFR 230.501(a). 
+(5) "Life insurance producer" means any person licensed in this state as a resident or nonresident 
+insurance producer who has received qualification or authority for life insurance coverage or a 
+life line of coverage pursuant to section 41-1008, Idaho Code.(6) "Life settlement broker" or 
+
+"broker" means a person who, working exclusively on behalf of an owner and for a fee, 
+commission or other valuable consideration, offers or attempts to negotiate life settlement 
+contracts between an owner and one (1) or more life settlement providers or one (1) or more life 
+settlement brokers. Notwithstanding the manner in which the life settlement broker is 
+compensated, a life settlement broker is deemed to represent only the owner, and not the insurer 
+or the life settlement provider, and owes a fiduciary duty to the owner to act according to the 
+owner's instructions and in the best interest of the owner. Nothing in this definition reduces or 
+impairs the scope of the definitions in section 30-14-102, Idaho Code, including, but not limited 
+to, agent, broker-dealer, investment adviser, and investment adviser representative. The term 
+does not include an attorney, certified public accountant or a financial planner accredited by a 
+nationally recognized accreditation agency who is retained to represent the owner and whose 
+compensation is not paid directly or indirectly by the life settlement provider or 
+purchaser.(7) "Life settlement contract" means an agreement between an owner and a life 
+settlement provider or any affiliate, as that term is defined in section 41-3802(1), Idaho Code, of 
+the life settlement provider establishing the terms under which compensation or anything of 
+value is or will be paid, which compensation or value is less than the expected death benefits of 
+the policy, in return for the owner's present or future assignment, transfer, sale, hypothecation, 
+devise or bequest of the death benefit or ownership of any portion of the insurance policy or 
+certificate of insurance. Nothing in this definition reduces or impairs the scope of the definition 
+of security contained in section 30-14-102(28), Idaho Code.(a) "Life settlement contract" 
+includes a premium finance loan made for a life insurance policy on or before the date of 
+issuance of the policy where one (1) or more of the following conditions apply:(i) The loan 
+proceeds are not used solely to pay premiums for the policy and any costs or expenses incurred 
+by the lender or the borrower in connection with the financing;(ii) The owner or the insured 
+receives on the date of the premium finance loan a guarantee of a future life settlement value of 
+the policy; or(iii) The owner or the insured agrees on the date of the premium finance loan to sell 
+the policy or any portion of its death benefit on any date following the issuance of the 
+policy.(b) "Life settlement contract" includes the transfer, for compensation or value, of 
+ownership or beneficial interest in a trust or other entity that owns such policy if the trust or other 
+person was formed or availed of for the principal purpose of acquiring one (1) or more life 
+insurance policies which life insurance contract insures the life of a person residing in this 
+state.(c) "Life settlement contract" does not include any of the following:(i) A policy loan or 
+accelerated death benefit made by the insurer pursuant to the policy's terms;(ii) A loan, the 
+proceeds of which are used solely to pay:(A) Premiums for the policy; and(B) The costs of the 
+loan, including, without limitation, interest, arrangement fees, utilization fees and similar fees, 
+closing costs, legal fees and expenses, trustee fees and expenses, and third party collateral 
+provider fees and expenses, including fees payable to letter of credit issuers;(iii) A loan made by 
+a bank or other licensed financial institution in which the lender takes an interest in a life 
+insurance policy solely to secure repayment of a loan or, if there is a default on the loan and the 
+policy is transferred, the transfer of such a policy by the lender, provided that neither the default 
+itself nor the transfer of the policy in connection with the default is pursuant to an agreement or 
+understanding with any other person for the purpose of evading regulation under sections 41-
+1950 through 41-1965, Idaho Code;(iv) A loan made by a lender that does not violate the Idaho 
+credit code, provided that the premium finance loan is not described in paragraph (a) of this 
+subsection;(v) An agreement where all the parties are closely related to the insured by blood or 
+law or have a lawful substantial economic interest in the continued life, health and bodily safety 
+
+of the person insured, or are trusts established primarily for the benefit of such parties;(vi) Any 
+designation, consent or agreement by an insured who is an employee of an employer in 
+connection with the purchase by the employer, or trust established by the employer, of life 
+insurance on the life of the employee;(vii) A bona fide business succession planning 
+arrangement:(A) Between one (1) or more shareholders in a corporation or between a 
+corporation and one (1) or more of its shareholders or one (1) or more trusts established by its 
+shareholders;(B) Between one (1) or more partners in a partnership or between a partnership and 
+one (1) or more of its partners or one (1) or more trusts established by its partners; 
+or(C) Between one (1) or more members in a limited liability company or between a limited 
+liability company and one (1) or more of its members or one (1) or more trusts established by its 
+members;(viii) An agreement entered into by a service recipient, or a trust established by the 
+service recipient, and a service provider, or a trust established by the service provider, who 
+performs significant services for the service recipient's trade or business; or(ix) Any other 
+contract, transaction or arrangement exempted from the definition of life settlement contract by 
+the director based on a determination that the contract, transaction or arrangement is not of the 
+type intended to be regulated by sections 41-1950 through 41-1965, Idaho Code.(8) "Life 
+settlement provider" or "provider" means a person, other than an owner, who enters into or 
+effectuates a life settlement contract with an owner resident in this state. Nothing in this 
+definition reduces or impairs the scope of the definitions of section 30-14-102, Idaho Code, 
+including, but not limited to, agent, broker-dealer, investment adviser, and investment adviser 
+representative. "Life settlement provider" does not include:(a) A bank, savings bank, savings and 
+loan association, credit union or other licensed lending institution that takes an assignment of a 
+life insurance policy solely as collateral for a loan;(b) A premium finance company making 
+premium finance loans that takes an assignment of a life insurance policy solely as collateral for 
+a loan;(c) The insurer of the life insurance policy;(d) An authorized or eligible insurer that 
+provides stop loss coverage or financial guaranty insurance to a life settlement provider, 
+purchaser, financing entity, special purpose entity or related provider trust;(e) A financing 
+entity;(f) A special purpose entity;(g) A related provider trust; or(h) Any other person that the 
+director determines is not the type of person intended to be covered by the definition of life 
+settlement provider.(9) "Owner" means the owner of a life insurance policy or a certificate holder 
+under a group policy who resides in this state and enters or seeks to enter into a life settlement 
+contract. For the purposes of sections 41-1950 through 41-1965, Idaho Code, an owner shall not 
+be limited to an owner of a life insurance policy or a certificate holder under a group policy 
+insuring the life of an individual with a terminal or chronic illness or condition except where 
+specifically addressed.(a) If there is more than one (1) owner on a single policy and the owners 
+are residents of different states, the transaction shall be governed by the law of the state in which 
+the owner having the largest percentage ownership resides or, if the owners hold equal 
+ownership, the state of residence of one (1) owner agreed upon in writing by all the 
+owners.(b) "Owner" does not include:(i) A licensee under sections 41-1950 through 41-1965, 
+Idaho Code, including a life insurance producer acting as a life settlement broker pursuant to 
+sections 41-1950 through 41-1965, Idaho Code;(ii) Qualified institutional buyer as defined, 
+respectively, in rule 144A, 17 CFR 230.144A, promulgated under the federal securities act of 
+1933, 15 USC section 77a et seq., as amended;(iii) A financing entity;(iv) A special purpose 
+entity; or(v) A related provider trust.(10) "Policy" means an individual or group policy, group 
+certificate, contract or arrangement of life insurance owned by a resident of this state, regardless 
+of whether delivered or issued for delivery in this state.(11) "Premium finance loan" means a 
+
+loan made primarily for the purpose of making premium payments on a life insurance policy, 
+which loan is secured by an interest in such life insurance policy.(12) "Related provider trust" 
+means a titling trust or other trust established by a licensed life settlement provider or a financing 
+entity for the sole purpose of holding the ownership or beneficial interest in purchased policies in 
+connection with a financing transaction. The trust shall have a written agreement with the 
+licensed life settlement provider under which the licensed life settlement provider is responsible 
+for ensuring compliance with all statutory and regulatory requirements and under which the trust 
+agrees to make all records and files related to life settlement transactions available to the director 
+as if those records and files were maintained directly by the licensed life settlement 
+provider.(13) "Settled policy" means a life insurance policy or certificate that has been acquired 
+by a life settlement provider pursuant to a life settlement contract.(14) "Special purpose entity" 
+means a corporation, partnership, trust, limited liability company or other similar entity formed 
+solely to provide either directly or indirectly access to institutional capital markets:(a) For a 
+financing entity or licensed life settlement provider;(b) In connection with a transaction in which 
+the securities in the special purposes entity are acquired by the owner or by "qualified 
+institutional buyers" as defined in rule 144A, 17 CFR 230.144A, promulgated under the federal 
+securities act of 1933, as amended; or(c) In connection with a transaction in which the securities 
+pay a fixed rate of return commensurate with established asset-backed institutional capital 
+markets.(15) "Stranger-originated life insurance" or "STOLI" means an act, plan, practice, or 
+arrangement to initiate a life insurance policy for the benefit of a third party investor who, at the 
+time of policy origination, has no insurable interest in the insured. STOLI practices include, but 
+are not limited to, cases in which life insurance is purchased with resources or guarantees from 
+or through a person who, at the time of policy inception, could not lawfully initiate the policy 
+himself or itself, and where, at the time of inception, there is an arrangement or agreement, 
+whether oral or written, to directly or indirectly transfer the ownership of the policy or the policy 
+benefits to a third party. Trusts that are created to give the appearance of an insurable interest and 
+are used to initiate policies for investors violate insurable interest laws and the prohibition 
+against wagering on life. STOLI arrangements do not include those practices set forth in 
+subsection (7)(c) of this section.(16) "Terminally ill" means having an illness or sickness that can 
+reasonably be expected to result in death within twenty-four (24) months or less. 
+Idaho Code § 41-1951 
+Section 41-1952 - LICENSE REQUIREMENT(1) A person shall not act as a life settlement 
+provider or life settlement broker where the owner of the life insurance policy is a resident of this 
+state without first obtaining a license from the director as a life insurance producer under chapter 
+10, title 41, Idaho Code, and complying with the additional requirements set forth in sections 41-
+1950 through 41-1965, Idaho Code.(2) Not later than ten (10) days from the first day of 
+operating as a life settlement broker or provider, and thereafter upon renewal of the life insurance 
+producer license, the life insurance producer shall notify the director that he or she is acting as a 
+life settlement broker or provider on a form prescribed by the director, and shall pay any 
+applicable fee to be determined by the director specified by rule pursuant to section 41-401, 
+Idaho Code. Notification shall include an acknowledgment by the life insurance producer that he 
+or she will operate as a life settlement broker in accordance with sections 41-1950 through 41-
+1965, Idaho Code.(3) The insurer that issued the policy being settled shall not be responsible for 
+any act or omission of a life settlement broker or life settlement provider arising out of or in 
+connection with the life settlement transaction, unless the insurer receives compensation for the 
+
+placement of a life settlement contract from the life settlement provider or life settlement broker 
+in connection with the life settlement contract. 
+Idaho Code § 41-1952 
+Section 41-1953 - FILING OF LIFE SETTLEMENT CONTRACTS AND DISCLOSURE 
+STATEMENTS 
+A person shall not use a life settlement contract form or provide to an owner a disclosure 
+statement form in this state unless first filed with the director accompanied by a certification that 
+the form is in compliance with sections 41-1950 through 41-1965, Idaho Code. The director may 
+disapprove a life settlement contract form or disclosure statement form if, in the director's 
+opinion, the contract or provisions contained therein fail to meet the requirements of sections 41-
+1950 through 41-1965, Idaho Code, or are unreasonable, contrary to the interests of the public, or 
+otherwise misleading or unfair to the owner. At the director's discretion, the director may require 
+the submission of advertising material. 
+Idaho Code § 41-1953 
+Section 41-1954 - REPORTING REQUIREMENTS AND PRIVACY(1) Each life settlement 
+provider shall file with the director, on or before March 1 of each year, an annual statement 
+containing such information on a form prescribed by the director or as prescribed by rule. Such 
+information shall be limited to only those transactions where the owner is a resident of this 
+state.(2) Except as otherwise allowed or required by law, a life settlement provider, life 
+settlement broker, insurance company, insurance producer, information bureau, rating agency or 
+company, or any other person with actual knowledge of an insured's identity, shall not disclose 
+that identity as an insured, or the insured's financial or medical information to any other person 
+unless the disclosure is:(a) Necessary to effect a life settlement between the owner and a life 
+settlement provider and the owner and insured have provided prior written consent to the 
+disclosure;(b) Provided in response to an investigation or examination by the director or any 
+other governmental officer or agency;(c) A term of or condition to the transfer of a policy by one 
+(1) life settlement provider to another life settlement provider;(d) Necessary to permit a 
+financing entity, related provider trust or special purpose entity to finance the purchase of 
+policies by a life settlement provider and the owner and insured have provided prior written 
+consent to the disclosure;(e) Necessary to allow the life settlement provider or life settlement 
+broker or their authorized representatives to make contacts for the purpose of determining health 
+status;(f) Required to purchase stop loss coverage or financial guaranty insurance; 
+or(g) Permitted by any other provision of applicable law. 
+Idaho Code § 41-1954 
+Section 41-1955 - EXAMINATION AND RECORDS(1) A person required to be licensed by 
+sections 41-1950 through 41-1965, Idaho Code, is subject to examination as authorized in 
+chapter 2, title 41, Idaho Code, and shall for five (5) years retain copies of all:(a) Proposed, 
+offered and executed contracts, purchase agreements, underwriting documents, policy forms, 
+executed disclosure statements and applications from the date of the proposal, offer or execution 
+of the contract or purchase agreement, whichever is later;(b) All checks, drafts or other evidence 
+and documentation related to the payment, transfer, deposit or release of funds from the date of 
+the transaction; and(c) All other records and documents related to the requirements of 
+
+sections 41-1950 through 41-1965, Idaho Code.(2) The provisions of this section does not relieve 
+a person of the obligation to produce these documents to the director after the retention period 
+has expired if the person has retained the documents.(3) Records required to be retained by this 
+section must be legible and complete and in accordance with section 28-50-107, Idaho Code, and 
+may be retained in paper, photograph, microprocess, magnetic, mechanical, or electronic media, 
+or by any process that accurately reproduces or forms a durable medium for the reproduction of a 
+record. 
+Idaho Code § 41-1955 
+Section 41-1956 - DISCLOSURE TO OWNER UPON APPLICATION 
+With each application for a life settlement contract, a life settlement provider or life settlement 
+broker shall provide the owner with at least the following disclosures no later than the time the 
+application for the life settlement contract is signed by all parties. The disclosures shall be 
+provided in a separate document that is signed by the owner and the life settlement provider or 
+life settlement broker, and shall provide the following information: 
+(1) There are possible alternatives to life settlement contracts including any accelerated death 
+benefits or policy loans offered under the owner's life insurance policy.(2) That a life settlement 
+broker represents exclusively the owner, and not the insurer or the life settlement provider, and 
+owes a fiduciary duty to the owner, including a duty to act according to the owner's instructions 
+and in the best interest of the owner.(3) Some or all of the proceeds of the life settlement may be 
+taxable under federal and state law, and assistance should be sought from a professional tax 
+advisor.(4) Proceeds of the life settlement could be subject to the claims of creditors.(5) Receipt 
+of the proceeds of a life settlement may adversely affect the owner's eligibility for medicaid or 
+other government benefits or entitlements, and advice should be obtained from the appropriate 
+government agencies.(6) The owner has the right to rescind a life settlement contract within 
+twenty (20) days of the date it is executed by all parties. Rescission, if exercised by the owner, is 
+effective only if both notice of the rescission is given, and the owner repays all proceeds and any 
+premiums, loans and loan interest paid on account of the life settlement contract within the 
+rescission period. If the insured dies during the rescission period, the life settlement contract 
+shall be deemed to have been rescinded, subject to repayment by the owner or the owner's estate 
+of all life settlement proceeds and any premiums, loans and loan interest.(7) Funds will be sent to 
+the owner within three (3) business days after the life settlement provider has received the 
+insurer or group administrator's written acknowledgment that ownership of the policy or interest 
+in the certificate has been transferred and the beneficiary has been designated.(8) Entering into a 
+life settlement contract may cause other rights or benefits, including conversion rights and 
+waiver of premium benefits that may exist under the policy or certificate, to be forfeited by the 
+owner. Assistance should be sought from a financial adviser.(9) Disclosure to an owner shall 
+include distribution of a brochure describing the process of life settlements. The national 
+association of insurance commissioners (NAIC) form for the brochure shall be used unless 
+another form is developed or approved by the director.(10) The disclosure document shall 
+contain the following language: "All medical, financial or personal information solicited or 
+obtained by a life settlement provider or life settlement broker about an insured, including the 
+insured's identity or the identity of family members, a spouse or a significant other may be 
+disclosed as necessary to effect the life settlement between the owner and the life settlement 
+provider. If you are asked to provide this information, you will be asked to consent to the 
+
+disclosure. The information may be provided to someone who buys the policy or provides funds 
+for the purchase. You may be asked to renew your permission to share information every two (2) 
+years."(11) Following execution of a life settlement contract, the insured may be contacted for 
+the purpose of determining the insured's health status and to confirm the insured's residential or 
+business street address and telephone number, or as otherwise provided in sections 41-
+1950 through 41-1965, Idaho Code. This contact shall be limited to once every three (3) months 
+if the insured has a life expectancy of more than one (1) year, and no more than once per month 
+if the insured has a life expectancy of one (1) year or less. All such contacts shall be made only 
+by a life settlement provider licensed in the state in which the owner resided at the time of the 
+life settlement, or by the authorized representative of a duly licensed life settlement provider. 
+Idaho Code § 41-1956 
+Section 41-1957 - DISCLOSURE TO OWNER BY PROVIDER UPON SETTLEMENT 
+CONTRACT 
+A life settlement provider shall provide the owner with at least the following disclosures prior to 
+the time the owner signs the life settlement contract. The disclosures shall be conspicuously 
+displayed in the life settlement contract or in a separate document signed by the owner and shall 
+provide the following information: 
+(1) The affiliation, if any, between the life settlement provider and the issuer of the insurance 
+policy to be settled;(2) The name, business address and telephone number of the life settlement 
+provider;(3) If an insurance policy to be settled has been issued as a joint policy or involves 
+family riders or any coverage of a life other than the insured under the policy to be settled, the 
+possible loss of coverage on the other lives under the policy and shall be advised to consult with 
+his or her insurance producer or the insurer issuing the policy for advice on the proposed life 
+settlement;(4) The dollar amount of the current death benefit payable under the policy or 
+certificate. If known, the life settlement provider shall also disclose the availability of any 
+additional guaranteed insurance benefits, the dollar amount of any accidental death and 
+dismemberment benefits under the policy or certificate and the extent to which the owner's 
+interest in those benefits will be transferred as a result of the life settlement contract; and(5) The 
+name, business address and telephone number of the independent third party escrow agent, and 
+the fact that the owner may inspect or receive copies of the relevant escrow or trust agreements 
+or documents. 
+Idaho Code § 41-1957 
+Section 41-1958 - DISCLOSURE TO OWNER BY BROKER UPON SETTLEMENT 
+CONTRACT 
+A life settlement broker shall provide the owner with at least the following disclosures prior to 
+the time the owner signs the life settlement contract. The disclosures shall be conspicuously 
+displayed in the life settlement contract or in a separate document signed by the owner and 
+provide the following information: 
+(1) The name, business address and telephone number of the life settlement broker;(2) A full, 
+complete and accurate description of all offers, counteroffers, acceptances and rejections relating 
+to the proposed life settlement contract;(3) A written disclosure of any affiliations or contractual 
+arrangements between the life settlement broker and any person making an offer in connection 
+
+with the proposed life settlement contracts;(4) The amount and method of calculating the 
+broker's compensation, which term "compensation" includes anything of value to be paid or 
+given to a life settlement broker for the placement of a policy; and(5) Where any portion of the 
+life settlement broker's compensation is taken from a proposed life settlement offer, the total 
+amount of the life settlement offer and the percentage of the life settlement offer comprised by 
+the life settlement broker's compensation. 
+Idaho Code § 41-1958 
+Section 41-1959 - NOTICE OF CHANGE BY PROVIDER 
+If the life settlement provider transfers ownership or changes the beneficiary of the insurance 
+policy, the provider shall communicate in writing the change in ownership or beneficiary to the 
+insured within twenty (20) days after the change. 
+Idaho Code § 41-1959 
+Section 41-1960 - GENERAL RULES(1) A life settlement provider entering into a life 
+settlement contract shall first obtain:(a) If the owner is the insured, a written statement from a 
+licensed attending physician that the owner is of sound mind and under no constraint or undue 
+influence to enter into a life settlement contract; and(b) A document in which the insured 
+consents to the release of his or her medical records to a licensed life settlement provider, life 
+settlement broker and the insurance company that issued the life insurance policy covering the 
+life of the insured.(2) Within twenty (20) days after an owner executes documents necessary to 
+transfer any rights under an insurance policy or within twenty (20) days of entering any 
+agreement, option, promise or any other form of understanding, expressed or implied, to settle 
+the policy, the life settlement provider shall give written notice to the insurer that issued that 
+insurance policy that the policy has or will become a settled policy. The notice shall be 
+accompanied by the documents required by subsection (3) of this section.(3) The life settlement 
+provider shall deliver:(a) A copy of the medical release required under subsection (1)(b) of this 
+section;(b) A copy of the owner's application for the life settlement contract;(c) The notice 
+required under subsection (2) of this section; and(d) A request for verification of coverage to the 
+insurer that issued the life policy that is the subject of the life transaction. The NAIC's form for 
+verification of coverage shall be used unless another form is developed and approved by the 
+director.(4) The insurer shall respond to a request for verification of coverage submitted on an 
+approved form by a life settlement provider or life settlement broker within thirty (30) calendar 
+days of the date the request is received and shall indicate whether, based on the medical evidence 
+and documents provided, the insurer intends to pursue an investigation at that time regarding the 
+validity of the insurance contract or possible fraud. The insurer shall accept a request for 
+verification of coverage made on an NAIC form or any other form approved by the director. The 
+insurer shall accept an original or facsimile or electronic copy of such request and any 
+accompanying authorization signed by the owner. Failure by the insurer to meet its obligations 
+under this subsection shall be a violation of section 41-1964, Idaho Code.(5) Prior to or at the 
+time of execution of the life settlement contract, the life settlement provider shall obtain a 
+witnessed document in which the owner consents to the life settlement contract, represents that 
+the owner has a full and complete understanding of the life settlement contract, that he or she has 
+a full and complete understanding of the benefits of the life insurance policy, acknowledges that 
+he or she is entering into the life settlement contract freely and voluntarily and, for persons with 
+
+a terminal or chronic illness or condition, acknowledges that the insured has a terminal or 
+chronic illness and that the terminal or chronic illness or condition was diagnosed after the life 
+insurance policy was issued.(6) If a life settlement broker performs these activities required of 
+the life settlement provider, the provider is deemed to have fulfilled the requirements of this 
+section.(7) All medical information solicited or obtained by any licensee shall be subject to the 
+applicable provisions of state and federal law relating to confidentiality of medical 
+information.(8) All life settlement contracts entered into in this state, or covering a resident of 
+this state as owner, shall provide the owner with an absolute right to rescind the contract within 
+twenty (20) calendar days of the date upon which the life settlement contract is executed by all 
+parties. Rescission by the owner is conditioned upon the owner both giving notice and repaying 
+to the life settlement provider within the rescission period all proceeds of the settlement and any 
+premiums, loans and loan interest paid by or on behalf of the life settlement provider in 
+connection with or as a consequence of the life settlement. If the insured dies during the 
+rescission period, the life settlement contract shall be deemed to have been rescinded, subject to 
+repayment to the life settlement provider or other person of all life settlement proceeds, and any 
+premiums, loans and loan interest that have been paid by the life settlement provider or other 
+person. In the event of any rescission, if the life settlement provider has paid commissions or 
+other compensation to a life settlement broker in connection with the rescinded transaction, the 
+life settlement broker shall refund all such commissions and compensation to the life settlement 
+provider within five (5) business days following receipt of written demand from the life 
+settlement provider, which demand shall be accompanied by either the owner's notice of 
+rescission if rescinded at the election of the owner, or notice of the death of the insured if 
+rescinded by reason of the death of the insured within the applicable rescission period.(9) The 
+life settlement provider shall instruct the owner to send the executed documents required to 
+effect the change in ownership, assignment or change in beneficiary directly to an independent 
+escrow agent. Within three (3) business days after the date the escrow agent receives the 
+documents, or from the date the life settlement provider receives the documents, if the owner 
+erroneously provides the documents directly to the provider, the provider shall pay or transfer the 
+proceeds of the life settlement into an escrow or trust account maintained in a state or federally-
+chartered financial institution whose deposits are insured by the federal deposit insurance 
+corporation (FDIC). Upon payment of the settlement proceeds into the escrow account, the 
+escrow agent shall deliver the original change in ownership, assignment or change in beneficiary 
+forms to the life settlement provider or related provider trust or other designated representative of 
+the life settlement provider. Upon the escrow agent's receipt of the acknowledgment of the 
+properly completed transfer of ownership, assignment or designation of beneficiary from the 
+insurance company, the escrow agent shall pay the settlement proceeds to the owner.(10) Failure 
+to tender consideration to the owner for the life settlement contract within the time set forth in 
+the disclosure pursuant to section 41-1956(7), Idaho Code, renders the life settlement contract 
+voidable by the owner for lack of consideration until the time consideration is tendered to and 
+accepted by the owner.(11) Contacts with the insured for the purpose of determining the health 
+status of the insured by the life settlement provider or life settlement broker after the life 
+settlement has occurred shall only be made by the life settlement provider or broker licensed in 
+this state or its authorized representatives and shall be limited to once every three (3) months for 
+insureds with a life expectancy of more than one (1) year, and to no more than once per month 
+for insureds with a life expectancy of one (1) year or less. The provider or broker shall explain 
+the procedure for these contacts at the time the life settlement contract is entered into. The 
+
+limitations set forth in this subsection shall not apply to any contacts with an insured for reasons 
+other than determining the insured's health status. Life settlement providers and life settlement 
+brokers shall be responsible for the actions of their authorized representatives. 
+Idaho Code § 41-1960 
+Section 41-1961 - PERMITTED LIFE SETTLEMENTS AND SUPPORTING 
+DOCUMENTATION(1) It is a violation of the provisions of sections 41-1950 through 41-1965, 
+Idaho Code, for any person to enter into a life settlement contract at any time prior to the 
+issuance of a policy which is the subject of a life settlement contract or within a two (2) year 
+period commencing with the date of issuance of the insurance policy or certificate unless the 
+owner certifies to the life settlement provider that one (1) or more of the following conditions 
+have been met within the two (2) year period:(a) The policy was issued upon the owner's 
+exercise of conversion rights arising out of a group or individual policy, provided the total of the 
+time covered under the conversion policy plus the time covered under the prior policy is at least 
+twenty-four (24) months. The time covered under a group policy shall be calculated without 
+regard to any change in insurance carriers, provided the coverage has been continuous and under 
+the same group sponsorship;(b) As part of the certification, the owner submits independent 
+evidence to the life settlement provider that one (1) or more of the following conditions have 
+been met within the two (2) year period:(i) The owner or insured is terminally or chronically 
+ill;(ii) The owner's spouse dies;(iii) The owner divorces his or her spouse;(iv) The owner retires 
+from full-time employment;(v) The owner becomes physically or mentally disabled and a 
+physician determines that the disability prevents the owner from maintaining full-time 
+employment; or(vi) A final order, judgment or decree is entered by a court of competent 
+jurisdiction on the application of a creditor or the owner, adjudicating the owner bankrupt or 
+insolvent, or approving a petition seeking reorganization of the owner or appointing a receiver, 
+trustee or liquidator to all or a substantial part of the owner's assets.(2) Copies of the independent 
+evidence described in subsection (1)(b) of this section and documents required in section 41-
+1960(1) through (5), Idaho Code, shall be submitted to the insurer when the life settlement 
+provider or other party entering into a life settlement contract with an owner submits a request to 
+the insurer for verification of coverage. The copies shall be accompanied by a letter of attestation 
+from the life settlement provider that the copies are true and correct copies of the documents 
+received by the life settlement provider.(3) If the life settlement provider submits to the insurer a 
+copy of the owner or insured's certification described in and the independent evidence required 
+by subsection (1)(b) of this section when the provider submits a request to the insurer to effect 
+the transfer of the policy or certificate to the life settlement provider, the copy shall be deemed to 
+conclusively establish that the life settlement contract satisfies the requirements of this section 
+and the insurer shall timely respond to the request.(4) No insurer may, as a condition of 
+responding to a request for verification of coverage or effecting the transfer of a policy pursuant 
+to a life settlement contract, require that the owner, insured, life settlement provider or life 
+settlement broker sign any forms, disclosures, consent or waiver form that has not been filed 
+with the director for use in connection with life settlement contracts in this state.(5) Upon receipt 
+of a properly completed request for change of ownership or beneficiary of a policy, the insurer 
+shall respond in writing within thirty (30) days with written acknowledgment confirming that the 
+change has been effected or specifying the reasons why the requested change cannot be 
+processed. The insurer shall not unreasonably delay effecting change of ownership or beneficiary 
+
+and shall not otherwise seek to interfere with any life settlement contract lawfully entered into in 
+this state. 
+Idaho Code § 41-1961 
+Section 41-1962 - PROHIBITED PRACTICES AND CONFLICTS OF INTEREST(1) It is a 
+violation of the provisions of sections 41-1950 through 41-1965, Idaho Code, for any person to 
+engage in any act that constitutes or promotes a STOLI regarding any resident of this 
+state.(2) With respect to any life settlement contract or insurance policy, no life settlement broker 
+knowingly shall solicit an offer from, effectuate a life settlement with or make a sale to any life 
+settlement provider, life settlement purchaser, financing entity or related provider trust that is an 
+affiliate of such life settlement broker unless such relationship is first disclosed to the 
+owner.(3) With respect to any life settlement contract or insurance policy, no life settlement 
+provider knowingly shall enter into a life settlement contract with an owner, if, in connection 
+with such life settlement contract, anything of value will be paid to a life settlement broker that is 
+an affiliate of such life settlement provider or any investor, financing entity or related provider 
+trust that is involved in such life settlement contract unless such relationship is first disclosed to 
+the owner.(4) No person shall enter into a premium finance agreement with any other person or 
+affiliate thereof pursuant to which such person shall receive any proceeds, fees or other 
+consideration, directly or indirectly, from the policy or owner of the policy or any other person 
+with respect to the premium finance agreement or any life settlement contract or other 
+transaction related to such policy that are in addition to the amounts required to pay the principal, 
+interest and service charges related to policy premiums pursuant to the premium finance 
+agreement or subsequent sale of such agreement; provided further that any payments, charges, 
+fees or other amounts in addition to the amounts required to pay the principal, interest and 
+service charges related to policy premiums paid under the premium finance agreement shall be 
+remitted to the original owner of the policy or to his or her estate if he or she is not living at the 
+time of the determination of overpayment.(5) In the solicitation, application or issuance of a life 
+insurance policy, no person shall employ any device, scheme or artifice that would result in a 
+violation of section 41-1804, Idaho Code.(6) No life settlement provider shall enter into a life 
+settlement contract unless the life settlement promotional, advertising and marketing materials, 
+as may be prescribed by rule, have been filed with the director. In no event shall any marketing 
+materials expressly reference that the insurance is "free" for any period of time. The inclusion of 
+any reference in the marketing materials that would cause an owner to reasonably believe that 
+the insurance is free for any period of time shall be considered a violation of the provisions of 
+sections 41-1950 through 41-1965, Idaho Code.(7) No life insurance producer, insurance 
+company, life settlement broker or life settlement provider shall make any statement or 
+representation to the applicant or policyholder in connection with the sale or financing of a life 
+insurance policy to the effect that the insurance is free or without cost to the policyholder for any 
+period of time unless provided in the policy. 
+Idaho Code § 41-1962 
+Section 41-1963 - ADVERTISING FOR LIFE SETTLEMENTS 
+No person required to be licensed pursuant to sections 41-1950 through 41-1965, Idaho Code, 
+shall engage in any false or misleading advertising, solicitation, or practice. In no case shall a life 
+settlement broker or provider directly or indirectly market, advertise, solicit or otherwise 
+promote the purchase of a new policy with the primary emphasis on settling the policy or use the 
+
+words "free," "no cost" or words of similar import in the marketing, advertising, soliciting, or 
+otherwise promoting of the purchase of a policy. 
+Idaho Code § 41-1963 
+Section 41-1964 - PENALTY - UNFAIR TRADE PRACTICES 
+A violation of the provisions of sections 41-1950 through 41-1965, Idaho Code, shall be 
+considered an unfair trade practice under chapter 13, title 41, Idaho Code, subject to the penalties 
+contained in that chapter. 
+Idaho Code § 41-1964 
+Section 41-1965 - AUTHORITY TO PROMULGATE RULES 
+The director shall have the authority to promulgate rules implementing the provisions of 
+sections 41-1950 through 41-1964, Idaho Code. 
+Idaho Code § 41-1965 
+ 
+ 

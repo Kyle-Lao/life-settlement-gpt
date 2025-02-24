@@ -1,0 +1,261 @@
+2024 Maryland Statutes 
+Insurance 
+Title 8 - Entities That Act as Insurers 
+Subtitle 6 - Viatical Settlement 
+Providers and Viatical Settlement 
+Brokers 
+Section 8-601 - Definitions(a) In this subtitle the following words have the meanings 
+indicated.(b) "Activities of daily living" includes bathing, continence, dressing, eating, toileting, 
+and transferring.(c) "Chronically ill" means that an individual:(1) is unable to perform at least 
+two activities of daily living;(2) requires substantial supervision to protect the individual from 
+threats to health and safety due to severe cognitive impairment; or(3) has a level of disability 
+similar to that described in item (1) of this subsection.(d) "Credit enhancer" includes an 
+authorized insurer that provides to a viatical settlement provider stop loss coverage, an annuity 
+policy, an insurance policy, or similar coverage.(e) "Financing entity" means a person:(1) that is 
+an underwriter, a placement agent, a lender, a purchaser of securities, a purchaser of a policy or 
+certificate from a viatical settlement provider, a credit enhancer, or an entity that has a direct 
+ownership interest in a policy or certificate that is the subject of a viatical settlement contract; 
+and(2)(i) whose principal activity related to the transaction is providing funds to effect the 
+viatical settlement or purchase of one or more viaticated policies;(ii) that has an agreement in 
+writing with one or more registered viatical settlement providers to finance the acquisition of 
+viatical settlement contracts; or(iii) that is a qualified institutional buyer, as that term is defined 
+in Rule 144A of the federal Securities Act of 1933.(f) "Fraudulent viatical settlement act" means 
+a fraudulent insurance act as described in § 27-403(6) of this article.(g) "Policy" means an 
+individual or group policy, group certificate, contract, or arrangement of life insurance that 
+affects the rights of a resident of the State or that bears a reasonable relation to the State, 
+regardless of whether delivered or issued for delivery in the State.(h) "Related provider trust" 
+means a titling trust or other trust that:(1) is established by a registered viatical settlement 
+provider or a financing entity for the sole purpose of holding the ownership or beneficial interest 
+in purchased policies in connection with a financing transaction; and(2) has a written agreement 
+with the registered viatical settlement provider under which:(i) the viatical settlement provider is 
+responsible for ensuring compliance with all statutory and regulatory requirements; and(ii) the 
+trust agrees to make all records and files related to viatical settlement transactions available to 
+the Commissioner as if those records and files were maintained directly by the registered viatical 
+settlement provider.(i) "Special purpose entity" means a corporation, partnership, trust, limited 
+liability company, or other similar entity formed solely to provide, either directly or indirectly, 
+access to institutional capital markets for a financing entity or a registered viatical settlement 
+provider.(j) "Terminally ill" means that an individual has an illness or sickness that can 
+
+reasonably be expected to result in death in 24 months or less.(k)(1) "Viatical settlement broker" 
+means an insurance producer who:(i) is licensed under Title 10, Subtitle 1 of this article to sell 
+life insurance; and(ii) on behalf of a viator and for a fee, commission, or other valuable 
+consideration offers or attempts to negotiate viatical settlement contracts between a viator and 
+one or more viatical settlement providers.(2) "Viatical settlement broker" does not include an 
+attorney, certified public accountant, or financial planner accredited by a nationally recognized 
+accreditation agency, who is retained to represent the viator and whose compensation is not paid 
+directly or indirectly by the viatical settlement provider.(l)(1) "Viatical settlement contract" 
+means a written agreement that establishes the terms under which compensation or anything of 
+value will be paid, which compensation or value is less than the expected death benefit of the 
+policy, in return for the viator's assignment, transfer, sale, devise, or bequest of the death benefit 
+or ownership of any part of the policy.(2) "Viatical settlement contract" includes:(i) a contract for 
+a loan or other financing transaction with a viator secured primarily by a policy, other than a loan 
+by a life insurer under the terms of the policy or a loan secured by the cash value of a policy; 
+and(ii) an agreement with a viator to transfer ownership or change the beneficiary designation at 
+a later date regardless of the date that compensation is paid to the viator.(3) "Viatical settlement 
+contract" does not include a contract entered into or effectuated between a viatical settlement 
+provider and a financing entity, a related provider trust, or a special purpose 
+entity.(m)(1) "Viatical settlement provider" means a person, other than a viator, that enters into 
+or effectuates a viatical settlement contract.(2) "Viatical settlement provider" does not include an 
+individual who enters into or effectuates no more than one agreement in a calendar year for the 
+transfer of policies for any value less than the expected death benefit.(n) "Viaticated policy" 
+means a policy that has been acquired by a viatical settlement provider under a viatical 
+settlement contract.(o)(1) "Viator" means the owner or certificate holder of a policy who enters 
+or seeks to enter into a viatical settlement contract.(2) "Viator" does not include an accredited 
+investor or qualified institutional buyer, as defined in Regulation D, Rule 501, or Rule 144A of 
+the federal Securities Act of 1933. 
+Md. Code, IN § 8-601 
+Section 8-602 - Applicability 
+This subtitle applies only to a viatical settlement contract between a viator and a viatical 
+settlement provider. 
+Md. Code, IN § 8-602 
+Section 8-603 - Registration of providers(a) A person must register with the Commissioner 
+before the person acts as or represents itself as a viatical settlement provider in the 
+State.(b)(1) Except for an individual listed in § 8-601(k)(2) of this subtitle, only an individual 
+who is a viatical settlement broker may negotiate viatical settlement contracts between a viator 
+and one or more settlement providers.(2) Not later than 30 days after negotiating a viatical 
+settlement contract on behalf of a viator, a viatical settlement broker shall register with the 
+Commissioner in accordance with § 8-604 of this subtitle.(c) Employees and agents of a 
+registered viatical settlement provider or a registered viatical settlement broker may not be 
+required to be separately registered except in accordance with regulations adopted by the 
+Commissioner. 
+Md. Code, IN § 8-603 
+
+Section 8-604 - Application; fee 
+An applicant for registration shall: 
+(1) file with the Commissioner an application on the form that the Commissioner requires; 
+and(2) pay to the Commissioner a registration fee set by the Commissioner. 
+Md. Code, IN § 8-604 
+Section 8-605 - Representation of viator; viator status not limited to owner or holder of 
+policy(a) Notwithstanding the manner in which the viatical settlement broker is compensated, a 
+viatical settlement broker is deemed to represent only the viator and owes a fiduciary duty to the 
+viator to act according to the viator's instructions and in the best interest of the viator.(b) For 
+purposes of this subtitle, a viator may not be limited to an owner or certificate holder of a policy 
+that insures the life of an individual who is terminally ill or chronically ill. 
+Md. Code, IN § 8-605 
+Section 8-605.1 - Duties of viatical settlement brokers(a) At the time of each application for a 
+viatical settlement, a viatical settlement broker shall provide to the viator a written disclosure 
+that, at a minimum, contains a description of the services required by statute to be provided by 
+the viatical settlement broker to the viator.(b) A viatical settlement broker may not purchase a 
+policy that is the subject of a viatical settlement brokerage contract between the viatical 
+settlement broker and a viator directly or indirectly through:(1) a person owning or controlling an 
+interest in the viatical settlement broker; or(2) a person in which any interest is owned or 
+controlled by the viatical settlement broker.(c) A viatical settlement broker shall submit to the 
+viator all offers, counteroffers, acceptances, and rejections relating to the placement of the 
+viator's policy within 72 hours after receipt by the viatical settlement broker.(d)(1) A viatical 
+settlement broker shall provide to the viator a written disclosure of the amount and method of 
+calculating the viatical settlement broker's compensation, including anything of value received 
+by a viatical settlement broker for the placement of a policy.(2) A viatical settlement broker shall 
+provide the disclosure required under this subsection no later than 72 hours before the viatical 
+settlement contract is signed by all parties to the contract. 
+Md. Code, IN § 8-605.1 
+Section 8-606 - Disclosures(a) Before an offer to purchase a policy can be made to a viator, a 
+viatical settlement provider shall:(1) provide the viator with a disclosure statement 
+that:(i) contains the disclosures required in subsections (b) and (c) of this section; and(ii) has 
+been signed by the viatical settlement provider; and(2) receive from the viator the disclosure 
+statement signed by the viator.(b) Before an offer to purchase a policy can be made to the viator, 
+a viatical settlement provider shall provide to the viator a disclosure statement that contains the 
+following disclosures:(1) there are possible alternatives to viatical settlement contracts, including 
+any accelerated death benefits or policy loans offered under the viator's policy;(2) some or all of 
+the proceeds of the viatical settlement may be taxable under federal or State income tax law, and 
+assistance should be sought from a professional tax adviser;(3) proceeds of the viatical 
+settlement could be subject to the claims of creditors;(4) receipt of the proceeds of a viatical 
+settlement may adversely affect the viator's eligibility for Medicaid or other government benefits 
+or entitlements, and advice should be obtained from the appropriate government 
+agencies;(5)(i) the viator has the right to rescind a viatical settlement contract for 15 calendar 
+
+days after receipt of the viatical settlement proceeds by the viator, subject to repayment of all 
+viatical settlement proceeds and any premiums and loan interest paid by the viatical settlement 
+provider; and(ii) if the insured dies during the rescission period, the viatical settlement contract 
+shall be deemed to have been rescinded, subject to repayment of all viatical settlement proceeds 
+and any premiums, loans, and loan interest to the viatical settlement provider;(6) funds will be 
+sent to the viator within 3 business days after the viatical settlement provider has received the 
+insurer's or group administrator's acknowledgment that ownership of or interest in the policy has 
+been transferred and the beneficiary has been designated;(7) entering into a viatical settlement 
+contract may cause other rights or benefits, including conversion rights and waiver of premium 
+benefits that may exist under the policy, to be forfeited by the viator, and assistance should be 
+sought from a financial adviser; and(8)(i) the insured may be contacted by either the viatical 
+settlement provider or the viatical settlement broker or its authorized representative for the 
+purpose of determining the insured's health status; and(ii) this contact is limited to:1. once every 
+3 months if the insured has a life expectancy of more than 1 year; and2. not more than once per 
+month if the insured has a life expectancy of 1 year or less.(c)(1) Disclosure to a viator also shall 
+include distribution of a brochure that describes the process of viatical settlements and contains a 
+description of the statutory fiduciary duty of a viatical settlement broker to a viator.(2) The 
+National Association of Insurance Commissioners form for the brochure shall be used unless a 
+brochure is:(i) developed by the Commissioner; or(ii) developed by a viatical settlement broker 
+or viatical settlement provider and approved by the Commissioner.(d) The disclosure statement 
+shall contain the following language: "All medical, financial, or personal information solicited or 
+obtained by a viatical settlement provider or viatical settlement broker about an insured, 
+including the insured's identity or the identity of family members, a spouse, or a significant other 
+may be disclosed as necessary to effect the viatical settlement between the viator and the viatical 
+settlement provider. If you are asked to provide this information, you will be asked to consent to 
+the disclosure. The information may be provided to someone who buys the policy or provides 
+funds for the purchase. You may be asked to renew your permission to share information every 2 
+years.".(e) A viatical settlement provider or viatical settlement broker shall provide the viator 
+with a copy of the disclosure statement signed by the viator and the viatical settlement provider 
+or viatical settlement broker, at the time that an application for a viatical settlement contract is 
+provided to the viator.(f)(1) A viatical settlement provider shall provide the viator with at least 
+the disclosures required by this subsection no later than the date that the viatical settlement 
+contract is signed by all parties.(2) The disclosures shall be conspicuously displayed in the 
+viatical settlement contract or in a separate document signed by the viator and the viatical 
+settlement provider or viatical settlement broker.(3) The disclosures required under this 
+subsection shall provide the following information:(i) a statement of the affiliation, if any, 
+between the viatical settlement broker, viatical settlement provider, and the insurer that issued 
+the policy to be viaticated;(ii) the name, address, and telephone number of the viatical settlement 
+provider;(iii) if the policy to be viaticated has been issued as a joint policy or involves family 
+riders or any coverage of a life other than the insured under the policy to be viaticated, the viator 
+shall be informed of the possible loss of coverage on the other lives under the policy and shall be 
+advised to consult with an insurance producer or the insurer issuing the policy for advice on the 
+proposed viatical settlement;(iv)1. the dollar amount of the current death benefit payable to the 
+viatical settlement provider under the policy; and2. if known, the availability of any additional 
+guaranteed insurance benefits, the dollar amount of any accidental death and dismemberment 
+benefits under the policy, and the viatical settlement provider's interest in those benefits; 
+
+and(v)1. the name, business address, and telephone number of the independent third party escrow 
+agent; and2. the fact that the viator or owner may inspect or receive copies of the relevant escrow 
+or trust agreements or documents.(g) If the viatical settlement provider transfers ownership or 
+changes the beneficiary of the policy, the viatical settlement provider shall communicate the 
+change in ownership or beneficiary to the insured within 20 days after the change. 
+Md. Code, IN § 8-606 
+Section 8-607 - Expiration of registration(a) A registration expires at the end of every other year 
+on the anniversary of the registration unless it is renewed as provided in this section.(b) Before a 
+registration expires, the registrant may renew it for an additional 2-year term, if the 
+registrant:(1) otherwise is entitled to be registered;(2) files with the Commissioner a renewal 
+application on the form that the Commissioner requires; and(3) pays to the Commissioner a 
+renewal fee of $50.(c) An application for renewal of a registration shall be considered made in a 
+timely manner if it is postmarked on or before the anniversary date of the registration of the year 
+of renewal. 
+Md. Code, IN § 8-607 
+Section 8-608 - Registration - Denial, nonrenewal, suspension, revocation 
+Subject to the hearing provisions of Title 2 of this article, the Commissioner may deny a 
+registration to an applicant or refuse to renew, suspend, or revoke the registration of a registrant 
+if the applicant or registrant: 
+(1) knowingly makes a material misstatement in an application for registration;(2) fraudulently 
+or deceptively obtains or attempts to obtain a registration for the applicant or registrant or for 
+another;(3) has been convicted of a felony or of a misdemeanor involving moral turpitude;(4) in 
+connection with the viatical settlement contract and related insurance application, commits fraud 
+or engages in illegal or dishonest activities;(5) otherwise has shown a lack of trustworthiness or 
+competence to act as a viatical settlement broker or viatical settlement provider; or(6) violates 
+any provision of this subtitle or a regulation adopted under it. 
+Md. Code, IN § 8-608 
+Section 8-609 - Penalties; restitution 
+Instead of or in addition to suspending or revoking a registration, the Commissioner may: 
+(1) impose on the holder a penalty not exceeding $125,000 for each violation of this subtitle; 
+and(2) require the holder to make restitution to any person that has suffered financial injury 
+because of the violation of this subtitle. 
+Md. Code, IN § 8-609 
+Section 8-610 - Violations(a) It is a violation of this subtitle for a viatical settlement broker or 
+viatical settlement provider to:(1) violate any provision of this subtitle or any regulation adopted 
+under this subtitle;(2) fail to register with the Commissioner in accordance with this subtitle 
+before acting or representing itself as a viatical settlement broker or viatical settlement 
+provider;(3) fail to provide a viator with a disclosure statement in accordance with this 
+subtitle;(4) fail to allow a viator to rescind a viatical settlement contract up to at least 15 calendar 
+days after the receipt of the viatical settlement proceeds by the viator; and(5) fail to deliver to a 
+
+viator the viatical settlement proceeds in accordance with this subtitle.(b) It is a violation of this 
+subtitle for a person to enter into a viatical settlement contract within a 2-year period 
+commencing with the date of issuance of the insurance policy to be acquired under the viatical 
+settlement contract unless:(1) the viator certifies to the viatical settlement provider that within 
+the 2-year period:(i) the policy was issued on the viator's exercise of conversion rights arising out 
+of a group or individual policy;(ii) the total time covered under the conversion policy and the 
+prior policy is at least 24 months;(iii) the time covered under the group policy is calculated 
+without regard to any change in insurance carriers; and(iv) the coverage under the group policy 
+has been continuous and under the same group sponsorship;(2) the viator submits independent 
+evidence to the viatical settlement provider that within the 2-year period the insured became 
+terminally ill or chronically ill; or(3) the viator submits independent evidence to the viatical 
+settlement provider that within the 2-year period the viator or insured disposed of ownership 
+interests in a closely held corporation.(c) Any copies of certification or independent evidence 
+required under subsection (b) of this section shall be:(1) submitted to the insurer when the 
+viatical settlement provider submits a request to the insurer for verification of coverage; 
+and(2) accompanied by a letter of attestation from the viatical settlement provider that the copies 
+of certification or independent evidence required under subsection (b) of this section are true and 
+correct copies of the documents received by the viatical settlement provider. 
+Md. Code, IN § 8-610 
+ 
+Section 8-610.1 - Verification of coverage for life insurance policies(a) An insurer shall respond 
+to a request for verification of coverage submitted by a viatical settlement provider or a viatical 
+settlement broker under this subtitle, including verification of whether the insurer intends, at the 
+time of the request, to pursue an investigation regarding possible fraud affecting the validity of a 
+policy, within 30 days after the request is received, if the following documents are submitted 
+with the request:(1) an authorization signed by the viator; and(2) a "Verification of Coverage for 
+Life Insurance Policies" form adopted by the Commissioner under subsection (d) of this section 
+that has been completed by the viatical settlement provider or viatical settlement broker.(b) An 
+insurer may not charge a fee for responding to a request for verification of coverage submitted by 
+a viatical settlement provider or a viatical settlement broker that exceeds $50.(c)(1) An insurer 
+may send an acknowledgment of receipt of a request for verification of coverage to the viator 
+and, if the viator is other than the insured, to the insured.(2) The acknowledgment may contain a 
+general description of any accelerated death benefit that is available under the policy.(d) The 
+Commissioner shall adopt by regulation a "Verification of Coverage for Life Insurance Policies" 
+form. 
+Md. Code, IN § 8-610.1 
+Section 8-611 - Statement required in contracts and applications(a) Viatical settlement contracts 
+and applications for viatical settlement contracts shall contain the following statement or a 
+substantially similar statement: 
+"Any person who knowingly presents false information in an application for insurance or an 
+application for a viatical settlement contract has committed a fraudulent viatical settlement act 
+and on conviction is subject to fines, imprisonment, or both, under § 27-408 of the Insurance 
+Article of the Annotated Code of Maryland." 
+
+(b) The absence of a statement as required in subsection (a) of this section does not constitute a 
+defense in any prosecution for a fraudulent viatical settlement act. 
+Md. Code, IN § 8-611 
+ 

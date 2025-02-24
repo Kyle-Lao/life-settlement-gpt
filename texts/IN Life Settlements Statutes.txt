@@ -1,0 +1,797 @@
+Rule 61. Viatical Settlements 
+760 IAC 1-61-1 Purpose and scope 
+Authority: IC 27-8-19.8-25; IC 27-8-19.8-26 
+Affected: IC 27-8-19.8-17 
+Sec. 1. (a) The purpose of this rule is to effectuate IC 27-8-19.8 by establishing minimum standards and disclosure 
+requirements to be met by viatical settlement providers with respect to: 
+(1) viatical settlement contracts advertised, solicited, negotiated, or executed in Indiana; and 
+(2) licensing requirements for viatical settlement providers, brokers, and agents. 
+(b) Except as otherwise specifically provided, this rule applies to the following: 
+(1) Every person acting as a viatical settlement agent, broker, and provider as defined in IC 27-8-19.8-4.3, IC 27-8-19.8-4.5, 
+and IC 27-8-19.8-5, respectively, on or after January 1, 1999. 
+(2) Every viatical settlement contract advertised, solicited, negotiated, or executed in Indiana on or after January 1, 1999. 
+(Department of Insurance; 760 IAC 1-61-1; filed Oct 20, 1999, 10:23 a.m.: 23 IR 577; readopted filed Nov 7, 2005, 10:50 a.m.: 
+29 IR 896; readopted filed Nov 29, 2011, 9:14 a.m.: 20111228-IR-760110553RF 
+760 IAC 1-61-2 Definitions 
+Authority: IC 27-8-19.8-25; IC 27-8-19.8-26 
+Affected: IC 27-8-19.8-17; IC 27-8-19.8-23 
+Sec. 2. In addition to the definitions in IC 27-8-19.8, the following definitions apply throughout this rule: 
+(1) "Affiliate of a specific person" means a person who directly, or indirectly through one (1) or more intermediaries: 
+(A) controls; 
+(B) is controlled by; or 
+(C) is under common control with; 
+the person specified. 
+(2) "Catastrophic or life threatening illness or condition" means an illness, disease, or condition that can reasonably be 
+expected to result in death in thirty-six (36) months or less. 
+(3) "Commissioner" means the commissioner of the department of insurance. 
+(4) "Disclosure form" means a document containing the disclosures required by IC 27-8-19.8-23 and this rule. 
+(5) "Life expectancy" means the mean of the number of months the individual insured under the life insurance policy to be 
+viaticated can be expected to live as determined by the viatical settlement provider or a third party considering medical records 
+and appropriate experiential data. 
+(6) "Net death benefit" means the amount of the life insurance policy or certificate to be viaticated less any outstanding debts 
+or liens. 
+(7) "Viatical settlement broker" means a person that represents only the viator and, for a fee, commission, or other valuable 
+consideration, solicits, offers, or attempts to negotiate a viatical settlement contract between a viator and one (1) or more 
+viatical settlement providers. 
+(Department of Insurance; 760 IAC 1-61-2; filed Oct 20, 1999, 10:23 a.m.: 23 IR 577; readopted filed Nov 7, 2005, 10:50 a.m.: 
+29 IR 896; readopted filed Nov 29, 2011, 9:14 a.m.: 20111228-IR-760110553RFA) 
+760 IAC 1-61-3 Licensure and regulation of viatical settlement agents and brokers 
+Authority: IC 27-8-19.8-26 
+Affected: IC 27-8-19.8 
+Sec. 3. (a) No person may act as a viatical settlement agent or a viatical settlement broker unless the person: 
+(1) is licensed as a life insurance agent under IC 27-1-15.5; and 
+(2) has filed with the commissioner a declaration that contains: 
+(A) a statement the person intends to act as a viatical settlement broker or a viatical settlement agent in Indiana; 
+(B) a list of the states in which the person is or has ever been licensed to act as, is acting as, or has acted as a viatical 
+settlement agent or broker and the current status of any such license, including if the license has ever been revoked or 
+suspended; and 
+(C) a report describing the nature and status of: 
+(i) any formal or informal disciplinary or other regulatory action by the federal government or any level of 
+government in any state; or 
+(ii) any administrative, civil, or criminal action; 
+that is pending or has been taken against the applicant with respect to the business of viatical settlements or life 
+insurance. 
+(b) A viatical settlement broker is deemed to represent only the viator's interests and shall owe a fiduciary duty to the viator 
+to act according to the viator's instructions and in the viator's best interests. 
+(c) A viatical settlement broker may not seek or obtain any compensation from the viator without the written agreement of 
+the viator obtained before the broker performs any services in connection with the viatical settlement transaction. 
+(d) A viatical settlement agent is deemed to represent only the viatical settlement provider. A viatical settlement agent may 
+not seek or obtain any compensation from the viator in connection with the viatical settlement transaction. 
+(e) In addition to the disclosure requirement set forth in subsection (a), a person who acts as a viatical settlement agent or 
+broker shall comply with and be subject to all provisions of Indiana insurance law and rules applicable to a life insurance agent as 
+
+defined in IC 27-1-15.5-2. (Department of Insurance; 760 IAC 1-61-3; filed Oct 20, 1999, 10:23 
+760 IAC 1-61-4 Licensure of viatical settlement providers 
+Authority: IC 27-8-19.8-10 
+Affected: IC 4-21.5-3; IC 27-8-19.8-5 
+Sec. 4. (a) No person shall act as a viatical settlement provider unless the person has first obtained a license from the 
+commissioner. 
+(b) An application for licensing as a viatical settlement provider must be submitted on an application form that may be 
+obtained from the department of insurance at 311 West Washington Street, Suite 300, Indianapolis, Indiana 46204. The application 
+form is adopted by reference. 
+(c) A licensing fee in the amount of one thousand dollars ($1,000) shall accompany the completed application form. 
+(d) The application for license as a viatical settlement provider shall furnish all of the applicable information as follows: 
+(1) The name, address, and organizational structure of the applicant. 
+(2) Certified copies of the applicant's organization documents, including, but not limited to: 
+(A) articles of incorporation and any amendments thereto; and 
+(B) a certificate of incorporation and any amendments thereto. 
+(3) The identity of all of the following: 
+(A) Stockholders holding ten percent (10%) or more of the voting securities. 
+(B) Investors holding a ten percent (10%) or greater interest. 
+(C) Partners. 
+(D) Corporate officers. 
+(E) Trustees. 
+(F) If an association, all of the members. 
+(G) Any affiliates, together with a chart showing the relationship of the applicant to all affiliates. Any affiliate that is 
+an insurance company licensed in Indiana shall be identified as such. 
+(4) Biographical affidavits of all of the following: 
+(A) Officers. 
+(B) Directors. 
+(C) Stockholders holding ten percent (10%) or more voting securities. 
+(D) Investors holding ten percent (10%) or greater interest. 
+(E) Partners. 
+(F) Trustees. 
+(G) Members, if an association. 
+(5) A list of states in which the viatical settlement provider is licensed on the date of application, a copy of each license, and 
+a list of the states in which the viatical settlement provider is or has ever engaged in business as a viatical settlement provider. 
+(6) A list of all licenses from any level of federal government or government of any state applied for by or currently or 
+previously held by the applicant, its officers, directors, trustees, stockholders holding ten percent (10%) or more of voting 
+securities, investors holding a ten percent (10%) or greater interest, partners, or members (if an association), and a statement 
+showing the current status of any such license, including whether it has ever been denied, revoked, or suspended. 
+(7) A report stating whether any formal or informal regulatory action by any level of government of any state or the federal 
+government, including the Securities and Exchange Commission, has been taken or is pending against the applicant or its 
+officers, directors, trustees, stockholders holding ten percent (10%) or more of voting securities, investors holding a ten 
+percent (10%) or greater interest, partners, or members (if an association), and the status of the action. 
+(8) A report stating whether any criminal or civil action involving or alleging an offense that includes fraudulent acts or breach 
+of contract has been taken or is pending against the applicant or its officers, directors, trustees, stockholders holding ten 
+percent (10%) or more of voting securities, investors holding a ten percent (10%) or greater interest, partners, or members 
+(if an association), and the status of the action. 
+(9) A copy of the applicant's most recent financial statement. A financial statement, for purposes of this rule, consists of a 
+financial statement that is compiled in a manner consistent with generally accepted accounting principles (GAAP) and is 
+accompanied by either an opinion by an independent accounting firm or a statement by an officer of the applicant representing that the 
+financial statement was prepared in a manner consistent with GAAP and accurately reflects the financial 
+condition of the applicant. 
+(10) Copies of any documents filed by the applicant with the Securities and Exchange Commission and any state securities 
+regulator. 
+(11) A detailed plan of operations for the applicant's business, including, but not limited to, information regarding or 
+identifying the following items: 
+(A) Escrow accounts and banks. 
+(B) Advertising and agents, brokers, or other distribution system to be used. 
+(C) Marketing techniques to be used. 
+(D) Market training program. 
+(E) Entities with whom the applicant will contract for services in connection with the acquisition, pricing, and servicing 
+of viatical settlement contracts. 
+
+(12) Such other information as the commissioner reasonably may require. 
+(e) A viatical settlement provider must possess net worth in the amount of not less than one hundred fifty thousand dollars 
+($150,000) to qualify for and maintain its license. For purposes of this subsection, in computing capital, the value of viaticated 
+policies shall not be included. 
+(f) A viatical settlement provider may obtain financing for the execution, acquisition, or retention of a viatical settlement 
+contract only: 
+(1) through the services of an individual licensed to sell investments in viatical settlement contracts under applicable state 
+laws; or 
+(2) from an institutional lender, insurance company, or reinsurer whose sole activity related to the transaction is providing 
+funds to effect the viatical settlement and who has an agreement in writing with the viatical settlement provider to finance 
+viatical settlement contracts. 
+(g) A viatical settlement provider shall report any material change in the information in the application or renewal form 
+referred to in this section and section 5 of this rule, including any change of a residential or business address, not later than the 
+thirtieth day after the date on which the change takes effect. 
+(h) The application process shall be as follows: 
+(1) The department of insurance shall have thirty (30) days after receipt of an application to determine whether the application 
+is complete. If an application is not complete, the department of insurance will give the applicant written notice of the required 
+information necessary to complete the application. The department shall take no further action on the application until the 
+required information is submitted. 
+(2) The department of insurance shall have thirty (30) days from the date the application is determined to be complete under 
+subdivision (1) to process the application and approve or deny it. 
+(i) If the commissioner denies an application for a license, the commissioner shall notify the applicant and advise the applicant 
+in writing of the reasons for the denial of the license. Not later than sixty (60) days after receiving a notice from the commissioner 
+under this subsection, the applicant may make written demand upon the commissioner for a hearing to determine the reasonableness 
+of the commissioner's action. Such hearing shall be held within thirty (30) days from the date of receipt of the written demand of 
+the applicant and shall be conducted in accordance with IC 4-21.5-3. (Department of Insurance; 760 IAC 1-61-4; filed Oct 20, 1999, 
+10:23 a.m.: 23 IR 578; errata filed Dec 9, 1999, 1:05 p.m.: 23 IR 814; readopted filed Nov 7, 2005, 10:50 a.m.: 29 IR 896; 
+readopted filed Nov 29, 2011, 9:14 a.m.: 20111228-IR-760110553RFA) 
+760 IAC 1-61-5 Renewal and maintenance of viatical settlement provider license 
+Authority: IC 27-8-19.8-26 
+Affected: IC 4-21.5-3; IC 27-8-19.8-15 
+Sec. 5. (a) A viatical settlement provider must apply to the department of insurance for a license renewal on or before June 
+1 of each year, commencing June 1, 2000. A renewal application may be obtained from the department of insurance at the address 
+listed in section 4(b) of this rule. The renewal application is hereby adopted by reference. 
+(b) A renewal fee in the amount of five hundred dollars ($500) must accompany the renewal application. 
+(c) If a complete renewal application and the renewal fee are received by the department of insurance on or before June 1 of 
+each year, the provider may continue to operate under its current license until the renewal is denied or issued by the department of 
+DEPARTMENT OF INSURANCE 
+Indiana Administrative Code Page 240 
+insurance. 
+(d) If a complete renewal application and fee are not received on or before June 1, the license shall terminate automatically 
+on July 1. A licensee may not act as a viatical settlement provider until the department issues the license renewal. 
+(e) If a complete renewal application and fee are not received on or before December 31 of the year that a license terminates 
+pursuant to subsection (d), a viatical settlement provider must submit a new application and application fee pursuant to section 4 
+of this rule for a viatical settlement provider license. 
+(f) If the commissioner denies a renewal application for a license, the commissioner shall notify the applicant and advise the 
+applicant in writing of the reasons for the denial of the renewal of the license. Not later than sixty (60) days after receiving a notice 
+from the commissioner under this subsection, the applicant may make written demand upon the commissioner for a hearing to 
+determine the reasonableness of the commissioner's action. Such hearing shall be held within thirty (30) days from the date of receipt 
+of the written demand of the applicant and shall be conducted in accordance with IC 4-21.5-3. 
+(g) A viatical settlement provider must renew and maintain a license until either of the following events occurs: 
+(1) The date the viatical settlement provider properly assigns, sells, or otherwise transfers to another viatical settlement 
+provider licensed in this state any viatical settlement contracts held by the provider that have not matured. 
+(2) The date that the last viatical settlement contract has matured. 
+(h) If the license of a viatical settlement provider who has contracts that have not yet matured is denied, suspended, revoked, 
+or terminated, the provider shall appoint another viatical settlement provider licensed in Indiana to make all inquiries to the viator, 
+or the viator's designee, regarding health status of the viator or any other matters. (Department of Insurance; 760 IAC 1-61-5; filed 
+Oct 20, 1999, 10:23 a.m.: 23 IR 580; errata filed Dec 9, 1999, 1:05 p.m.: 23 IR 814; readopted filed Nov 7, 2005, 10:50 a.m.: 29 
+IR 896; readopted filed Nov 29, 2011, 9:14 a.m.: 20111228-IR-760110553RFA) 
+760 IAC 1-61-6 Requirements for viatical settlement contracts 
+Authority: IC 27-8-19.8-10; IC 27-8-19.8-26 
+Affected: IC 27-8-19.8-21; IC 27-8-19.8-24.2 
+
+Sec. 6. The following requirements apply to any viatical settlement contract that will be advertised, solicited, negotiated, or 
+executed in Indiana: 
+(1) The form of contract or any amendment to it shall not be used until it is filed with and approved by the commissioner. 
+(2) The contract shall require payment in a lump sum equal to the full amount of the proceeds to a trust or escrow account 
+in a state or federally chartered financial institution whose deposits are insured by the Federal Deposit Insurance Corporation. 
+Payment into the escrow account shall be made immediately upon receipt of a signed viatical settlement contract. A trustee 
+or escrow agent independent of the parties to the viatical settlement contract shall manage the account. The proceeds shall 
+be paid to the viator by wire transfer to the account of the viator, by certified check, or by cashier's check, in accordance with 
+the time periods set forth in IC 27-8-19.8-24.2(b). 
+(3) The contract shall contain the following rescission provisions: 
+(A) It shall allow unconditional rescission by the viator in accordance with time periods no less favorable than those 
+set forth in IC 27-8-19.8-21(b)(2). 
+(B) The rescission provision shall be prominently displayed on the first page of the contract and shall set forth the 
+method for giving notice of rescission. If notice of rescission is given by mail, it shall be deemed to be given when 
+deposited in the United States mail, first class postage prepaid. 
+(C) It shall provide that if the insured dies during the period of time allowed for rescission, the contract will be 
+automatically rescinded, subject to repayment of all proceeds to the viatical settlement provider. 
+(4) If a viatical settlement provider enters into a viatical settlement contract that allows the viator to retain an interest in the 
+policy that is being viaticated, the viatical settlement contract shall contain the following provisions: 
+(A) A provision that the viatical settlement provider will effect the transfer of the amount of the death benefit only to 
+the extent or portion of the amount viaticated. The insurance company shall pay benefits in excess of the amount 
+viaticated directly to the viator's beneficiary. 
+(B) A provision that the viatical settlement provider will, upon acknowledgment of the completion of the assignment 
+or transfer of the life insurance policy by its issuing company, either: 
+(i) advise the viator in writing that the insurance company has confirmed, in writing, the viator's nonviaticated 
+interest in the policy; or 
+DEPARTMENT OF INSURANCE 
+Indiana Administrative Code Page 241 
+(ii) send to the viator a copy of the document sent from the insurance company to the viatical settlement provider 
+that acknowledges the viator's non-viaticated interest in the policy. 
+(C) A provision that apportions the premiums to be paid by the viatical settlement provider and the viator. The viatical 
+settlement contract may specify that all premiums shall be paid by the viatical settlement provider. The contract may 
+also require that the viator reimburse the viatical settlement provider for the premiums attributable to the retained 
+interest. 
+(5) With respect to policies containing a provision for double or additional indemnity for accidental death, the contract shall 
+provide that the additional payment shall remain payable to the beneficiary last named by the viator prior to entering into the 
+viatical settlement contract, or to such other beneficiary, other than the viatical settlement provider, as the viator may 
+thereafter designate, or in the absence of a beneficiary, to the estate of the viator. 
+(Department of Insurance; 760 IAC 1-61-6; filed Oct 20, 1999, 10:23 a.m.: 23 IR 580; readopted filed Nov 7, 2005, 10:50 a.m.: 
+29 IR 896; readopted filed Nov 29, 2011, 9:14 a.m.: 20111228-IR-760110553RFA) 
+760 IAC 1-61-7 Disclosure forms 
+Authority: IC 27-8-19.8-26 
+Affected: IC 27-8-19.8-23; IC 27-8-19.8-24.9 
+Sec. 7. The following requirements apply to each disclosure form that will be used in connection with a viatical settlement 
+contract that is negotiated or executed in Indiana: 
+(1) The disclosure form shall be provided to the viator prior to the date the viator signs the viatical settlement contract. 
+(2) The disclosures required by IC 27-8-19.8-23 shall be prominently displayed. 
+(3) The disclosure required by IC 27-8-19.8-23(7) shall specifically address at least the following rights and benefits if 
+available under the insurance policy to be viaticated: 
+(A) Guaranteed insurability options. 
+(B) Accidental death or accidental death and dismemberment benefits. 
+(C) Disability income or loss of income protection. 
+(D) Conversion rights. 
+(E) Waiver of premium benefits. 
+(F) Family, spousal, or children's riders or benefits, and any other comparable coverage for a life other than the 
+insured's. 
+(4) The disclosure form shall set forth the procedures for contacts with the insured in compliance with IC 27-8-19.8-24.9. The 
+disclosure form shall contain a statement that contacts for the purposes of determining the health status of the insured must 
+be made by mail unless the parties agree to another method. If the insured agrees to contact by a method other than mail, the 
+alternative method or methods of contact must be included in the contract. 
+(5) The disclosure form shall contain the following or substantially similar language, "All medical, financial, and personal 
+
+information solicited or obtained by a viatical settlement agent, broker, or provider about a viator and an insured, including 
+the identity of the viator and insured and the identity of their family members or significant other, is confidential. The 
+information shall not be disclosed to any person unless disclosure is: 
+(A) necessary and the viator and insured have provided written consent to the disclosure; 
+(B) provided in response to an investigation or examination by the commissioner or other governmental officer or 
+agency; or 
+(C) in connection with a transfer of the contract or policy to another licensed viatical settlement provider or to an entity 
+that provides financing to effect the contract under a written agreement with a licensed viatical settlement provider.". 
+(6) The disclosure form shall contain the following or substantially similar language: "Your insurance policy provides 
+financial protection to your beneficiaries. If you sell your policy to a viatical settlement provider, your beneficiaries will no 
+longer have that protection. Before you sell your policy, you should consider whether that protection is needed. Other financial 
+options may be available to you. Consult your financial advisor or insurance company for more information.". 
+(7) The viatical settlement provider must keep a copy of each disclosure statement used in connection with each executed 
+viatical settlement contract. The provider must retain any disclosure statements and signed affidavits for at least five (5) years 
+after the death of the insured. 
+(Department of Insurance; 760 IAC 1-61-7; filed Oct 20, 1999, 10:23 a.m.: 23 IR 581; readopted filed Nov 7, 2005, 10:50 a.m.: 
+DEPARTMENT OF INSURANCE 
+Indiana Administrative Code Page 242 
+29 IR 896; readopted filed Nov 29, 2011, 9:14 a.m.: 20111228-IR-760110553RFA) 
+760 IAC 1-61-8 Reporting requirements 
+Authority: IC 27-8-19.8-26 
+Affected: IC 5-24-3-4; IC 27-8-19.8-17 
+Sec. 8. On or before March 1 of each calendar year, each viatical settlement provider licensed in Indiana shall make a report 
+of all viatical transactions for the previous calendar year where the viator is a resident of Indiana or was a resident of Indiana at the 
+time the contract was executed and for all states in the aggregate containing the following information: 
+(1) The following for each viatical settlement contract executed or acquired during the reporting period: 
+(A) Date of viatical settlement contract. 
+(B) Life expectancy of the insured at the time of contract, in months. 
+(C) Face amount of the policy viaticated. 
+(D) Net death benefit viaticated. 
+(E) Estimated total premiums to keep the policy in force for life expectancy. 
+(F) Net amount paid to viator. 
+(G) Source of policy: 
+(i) A-agent; 
+(ii) B-broker; 
+(iii) D-direct purchase; or 
+(iv) SM-secondary market. 
+(H) Type of coverage: 
+(i) I-individual; or 
+(ii) G-group. 
+(I) Within the contestable or suicide period, or both, at the time of viatical settlement (yes or no). 
+(J) Primary International Classification of Diseases (ICD) diagnosis code, in numeric format, as defined by the 
+international classification of diseases, as most recently published by the United States Department of Health and 
+Human Services. 
+(K) Type of funding: 
+(i) I-institutional; or 
+(ii) P-private. 
+(L) A copy of the pricing memorandum described in section 9 of this rule. At the time of submission of the pricing 
+memorandum or any subsequent supporting documentation, the viatical settlement provider may request the 
+commissioner to withhold that material from public inspection in order to preserve trade secrets in accordance with IC 
+5-24-3-4. Each page covered by such request shall be clearly marked "confidentiality requested", and all pages so 
+marked shall be placed in a separate envelope. 
+(2) The following for each viatical settlement contract where death has occurred during the reporting period: 
+(A) Date of viatical settlement contract. 
+(B) Life expectancy of the insured at the time of contract, in months. 
+(C) Net death benefit collected. 
+(D) Total premiums paid to maintain the policy (or indicate WP–waiver of premium or NA–not applicable). 
+(E) Net amount paid to viator. 
+(F) Primary International Classification of Diseases (ICD) diagnosis code, in numeric format, as defined by the 
+international classification of diseases, as most recently published by the United States Department of Health and 
+Human Services. 
+(G) Date of death. 
+
+(H) Amount of time between the date of contract and the date of death, in months. 
+(I) Difference between the number of months that passed between the date of the contract and the date of death and the 
+life expectancy, in months, as determined by the reporting company. 
+(J) Date policy was issued to viator. 
+(3) Name and address of each viatical settlement agent and broker through whom the reporting company purchased a policy 
+DEPARTMENT OF INSURANCE 
+Indiana Administrative Code Page 243 
+from a viator who resided in Indiana at the time of the contract. 
+(4) Number of policies reviewed and rejected. 
+(5) Number of policies purchased in the secondary market as a percentage of total policies purchased. 
+(Department of Insurance; 760 IAC 1-61-8; filed Oct 20, 1999, 10:23 a.m.: 23 IR 582; readopted filed Nov 7, 2005, 10:50 a.m.: 
+29 IR 896; readopted filed Nov 29, 2011, 9:14 a.m.: 20111228-IR-760110553RFA) 
+760 IAC 1-61-9 Standards for evaluation of reasonable payments 
+Authority: IC 27-8-19.8-25; IC 27-8-19.8-26 
+Affected: IC 27-8-19.8-25 
+Sec. 9. (a) A viatical settlement provider shall not enter into a viatical settlement that provides a payment to the viator that 
+is unreasonable or unjust. In determining whether a payment is unreasonable or unjust, the commissioner may consider relevant 
+factors, including any of the following: 
+(1) The life expectancy of the viator. 
+(2) The applicable rating by a rating service generally recognized in the insurance industry, regulators, and consumer groups 
+of the insurance company that issued the viaticated policy. 
+(3) The prevailing discount rates in the viatical settlement market in this state, or, if insufficient data is available for Indiana, 
+the prevailing rates nationally or in other states that maintain this data. 
+(b) A viatical settlement provider shall prepare and maintain a pricing memorandum providing a description of the method 
+and assumptions used in determining the value to be paid to viators. The memorandum shall include a description, which may use 
+reasonable ranges, of the following: 
+(1) The procedure used to determine the insured's life expectancy, including medical, evaluation, and use of health care 
+professionals in such evaluation. 
+(2) The portion of the discount (difference between the death benefit of the viaticated policy or certificate and the proceeds 
+paid by the viatical settlement provider to the viator) due to market value interest rate (current value of money) and how this 
+interest rate is determined. 
+(3) The portion of the discount due to agent or broker compensation paid by the viatical settlement provider. 
+(4) The portion of the discount that is the viatical settlement provider's operating costs in connection with viatical settlement 
+contracts, including acquisition and maintenance cost and risk charge. 
+(5) The portion of the discount due to other overhead costs and profit margin. 
+(6) The effect, if any, that policy loans, surrender charges, and the net cash surrender value in the insurance plan have on the 
+pricing determination. 
+(7) How provision is made in the settlement determination for future insurance policy premiums, dividends, or excess 
+amounts, if any. 
+(8) What provisions, if any, are made in the settlement determination for supplemental insurance benefits or riders. 
+(Department of Insurance; 760 IAC 1-61-9; filed Oct 20, 1999, 10:23 a.m.: 23 IR 582; errata filed Dec 9, 1999, 1:05 p.m.: 23 IR 
+814; readopted filed Nov 7, 2005, 10:50 a.m.: 29 IR 896; readopted filed Nov 29, 2011, 9:14 a.m.: 20111228-IR-760110553RFA) 
+760 IAC 1-61-10 Miscellaneous 
+Authority: IC 27-8-19.8-26 
+Affected: IC 27-8-19.8 
+Sec. 10. (a) A viatical settlement provider, agent, or broker shall not discriminate: 
+(1) in the solicitation or making of viatical settlements on the basis of race, age, sex, national origin, creed, religion, 
+occupation, marital or family status, or sexual orientation; or 
+(2) between viators with dependents and without dependents. 
+(b) A viatical settlement provider, agent, or broker shall not pay or offer to pay any finder's fee, commission, or other 
+compensation to any insured's physician, or to an attorney, accountant, or other person providing medical, legal, financial planning, 
+or social services to the viator, or to any other person acting as an agent of the viator with respect to the viatical settlement. 
+(c) A viatical settlement provider shall not act also as a viatical settlement broker in the same viatical settlement, whether 
+entitled to collect a fee, commission, or other compensation in the transaction. 
+DEPARTMENT OF INSURANCE 
+Indiana Administrative Code Page 244 
+(d) A viatical settlement provider shall not knowingly solicit investors who have treated or have been asked to treat the illness, 
+disease, or condition of the insured whose coverage would be the subject of the investment. 
+(e) A viatical settlement agent, broker, or provider shall not disclose patient identifying information to any person, except in 
+either of the following cases: 
+(1) With the written consent of the viator and insured obtained prior to the disclosure of the information. The written consent 
+
+must refer to the particular disclosure to be made and must be retained by the agent, broker, or provider for at least five (5) 
+years after receipt. 
+(2) In response to a subpoena provided that the viatical settlement agent, broker, or provider shall notify the viator and the 
+insured of the existence of the subpoena in writing at the viator's and the insured's last known addresses within five (5) 
+business days after receiving notice of the subpoena. 
+(f) The following standards shall apply to any advertising regarding viatical settlement contracts: 
+(1) Advertising related to the viatical settlement shall be truthful and not misleading by fact or implication. 
+(2) If the advertiser emphasizes the speed with which the viatication will occur, the advertising must disclose the average time 
+frame from completed application to the date of offer and from acceptance of the offer to receipt of the funds by the viator. 
+(3) If the advertising emphasizes the dollar amounts available to viators, the advertising shall disclose the average purchase 
+price as a percent of face value obtained by viators contracting with the advertiser during the previous six (6) months. 
+(Department of Insurance; 760 IAC 1-61-10; filed Oct 20, 1999, 10:23 a.m.: 23 IR 583; readopted filed Nov 7, 2005, 10:50 a.m.: 
+29 IR 896; readopted filed Nov 29, 2011, 9:14 a.m.: 20111228-IR-760110553RFA) 
+760 IAC 1-61-11 Insurance company practices 
+Authority: IC 27-8-19.8-26 
+Affected: IC 27-8-19.8 
+Sec. 11. (a) Life insurance companies authorized to do business in Indiana shall respond to a request for verification of 
+coverage from a viatical settlement provider, agent, or broker within thirty (30) calendar days of the date a request is received, 
+subject to the following conditions: 
+(1) A current authorization consistent with applicable law, signed by the policy owner or certificate holder, accompanies the 
+request. 
+(2) In the case of an individual policy, submission of a form substantially similar to the standardized viatical settlement 
+verification of coverage for individual policies set forth in section 12(a) of this rule, which has been completed by the viatical 
+settlement provider, broker, or agent. 
+(3) In the case of group insurance coverage, submission of a form substantially similar to the standardized viatical settlement 
+verification of coverage for group policies set forth in section 12(b) of this rule, which has been completed by the following: 
+(A) The viatical settlement provider, broker, or agent. 
+(B) The group policyholder, to the extent the information is available to the policyholder. 
+(b) A life insurance company and a viatical settlement provider, broker, or agent may use a verification of coverage form 
+different from the form set forth in section 12(a) or 12(b) of this rule if the alternative form has been mutually agreed upon in writing 
+prior to the submission of the request for verification of coverage. 
+(c) A life insurance company may not charge a fee for responding to a request for verification of coverage from a viatical 
+settlement provider, broker, or agent in compliance with this section in excess of any usual and customary charges to policyholders, 
+certificate holders, or insured’s for similar services. 
+(d) A life insurance company may send an acknowledgment of receipt of a request for verification of coverage to the 
+policyholder or certificate holder and, where the policyholder or certificate holder is other than the insured, to the insured. The 
+acknowledgment may contain a general description of any accelerated death benefit that is available under a provision of or rider 
+to the life insurance contract. (Department of Insurance; 760 IAC 1-61-11; filed Oct 20, 1999, 10:23 a.m.: 23 IR 583; errata filed 
+Dec 9, 1999, 1:05 p.m.: 23 IR 814; readopted filed Nov 7, 2005, 10:50 a.m.: 29 IR 896; readopted filed Nov 29, 2011, 9:14 a.m.: 
+20111228-IR-760110553RFA) 
+DEPARTMENT OF INSURANCE 
+Indiana Administrative Code Page 245 
+Sec. 12. (a) The form for standardized viatical settlement verification of coverage for individual policies is as follows: 
+ 
+VERIFICATION OF COVERAGE FOR INDIVIDUAL POLICIES 
+Section One: 
+(To be Completed by the Viatical Settlement Provider, Broker, or Agent) 
+Insurance Company: Name of Policy owner:____________________________________________ 
+Policy Number: ___________________________ Owner's Social Security Number:____________________________ 
+Name of Insured: _________________________Policy owner’s Address:_________________________________________ 
+Street:________________________________________________________________ 
+Insured's date of birth: ______________________________________ 
+City_______________________________________ State__________ 
+ 
+Please provide the information requested in Section Two (below) with regard to the policy identified above and in 
+accordance with the attached authorization. 
+In addition, please provide the forms checked below which are available from your company to complete a 
+viatical settlement transaction: 
+____  Absolute Assignment/Change of Ownership/Viatical Assignment Form 
+____ Change of Beneficiary 
+____ Release of Irrevocable Beneficiary (if applicable) 
+
+____Waiver of Premium Claim Form 
+____ Disability Waiver of Premium Approval Letter 
+Date _____________ Signature of a representative of Viatical:____________________________________________________ 
+Settlement Provider, Broker, or Agent:__________________________________________________________________ 
+Full name and address of Viatical Settlement Provider, Broker, or Agent _______________________________________ 
+_________________________________________________________________________________________________ 
+ 
+Section Two: 
+(To be Completed by the Life Insurance Company) 
+1) Face amount of policy: $ _________ 
+2) Original date of issue: ____________ (Month/Date/Year) 
+3) Was face amount increased after original issue date?  ____ no ____ yes 
+ 
+a) If yes, when: ________ (Month/Date/Year) 
+4) Type of Policy: ____________(Term/Whole Life/Universal Life/Variable Life) 
+5) Is policy participating? ____ no ____ yes 
+ 
+a) If yes, when: ______________(Month/Date/Year) 
+6) Type of Policy: _____________(Term/Whole Life/Universal Life/Variable Life) 
+7) Is policy participating? ____ no ____ yes 
+ 
+a) If yes, what is current dividend election?_______________ 
+8) Current net death benefit: _____________________(Enter full amount payable, including any additional insurance and/or 
+dividends accumulated at interest, minus policy loans, outstanding interest on policy loans, and/or accelerated death benefits paid) 
+9) a) Current cash value: $ _____________(Enter full amount, including cash value of any additional insurance and/or dividends 
+accumulated at interest, minus policy loans and outstanding interest on policy loans) 
+ 
+b) Currently surrender value: $_______________ 
+10) Terms of policy loans:______________ 
+ 
+a) Amount of policy loans: $________________ 
+ 
+b) Amount of outstanding interest on policy loan: $_______________ 
+ 
+c) Current interest rate __________ 
+11) Has policy lapsed? ____ no ____ yes 
+ 
+a) If yes, when did policy lapse? ________________ 
+ 
+If policy has lapsed, is coverage continued under non-forfeiture option? ____ no ____ yes 
+ 
+If yes, indicate which option, amount of coverage, duration, etc.:_______________ 
+12) Is policy in force? ____ no ____ yes 
+ 
+a) If yes, has policy ever been reinstated? ____ no ____ yes 
+ 
+If yes, date of reinstatement: ____________ 
+13)  Amount of contract/scheduled premiums: $______________ 
+14) Current premium mode: _________________(Monthly, Semiannually, etc.) 
+ 
+a) When is next premium due? ______________ (Month/Day/Year) 
+15) Does the policy include a Disability Premium Waiver provision/rider? ____ no ____ yes 
+ 
+a) If yes, are premiums currently being waived? ____ no ____ yes 
+ 
+b) If yes, since when? ______________ 
+ 
+c) How often is continued eligibility reviewed? ____________ 
+ 
+d) When is next review? ______________ 
+16) Can payment of all or part of the death benefit be accelerated under this policy? ____ no ____ yes 
+ 
+a) If yes, by what method is the benefit calculated, the lien method or the discount method? ____________ 
+ 
+b) If lien method, what is the interest rate? _______________ 
+ 
+c) Can any remaining death benefit be assigned? ____ no ____ yes 
+17) Has a claim for Accelerated Death Benefit been submitted? ____ no ____ yes 
+ 
+a) If yes, was payment made under this provision? ____ no ____ yes 
+ 
+b)Amount paid: ____________ Date paid: __________ 
+18) Do current records show any assignments of record? ____ no ____ yes 
+19) Do current records show any outstanding liens or encumbrances of record? ____ no ____ yes 
+20) Please identify current primary beneficiaries: ____________________ 
+ 
+a) Are they named irrevocably, or is owner otherwise limited in designation of new beneficiaries? ____ no ____ yes 
+21) Have any riders been added to this policy after issue? ____ no ____ yes 
+ 
+If yes, please identify: _____________________ 
+22) If an ownership or beneficiary change or assignment were to be made on this policy, to whom would the completed forms be sent?  
+ 
+____no ____yes 
+ 
+ 
+ 
+ 
+
+Name: _______________________________  Title: _______________________________ 
+Company Name:_____________________________________  Department:_________________________________ 
+Address _____________________________________________________________(No P.O. Box, please): 
+City: _________________________________________ST: ______  ZIP:______________ 
+Telephone Number: ______________________________ Fax Number:___________________________________ 
+The answers provided reflect information contained in the company's records as of: __________________(date) 
+Signature: ________________________________________   Name (Printed):___________________________________ 
+Title: _____________________________________ 
+Company:_____________________________________________________ 
+Direct Telephone Number: ____________________________________ 
+Direct Fax Number: _______________________________________ 
+The form for standardized viatical settlement verification of coverage for group policies is as follows 
+VERIFICATION OF GROUP LIFE INSURANCE BENEFITS 
+Section One: 
+(To be Completed by the Viatical Settlement Provider, Broker, or Agent) 
+DEPARTMENT OF INSURANCE 
+Indiana Administrative Code Page 247 
+Insurance Company ______________________ Name of Employee/Member______________________ 
+Employer/Policyholder Name ______________ Insured's Date of Birth__________________________ 
+Policy Number ___________________ Insured's Social Security Number ___________________________ 
+Certificate Number ___________________ Employee/Membership Number __________________________ 
+Please provide the information requested in Section Two or Section Three, as appropriate, with regard to the 
+individual and coverage described, in accordance with the attached authorization.__________________________________________ 
+In addition, please provide the forms checked below which are available from your company to complete a 
+viatical settlement transaction:_____________________________________________ 
+ 
+ Absolute Assignment 
+ 
+ Change of Beneficiary (irrevocable if applicable) 
+ 
+ Disability Waiver of premium claim or 
+ 
+ Disability Waiver of premium award letter 
+Date ____________  
+ 
+ 
+________________________________________________________ 
+ 
+ 
+ 
+ 
+Signature of a representative of Viatical Settlement Provider, Broker, or Agent 
+ 
+___________________________________________________ 
+Full name and address of Viatical Settlement Provider, Broker, or Agent 
+ 
+Section Two: 
+(To be Completed by the Employer/Group Policyholder) 
+1) BASIC COVERAGE 
+ 
+a) Is the plan self-insured or is coverage provided under a group policy issued by a life insurance company?_______ 
+ 
+ 
+If by a group policy, please provide the name of the insurance company for BASIC life insurance coverage: 
+ 
+b) Effective date of BASIC life insurance coverage:________ 
+ 
+c) Face amount of BASIC life insurance:_______ 
+ 
+d) Does BASIC life insurance coverage plan have contestable provisions? __ no __ yes 
+ 
+e) Is BASIC life insurance coverage subject to a suicide provision? __ no __ yes 
+ 
+f) Monthly premium paid by employer/group policyholder for BASIC life insurance coverage: $_______ 
+ 
+g) Monthly premium paid by employee/insured for BASIC life insurance coverage: $_______ 
+ 
+h) Is BASIC life insurance coverage ___ Term ____ Universal Life? 
+ 
+i) If Universal Life, please indicate cash value, if any: ___________ 
+ 
+ 
+Is this amount payable in addition to the face amount? ___ no ___ yes 
+ 
+j) Is coverage in force? ____ no ____ yes 
+ 
+k) When is next premium due?_________ 
+ 
+l) Has employee's coverage under this plan ever been reinstated? ___ no ____ yes 
+ 
+m) If yes, date of reinstatement: ________ 
+ 
+ 
+ 
+
+2) SUPPLEMENTAL (OPTIONAL) COVERAGE  
+ 
+a) Insurance Company for SUPPLEMENTAL life insurance coverage:________________ 
+ 
+b) Effective date of SUPPLEMENTAL life insurance coverage:________________ 
+ 
+c) Face amount of SUPPLEMENTAL life insurance:__________________ 
+ 
+d) Does SUPPLEMENTAL life insurance coverage plan have contestable provisions? ____ no ____ yes  
+ 
+e) Is SUPPLEMENTAL life insurance coverage subject to a suicide provision? ____ no ____ yes 
+ 
+f) Monthly premium paid by employer/group policyholder for SUPPLEMENTAL life insurance: $___________ 
+ 
+g) Monthly premium paid by employee/insured for SUPPLEMENTAL life insurance: $_______________ 
+ 
+h) Is SUPPLEMENTAL life insurance coverage ____ Term ____ Universal Life? 
+ 
+ 
+If Universal Life, please indicate cash value, if any:______________________ 
+ 
+ 
+Is this amount payable in addition to the face amount? ____ no ____ yes 
+ 
+i) Is coverage in force? ____ no ____ yes 
+ 
+j) When is next premium due?__________________ 
+ 
+k) Has employee's coverage under this policy ever been reinstated? ____ no ____ yes 
+ 
+l) If yes, date of reinstatement: ___________________ 
+ 
+3) DISABILITY WAIVER OF PREMIUM 
+ 
+a) Does plan provide for waiver of premium in the event of employee/insured's disability? 
+ 
+ 
+BASIC: ____ no ____ yes What is the waiting period?_______________ 
+ 
+ 
+SUPPLEMENTAL: ____no ____ yes What is the waiting period?________________ 
+ 
+b) Are premiums currently being waived under disability premium waiver? 
+ 
+ 
+BASIC: ____ no ____ yes 
+ 
+ 
+SUPPLEMENTAL: ____ no ____ yes 
+ 
+c) Who pays premiums under disability premium waiver? 
+ 
+ 
+BASIC: ____ Insurance carrier ____ Employer 
+ 
+ 
+SUPPLEMENTAL: ____ Insurance carrier ____ Employer 
+ 
+d) What was the date of approval? _____________ 
+ 
+e) Next review date? _______________ 
+ 
+f) If the insured is no longer eligible for waiver, what amount of coverage can be converted to an individual policy?   
+ 
+$_____________ 
+ 
+ 
+I) Will a new suicide/contestability clause be in effect for the converted policy? ____ no ____ yes 
+ 
+ 
+II) Will assignee be notified if insured no longer eligible for a waiver is? ____ no ____ yes 
+ 
+4) BENEFICIARIES, ASSIGNMENTS, AND LIMITATIONS 
+ 
+a) Who are the primary beneficiaries of the coverage(s)? ____________________________________ 
+ 
+ 
+BASIC: _________________________ 
+ 
+ 
+SUPPLEMENTAL: ____________________________ 
+ 
+b) Is any beneficiary under this policy designated irrevocably, or is insured otherwise limited in designation of new 
+ 
+beneficiaries? ____ no ____ yes 
+ 
+c) Can this coverage be assigned? 
+ 
+ 
+BASIC: ____ no ____ yes 
+ 
+ 
+If yes, to a corporation? ____ no ____ yes 
+ 
+ 
+To someone not related to insured? ____ no ____ yes 
+ 
+ 
+SUPPLEMENTAL: ____ no ____ yes 
+ 
+ 
+If yes, to a corporation? ____ no ____ yes 
+ 
+ 
+To someone not related to insured? ____ no ____ yes 
+ 
+d) Do records show any assignments of record? ____ no ____ yes 
+ 
+e) Do records show any outstanding liens or encumbrances of record? ____ no ____ yes 
+ 
+f) Will an Assignee be notified if the master policy is canceled? ____ no ____ yes 
+ 
+g) Can Assignee convert the coverage without the permission of insured? ____ no ____ yes 
+ 
+5) ACCELERATED DEATH BENEFITS 
+ 
+a) Is there an Accelerated Death Benefit available under the coverage? 
+ 
+ 
+BASIC: ____ no ____ yes 
+ 
+ 
+SUPPLEMENTAL: ____ no ____ yes 
+ 
+b) Has request for Accelerated Death Benefit been made? ____ no ____ yes 
+ 
+c) Has payment been made to insured under this provision? ____ no ____ yes 
+ 
+ 
+I) Amount paid: Date paid:_________________________ 
+ 
+ 
+II) Is this amount a lien against death proceeds? ____no ____yes 
+ 
+ 
+ 
+
+6) MISCELLANEOUS 
+ 
+a) Is coverage portable? 
+ 
+ 
+BASIC: ____ no ____ yes 
+ 
+ 
+SUPPLEMENTAL: ____ no ____ yes 
+ 
+b) If insured is no longer eligible for coverage under the group, will Assignee be notified? ____ no ____ yes 
+ 
+c) If master policy discontinues, what amount can be converted to an individual policy?________________ 
+ 
+d) Is this plan administered by a third party? ____ no ____ yes 
+ 
+If yes, please provide the name, address, and telephone number of administrator: 
+____________________________________________________________________________________________________________
+____________________________________________________________________________________________________________ 
+Name: ______________________________________ Title: ____________________________________ 
+Company Name: _____________________________ Department:______________________________________ 
+Street Address _______________________________________________________________(No P.O. Box, please): 
+City: _____________________________________ State: __________ Zip:________________ 
+Telephone Number: ______________________________ Fax:____________________________________ 
+If a change of beneficiary form or assignment were to be made for this coverage, to whom should the completed forms be sent? 
+Name: _________________________________________Title: _________________________________________ 
+Company Name: _________________________________________ Department:_____________________________________ 
+Street Address____________________________________________________________________________ (No P.O. Box, please): 
+City:___________________________________________ State: _________ Zip:_________________ 
+Telephone Number:_______________________________ Fax:_________________________________ 
+The answers provided reflect information in our files as of (date).___________________________ 
+Signature: ______________________________________ Name:______________________________________________ 
+Date: ___________________________________________ Title:______________________________________________ 
+Company: ___________________________________________________________________________________________ 
+Direct Telephone Number: __________________________________________ 
+Direct Fax Number:_____________________________________________ 
+Information not provided by the employer may be obtained from the insurance company if different from administrator identified 
+above: 
+ 
+Section Three: 
+The insurance company or the third party administrator named above is requested to complete the information not provided by the 
+employer in Section Two, above, Items number: . 
+The answers provided to the identified questions reflect information in the files of the insurance company as of (date). 
+Name: ______________________________________ Title: ____________________________________ 
+Company Name: _____________________________ Department:______________________________________ 
+Street Address _______________________________________________________________(No P.O. Box, please): 
+City: _____________________________________ State: __________ Zip:________________ 
+Telephone Number: ______________________________ Fax:____________________________________ 
+ 
+ (Department of Insurance; 760 IAC 1-61-12; filed Oct 20, 1999, 10:23 a.m.: 23 IR 584; readopted filed Nov 7, 2005, 10:50 a.m.: 
+29 IR 896; readopted filed Nov 29, 2011, 9:14 a.m.: 20111228-IR-760110553RFA) 

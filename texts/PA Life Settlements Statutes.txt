@@ -1,0 +1,657 @@
+Pennsylvania Viatical Settlements Act 
+This act shall be known and may be cited as the Viatical Settlements Act. 
+40 P.S. § 626.1 
+2002, July 4, P.L. 699, No. 107, § 1, effective in 180 days. 
+ 
+Section 626.2 - Definitions 
+The following words and phrases when used in this act shall have the meanings given to them in 
+this section unless the context clearly indicates otherwise: 
+"Advertising." Any written, electronic or printed communication or any communication by 
+means of recorded telephone messages or transmitted on radio, television, the Internet or similar 
+communications media, including film strips, motion pictures and videos, published, 
+disseminated, circulated or placed before the public, directly or indirectly, for the purpose of 
+creating an interest in or inducing a person to sell a life insurance policy pursuant to a viatical 
+settlement contract. 
+"Business of viatical settlements." An activity involved in, but not limited to, the offering, 
+solicitation, negotiation, procurement, effectuation, purchasing, investing, financing, monitoring, 
+tracking, underwriting, selling, transferring, assigning or pledging viatical settlement contracts in 
+this Commonwealth. 
+"Chronically ill." A condition which means a person: 
+(1) is unable to perform at least two activities of daily living, including, but not limited to, eating, 
+toileting, transferring, bathing, dressing or continence; or(2) requires substantial supervision to 
+protect the individual from threats to health and safety due to severe cognitive impairment. 
+"Commissioner." The Insurance Commissioner of the Commonwealth.  
+"Department." The Insurance Department of the Commonwealth. 
+"Financing entity." An entity other than a nonaccredited investor or viatical settlement purchaser 
+that has a direct ownership in a policy or certificate that is the subject of a viatical settlement 
+contract, and: 
+(1) the entity's principal activity related to the transaction is providing funds to effect the viatical 
+settlement or purchase of one or more viaticated policies; and(2) the entity has an agreement in 
+writing with one or more licensed viatical settlement providers to finance the acquisition of 
+viatical settlement contracts. "Fraudulent viatical settlement act." An act or omission committed 
+by any person who, knowingly or with intent to defraud, for the purpose of depriving another of 
+property or for pecuniary gain commits or permits its employees or its agents to commit any of 
+the following acts:(1) Presenting, causing to be presented or preparing with knowledge or belief 
+that it will be presented to or by a viatical settlement provider, viatical settlement broker, viatical 
+settlement purchaser, financing entity, insurer, insurance broker, insurance agent or any other 
+
+person false material information or concealing material information as part of, in support of or 
+concerning a fact material to one or more of the following:(i) An application for the issuance of a 
+viatical settlement contract or insurance policy.(ii) The underwriting of a viatical settlement 
+contract or insurance policy.(iii) A claim for payment or benefit pursuant to a viatical settlement 
+contract or insurance policy.(iv) Premiums paid on an insurance policy.(v) Payments and 
+changes in ownership or beneficiary made in accordance with the terms of a viatical settlement 
+contract or insurance policy.(vi) The reinstatement or conversion of an insurance policy.(vii) The 
+solicitation, offer, effectuation or sale of a viatical settlement contract or insurance 
+policy.(viii) The issuance of written evidence of a viatical settlement contract or insurance.(ix) A 
+financing transaction.(2) In the furtherance of a fraud or to prevent the detection of a 
+fraud: (i) destroys, removes, conceals or alters the assets or records of a licensee or other person 
+engaged in the business of viatical settlements;(ii) misrepresents or conceals the financial 
+condition of a licensee or insurer;(iii) transacts the business of viatical settlements in violation of 
+laws requiring a license, certificate of authority or other legal authority for the transaction of the 
+business of viatical settlements; or(iv) files with the Insurance Commissioner, the Insurance 
+Department or the chief insurance regulatory official or agency of another jurisdiction a 
+document containing false information or otherwise conceals information about a material 
+fact.(3) Presenting, causing to be presented or preparing with knowledge or reason to believe that 
+it will be presented to or by a viatical settlement provider, viatical settlement broker, insurer, 
+insurance agent, financing entity, viatical settlement purchaser or any other person, in connection 
+with a viatical settlement transaction or insurance transaction, an insurance policy, knowing the 
+policy was fraudulently obtained by the insured, owner or any agent thereof.(4) Embezzlement, 
+theft, misappropriation or conversion of moneys, funds, premiums, credits or other property of a 
+viatical settlement provider, insurer, insured, viator, insurance policy owner or any other person 
+engaged in the business of viatical settlements or insurance.(5) Attempting to commit, assisting, 
+aiding or abetting in the commission of or the conspiracy to commit the acts or omissions 
+specified in this subsection. "Independent escrow agent." A person designated by the viatical 
+settlement provider and recognized by the Insurance Commissioner to accept, transmit and pay 
+the proceeds of the viatical settlement.  
+"Insurer." Any properly licensed life insurance company, association or exchange. 
+"Licensee." A viatical settlement provider or viatical settlement broker. 
+"Policy." An individual or group policy, group certificate, contract or arrangement of life 
+insurance affecting the rights of a resident of this Commonwealth regardless of whether 
+delivered or issued for delivery in this Commonwealth. 
+"Related provider trust." A titling trust or other trust established by a licensed viatical settlement 
+provider or financing entity for the sole purpose of holding the ownership or beneficial interest in 
+purchased policies in connection with a financing transaction, which trust: 
+(1) has a written agreement with the licensed viatical settlement provider under which the 
+licensed viatical settlement provider is responsible for ensuring compliance with all statutory and 
+regulatory requirements; and(2) has a written agreement with the licensed viatical settlement 
+provider under which the trust agrees to make all records and files related to viatical settlement 
+transactions available to the Insurance Department as if those records and files were maintained 
+
+directly by the licensed viatical settlement provider. "Special purpose entity." A corporation, 
+partnership, trust, limited liability company or other similar entity other than a natural person 
+formed solely to provide, either directly or indirectly, access to institutional capital markets for a 
+financing entity or licensed viatical settlement provider.  
+"Terminally ill." Having an illness or sickness that can reasonably be expected to result in death 
+in 24 months or less. 
+"Viatical settlement broker." A person that on behalf of a viator and for a fee, commission or 
+other valuable consideration offers to negotiate or attempts to negotiate viatical settlements 
+between a viator and one or more viatical settlement providers. The term does not include an 
+attorney, certified public accountant or financial planner accredited by a nationally recognized 
+accreditation agency who is retained to represent the viator and whose compensation is not paid 
+directly or indirectly by the viatical settlement provider or purchaser. The term also does not 
+include an investment advisor registered under the Investment Advisers Act of 1940 ( 15 U.S.C. 
+§ 80b-1 et seq.) or the act of December 5, 1972 (P.L. 1280, No. 284), known as the Pennsylvania 
+Securities Act of 1972, possessing a designation recognized by the Pennsylvania Securities 
+Commission for the purposes of waiving any examination requirement under the Pennsylvania 
+Securities Act of 1972, who is retained to represent the viator and whose compensation is not 
+paid directly or indirectly by the viatical settlement provider or purchaser. 
+"Viatical settlement contract." A written agreement entered into between a viatical settlement 
+provider and a person owning a policy or group policy establishing the terms under which 
+compensation or anything of value will be paid, which compensation or value is less than the 
+expected death benefit of the insurance policy or certificate, in return for the viator's assignment, 
+transfer, sale, devise or bequest of the death benefit or ownership of any portion of the insurance 
+policy or certificate of insurance. The term also includes a contract for a loan or other financing 
+transaction secured primarily by an individual or group life insurance policy, other than a loan by 
+a life insurance company pursuant to the terms of the life insurance contract, or a loan secured by 
+the cash value of a policy. A viatical settlement contract includes an agreement to transfer 
+ownership or change the beneficiary designation at a later date regardless of the date that 
+compensation is paid to the viator. This term shall not include a written agreement entered into 
+between a viator and a person having an insurable interest in the viator's life. 
+"Viatical settlement provider." A person other than a viator that enters into or effectuates a 
+viatical settlement contract. The term does not include: 
+(1) a bank, bank and trust, savings bank, savings and loan association, credit union or other 
+licensed lending institution that takes an assignment of a life insurance policy as collateral for a 
+loan;(2) the issuer of a life insurance policy providing accelerated benefits pursuant to the 
+contract;(3) an authorized or eligible insurer that provides stop loss coverage to a viatical 
+settlement provider, purchaser, financing entity, special purpose entity or related provider 
+trust;(4) a natural person who enters into or effectuates no more than one agreement in a calendar 
+year for the transfer of life insurance policies for any value less than the expected death 
+benefit;(5) a financing entity;(6) a special purpose entity;(7) a related provider trust;(8) a viatical 
+settlement purchaser; or(9) an accredited investor, qualified institutional buyer or qualified 
+purchaser as defined respectively in 17 CFR § 230.501 (relating to definitions and terms used in 
+
+Regulation D), 17 CFR § 230.144A (relating to private resales of securities to institutions), 
+section 18(b)(3) of the Securities Act of 1933 (48 Stat. 74, 15 U.S.C. § 77c et seq.) and who 
+purchases a viaticated policy from a licensed viatical settlement provider. "Viatical settlement 
+purchaser." A person who gives a sum of money as consideration for a life insurance policy or an 
+interest in the death benefits of a life insurance policy or a person who owns, acquires or is 
+entitled to a beneficial interest in a trust that owns a viatical settlement contract or is the 
+beneficiary of a life insurance policy which has been or will be the subject of a viatical 
+settlement contract for the purpose of deriving an economic benefit. A viatical settlement 
+purchaser does not include:(1) a licensee under this act;(2) an accredited investor, qualified 
+institutional buyer or qualified purchaser as defined respectively in 17 CFR § 230.501 (relating 
+to definitions and terms used in Regulation D), 17 CFR § 230.144A (relating to private resales of 
+securities to institutions) and section 18(b)(3) of the Securities Act of 1933 (48 Stat. 74, 15 
+U.S.C. § 77c et seq.) and who purchases a viaticated policy from a viatical settlement 
+provider;(3) a financing entity;(4) a special purpose entity; or(5) a related provider trust. 
+"Viaticated policy." A life insurance policy or certificate that has been acquired by a viatical 
+settlement provider pursuant to a viatical settlement contract.  
+"Viator." The owner of a life insurance policy or a certificate holder under a group policy who 
+enters or seeks to enter into a viatical settlement contract. For the purposes of this act, a viator 
+shall not be limited to an owner of a life insurance policy or a certificate holder under a group 
+policy insuring the life of an individual with a terminal or chronic illness or condition except 
+where specifically addressed in this act. The term does not include: 
+(1) a licensee under this act;(2) an accredited investor or qualified institutional buyer as defined 
+respectively in 17 CFR § 230.501 (relating to definitions and terms used in Regulation D), 17 
+CFR § 230.144A (relating to private resales of securities to institutions);(3) a financing 
+entity;(4) a special purpose entity; or(5) a related provider trust. 
+40 P.S. § 626.2 
+Section 626.3 - License requirements(a) General rule.--No person shall engage in the business of 
+viatical settlements as a viatical settlement provider or as a viatical settlement broker or 
+otherwise operate as a viatical settlement provider or viatical settlement broker in this 
+Commonwealth without first obtaining an appropriate license from the department and being 
+considered by the department to be worthy of such licensure.(b) Application.--Application for a 
+viatical settlement provider or viatical settlement broker license shall be made to the department 
+by the applicant on a form required by the department. An application for initial licensure as a 
+viatical settlement provider shall include the following information in addition to any other 
+information required by the department: (1) an audited financial statement no more than one year 
+and 120 days old prepared under the generally accepted accounting principles; and(2) an 
+unaudited financial statement as of the end of the most recent quarter.(c) Fees.--The following 
+licensing fees shall be due at the time of initial and renewal application: (1) For licensure as a 
+viatical settlement provider, $300.(2) For licensure as a viatical settlement broker, $100.(3) Fees 
+for initial and renewal licensure as a viatical settlement provider and viatical settlement broker 
+may be adjusted no more than annually at the discretion of the commissioner by publishing a 
+notice in the Pennsylvania Bulletin.(d) Reciprocity.-- (1) The department shall not assess a 
+greater fee for a viatical settlement provider license or viatical settlement broker license or 
+related service to a person not residing in this State based solely on the fact that the person does 
+
+not reside in this State.(2) The department shall waive any license application requirements for a 
+nonresident license applicant with a valid viatical settlement provider or viatical settlement 
+broker license from the applicant's home state if:(i) the viatical settlement provider or viatical 
+settlement broker has submitted the proper request for licensure and has paid the appropriate 
+licensure fees;(ii) the viatical settlement provider or viatical settlement broker has submitted or 
+transmitted to the department the application for licensure that the person submitted to his or her 
+home state; and(iii) the viatical settlement provider's or the viatical settlement broker's home 
+state awards nonresident viatical settlement provider and viatical settlement broker licenses to 
+residents of this State on the same basis.(e) Renewal.--A license issued under this section shall 
+expire and may be renewed on the anniversary month of the initial date of licensure upon 
+payment of the appropriate renewal fee and application with the department on a form required 
+by the department. Failure to pay the fee or submit the renewal form within the terms required by 
+the department shall be deemed voluntary termination of the license. The issuance of a renewal 
+license to a viatical settlement provider shall be subject to approval of the appropriate application 
+and financial information filed with the department.(f) Bond.--In order to be eligible for 
+licensure or renewal as a viatical settlement provider, an applicant must be bonded or otherwise 
+provide for its financial accountability in an amount required by the department.(g) Full 
+disclosure.--The applicant shall provide information on forms required by the department. The 
+department may, at any time, require the applicant to fully disclose the identity of all 
+stockholders, investors, partners, officers, members and employees. The department may, in its 
+discretion, refuse to issue a license in the name of a legal entity if not satisfied that any officer, 
+employee, stockholder, partner or member thereof who may materially influence the applicant's 
+conduct meets the standards set forth in this act.(h) Authorization.--A viatical settlement 
+provider license issued to a legal entity authorizes all partners, officers, members and designated 
+employees to act as a viatical settlement provider under the legal entity's viatical settlement 
+provider license, and all such persons and any person having material influence over the entity 
+shall be named in the application and any supplements to the application. A viatical settlement 
+broker license issued to a legal entity authorizes only that entity to act as a viatical settlement 
+broker, and such license does not authorize partners, officers, members and designated 
+employees of the legal entity to act as viatical settlement brokers under the legal entity's 
+license.(i) Investigation.--Upon the filing of an application and the payment of the license 
+processing fee, the department shall make an investigation of each applicant and issue a license if 
+the department finds that the applicant:(1) if a viatical settlement provider, has provided a 
+detailed plan of operation;(2) is competent and trustworthy and intends to act in good faith in the 
+capacity involved by the license applied for;(3) has a good business reputation and has had 
+experience, training or education so as to be qualified in the business for which the license is 
+applied for;(4) if a legal entity, provides a certificate of good standing from the state of its 
+domicile;(5) has certified to the department implementation of an antifraud plan that meets the 
+requirements of section 10(g) ; and(6) has provided the name of a designated agent for out-of-
+State companies.(j) Report.--A viatical settlement provider or viatical settlement broker shall 
+provide to the department new or revised information about officers, 10% or more stockholders, 
+partners, directors, members or designated employees within 30 days of the 
+change.(k) Approval.--An application for license for a viatical settlement provider or viatical 
+settlement broker shall be approved or disapproved by the department within 90 days of receipt 
+of a completed application unless the applicant waives the time period. 
+40 P.S. § 626.3 
+
+ 
+Section 626.4 - License suspension, revocation and denial(a) Suspension, revocation and denial.-
+-The commissioner may refuse to issue, suspend, revoke or refuse to renew the license of a 
+viatical settlement provider or viatical settlement broker if the commissioner finds that: (1) there 
+was any material misrepresentation in the application for the license;(2) the licensee or any 
+officer, partner, member or key management personnel has been adjudged guilty of fraudulent or 
+dishonest practices, is subject to a final administrative action or is shown to be untrustworthy, 
+incompetent or otherwise unworthy of licensure by the department;(3) the viatical settlement 
+provider demonstrates a pattern of unreasonable payments to viators;(4) the licensee has been 
+found guilty of or has pleaded guilty or nolo contendere to any felony or to a misdemeanor 
+involving fraud or moral turpitude, regardless of whether a judgment of conviction has been 
+entered by the court;(5) the viatical settlement provider has entered into any viatical settlement 
+contract the form of which has not been approved pursuant to this act;(6) the viatical settlement 
+provider has failed to honor contractual obligations set out in a viatical settlement 
+contract;(7) the licensee no longer meets the requirements for initial licensure;(8) the viatical 
+settlement provider has assigned, transferred or pledged a viaticated policy to a person other than 
+a viatical settlement provider licensed in this Commonwealth or a financing entity, special 
+purpose entity, stop-loss provider, viatical settlement purchaser or related provider trust;(9) the 
+licensee has effectuated the viatication of a life insurance policy that the licensee knew or 
+reasonably should have known was procured through fraudulent means;(10) the licensee has 
+violated any provision of this act or any regulations promulgated by the department; or(11) the 
+licensee's viatical settlement provider, viatical settlement broker or other license related to the 
+sale or effectuation of viatical settlement policies, insurance or securities has been revoked or 
+suspended in this or another state.(b) Hearing.--An applicant who disputes the department's 
+determination concerning licensure may seek a formal administrative hearing before the 
+commissioner under 2 Pa.C.S. Ch. 5 Subch. A (relating to practice and procedure of 
+Commonwealth agencies). 
+40 P.S. § 626.4 
+Section 626.5 - Approval of viatical settlement contracts and disclosure statements(a) General 
+rule.--A person shall not use a viatical settlement contract or provide to a viator a disclosure 
+statement form in this Commonwealth unless the contract or form is filed with and approved by 
+the department. The department shall disapprove a viatical settlement contract form or viatical 
+settlement disclosure statement form if, in the department's opinion, the contract or statement or 
+provisions contained therein are unreasonable, contrary to the interests of the public, otherwise 
+misleading or unfair to the viator. At the department's discretion, the department may also 
+require the submission of advertising material.(b) Deemed effective.--Unless disapproved within 
+45 days of receipt by the department, a filing of a viatical settlement contract or viatical 
+settlement disclosure form shall be effective for use.(c) Disapproval after use.--Any viatical 
+settlement contract or viatical settlement disclosure form approved or effective for use in 
+accordance with subsections (a) and (b) may be subsequently disapproved by the department. 
+The department shall notify the appropriate person in writing and provide the opportunity for a 
+hearing as provided in 2 Pa.C.S. Ch. 5 Subch. A (relating to practice and procedure of 
+Commonwealth agencies).(d) Discontinuance of contract.--If following a hearing the 
+commissioner finds that a viatical settlement contract or viatical settlement disclosure statement 
+
+form should be disapproved, the commissioner shall order the use of the contract or disclosure 
+form to be discontinued after a date specified in the order. 
+40 P.S. § 626.5 
+Section 626.6 - Reporting requirements and confidentiality(a) General rule.--With each renewal 
+application on the anniversary month of initial licensure by the department, each licensee shall 
+file an annual statement containing such information as required by the department. If the 
+licensee is a viatical settlement provider, such information shall include: (1) an audited financial 
+statement no more than one year and 120 days old prepared under the generally accepted 
+accounting principles; and(2) an unaudited financial statement as of the end of the most recent 
+quarter.(b) Confidentiality.--Except as otherwise allowed or required by law, a viatical 
+settlement provider, viatical settlement broker, insurance company, insurance agent, insurance 
+broker, information bureau, rating agency or company or any other person with actual 
+knowledge of an insured's identity, health information or financial information may not disclose 
+that information as an insured to any other person unless the disclosure is:(1) necessary to effect 
+a viatical settlement between the viator and a viatical settlement provider, and the viator and 
+insured have provided prior written consent to the disclosure;(2) necessary to effect a viatical 
+settlement purchase agreement between the viatical settlement purchaser and a viatical 
+settlement provider, and the viator and insured have provided prior written consent to the 
+disclosure;(3) provided in response to an investigation or examination by the department or any 
+other governmental officer or agency;(4) a term of or condition to the transfer of a policy by one 
+viatical settlement provider to another viatical settlement provider, and the viator and insured 
+have provided prior written consent to the disclosure;(5) necessary to permit a financing entity, 
+related provider trust or special purpose entity to finance the purchase of policies by a viatical 
+settlement provider, and the parties to the transaction agree to maintain the confidentiality of 
+such information, and the viator and insured have provided written consent to the 
+disclosure;(6) made by an insurance company in the course of its business, including, without 
+being limited to, activities such as reinsurance transactions, sales or mergers of the insurance 
+company or one or more of its books of business, handling and investigation of claims and 
+conduct of all legal proceedings connected with them, underwriting, litigation and market 
+conduct investigations, and the viator and insured have provided prior written consent to the 
+disclosure;(7) necessary to allow the viatical settlement provider or viatical settlement broker or 
+their authorized representatives to make contacts for the purpose of determining health status, 
+and the viator and insured have provided prior written consent to the disclosure; or(8) required to 
+purchase stop loss coverage and the viator and insured have provided prior written consent to the 
+disclosure. 
+40 P.S. § 626.6 
+ 
+Section 626.7 - Disclosure(a) General rule.--With each application for a viatical settlement, a 
+viatical settlement provider or viatical settlement broker shall provide the viator with at least the 
+following disclosures no later than the time the application for the viatical settlement contract is 
+signed by all parties. The disclosures shall be provided in a separate document that is signed by 
+the viator and the viatical settlement provider or viatical settlement broker and shall provide the 
+following information: (1) possible alternatives to viatical settlement contracts, including any 
+accelerated death benefits or policy loans offered under the viator's life insurance 
+
+policy;(2) some or all of the proceeds of the viatical settlement may be taxable under Federal 
+income tax and State franchise and income taxes, and assistance should be sought from a 
+professional tax advisor;(3) proceeds of the viatical settlement could be subject to the claims of 
+creditors;(4) receipt of the proceeds of a viatical settlement may adversely affect the viator's 
+eligibility for Medicaid or other government benefits or entitlements, and advice should be 
+obtained from the appropriate government agencies;(5) the viator has the right to rescind a 
+viatical settlement contract for 15 calendar days from the receipt of the viatical settlement 
+proceeds by the viator as provided in section 8(g) . If the insured dies during the rescission 
+period, the settlement contract shall be deemed to have been rescinded, subject to repayment of 
+all viatical settlement proceeds and other payments made by the viatical settlement provider on 
+behalf of the viator or insured to the viatical settlement provider;(6) funds will be sent to the 
+viator within three business days after the viatical settlement provider has received the insurer or 
+group administrator's acknowledgment that ownership of the policy or interest in the certificate 
+has been transferred and the beneficiary has been designated;(7) entering into a viatical 
+settlement contract may cause other rights or benefits, including conversion rights and waiver of 
+premium benefits that may exist under the policy or certificate, to be forfeited by the viator, and 
+that assistance should be sought from a financial adviser;(8) all medical, financial or personal 
+information solicited or obtained by a viatical settlement provider or viatical settlement broker 
+about an insured, including the insured's identity or the identity of family members, a spouse or a 
+significant other may be disclosed as necessary to effect the viatical settlement between the 
+viator and the viatical settlement provider and/or financing entities. If a viator is asked to provide 
+this information, the viator must consent to the disclosure, and failure to consent may affect the 
+viator's ability to viaticate a life insurance policy. The information may be provided to viatical 
+settlement purchasers, financing entities, special purpose entities or related provider trusts; 
+and(9) all information provided by a viator or insured to a viatical settlement provider or viatical 
+settlement broker will be shared with the insurer that issued the life insurance policy that is the 
+subject of the viatical transaction.(b) Viatical settlements brochure.--Prior to the time the 
+application for a viatical settlement contract is signed by all parties, a viatical settlement provider 
+or viatical settlement broker shall provide the viator with a brochure describing the process of 
+viatical settlements. The department shall develop this brochure to educate consumers in the 
+selling of their life insurance policies.(c) Disclosures by viatical settlement provider.--A viatical 
+settlement provider shall provide the viator with at least the following disclosures no later than 
+the time the viatical settlement contract is signed by all parties. The disclosures shall be 
+conspicuously displayed in the viatical settlement contract or in a separate document signed by 
+the viator and the viatical settlement provider or viatical settlement broker and provide the 
+following information: (1) The affiliation, if any, between the viatical settlement provider and 
+the issuer of the insurance policy to be viaticated.(2) The name, address and telephone number of 
+the viatical settlement provider.(3) If an insurance policy to be viaticated has been issued as a 
+joint policy or involves family riders or any coverage of a life other than the insured under the 
+policy to be viaticated, the possible loss of coverage on the other lives under the policy and shall 
+be advised to consult with his or her insurance producer or the insurer issuing the policy for 
+advice on the proposed viatical settlement.(4) The dollar amount of the current death benefit 
+payable to the viatical settlement provider under the policy or certificate and, if known, the 
+availability of any additional guaranteed insurance benefits, the dollar amount of any accidental 
+death and dismemberment benefits under the policy or certificate and the viatical settlement 
+provider's interest in those benefits.(5) The name, business address and telephone number of the 
+
+independent third party escrow agent and the fact that the viator or owner may inspect or receive 
+copies of the relevant escrow or trust agreements or documents.(d) Disclosure by a viatical 
+settlement broker.--In addition to any other disclosures, a viatical settlement broker shall provide 
+a prospective viator with at least the following disclosures prior to the date the viatical settlement 
+contract is signed by all parties. The disclosures shall be conspicuously displayed in a document 
+signed by the viator and the viatical settlement broker and shall provide the amount and method 
+of calculating the viatical settlement broker's potential compensation. The term "compensation" 
+includes anything of value paid or given to a viatical settlement broker for the placement of a 
+policy.(e) Disclosure of ownership transfer or beneficiary change.--If the viatical settlement 
+provider transfers ownership or changes the beneficiary of the insurance policy, the provider 
+shall communicate the change in ownership or beneficiary to the insured within 20 days after the 
+change. 
+40 P.S. § 626.7 
+Section 626.8 - General rules(a) General rules.--A viatical settlement provider entering into a 
+viatical settlement contract shall first obtain: (1) Prior to or at the time of execution of the 
+viatical settlement contract, a witnessed document: (i) in which the viator consents to the viatical 
+settlement contract;(ii) represents that the viator has a full and complete understanding of the 
+viatical settlement contract, that he or she has a full and complete understanding of the benefits 
+of the life insurance policy;(iii) acknowledges that he or she has entered into the viatical 
+settlement contract freely and voluntarily;(iv) if applicable for the purposes of determining 
+payments for persons who are terminally ill or chronically ill, acknowledges that the insured is 
+terminally ill or chronically ill and that the terminal or chronic illness or condition was diagnosed 
+after the life insurance policy was issued; and(v) acknowledges that he or she is of sound mind, 
+under no constraint or undue influence.(2) A document in which the insured consents to the 
+release of his or her medical records to a viatical settlement provider, viatical settlement broker 
+and the insurance company that issued the life insurance policy covering the life of the insured. 
+All records shall remain confidential.(3) If the viatical contract involves a life insurance policy 
+that is being viaticated within the two-year period commencing with the date of the issuance of 
+the insurance policy or certificate pursuant to section 9(2) , a document in which the insured 
+consents to the tolling of the running of the policy's contestable period until after the insurer has 
+completed its good faith investigation regarding the validity of the insurance contract.(b) Notice 
+to insurer.--Within 20 days after a viator executes documents necessary to transfer any rights 
+under an insurance policy or within 20 days of entering any agreement, option, promise or any 
+other form of understanding, expressed or implied, to viaticate the policy, the viatical settlement 
+provider shall give written notice to the insurer that issued that insurance policy that the policy 
+has or will become a viaticated policy. If the viator is terminally or chronically ill, the notice 
+must be accompanied by a written statement from the viator required by subsection 
+(a)(1)(iv).(c) Multiple viators.--If there is more than one viator on a single policy and the viators 
+are residents of different states, the viatical settlement shall be governed by the law of the state in 
+which the viator having the largest percentage ownership resides or, if the viators hold equal 
+ownership, the state of residence of one viator agreed upon in writing by all viators.(d) Fiduciary 
+responsibility of viatical settlement broker.--Notwithstanding the manner in which the viatical 
+settlement broker is compensated, a viatical settlement broker is deemed to represent only the 
+viator and owes a fiduciary duty to the viator to act according to the viator' s instructions and in 
+the best interest of the viator.(e) Verification of coverage.-- (1) A viatical settlement provider or 
+
+viatical settlement broker shall deliver a copy of the medical release required by subsection 
+(a)(2), a copy of the viator's application for the viatical settlement contract, a copy of the notice 
+required by subsection (b) and a request for verification of coverage to the insurer that issued the 
+life insurance policy that is the subject of the viatical settlement transaction. The verification of 
+coverage request shall be on a form substantially similar to the form developed by the 
+department.(2) The insurer shall complete the verification of coverage form submitted by the 
+viatical settlement provider or viatical settlement broker and transmit to the requesting party the 
+completed verification of coverage form within a reasonable time frame, not to exceed 30 
+calendar days of the date the request is received. The completed verification of coverage form 
+shall indicate whether, based on the medical evidence and documents provided, the insurer 
+intends in good faith to pursue an investigation at that time regarding the validity of the 
+insurance contract because of an actual or potential fraudulent viatical settlement act or other 
+fraud.(3) Nothing in this section shall prohibit an insurer from exercising its right to contest the 
+validity of any policy on the grounds of fraud.(f) Viatical settlement broker's performance 
+acceptable.--If a viatical settlement broker performs the provisions enumerated in this section on 
+behalf of a viatical settlement provider, the viatical settlement provider is deemed to have 
+fulfilled the requirements of this section, provided that the viatical settlement provider shall 
+remain responsible for any failure of the viatical settlement broker to have fulfilled the 
+requirements of this section.(g) Health and financial information.--All health or financial 
+information solicited or obtained by any licensee shall be subject to the applicable provision of 
+Federal and State law relating to confidentiality and disclosure of such 
+information.(h) Rescission.--All viatical settlement contracts entered into in this State shall 
+provide the viator with an unconditional right to rescind the contract for 30 days from the date of 
+contract and at least 15 calendar days from the receipt of the viatical settlement proceeds by the 
+viator. If the insured dies during the rescission period, the viatical settlement contract shall be 
+deemed to have been rescinded, subject to repayment to the viatical settlement provider of all 
+viatical settlement proceeds.(i) Transfer of proceeds.--The viatical settlement provider shall 
+instruct the viator to send the executed documents required to effect the change in ownership, 
+assignment or change in beneficiary directly to the independent escrow agent. Within three 
+business days after the date the escrow agent receives the document, the proceeds of the viatical 
+settlement shall be placed into an escrow or trust account maintained in a federally or State- 
+chartered financial institution whose deposits are insured by the Federal Deposit Insurance 
+Corporation (FDIC). Upon payment of the settlement proceeds into the escrow account, the 
+escrow agent shall deliver the original change in ownership, assignment or change in beneficiary 
+forms to the viatical settlement provider or related provider trust. Upon the licensed provider's 
+receipt of the properly completed acknowledgment of the transfer of ownership, assignment or 
+designation of beneficiary from the insurance company, the licensed provider shall instruct the 
+escrow agent to pay the settlement proceeds to the viator. Payment shall be made within three 
+business days of the date the provider received the acknowledged forms from the insurance 
+company.(j) Deadline.--Failure to tender consideration to the viator for the viatical settlement 
+contract within the time disclosed pursuant to section 7(a) or at all renders the viatical settlement 
+contract voidable by the viator for lack of consideration until the time consideration is tendered 
+to and accepted by the viator.(k) Health status.-- (1) Contacts with the insured for the purpose of 
+determining the health status of the insured by the viatical settlement provider or viatical 
+settlement broker after the viatical settlement has occurred shall only be made by the viatical 
+settlement provider or broker licensed in this Commonwealth or its authorized representative and 
+
+shall be limited to once every three months for insureds with a life expectancy of more than one 
+year and to no more than once per month for insureds with a life expectancy of one year or 
+less.(2) The viatical settlement provider or viatical settlement broker shall explain the procedure 
+for these contacts at the time the viatical settlement contract is entered into.(3) The limitations set 
+forth in this subsection shall not apply to any contacts with an insured for reasons other than 
+determining the insured's health status.(l) Commission.--No viatical settlement broker shall 
+receive from a viatical settlement provider a fee, commission or other valuable consideration for 
+services rendered to or in connection with viators residing in this Commonwealth unless the 
+viatical settlement provider is licensed in this Commonwealth.(m) Prohibition.--No person who 
+invests in a viaticated policy or broker or provider, including, but not limited to, a participant in a 
+financing transaction, shall influence the treatment of the insured's illness. 
+40 P.S. § 626.8 
+Section 626.9 - Prohibited practices 
+It is a violation of this act for any person to: 
+(1) Enter into a viatical settlement contract the subject of which is a life insurance policy that the 
+licensee knew or should have known was obtained by means of a false, deceptive or misleading 
+application for the life insurance policy.(2) Enter into a viatical settlement contract within a two-
+year period commencing with the date of issuance of the insurance policy or certificate unless 
+the viator certifies to the viatical settlement provider that one of the following conditions has 
+been met within the two-year period:(i) The policy was issued upon the owner's exercise of 
+conversion rights arising out of a group or individual policy, provided the total of the time 
+covered under the conversion policy plus the time covered under the group policy is at least 24 
+months. The time covered under the group or individual policy shall be calculated without regard 
+to any change in insurance carriers, provided the coverage has been continuous and under the 
+same group sponsorship.(ii) The viator is not a natural person (e.g., the viator is a corporation, 
+limited liability company, partnership, etc.).(iii) A sworn statement by the viator and insured is 
+submitted to the viatical settlement provider, certifying that one or more of the following 
+conditions have been met within the two-year period:(A) The viator or insured is terminally or 
+chronically ill.(B) The viator's or insured's spouse dies.(C) The viator or insured divorces his or 
+her spouse.(D) The viator was the insured's employer at the time the policy or certificate was 
+issued and the employment relationship has terminated.(E) The viator experiences a significant 
+decrease in income that impairs the viator's reasonable ability to pay the policy premium.(F) The 
+viator or insured disposes of his or her ownership interests in a closely held corporation.  
+The sworn statement shall be submitted by the viator or insured to the insurer when the viatical 
+settlement provider submits a request to the insurer for verification of coverage pursuant to 
+section 8(d) . The documents shall be accompanied by a letter of attestation from the viatical 
+settlement provider that the copies are true and correct copies received by the viatical settlement 
+provider. 
+(iv) The viatical settlement provider submits to the insurer a copy of the owner or insured's 
+certification described in subparagraph (iii) when the provider submits a request to the insurer to 
+effect the transfer of the policy or certificate to the viatical settlement provider. The certification 
+shall be deemed to conclusively establish that the viatical settlement contract satisfies the 
+requirements of this section, and the insurer shall timely respond to the request.(v) A financing 
+
+entity is a party to a viatical settlement contract to which a licensed viatical settlement provider is 
+not a party or to a viatical settlement purchase agreement.(vi) A special purpose entity enters into 
+a viatical settlement contract. 
+40 P.S. § 626.9 
+Section 626.10 - Fraud prevention and control(a) Fraudulent viatical settlement acts, interference 
+and participation of convicted felons prohibited.--(1) A person shall not commit a fraudulent 
+viatical settlement act.(2) A person shall not knowingly or intentionally interfere with the 
+enforcement of the provisions of this act or investigations of suspected or actual violations of this 
+act.(3) A person in the business of viatical settlements shall not knowingly or intentionally 
+permit any person convicted of a felony to effectuate the business of viatical 
+settlements.(b) Fraud warning required.-- (1) Viatical settlement contracts and applications for 
+viatical settlements, regardless of the form of transmission, shall contain the following 
+statement:  
+Any person who knowingly and with the intent to defraud another presents or causes to be 
+presented any statement forming a part of or in support of an application for insurance or viatical 
+settlement contract any false, incomplete or misleading information concerning any fact or thing 
+material to the insurance policy or viatical settlement contract, or any claim thereunder, commits 
+a fraudulent viatical settlement act and is subject to civil and criminal penalties. 
+(2) The lack of a statement as required in paragraph (1) does not constitute a defense in any 
+prosecution for a fraudulent viatical settlement act.(c) Mandatory reporting.-- (1) Any person 
+engaged in the business of viatical settlements having knowledge or a reasonable belief that a 
+fraudulent viatical settlement act is being, will be or has been committed shall within 30 days 
+make a written report of that information to a Federal, State or local criminal law enforcement 
+agency and provide to the commissioner that information in a manner prescribed by the 
+commissioner.(2) Any other person having knowledge or a reasonable belief that a fraudulent 
+viatical settlement act is being, will be or has been committed may provide to the commissioner 
+the information required by and in a manner prescribed by the commissioner.(d) Immunity from 
+liability.-- (1) No civil liability shall be imposed on and no cause of action shall arise from a 
+person's furnishing information concerning suspected, anticipated or completed fraudulent 
+viatical settlement acts or suspected or completed fraudulent insurance acts if the information is 
+provided to or received from:(i) the commissioner or the commissioner's employees, agents or 
+representatives;(ii) Federal, State or local law enforcement or regulatory officials or their 
+employees, agents or representatives;(iii) a person involved in the prevention and detection of 
+fraudulent viatical settlement acts or that person's agents, employees or representatives;(iv) the 
+National Association of Insurance Commissioners (NAIC), National Association of Securities 
+Dealers (NASD), the North American Securities Administrators Association (NASAA) or the 
+United States Securities and Exchange Commission or their employees, agents or 
+representatives, or other regulatory body overseeing life insurance, viatical settlements, securities 
+or investment fraud; or(v) the life insurer that issued the life insurance policy covering the life of 
+the insured.(2) Paragraph (1) shall not apply to statements made with actual malice.(3) A person 
+identified in paragraph (1) shall be entitled to an award of attorney fees and costs if he or she is 
+the prevailing party in a civil cause of action for libel, slander or any other relevant tort arising 
+out of activities in carrying out the provisions of this act and the party bringing the action was 
+not substantially justified in doing so. For the purpose of this section, a proceeding is 
+
+"substantially justified" if it had a reasonable basis in law or fact at the time that it was 
+initiated.(4) This section does not abrogate or modify common law or statutory privileges or 
+immunities enjoyed by a person described in paragraph (1).(e) Confidentiality.-- (1) The 
+documents and evidence provided pursuant to subsection (c) or obtained by the commissioner in 
+an investigation of suspected or actual fraudulent viatical settlement acts shall be privileged and 
+confidential and shall not be a public record and shall not be subject to discovery or subpoena in 
+a civil action.(2) Paragraph (1) does not prohibit release by the commissioner of documents and 
+evidence obtained in an investigation of suspected or actual fraudulent viatical settlement 
+acts: (i) in administrative or judicial proceedings to enforce laws administered by the 
+commissioner;(ii) to Federal, State or local law enforcement or regulatory agencies, to an 
+organization established for the purpose of detecting and preventing fraudulent viatical 
+settlement acts or to the NAIC;(iii) at the discretion of the commissioner, to a person in the 
+business of viatical settlement that is aggrieved by a fraudulent viatical settlement act.(3) Release 
+of documents and evidence under paragraph (2) does not abrogate or modify the privilege 
+granted in paragraph (1).(f) Other law enforcement or regulatory authority.--This act shall 
+not: (1) preempt the authority or relieve the duty of other law enforcement or regulatory agencies 
+to investigate, examine and prosecute suspected violations of law;(2) prevent or prohibit a person 
+from voluntarily disclosing information concerning viatical settlement fraud to a law 
+enforcement or regulatory agency other than the insurance department; or(3) limit the powers 
+granted elsewhere by the laws of this Commonwealth to the commissioner, the department or an 
+insurance fraud unit to investigate and examine possible violations of law and to take appropriate 
+action against wrongdoers.(g) Viatical settlement antifraud initiatives.--(1) Viatical settlement 
+providers shall within 60 days of licensure and annually by March 31 of each year thereafter 
+certify to the department implementation of antifraud initiatives reasonably calculated to detect, 
+investigate, prevent and report fraudulent viatical settlement acts. Antifraud initiatives shall 
+include: (i) Hiring of individuals qualified by experience and education for the investigation of 
+fraudulent viatical settlement acts, including the viatical settlement provider's criteria and 
+rationale for securing the services of such individuals.(ii) An antifraud plan that includes: (A) A 
+description of the procedures for detecting and investigating actual or possible fraudulent viatical 
+settlement acts and procedures for resolving material inconsistencies between medical records 
+and insurance applications.(B) A description of the procedures for reporting possible fraudulent 
+viatical settlement acts to the department and any appropriate law enforcement 
+agency.(C) Procedures to prevent fraudulent viatical settlement acts, including fraud awareness, 
+detection and antifraud education and training of underwriters and other personnel.(D) A 
+description of the viatical settlement provider's organizational structure and key personnel, 
+including antifraud personnel who are responsible for the investigation and reporting of possible 
+fraudulent viatical settlement acts and investigating unresolved material inconsistencies between 
+medical records and insurance applications.(2) A statistical reporting on the number of viatical 
+settlement applications, viatical settlement contracts and actual or potential viatical settlement 
+fraudulent acts that relate to the business of viatical settlements occurring within this 
+Commonwealth. This statistical reporting shall accompany the initial and annual antifraud 
+initiative certification submitted to the department.(h) Antifraud plan confidential.--Antifraud 
+certifications, plans and reports submitted to the department shall be privileged and confidential 
+and shall not be a public record and shall not be subject to discovery or subpoena in a civil or 
+criminal action. 
+40 P.S. § 626.10 
+
+Section 626.11 - Responsibility of department 
+The commissioner may: 
+(1) Promulgate regulations pursuant to this act.(2) Establish standards for evaluating 
+reasonableness of payments under viatical settlement contracts.(3) Establish appropriate 
+licensing requirements and standards for continued licensure for viatical settlement providers and 
+brokers.(4) Adopt rules governing the duties and responsibilities of insurers, viatical settlement 
+providers and brokers during the viatication of a life insurance policy or certificate.(5) Adopt 
+rules governing advertising by viatical settlement providers and viatical settlement brokers. 
+40 P.S. § 626.11 
+Section 626.12 - Injunctions; civil remedies; cease and desist(a) Injunctions.--In addition to the 
+penalties and other enforcement provisions of this act, if any person violates this act or any 
+regulation implementing this act, the commissioner may seek an injunction in a court of 
+competent jurisdiction and may apply for temporary and permanent orders that the commissioner 
+determines are necessary to restrain the person from committing the violation.(b) Civil action.--
+Any person damaged by the acts of a person in violation of this act may bring a civil action 
+against the person committing the violation in a court of competent jurisdiction.(c) Cease and 
+desist order.--The commissioner may issue a cease and desist order upon a person that violates 
+any provision of this act, any regulation or order adopted by the commissioner or any written 
+agreement or consent order entered into with the commissioner.(d) Emergency cease and desist 
+order.--When the commissioner finds that an activity in violation of this act presents an 
+immediate danger to the public that requires an immediate final order, the commissioner may 
+issue an emergency cease and desist order reciting with particularity the facts underlying the 
+findings. The emergency cease and desist order is effective immediately upon service of a copy 
+of the order on the respondent and remains effective for 90 days. If the commissioner begins 
+nonemergency cease and desist proceedings, the emergency cease and desist order remains 
+effective, absent an order by a court of competent jurisdiction.(e) Civil penalties.--In addition to 
+the penalties and other enforcement provisions of this act, any person who violates this act is 
+subject to civil penalties of up to $5,000 per violation. Imposition of civil penalties shall be 
+pursuant to an order of the commissioner. The order may require a person found to be in 
+violation of this act to make restitution to persons aggrieved by violations of this act.(f) Statute 
+of limitations.--The applicable statute of limitations shall not begin to run until the defrauded 
+person or law enforcement agency is aware of the fraud, but in no event may the prosecution be 
+commenced later than seven years after the action has occurred. 
+40 P.S. § 626.12 
+Section 626.13 - Violation of act(a) Unfair practices.--A violation of this act shall be considered 
+a violation of the act of July 22, 1974 (P.L. 589, No. 205), known as the Unfair Insurance 
+Practices Act.(b) Unlicensed practice.--A person who, without an appropriate license, engages in 
+the business of viatical settlements in this Commonwealth as a viatical settlement provider or 
+viatical settlement broker commits a felony of the third degree. 
+40 P.S. § 626.13 
+Section 626.14 - Severability 
+
+If any portion of this act or any amendments thereto or its applicability to any person or 
+circumstance is held invalid by a court, the remainder of this act or its applicability to other 
+persons or circumstances shall not be affected. 
+40 P.S. § 626.14 
+Section 626.15 - Applicability of securities laws 
+Nothing in this act shall preempt or otherwise limit the provisions of the act of December 5, 1972 
+(P.L. 1280, No. 284), known as the Pennsylvania Securities Act of 1972, or any regulations, 
+notices, bulletins or other interpretations issued by the Pennsylvania Securities Commission. 
+Compliance with the provisions of this act shall not constitute compliance with any applicable 
+provision of the Pennsylvania Securities Act of 1972 and any amendments thereto or any 
+regulations, notices, bulletins or other interpretations issued by the Pennsylvania Securities 
+Commission. 
+40 P.S. § 626.15 
+Section 626.16 - Examination and investigation of books and records(a) Examination and 
+investigation.--A viatical settlement provider, person selling viatical products or effectuating 
+viatical settlements and viatical settlement broker shall be subject to examination and 
+investigation by the department.(b) Maintenance and books and records.--Every viatical 
+settlement provider and viatical settlement broker shall maintain and make available all books, 
+records, accounts and other files relating to its engaging in the business of viatical settlements, 
+and such records shall be made available for examination and inspection by the department in a 
+form usable by the department for five years.(c) Costs of examination.--All the expenses 
+incurred in and about the examination of any viatical settlement provider or viatical settlement 
+broker, including compensation of department employees assisting in said examination and any 
+other professionals or specialists retained in said examination, shall be charged to and paid by the 
+viatical settlement provider or viatical settlement broker. 
+40 P.S. § 626.16 
+Section 626.17 - Transition provision 
+A viatical settlement provider or viatical settlement broker transacting business in this 
+Commonwealth on or before the effective date of this act may continue to do so pending 
+approval or disapproval of the provider or broker's application for a license as long as the 
+application is filed with the department within 30 days after the application form is published in 
+the Pennsylvania Bulletin. 
+40 P.S. § 626.17 
+ 

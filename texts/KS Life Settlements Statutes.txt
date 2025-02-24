@@ -1,0 +1,918 @@
+State of Kansas: Life Settlements Statutes 
+Kansas Statutes→ Chapter 40 Insurance→ Article 50 Viatical Settlements 
+Section 40-5001 - Viatical settlements act of 2002; citation 
+K.S.A. 40-5001 through 40-5016 inclusive, and K.S.A. 40-5007a, 40-5009a and 40-5012a, and 
+amendments thereto, may be cited as the viatical settlements act of 2002. 
+K.S.A. 40-5001 
+Section 40-5002 - Same; definitions 
+As used in this act, the following words and phrases shall have the meanings ascribed to them in 
+this section: 
+(a) "Advertising" means any written, electronic or printed communication or any communication 
+by means of recorded telephone messages or transmitted on radio, television, the internet or 
+similar communications media, including film strips, motion pictures and videos, published, 
+disseminated, circulated or placed before the public, directly or indirectly, for the purpose of 
+creating an interest in or inducing a person to sell a life insurance policy pursuant to a viatical 
+settlement contract.(b) "Business of viatical settlements" means an activity involved in, but not 
+limited to, offering, soliciting, negotiating, procuring, effectuation, purchasing, investing, 
+financing, monitoring, tracking, underwriting, selling, transferring, assigning, pledging or 
+hypothecating any viatical settlement contract.(c) "Chronically ill" means:(1) Being unable to 
+perform at least two activities of daily living including eating, toileting, transferring, bathing, 
+dressing, continence or such other activity as determined by rules and regulations adopted by the 
+commissioner; or(2) requiring substantial supervision to protect the individual from threats to 
+health and safety due to severe cognitive impairment.(d) "Commissioner" means the 
+commissioner of insurance.(e) "Financing entity" means any underwriter, placement agent, 
+lender, purchaser of securities, purchaser of a policy or certificate from a viatical settlement 
+provider, credit enhancer or any entity that has a direct ownership in a policy or certificate which 
+is the subject of a viatical settlement contract, but:(1) Whose principal activity related to the 
+transaction is providing funds to effect the viatical settlement or purchase of one or more 
+viaticated policies; and(2) who has an agreement in writing with one or more licensed viatical 
+settlement providers to finance the acquisition of viatical settlement contracts. 
+Financing entity shall not include any nonaccredited investor or viatical settlement purchaser. 
+(f) "Fraudulent viatical settlement act" means and includes:(1) Any act or omission committed 
+by any person who, knowingly or with intent to defraud, for the purpose of depriving another of 
+property or for pecuniary gain, commits, or permits such person's employees or agents to engage 
+in acts including:(A) Presenting, causing to be presented or preparing with knowledge or belief 
+that it will be presented to or by a viatical settlement provider, viatical settlement broker, viatical 
+settlement purchaser, financing entity, insurer, insurance producer or any other person, false 
+material information, or concealing material information, as part of, in support of or concerning a 
+fact material to one or more of the following:(i) An application for the issuance of a viatical 
+settlement contract or insurance policy;(ii) the underwriting of a viatical settlement contract or 
+insurance policy;(iii) a claim for payment or benefit pursuant to a viatical settlement contract or 
+insurance policy;(iv) premiums paid on an insurance policy;(v) payments and changes in 
+
+ownership or beneficiary made in accordance with the terms of a viatical settlement contract or 
+insurance policy;(vi) the reinstatement or conversion of an insurance policy;(vii) in the 
+solicitation, offer, effectuation or sale of a viatical settlement contract or insurance 
+policy;(viii) the issuance of written evidence of viatical settlement contract or insurance; or(ix) a 
+financing transaction.(B) Employing any device, scheme or artifice to defraud related to 
+viaticated policies;(2) any act done or committed in the furtherance of a fraud or to prevent the 
+detection of a fraud any person commits or permits its employees or its agents to:(A) Remove, 
+conceal, alter, destroy or sequester from the commissioner the assets or records of a licensee or 
+other person engaged in the business of viatical settlements;(B) misrepresent or conceal the 
+financial condition of a licensee, financing entity, insurer or other person;(C) transact the 
+business of viatical settlements in violation of laws requiring a license, certificate of authority or 
+other legal authority for the transaction of the business of viatical settlements; or(D) file with the 
+commissioner or the chief insurance regulatory official of another jurisdiction a document 
+containing false information or otherwise conceals information about a material fact from the 
+commissioner;(3) commit embezzlement, theft, misappropriation or conversion of moneys, 
+funds, premiums, credits or other property of a viatical settlement provider, insurer, insured, 
+viator, insurance policy owner or any other person engaged in the business of viatical settlements 
+or insurance; or(4) recklessly enter into, broker or otherwise deal in a viatical settlement contract, 
+the subject of which is a life insurance policy that was obtained by presenting false information 
+concerning any fact material to the policy or by concealing, for the purpose of misleading 
+another, information concerning any fact material to the policy, where the viator or the viator's 
+agent intended to defraud the policy's issuer. "Recklessly" means engaging in the conduct in 
+conscious and clearly unjustifiable disregard of a substantial likelihood of the existence of the 
+relevant facts or risks, such disregard involving a gross deviation from acceptable standards of 
+conduct;(5) stranger-originated life insurance; or(6) attempt to commit, assist, aid or abet in the 
+commission of, or conspiracy to commit any act or omission specified in this subsection; 
+or(7) fail to disclose to the insurer when requested by the insurer that the prospective insured has 
+undergone a life expectancy evaluation by any person or entity other than the insurer or any 
+authorized representative of such insurer in connection with the issuance of the 
+policy.(g) "NAIC" means the national association of insurance commissioners.(h) "Person" 
+means a natural person or a legal entity, including, but not limited to, an individual, partnership, 
+limited liability company, association, trust or corporation.(i) "Policy" means an individual or 
+group policy, group certificate, contract or arrangement of life insurance affecting the rights of a 
+resident of this state or bearing a reasonable relation to this state, regardless of whether delivered 
+or issued for delivery in this state.(j) "Related provider trust" means a titling trust or other trust 
+established by a licensed viatical settlement provider or a financing entity for the sole purpose of 
+holding the ownership or beneficial interest in purchased policies in connection with a financing 
+transaction. The trust shall have a written agreement with the licensed viatical settlement 
+provider under which the licensed viatical settlement provider is responsible for ensuring 
+compliance with all statutory and regulatory requirements and under which the trust agrees to 
+make all records and files related to viatical settlement transactions available to the 
+commissioner as if those records and files were maintained directly by the licensed viatical 
+settlement provider.(k) "Special purpose entity" means any corporation, partnership, trust, 
+limited liability company or other similar entity formed solely to provide, either directly or 
+indirectly, access to institutional capital markets for a financing entity or licensed viatical 
+settlement provider.(l) "Stranger-originated life insurance" means an act, practice or arrangement 
+
+to initiate a life insurance policy for the benefit of a third party investor who, at the time of 
+policy origination, has no insurable interest in the insured under K.S.A. 40-450, and amendments 
+thereto. Stranger-originated life insurance practices include, but are not limited to, cases in which 
+life insurance is purchased with resources or guarantees from or through a person or entity who, 
+at the time of policy inception, could not lawfully initiate the policy, and where, at the time of 
+policy inception, there is an arrangement or agreement to directly or indirectly transfer the 
+ownership of the policy or the policy benefits, or both, to a third party. Any trust that is created 
+to give the appearance of insurable interest, and is used to initiate one or more policies for 
+investors, violates K.S.A. 40-450, and amendments thereto, and the prohibition against wagering 
+on human life. Stranger-originated life insurance arrangements do not include those practices set 
+forth in paragraph (3) of subsection (o).(m) "Terminally ill" means having an illness or sickness 
+that can reasonably be expected to result in death in 24 months or less.(n) "Viatical settlement 
+broker" means a person that on behalf of a viator and for a fee, commission or other valuable 
+consideration offers or attempts to negotiate viatical settlement contracts between a viator and 
+one or more viatical settlement providers. Notwithstanding the manner in which the viatical 
+settlement broker is compensated, a viatical settlement broker is deemed to represent only the 
+viator and owes a fiduciary duty to the viator to act according to the viator's instructions and in 
+the best interest of the viator. The term does not include an attorney, certified public accountant 
+or a financial planner accredited by a nationally recognized accreditation agency, who is retained 
+to represent the viator and whose compensation is not paid directly or indirectly by the viatical 
+settlement provider or purchaser.(o)(1) "Viatical settlement contract" means a written agreement 
+between a viator and a viatical settlement provider establishing the terms under which 
+compensation or anything of value is or will be paid, which compensation or value is less than 
+the expected death benefits of the policy, in return for the viator's present or future assignment, 
+transfer, sale, devise or bequest of the death benefit or ownership of any portion of the insurance 
+policy or certificate of insurance, except that the minimum value for a viatical settlement 
+contract shall be greater than the cash surrender value or accelerated death benefit available at 
+the time of an application for a viatical settlement contract.(2) Viatical settlement contract also 
+includes:(A) The transfer for compensation or value of ownership or beneficial interest in a trust 
+or other entity that owns such policy if the trust or other entity was formed or availed of for the 
+principal purpose of acquiring one or more life insurance contracts, which life insurance contract 
+insures the life of a person residing in this state.(B) A written agreement for a loan or other 
+lending transaction, secured primarily by an individual or group life insurance policy, or a 
+premium finance loan made for a policy on or before the date of issuance of the policy, 
+where:(i) The viator receives on the date of the premium finance loan a guarantee of a future 
+viatical settlement value of the policy; or(ii) the viator agrees on the date of the premium finance 
+loan to sell the policy or any portion of its death benefit on any date following the issuance of the 
+policy.(3) Viatical settlement contract does not include:(A) A policy loan by a life insurance 
+company pursuant to the terms of the life insurance policy or accelerated death provisions 
+contained in the life insurance policy, whether issued with the original policy or as a 
+rider.(B) Loan proceeds that are used solely to pay:(i) Premiums for the policy; and(ii) any costs 
+or expenses incurred by the lender or the borrower in connection with the financing.(C) A 
+premium finance loan or any loan made by a bank or other licensed financial institution, 
+provided that neither default on such loan nor the transfer of the policy in connection with such 
+default is pursuant to an agreement or understanding with any other person for the purpose of 
+evading regulation under this act.(D) A collateral assignment of a life insurance policy by a 
+
+viator.(E) A loan made by a lender that does not violate the Kansas insurance premium finance 
+company act, K.S.A. 40-2601 et seq., and acts amendatory thereof or supplemental thereto, 
+unless the premium finance loan is described in subparagraph (B) of paragraph (2).(F) An 
+agreement where all the parties:(i) Are closely related to the insured by blood or law; or(ii) have 
+a lawful substantial economic interest in the continued life, health and bodily safety of the person 
+insured, or are trusts established primarily for the benefit of such parties;(G) any designation, 
+consent or agreement by an insured who is an employee of an employer in connection with the 
+purchase by the employer, or trust established by the employer, of life insurance on the life of the 
+employee;(H) a bona fide business succession planning arrangement between one or 
+more:(i) Shareholders in a corporation or between a corporation and one or more of its 
+shareholders or one or more trusts established by its shareholders;(ii) partners in a partnership or 
+between a partnership and one or more of its partners or one or more trusts established by its 
+partners; or(iii) members in a limited liability company or between a limited liability company 
+and one or more of its members or one or more trusts established by its members;(I) an 
+agreement entered into by a service recipient, or a trust established by the service recipient, and a 
+service provider, or a trust established by the service provider, who performs significant services 
+for the service recipient's trade or business; or(J) any other contract, transaction or arrangement 
+exempted from the definition of viatical settlement contract by the commissioner based on a 
+determination that the contract, transaction or arrangement is not of the type intended to be 
+regulated by this act.(p) "Viatical settlement provider" means a person, other than a viator, who 
+enters into or effectuates a viatical settlement contract. Viatical settlement provider does not 
+include:(1) A bank, savings bank, savings and loan association, credit union or other licensed 
+lending institution that takes an assignment of a life insurance policy as collateral for a 
+loan;(2) the issuer of a life insurance policy providing accelerated benefits under K.S.A. 40-401, 
+and amendments thereto, and pursuant to the contract;(3) an authorized or eligible insurer that 
+provides stop loss coverage to a viatical settlement provider, purchaser, financing entity, special 
+purpose entity or related provider trust;(4) a natural person who enters into or effectuates no 
+more than one agreement in a calendar year for the transfer of life insurance policies for any 
+value less than the expected death benefit;(5) a financing entity;(6) a special purpose entity;(7) a 
+related provider trust;(8) a viatical settlement purchaser; or(9) an accredited investor or qualified 
+institutional buyer as such term is defined respectively in regulation D, rule 501 or rule 144A of 
+the federal securities act of 1933, as in effect upon the effective date of this act, and who 
+purchases a viaticated policy from a viatical settlement provider.(q) "Viator" means the owner of 
+a life insurance policy or a certificate holder under a group policy who enters or seeks to enter 
+into a viatical settlement contract. For the purposes of this act, a viator shall not be limited to an 
+owner of a life insurance policy or a certificate holder under a group policy insuring the life of an 
+individual with a terminal or chronic illness or condition except where specifically addressed. 
+Viator shall not include:(1) A licensee under this act;(2) a qualified institutional buyer as such 
+term is defined in rule 144A of the federal securities act of 1933, as in effect upon the effective 
+date of this act;(3) a financing entity;(4) a special purpose entity; or(5) a related provider 
+trust.(r) "Viaticated policy" means a life insurance policy or certificate that has been acquired by 
+a viatical settlement provider pursuant to a viatical settlement contract.(s) "Viatical settlement 
+purchaser" means a person who gives a sum of money as consideration for a life insurance policy 
+or an interest in the death benefits of a life insurance policy, or a person who owns or acquires or 
+is entitled to a beneficial interest in a trust that owns a viatical settlement contract or is the 
+beneficiary of a life insurance policy that has been or will be the subject of a viatical settlement 
+
+contract, for the purpose of deriving an economic benefit. Viatical settlement purchaser shall not 
+include:(1) A licensee under this act;(2) an accredited investor or qualified institutional buyer as 
+such term is defined respectively in regulation D, rule 501 or rule 144A of the federal securities 
+act of 1933, as in effect upon the effective date of this act;(3) a financing entity;(4) a special 
+purpose entity; or(5) a related provider trust. 
+K.S.A. 40-5002 
+Section 40-5003 - Same; license applications, renewal, fee, information required, powers of 
+commissioner(a) No person shall operate as a viatical settlement provider or viatical settlement 
+broker without first obtaining a license from the commissioner or the insurance regulatory 
+official of the state of residence of the viator. If there is more than one viator on a single policy 
+and the viators are residents of different states, the viatical settlement shall be governed by the 
+law of the state in which the viator having the largest percentage ownership resides or, if the 
+viators hold equal ownership, the state of residence of one viator agreed upon in writing by all 
+viators.(b) Application for a viatical settlement provider license shall be made to the 
+commissioner by the applicant on a form prescribed by the commissioner, and these applications 
+shall be accompanied by a nonrefundable fee of $1,000.(c) Licenses for viatical settlement 
+providers may be renewed from year to year on the anniversary date upon payment of the annual 
+renewal fee of $500. Failure to pay the fees by the renewal date results in expiration of the 
+license.(d) Application for a viatical settlement broker license shall be made to the commissioner 
+by the applicant on a form prescribed by the commissioner. Each application shall be 
+accompanied by a nonrefundable application fee of $100.(e) Licenses for a viatical settlement 
+broker license may be renewed from year to year on the anniversary date upon payment of the 
+annual renewal fee of $50. Failure to pay the fees by the renewal date results in expiration of 
+such license.(f) The applicant shall provide information on forms required by the commissioner. 
+The commissioner shall have authority, at any time, to require the applicant to fully disclose the 
+identity of all stockholders, partners, officers, members and employees, and the commissioner, in 
+the exercise of the commissioner's discretion, may refuse to issue a license in the name of a legal 
+entity if not satisfied that any officer, employee, stockholder, partner or member thereof who 
+may materially influence the applicant's conduct meets the standards of this act.(g) A license 
+issued to a legal entity authorizes all partners, officers, members and designated employees to act 
+as viatical settlement providers or viatical settlement brokers, as applicable, under the license, 
+and all those persons shall be named in the application and any supplements to the 
+application.(h) Upon the filing of an application and the payment of the license fee, the 
+commissioner shall make an investigation of each applicant and issue a license if the 
+commissioner finds that the applicant:(1) If a viatical settlement provider, has provided a detailed 
+plan of operation;(2) is competent and trustworthy and intends to act in good faith in the capacity 
+involved by the license applied for;(3) has a good business reputation and has had experience, 
+training or education so as to be qualified in the business for which the license is applied 
+for;(4) if a legal entity, provides a certificate of good standing from the state of its domicile; 
+and(5) if a viatical settlement provider or viatical settlement broker, has provided an anti-fraud 
+plan that meets the requirements of paragraph (g) of K.S.A. 40-5012, and amendments 
+thereto.(i) The commissioner shall not issue a license to a nonresident applicant, unless a written 
+designation of an agent for service of process is filed and maintained with the commissioner or 
+the applicant has filed with the commissioner, the applicant's written irrevocable consent that any 
+action against the applicant may be commenced against the applicant by service of process on 
+
+the commissioner.(j) A viatical settlement provider or viatical settlement broker shall provide to 
+the commissioner new or revised information about officers, 10% or more stockholders, partners, 
+directors, members or designated employees within 30 days of the change. 
+K.S.A. 40-5003 
+Section 40-5004 - Same; suspension, revocation, refusal to issue or renew license; grounds; 
+hearing; powers of commissioner(a) The commissioner may refuse to issue, suspend, revoke or 
+refuse to renew the license of a viatical settlement provider or viatical settlement broker in the 
+event that investigation by the commissioner discloses that:(1) There was any material 
+misrepresentation in the application for the license;(2) the licensee or any officer, partner, 
+member or key management personnel has been convicted of fraudulent or dishonest practices, is 
+subject to a final administrative action in this state or another state or is otherwise shown to be 
+untrustworthy or incompetent;(3) the viatical settlement provider demonstrates a pattern of 
+unreasonable payments to viators;(4) the licensee or any officer, partner, member or key 
+management personnel has been found guilty of, or has pleaded guilty or nolo contendere to, any 
+felony, or to a misdemeanor involving fraud or moral turpitude, regardless of whether a 
+judgment of conviction has been entered by the court;(5) the viatical settlement provider has 
+entered into any viatical settlement contract that has not been approved pursuant to this 
+act;(6) the viatical settlement provider has failed to honor contractual obligations set out in a 
+viatical settlement contract;(7) the licensee no longer meets the requirements for initial 
+licensure;(8) the viatical settlement provider has assigned, transferred or pledged a viaticated 
+policy to a person other than a viatical settlement provider licensed in this state, viatical 
+settlement purchaser, an accredited investor or qualified institutional buyer as defined 
+respectively in regulation D, rule 501 or rule 144A of the federal securities act of 1933, as in 
+effect on the effective date of this act, financing entity, special purpose entity or related provider 
+trust; or(9) the licensee or any officer, partner, member or key management personnel has 
+violated any provision of this act.(b) If the commissioner denies a license application or 
+suspends, revokes or refuses to renew the license of a viatical settlement provider or viatical 
+settlement broker, the commissioner shall conduct a hearing in accordance with the Kansas 
+administrative procedure act. 
+K.S.A. 40-5004 
+ 
+Section 40-5005 - Same; approval of forms 
+No person shall use a viatical settlement contract or provide to a viator a disclosure statement 
+form in this state unless filed with and approved by the commissioner. The commissioner shall 
+disapprove a viatical settlement contract form or disclosure statement form if, in the 
+commissioner's opinion, the contract or provisions contained therein are unreasonable, contrary 
+to the interests of the public or otherwise misleading or unfair to the viator. At the 
+commissioner's discretion, the commissioner may require the submission of advertising material 
+to the commissioner. 
+K.S.A. 40-5005 
+Section 40-5006 - Same; annual statements of licensee; identity of viator confidential; 
+exceptions(a)(1) Each licensee shall file with the commissioner on or before March 1 of each 
+
+year an annual statement containing such information as the commissioner may prescribe by rule 
+and regulation.(2) In addition to any other requirements, for any policy settled within five years 
+of such policy's date of issuance, the annual statement shall specify the total number, aggregate 
+face amount and life settlement proceeds of policies settled during the immediately preceding 
+calendar year, together with a break down of the information by policy issue year. Such 
+information shall be limited to only those transactions where the insured is a resident of this state 
+and shall not include individual transaction data regarding the business of viatical settlements or 
+information that there is a reasonable basis to believe could be used to identify the policy owner 
+or the insured.(b) Except as otherwise allowed or required by law, a viatical settlement provider, 
+viatical settlement broker, insurance company, insurance producer, information bureau, rating 
+agency or company, or any other person with actual knowledge of an insured's identity, shall not 
+disclose that identity as an insured, or the insured's financial or medical information to any other 
+person unless the disclosure is:(1) Necessary to effect a viatical settlement between the viator 
+and a viatical settlement provider and the viator and insured have provided prior written consent 
+to the disclosure;(2) provided in response to an investigation or examination by the 
+commissioner or any other governmental officer or agency or pursuant to the requirements of 
+paragraph (c) of K.S.A. 40-5012a, and amendments thereto;(3) a term of or condition to the 
+transfer of a policy by one viatical settlement provider to another viatical settlement 
+provider;(4) necessary to permit a financing entity, related provider trust or special purpose 
+entity to finance the purchase of policies by a viatical settlement provider and the viator and 
+insured have provided prior written consent to the disclosure;(5) necessary to allow the viatical 
+settlement provider or viatical settlement broker or their authorized representatives to make 
+contacts for the purpose of determining health status; or(6) required to purchase stop loss 
+coverage. 
+K.S.A. 40-5006 
+Section 40-5007a - Same; examinations; record keeping requirements; powers of 
+commissioner(a)(1) The commissioner may conduct an examination under this act of a licensee 
+as often as the commissioner in such commissioner's sole discretion deems appropriate.(2) For 
+purposes of completing an examination of a licensee under this act, the commissioner may 
+examine or investigate any person, or the business of any person, insofar as the examination or 
+investigation, in the sole discretion of the commissioner, is necessary or material to the 
+examination of the licensee.(3) In lieu of an examination under this act of any foreign or alien 
+licensee licensed in this state, the commissioner, at the commissioner's discretion, may accept an 
+examination report on the licensee as prepared by the commissioner for the licensee's state of 
+domicile or port-of-entry state.(b)(1) Any person required to be licensed by this act shall for five 
+years retain copies of all:(A) Proposed, offered or executed contracts, underwriting documents, 
+policy forms, and applications from the date of the proposal, offer or execution of the contract, 
+whichever is later;(B) all checks, drafts or other evidence and documentation related to the 
+payment, transfer, deposit or release of funds from the date of the transaction; and(C) all other 
+records and documents related to the requirements of this act.(2) This section shall not relieve 
+any person licensed under this act of the obligation to produce these documents and provide 
+copies thereof to the commissioner after the retention period has expired if the person has 
+retained such documents.(3) Records required to be retained by this section must be legible and 
+complete and may be retained in paper, photograph, microprocess, magnetic, mechanical, 
+electronic media or by any process that accurately reproduces or forms a durable medium for the 
+
+reproduction of a record.(c)(1) Upon determining that an examination should be conducted, the 
+commissioner shall issue an examination warrant appointing one or more examiners to perform 
+the examination and instructing them as to the scope of the examination. The commissioner may 
+also employ such other guidelines or procedures as the commissioner may deem 
+appropriate.(2) Every licensee or person from whom information is sought, its officers, directors 
+and agents shall provide to the examiners timely, convenient and free access at all reasonable 
+hours at its offices to all books, records, accounts, papers, documents, assets and computer or 
+other recordings relating to the property, assets, business and affairs of the licensee being 
+examined. The officers, directors, employees and agents of the licensee or person shall facilitate 
+the examination and aid in the examination so far as it is in their power to do so. The refusal of a 
+licensee, by its officers, directors, employees or agents, to submit to examination or to comply 
+with any reasonable written request of the commissioner shall be grounds for suspension or 
+refusal of, or nonrenewal of any license or authority held by the licensee to engage in the viatical 
+settlement business or other business subject to the commissioner's jurisdiction. Any proceedings 
+for suspension, revocation or refusal of any license or authority shall be conducted pursuant to 
+the Kansas administrative procedure act.(3) The commissioner shall have the power to issue 
+subpoenas, to administer oaths and to examine under oath any person as to any matter pertinent 
+to the examination. Upon the failure or refusal of a person to obey a subpoena, the commissioner 
+may petition a court of competent jurisdiction, and upon proper showing, the court may enter an 
+order compelling the witness to appear and testify or produce documentary evidence. Failure to 
+obey the court order shall be punishable as contempt of court.(4) When making an examination 
+under this act, the commissioner may retain attorneys, appraisers, independent actuaries, 
+independent certified public accountants or other professionals and specialists as examiners, the 
+reasonable cost of which shall be borne by the licensee that is the subject of the 
+examination.(5) Nothing contained in this act shall be construed to limit the commissioner's 
+authority to terminate or suspend an examination in order to pursue other legal or regulatory 
+action pursuant to the insurance laws of this state. Findings of fact and conclusions made 
+pursuant to any examination shall be prima facie evidence in any legal or regulatory 
+action.(6) Nothing contained in this act shall be construed to limit the commissioner's authority 
+to use and, if appropriate, to make public any final or preliminary examination report, any 
+examiner or licensee work papers or other documents, or any other information discovered or 
+developed during the course of any examination in the furtherance of any legal or regulatory 
+action that the commissioner, in such commissioner's sole discretion, may deem 
+appropriate.(d)(1) Examination reports shall be comprised of only facts appearing upon the 
+books, records or other documents of the licensee, its agents or other persons examined, or as 
+ascertained from the testimony of its officers or agents or other persons examined concerning its 
+affairs, and such conclusions and recommendations as the examiners find reasonably warranted 
+from the facts.(2) Not later than 60 days following completion of the examination, the examiner 
+in charge shall file with the commissioner a verified written report of examination under oath. 
+Upon receipt of the verified report, the commissioner shall transmit the report to the licensee 
+examined, together with a notice that shall afford the licensee examined a reasonable opportunity 
+of not more than 30 days to make a written submission or rebuttal with respect to any matters 
+contained in the examination report.(3) In the event the commissioner determines that regulatory 
+action is appropriate as a result of an examination, the commissioner may initiate any 
+proceedings or actions provided by law.(e)(1) Names and individual identification data for all 
+viators shall be considered private and confidential information and shall not be disclosed by the 
+
+commissioner, unless required by law.(2) Except as otherwise provided in this act, all 
+examination reports, working papers, recorded information, documents and copies thereof 
+produced by, obtained by or disclosed to the commissioner or any other person in the course of 
+an examination made under this act, or in the course of analysis or investigation by the 
+commissioner of the financial condition or market conduct of a licensee shall be confidential by 
+law and privileged, shall not be subject to the provisions of the Kansas open records act, K.S.A. 
+45-215 et seq., and amendments thereto, shall not be subject to subpoena, and shall not be 
+subject to discovery or admissible in evidence in any private civil action. The commissioner is 
+authorized to use the documents, materials or other information in the furtherance of any 
+regulatory or legal action brought as part of the commissioner's official duties.(3) Documents, 
+materials or other information, including, but not limited to, all working papers, and copies 
+thereof, in the possession or control of the NAIC and its affiliates and subsidiaries shall be 
+confidential by law and privileged, shall not be subject to subpoena, and shall not be subject to 
+discovery or admissible in evidence in any private civil action if they are:(A) Created, produced 
+or obtained by or disclosed to the NAIC and its affiliates and subsidiaries in the course of 
+assisting an examination made under this act, or assisting a commissioner in the analysis or 
+investigation of the financial condition or market conduct of a licensee; or(B) disclosed to the 
+NAIC and its affiliates and subsidiaries under subsection (e)(4) by the commissioner. 
+For the purposes of subsection (e)(2), the term "act" includes the law of another state or 
+jurisdiction that is substantially similar to this act. 
+(4) Neither the commissioner nor any person that received the documents, material or other 
+information while acting under the authority of the commissioner, including the NAIC and its 
+affiliates and subsidiaries, shall be permitted to testify in any private civil action concerning any 
+confidential documents, materials or information subject to subsection (e)(1).(5) In order to assist 
+in the performance of the commissioner's duties, the commissioner may:(A) Share documents, 
+materials or other information, including the confidential and privileged documents, materials or 
+information subject to subsection (e)(1), with other state, federal and international regulatory 
+agencies, with the NAIC and its affiliates and subsidiaries, and with state, federal and 
+international law enforcement authorities, provided that the recipient agrees to maintain the 
+confidentiality and privileged status of the document, material, communication or other 
+information;(B) receive documents, materials, communications or information, including 
+otherwise confidential and privileged documents, materials or information, from the NAIC and 
+its affiliates and subsidiaries, and from regulatory and law enforcement officials of other foreign 
+or domestic jurisdictions, and shall maintain as confidential or privileged any document, material 
+or information received with notice or the understanding that it is confidential or privileged 
+under the laws of the jurisdiction that is the source of the document, material or information; 
+and(C) enter into agreements governing sharing and use of information consistent with this 
+subsection.(6) No waiver of any applicable privilege or claim of confidentiality in the 
+documents, materials or information shall occur as a result of disclosure to the commissioner 
+under this section or as a result of sharing as authorized in subsection (e)(4).(7) A privilege 
+established under the law of any state or jurisdiction that is substantially similar to the privilege 
+established under this subsection shall be available and enforced in any proceeding in, and in any 
+court of, this state.(8) Nothing contained in this act shall prevent or be construed as prohibiting 
+the commissioner from disclosing the content of an examination report, preliminary examination 
+report or results, or any matter relating thereto, to the commissioner of any other state or country, 
+
+or to law enforcement officials of this or any other state or agency of the federal government at 
+any time or to the NAIC, so long as such agency or office receiving the report or matters relating 
+thereto agrees in writing to hold it confidential and in a manner consistent with this act.(f)(1) An 
+examiner may not be appointed by the commissioner if the examiner, either directly or indirectly, 
+has a conflict of interest or is affiliated with the management of or owns a pecuniary interest in 
+any person subject to examination under this act. This section shall not be construed to 
+automatically preclude an examiner from being:(A) A viator;(B) an insured in a viaticated 
+insurance policy; or(C) a beneficiary in an insurance policy that is proposed to be 
+viaticated.(2) Notwithstanding the requirements of this clause, the commissioner may retain from 
+time to time, on an individual basis, qualified actuaries, certified public accountants or other 
+similar individuals who are independently practicing their professions, even though these persons 
+may from time to time be similarly employed or retained by persons subject to examination 
+under this act.(g) Unless provided otherwise, all fees and procedures for examinations under this 
+act shall be in accordance with K.S.A. 40-223, and amendments thereto.(h)(1) No cause of 
+action shall arise nor shall any liability be imposed against the commissioner, the commissioner's 
+authorized representatives or any examiner appointed by the commissioner for any statements 
+made or conduct performed in good faith while carrying out the provisions of this act.(2) No 
+cause of action shall arise, nor shall any liability be imposed against any person for the act of 
+communicating or delivering information or data to the commissioner or the commissioner's 
+authorized representative or examiner pursuant to an examination made under this act, if the act 
+of communication or delivery was performed in good faith and without fraudulent intent or the 
+intent to deceive. This paragraph does not abrogate or modify in any way any common law or 
+statutory privilege or immunity heretofore enjoyed by any person identified in paragraph 
+(1).(3) A person identified in paragraph (1) or (2) shall be entitled to an award of attorney fees 
+and costs if such person is the prevailing party in a civil cause of action for libel, slander or any 
+other relevant tort arising out of activities in carrying out the provisions of this act and the party 
+bringing the action was not substantially justified in doing so. For purposes of this section a 
+proceeding is "substantially justified" if it had a reasonable basis in law or fact at the time that it 
+was initiated.(i) The commissioner may investigate suspected fraudulent viatical settlement acts 
+and persons engaged in the business of viatical settlements. 
+K.S.A. 40-5007a 
+Section 40-5008 - Same; required disclosures(a) With each application for a viatical settlement, a 
+viatical settlement provider or viatical settlement broker shall provide the viator with at least the 
+following disclosures no later than the time the application for the viatical settlement contract is 
+signed by all parties. The disclosures shall be provided in a separate document that is signed by 
+the viator and the viatical settlement provider or viatical settlement broker, and shall provide the 
+following information:(1) There are possible alternatives to viatical settlement contracts 
+including any accelerated death benefits or policy loans offered under the viator's life insurance 
+policy.(2) That a viatical settlement broker represents exclusively the viator and not the insurer 
+or the viatical settlement provider. Furthermore the viatical settlement broker owes a fiduciary 
+duty to the viator including the duty to act according to the viator's instructions and in the best 
+interest of the viator.(3) Some or all of the proceeds of the viatical settlement may be taxable 
+under federal income tax and state franchise and income taxes, and assistance should be sought 
+from a professional tax advisor.(4) Proceeds of the viatical settlement could be subject to the 
+claims of creditors.(5) Receipt of the proceeds of a viatical settlement may adversely affect the 
+
+viator's eligibility for medicaid or other government benefits or entitlements, and advice should 
+be obtained from the appropriate government agencies.(6) The viator has the right to rescind a 
+viatical settlement contract for 15 calendar days after the receipt of the viatical settlement 
+proceeds by the viator, as provided in subsection (c) of K.S.A. 40-5009a, and amendments 
+thereto. If the insured dies during the rescission period, the settlement contract shall be deemed 
+to have been rescinded, subject to repayment of all viatical settlement proceeds and any 
+premiums, loans and loan interest to the viatical settlement provider or purchaser.(7) Funds will 
+be sent to the viator within three business days after the viatical settlement provider has received 
+the insurer or group administrator's acknowledgment that ownership of the policy or interest in 
+the certificate has been transferred and the beneficiary has been designated.(8) Entering into a 
+viatical settlement contract may cause other rights or benefits, including conversion rights and 
+waiver of premium benefits that may exist under the policy or certificate, to be forfeited by the 
+viator. Assistance should be sought from a financial adviser.(9) Disclosure to a viator shall 
+include distribution of a brochure describing the process of viatical settlements. The form for the 
+brochure shall be developed by the commissioner.(10) The disclosure document shall contain the 
+following language: "All medical, financial or personal information solicited or obtained by a 
+viatical settlement provider or viatical settlement broker about an insured, including the insured's 
+identity or the identity of family members, a spouse or a significant other may be disclosed as 
+necessary to effect the viatical settlement between the viator and the viatical settlement provider. 
+If you are asked to provide this information, you will be asked to consent to the disclosure. The 
+information may be provided to someone who buys the policy or provides funds for the 
+purchase. You may be asked to renew your permission to share information every two 
+years."(11) The insured may be contacted by either the viatical settlement provider or viatical 
+settlement broker or such viatical settlement provider's or viatical settlement broker's authorized 
+representative for the purpose of determining the insured's health status. This contact is limited to 
+once every three months if the insured has a life expectancy of more than one year, and no more 
+than once per month if the insured has a life expectancy of one year or less.(b) A viatical 
+settlement provider shall provide the viator with at least the following disclosures no later than 
+the date the viatical settlement contract is signed by all parties. The disclosures shall be 
+conspicuously displayed in the viatical settlement contract or in a separate document signed by 
+the viator and the viatical settlement provider or viatical settlement broker, and contain the 
+following information:(1) The affiliation, if any, between the viatical settlement provider and the 
+issuer of the insurance policy to be viaticated.(2) The name, address and telephone number of the 
+viatical settlement provider.(3) A viatical settlement broker shall disclose to a prospective viator 
+the amount and method of calculating the broker's compensation. The term "compensation" 
+includes anything of value paid or given to a viatical settlement broker for the placement of a 
+policy.(4) If an insurance policy to be viaticated has been issued as a joint policy or involves 
+family riders or any coverage of a life other than the insured under the policy to be viaticated, the 
+viator shall be informed of the possible loss of coverage on the other lives under the policy and 
+shall be advised to consult with such viator's insurance producer or the insurer issuing the policy 
+for advice on the proposed viatical settlement.(5) State the dollar amount of the current death 
+benefit payable to the viatical settlement provider under the policy or certificate. If known, the 
+viatical settlement provider shall also disclose the availability of any additional guaranteed 
+insurance benefits, the dollar amount of any accidental death and dismemberment benefits under 
+the policy or certificate and the viatical settlement provider's interest in those benefits.(6) State 
+the name, business address and telephone number of the independent third party escrow agent, 
+
+and the fact that the viator or owner may inspect or receive copies of the relevant escrow or trust 
+agreements or documents.(c) Without limiting the ability of an insurer from assessing the 
+insurability of a policy applicant and determining whether or not to issue the policy, and in 
+addition to other questions an insurance carrier may lawfully pose to a life insurance applicant, 
+insurance carriers may inquire in the application for insurance whether the proposed owner 
+intends to pay premiums with the assistance of financing from a lender that will use the policy as 
+collateral to support the financing.(1) If, as described in paragraph (3) of subsection (o) of K.S.A. 
+40-5002, and amendments thereto, the loan provides funds which can be used for a purpose other 
+than paying for the premiums, costs, and expenses associated with obtaining and maintaining the 
+life insurance policy and loan, the application shall be rejected as a violation of this act.(2) If the 
+financing does not violate this section in this manner, the insurance carrier:(A) May make 
+disclosures, including, but not limited to, such as the following, to the applicant and the insured, 
+either on the application or an amendment to the application to be completed no later than the 
+delivery of the policy: 
+"If you have entered into a loan arrangement where the policy is used as collateral, and the 
+policy does change ownership at some point in the future in satisfaction of the loan, the 
+following may be true: 
+(i) A change of ownership could lead to a stranger owning an interest in the insured's life;(ii) a 
+change of ownership could in the future limit your ability to purchase future insurance on the 
+insured's life because there is a limit to how much coverage insurers will issue on one 
+life;(iii) should there be a change of ownership and you wish to obtain more insurance coverage 
+on the insured's life in the future, the insured's higher issue age, a change in health status, or 
+other factors, or both, may reduce the ability to obtain coverage or may result in significantly 
+higher premiums or both;(iv) you should consult a professional advisor, since a change in 
+ownership in satisfaction of the loan may result in tax consequences to the owner, depending on 
+the structure of the loan;" and(B) may require certifications, such as the following, from the 
+applicant or the insured or both:(i)" I have not entered into any agreement or arrangement 
+providing for the future sale of this life insurance policy;(ii) my loan arrangement for this policy 
+provides funds sufficient to pay for some or all of the premiums, costs, and expenses associated 
+with obtaining and maintaining my life insurance policy, but I have not entered into any 
+agreement by which I am to receive consideration in exchange for procuring this policy; 
+and(iii) the borrower has an insurable interest in the insured." 
+K.S.A. 40-5008 
+Section 40-5009a - Same; viatical settlement contract; required documents; confidentiality of 
+medical information; viator's rights; payment of proceeds; contacts with viator; 
+limitations(a)(1) A viatical settlement provider entering into a viatical settlement contract shall 
+first obtain:(A) If the viator is the insured, a written statement from a licensed attending 
+physician that the viator is of sound mind and under no constraint or undue influence to enter 
+into a viatical settlement contract; and(B) a document in which the insured consents to the 
+release of such insured's medical records to a viatical settlement provider, viatical settlement 
+broker and the insurance company that issued the life insurance policy covering the life of the 
+insured.(2) Within 20 days after a viator executes documents necessary to transfer any rights 
+under an insurance policy or within 20 days of entering any agreement, option, promise or any 
+other form of understanding, expressed or implied, to viaticate the policy, the viatical settlement 
+
+provider shall give written notice to the insurer that issued that insurance policy that the policy 
+has or will become a viaticated policy. The notice shall be accompanied by the documents 
+required by paragraph (3).(3) The viatical settlement provider shall deliver a copy of the medical 
+release required under paragraph (1)(B), a copy of the viator's application for the viatical 
+settlement contract, the notice required under paragraph (2) and a request for verification of 
+coverage to the insurer that issued the life policy that is the subject of the viatical transaction. 
+The form for verification shall be developed by the commissioner.(4) The insurer shall respond 
+to a request for verification of coverage submitted on an approved form by a viatical settlement 
+provider within 30 calendar days of the date the request is received and shall indicate whether, 
+based on the medical evidence and documents provided, the insurer intends to pursue an 
+investigation at this time regarding the validity of the insurance contract.(5) Prior to or at the 
+time of execution of the viatical settlement contract, the viatical settlement provider shall obtain 
+a witnessed document in which the viator consents to the viatical settlement contract, represents 
+that the viator has a full and complete understanding of the viatical settlement contract, that such 
+viator has a full and complete understanding of the benefits of the life insurance policy, 
+acknowledges that such viator is entering into the viatical settlement contract freely and 
+voluntarily and, for persons with a terminal or chronic illness or condition, acknowledges that the 
+insured has a terminal or chronic illness and that the terminal or chronic illness or condition was 
+diagnosed after the life insurance policy was issued.(6) If a viatical settlement broker performs 
+any of these activities required of the viatical settlement provider, the viatical settlement provider 
+is deemed to have fulfilled the requirements of this section.(b) All medical information solicited 
+or obtained by any licensee shall be subject to the applicable provisions of state law relating to 
+confidentiality of medical information.(c) All viatical settlement contracts entered into in this 
+state shall provide the viator with an unconditional right to rescind the contract for at least 15 
+calendar days from the receipt of the viatical settlement proceeds. If the insured dies during the 
+rescission period, the viatical settlement contract shall be deemed to have been rescinded, subject 
+to repayment to the viatical settlement provider or purchaser of all viatical settlement proceeds, 
+and any premiums, loans and loan interest that have been paid by the viatical settlement provider 
+or purchaser.(d) The viatical settlement provider shall instruct the viator to send the executed 
+documents required to effect the change in ownership, assignment or change in beneficiary 
+directly to the independent escrow agent. Within three business days after the date the escrow 
+agent receives the document, or from the date the viatical settlement provider receives the 
+documents, if the viator erroneously provides the documents directly to the provider, the 
+provider shall pay or transfer the proceeds of the viatical settlement into an escrow or trust 
+account maintained in a state or federally-chartered financial institution whose deposits are 
+insured by the federal deposit insurance corporation. Upon payment of the settlement proceeds 
+into the escrow account, the escrow agent shall deliver the original change in ownership, 
+assignment or change in beneficiary forms to the viatical settlement provider or related provider 
+trust. Upon the escrow agent's receipt of the acknowledgment of the properly completed transfer 
+of ownership, assignment or designation of beneficiary from the insurance company, the escrow 
+agent shall pay the settlement proceeds to the viator.(e) Failure to tender consideration to the 
+viator for the viatical settlement contract within the time disclosed pursuant to K.S.A. 40-
+5008(a)(6), and amendments thereto, renders the viatical settlement contract voidable by the 
+viator for lack of consideration until the time consideration is tendered to and accepted by the 
+viator.(f) Contacts with the insured for the purpose of determining the health status of the insured 
+by the viatical settlement provider or viatical settlement broker after the viatical settlement has 
+
+occurred shall only be made by the viatical settlement provider or viatical settlement broker 
+licensed in this state or its authorized representatives and shall be limited to once every three 
+months for insureds with a life expectancy of more than one year, and to no more than once per 
+month for insureds with a life expectancy of one year or less. The viatical settlement provider or 
+viatical settlement broker shall explain the procedure for these contacts at the time the viatical 
+settlement contract is entered into. The limitations set forth in this subsection shall not apply to 
+any contacts with an insured for reasons other than determining the insured's health status. 
+Viatical settlement providers and viatical settlement brokers shall be responsible for the actions 
+of their authorized representatives. 
+K.S.A. 40-5009a 
+Section 40-5010 - Same; two year prohibition on entering into viatical settlement; exceptions 
+No person at any time prior to, or at the time of, the application for or issuance of a policy, or 
+during a two-year period commencing with the date of issuance of the policy, shall enter into a 
+viatical settlement* regardless of the date the compensation is to be provided and regardless of 
+the date the assignment, transfer, sale, devise, bequest or surrender of the policy is to occur. This 
+prohibition shall not apply if the viator certifies to the viatical settlement provider that: 
+(a) The policy was issued upon the viator's exercise of conversion rights arising out of a group or 
+individual policy, provided the total of the time covered under the conversion policy plus the 
+time covered under the prior policy is at least 24 months. The time covered under a group policy 
+shall be calculated without regard to any change in insurance carriers, provided the coverage has 
+been continuous and under the same group sponsorship;(b) The viator submits independent 
+evidence to the viatical settlement provider that one or more of the following conditions have 
+been met within the two-year period:(1) The viator or insured is terminally or chronically 
+ill;(2) the viator's spouse dies;(3) the viator divorces such viator's spouse;(4) the viator retires 
+from full-time employment;(5) the viator becomes physically or mentally disabled and a 
+physician determines that the disability prevents the viator from maintaining full-time 
+employment;(6) a final order, judgment or decree is entered by a court of competent jurisdiction, 
+on the application of a creditor of the viator, adjudicating the viator bankrupt or insolvent, or 
+approving a petition seeking reorganization of the viator or appointing a receiver, trustee or 
+liquidator to all or a substantial part of the viator's assets; or(7) the beneficiary of the policy is a 
+family member of the viator and the beneficiary dies.(c) Copies of the independent evidence 
+described in subsection (b) and documents required by subsection (a) of K.S.A. 40-5009a, and 
+amendments thereto, shall be submitted to the insurer when the viatical settlement provider 
+submits a request to the insurer for verification of coverage. The copies shall be accompanied by 
+a letter of attestation from the viatical settlement provider that the copies are true and correct 
+copies of the documents received by the viatical settlement provider. No provision in this section 
+shall prohibit an insurer from exercising its right to contest the validity of any policy.(d) If the 
+viatical settlement provider submits to the insurer a copy of the owner or insured's certification 
+described in subsection (b) when provider submits a request to the insurer to effect the transfer of 
+the policy or certificate to the viatical settlement provider, the copy shall be deemed to 
+conclusively establish that the viatical settlement contract satisfies the requirements of this 
+section and the insurer shall timely respond to the request. 
+K.S.A. 40-5010 
+
+Section 40-5011 - Same; requirements on advertising 
+The purpose of this section is to provide prospective viators with clear and unambiguous 
+statements in the advertisement of viatical settlements and to assure the clear, truthful and 
+adequate disclosure of the benefits, risks, limitations and exclusions of any viatical settlement 
+contract. This purpose is intended to be accomplished by the establishment of guidelines and 
+standards of permissible and impermissible conduct in the advertising of viatical settlements to 
+assure that product descriptions are presented in a manner that prevents unfair, deceptive or 
+misleading advertising and is conducive to accurate presentation and description of viatical 
+settlements through the advertising media and material used by viatical settlement licensees. 
+(a) This section shall apply to any advertising of viatical settlement contracts or related products 
+or services intended for dissemination in this state, including internet advertising viewed by 
+persons located in this state. Where disclosure requirements are established pursuant to federal 
+regulation, this section shall be interpreted so as to minimize or eliminate conflict with federal 
+regulation wherever possible.(b) Every viatical settlement licensee shall establish and at all times 
+maintain a system of control over the content, form and method of dissemination of all 
+advertisements of its contracts, products and services. All advertisements, regardless of by whom 
+written, created, designed or presented, shall be the responsibility of the viatical settlement 
+licensee, as well as the individual who created or presented the advertisement. A system of 
+control shall include regular routine notification, at least once a year, to agents and others 
+authorized by the viatical settlement licensee who disseminate advertisements of the 
+requirements and procedures for approval prior to the use of any advertisements not furnished by 
+the viatical settlement licensee.(c) Advertisements shall be truthful and not misleading in fact or 
+by implication. The form and content of an advertisement of a viatical settlement contract, 
+product or service shall be sufficiently complete and clear so as to avoid deception. It shall not 
+have the capacity or tendency to mislead or deceive. Whether an advertisement has the capacity 
+or tendency to mislead or deceive shall be determined by the commissioner from the overall 
+impression that the advertisement may be reasonably expected to create upon a person of average 
+education or intelligence within the segment of the public to which it is directed.(d) The 
+information required to be disclosed under this section shall not be minimized, rendered obscure, 
+or presented in an ambiguous fashion or intermingled with the text of the advertisement so as to 
+be confusing or misleading.(1) An advertisement shall not omit material information or use 
+words, phrases, statements, references or illustrations if the omission or use has the capacity, 
+tendency or effect of misleading or deceiving viators as to the nature or extent of any benefit, 
+loss covered, premium payable or state or federal tax consequence. The fact that the viatical 
+settlement contract offered is made available for inspection prior to consummation of the sale, an 
+offer is made to refund the payment if the viator is not satisfied or that the viatical settlement 
+contract includes a "free look" period that satisfies or exceeds legal requirements, shall not 
+remedy misleading statements.(2) No advertisement shall use the name or title of a life insurance 
+company or a life insurance policy unless the advertisement has been approved by the 
+insurer.(3) No advertisement shall state or imply that interest charged on an accelerated death 
+benefit or a policy loan is unfair, inequitable or in any manner an incorrect or improper 
+practice.(4) The words "free," "no cost," "without cost," "no additional cost," "at no extra cost" 
+or words of similar import shall not be used with respect to any benefit or service unless true. An 
+advertisement may specify the charge for a benefit or a service or may state that a charge is 
+included in the payment or use other appropriate language.(5) Testimonials, appraisals or 
+
+analysis used in advertisements must be genuine; represent the current opinion of the author; be 
+applicable to the viatical settlement contract, product or service advertised, if any; and be 
+accurately reproduced with sufficient completeness to avoid misleading or deceiving prospective 
+viators as to the nature or scope of the testimonials, appraisal, analysis or endorsement. In using 
+testimonials, appraisals or analysis, the viatical settlement licensee makes as its own all the 
+statements contained therein, and the statements are subject to all the provisions of this 
+section.(A) If the individual making a testimonial, appraisal, analysis or an endorsement has a 
+financial interest in the viatical settlement provider or related entity as a stockholder, director, 
+officer, employee or otherwise, or receives any benefit directly or indirectly other than required 
+union scale wages, that fact shall be prominently disclosed in the advertisement.(B) An 
+advertisement shall not state or imply that a viatical settlement contract, benefit or service has 
+been approved or endorsed by a group of individuals, society, association or other organization 
+unless that is the fact and unless any relationship between an organization and the viatical 
+settlement licensee is disclosed. If the entity making the endorsement or testimonial is owned, 
+controlled or managed by the viatical settlement licensee, or receives any payment or other 
+consideration from the viatical settlement licensee for making an endorsement or testimonial, 
+that fact shall be disclosed in the advertisement.(C) When an endorsement refers to benefits 
+received under a viatical settlement contract, all pertinent information shall be retained for a 
+period of five years after its use.(e) No advertisement shall contain statistical information unless 
+it accurately reflects recent and relevant facts. The source of all statistics used in an 
+advertisement shall be identified.(f) No advertisement shall disparage insurers, viatical 
+settlement providers, viatical settlement brokers, insurance producers, policies, services or 
+methods of marketing.(g) The name of the viatical settlement licensee shall be clearly identified 
+in all advertisements about the licensee or its viatical settlement contract, products or services, 
+and if any specific viatical settlement contract is advertised, the viatical settlement contract shall 
+be identified either by form number or some other appropriate description. If an application is 
+part of the advertisement, the name of the viatical settlement provider shall be shown on the 
+application.(h) No advertisement shall use a trade name, group designation, name of the parent 
+company of a viatical settlement licensee, name of a particular division of the viatical settlement 
+licensee, service mark, slogan, symbol or other device or reference without disclosing the name 
+of the viatical settlement licensee, if the advertisement would have the capacity or tendency to 
+mislead or deceive as to the true identity of the viatical settlement licensee, or to create the 
+impression that a company other than the viatical settlement licensee would have any 
+responsibility for the financial obligation under a viatical settlement contract.(i) No 
+advertisement shall use any combination of words, symbols or physical materials that by their 
+content, phraseology, shape, color or other characteristics are so similar to a combination of 
+words, symbols or physical materials used by a government program or agency or otherwise 
+appear to be of such a nature that they tend to mislead prospective viators into believing that the 
+solicitation is in some manner connected with a government program or agency.(j) An 
+advertisement may state that a viatical settlement licensee is licensed in the state where the 
+advertisement appears, provided it does not exaggerate that fact or suggest or imply that 
+competing viatical settlement licensee may not be so licensed. The advertisement may ask the 
+audience to consult the licensee's web site or contact the department of insurance to find out if 
+the state requires licensing and, if so, whether the viatical settlement provider or viatical 
+settlement broker is licensed.(k) No advertisement shall create the impression that the viatical 
+settlement provider, its financial condition or status, the payment of its claims or the merits, 
+
+desirability or advisability of its viatical settlement contracts are recommended or endorsed by 
+any government entity.(l) The name of the actual licensee shall be stated in all of its 
+advertisements. No advertisement shall use a trade name, any group designation, name of any 
+affiliate or controlling entity of the licensee, service mark, slogan, symbol or other device in a 
+manner that would have the capacity or tendency to mislead or deceive as to the true identity of 
+the actual licensee or create the false impression that an affiliate or controlling entity would have 
+any responsibility for the financial obligation of the licensee.(m) No advertisement shall, directly 
+or indirectly, create the impression that any division or agency of the state or of the United States 
+government endorses, approves or favors:(1) Any viatical settlement licensee or its business 
+practices or methods of operation;(2) the merits, desirability or advisability of any viatical 
+settlement contract;(3) any viatical settlement contract; or(4) any life insurance policy or life 
+insurance company.(n) If the advertiser emphasizes the speed with which the viatication will 
+occur, the advertising shall disclose the average time frame from completed application to the 
+date of offer and from acceptance of the offer to receipt of the funds by the viator.(o) If the 
+advertising emphasizes the dollar amounts available to viators, the advertising shall disclose the 
+average purchase price as a percent of face value obtained by viators contracting with the 
+licensee during the past six months. 
+K.S.A. 40-5011 
+Section 40-5012a - Same; violations; required notice provisions; notification of commissioner; 
+availability of records to commissioner; sharing of records; conditions(a) No person 
+shall:(1) Commit a fraudulent viatical settlement act.(2) Knowingly or intentionally interfere 
+with the enforcement of any provision of this act or any investigation of suspected or actual 
+violations of this act.(3) Knowingly or intentionally permit any person, employed by a person in 
+the business of viatical settlements, convicted of a felony involving dishonesty or breach of trust 
+to participate in the business of viatical settlements. No person in the business of viatical 
+settlements shall knowingly or intentionally permit any person convicted of a felony involving 
+dishonesty or breach of trust to participate in the business of viatical settlements.(4) Issue, solicit, 
+market or otherwise promote the purchase of an insurance policy for the sole purpose of or with 
+the primary emphasis on settling the policy.(5) Employ any device, scheme or artifice in 
+violation of K.S.A. 40-450, and amendments thereto, in the solicitation, application or issuance 
+of a life insurance policy.(6) Receive, when providing premium financing, any proceeds, fees or 
+other consideration from the policy or owner of the policy that are in addition to the amounts 
+required to pay the principal, interest and costs or expenses incurred by the lender or borrower 
+related to policy premiums paid under the premium financing agreement, except for the event of 
+a default unless either the default on such loan or the transfer of the policy in connection with 
+such default occurs pursuant to an agreement or understanding with any other person for the 
+purpose of evading regulation under this act.(b)(1) Viatical settlements, contracts and 
+applications for viatical settlements, regardless of the form of transmission, shall contain the 
+following statement or a substantially similar statement: 
+"Any person who knowingly presents false information in an application for insurance or viatical 
+settlement contract is guilty of a crime and may be subject to fines and confinement in prison." 
+(2) The lack of a statement as required in paragraph (1) shall not constitute a defense in any 
+prosecution for a fraudulent viatical settlement act.(c)(1) Any person engaged in the business of 
+viatical settlements having knowledge or a reasonable belief that a fraudulent viatical settlement 
+
+act is being, will be or has been committed shall provide to the commissioner the information 
+required by, and in a manner prescribed by, the commissioner.(2) Any other person having 
+knowledge or a reasonable belief that a fraudulent viatical settlement act is being, will be or has 
+been committed may provide to the commissioner the information required by, and in a manner 
+prescribed by, the commissioner.(d)(1) No civil liability shall be imposed on and no cause of 
+action shall arise from a person's furnishing information concerning suspected, anticipated or 
+completed fraudulent viatical settlement acts or suspected or completed fraudulent insurance 
+acts, if the information is provided to or received from:(A) The commissioner or the 
+commissioner's employees, agents or representatives;(B) federal, state or local law enforcement 
+or regulatory officials or their employees, agents or representatives;(C) any person involved in 
+the prevention and detection of fraudulent viatical settlement acts or that person's agents, 
+employees or representatives;(D) the NAIC, national association of securities dealers, the North 
+American securities administrators association, or their employees, agents or representatives, or 
+other regulatory body overseeing life insurance, viatical settlements, securities or investment 
+fraud; or(E) the life insurer that issued the life insurance policy covering the life of the 
+insured.(2) Paragraph (1) shall not apply to statements made with actual malice. In an action 
+brought against a person for filing a report or furnishing other information concerning a 
+fraudulent viatical settlement act or a fraudulent insurance act, the party bringing the action shall 
+plead specifically any allegation that paragraph (1) does not apply because the person filing the 
+report or furnishing the information did so with actual malice.(3) A person identified in 
+paragraph (1) shall be entitled to an award of attorney fees and costs if such person is the 
+prevailing party in a civil cause of action for libel, slander or any other relevant tort arising out of 
+activities in carrying out the provisions of this act and the party bringing the action was not 
+substantially justified in doing so. For purposes of this section a proceeding is substantially 
+justified if it had a reasonable basis in law or fact at the time that it was initiated.(4) This section 
+does not abrogate or modify common law or statutory privileges or immunities enjoyed by a 
+person described in paragraph (1).(e)(1) The documents and evidence provided pursuant to 
+subsection (d) or obtained by the commissioner in an investigation of suspected or actual 
+fraudulent viatical settlement acts shall be privileged and confidential and shall not be a public 
+record and shall not be subject to discovery or subpoena in a civil or criminal 
+action.(2) Paragraph (1) of this subsection shall not prohibit release by the commissioner of 
+documents and evidence obtained in an investigation of suspected or actual fraudulent viatical 
+settlement acts:(A) In administrative or judicial proceedings to enforce laws administered by the 
+commissioner;(B) to federal, state or local law enforcement or regulatory agencies, to an 
+organization established for the purpose of detecting and preventing fraudulent viatical 
+settlement acts or to the NAIC;(C) at the discretion of the commissioner or pursuant to a court 
+order, to a person in the business of viatical settlements that is aggrieved by a fraudulent viatical 
+settlement act; or(D) at the discretion of the commissioner or pursuant to a court order, to a 
+person that is aggrieved by a fraudulent viatical settlement act.(3) Release of documents and 
+evidence under paragraphs (2)(A) and (B) of this subsection does not abrogate or modify the 
+privilege granted in paragraph (1).(f) This act shall not:(1) Preempt the authority or relieve the 
+duty of other law enforcement or regulatory agencies to investigate, examine and prosecute 
+suspected violations of law;(2) preempt, supersede or limit any provision of any state securities 
+law or any rule, order or notice issued thereunder;(3) prevent or prohibit a person from disclosing 
+voluntarily information concerning viatical settlement fraud to a law enforcement or regulatory 
+agency other than the insurance department; or(4) limit the powers granted elsewhere by the laws 
+
+of this state to the commissioner or an insurance fraud unit to investigate and examine possible 
+violations of law and to take appropriate action against wrongdoers.(g) Viatical settlement 
+providers and viatical settlement brokers shall have in place antifraud initiatives reasonably 
+calculated to detect, prosecute and prevent fraudulent viatical settlement acts. At the discretion of 
+the commissioner, the commissioner may order, or a licensee may request and the commissioner 
+may grant, such modifications of the following required initiatives as necessary to ensure an 
+effective antifraud program. The modifications may be more or less restrictive than the required 
+initiatives so long as the modifications reasonably may be expected to accomplish the purpose of 
+this section. Antifraud initiatives shall include:(1) Fraud investigators, who may be viatical 
+settlement providers or viatical settlement broker employees or independent contractors; 
+and(2) an antifraud plan that shall be submitted to the commissioner. The antifraud plan shall 
+include, but not be limited to:(A) A description of the procedures for detecting and investigating 
+possible fraudulent viatical settlement acts and procedures for resolving material inconsistencies 
+between medical records and insurance applications;(B) a description of the procedures for 
+reporting possible fraudulent viatical settlement acts to the commissioner;(C) a description of the 
+plan for antifraud education and training of underwriters and other personnel; and(D) a 
+description or chart outlining the organizational arrangement of the antifraud personnel who are 
+responsible for the investigation and reporting of possible fraudulent viatical settlement acts and 
+investigating unresolved material inconsistencies between medical records and insurance 
+applications; and(3) antifraud plans submitted to the commissioner shall be privileged and 
+confidential and shall not be a public record and shall not be subject to discovery or subpoena in 
+a civil or criminal action. 
+K.S.A. 40-5012a 
+Section 40-5013 - Same; penalties(a) If the commissioner determines after notice and 
+opportunity for a hearing that any person has engaged or is engaging in any act or practice 
+constituting a violation of any provision of this act, the Kansas insurance statutes or any rule and 
+regulation or order thereunder, the commissioner may in the exercise of discretion, order any one 
+or more of the following:(1) Payment of a monetary penalty of not more than $1,000 for each 
+and every act or violation, unless the person knew or reasonably should have known such person 
+was in violation of this act, the Kansas insurance statutes or any rule and regulation or order 
+thereunder, in which case the penalty shall be not more than $2,000 for each and every act or 
+violation;(2) suspension or revocation of the person's license or certificate if such person knew or 
+reasonably should have known that such person was in violation of this act, the Kansas insurance 
+statutes or any rule and regulation or order thereunder; or(3) that such person cease and desist 
+from the unlawful act or practice and take such affirmative action as in the judgment of the 
+commissioner will carry out the purposes of the violated or potentially violated provision.(b) If 
+any person fails to file any report or other information with the commissioner as required by 
+statute or fails to respond to any proper inquiry of the commissioner, the commissioner, after 
+notice and opportunity for hearing, may impose a penalty of up to $500 for each violation or act, 
+along with an additional penalty of up to $100 for each week thereafter that such report or other 
+information is not provided to the commissioner.(c) If the commissioner makes written findings 
+of fact that there is a situation involving an immediate danger to the public health, safety or 
+welfare or the public interest will be irreparably harmed by delay in issuing an order under 
+paragraph (3) of subsection (a), the commissioner may issue an emergency temporary cease and 
+desist order. Such order, even when not an order within the meaning of K.S.A. 77-502, and 
+
+amendments thereto, shall be subject to the same procedures as an emergency order issued 
+under K.S.A. 77-536, and amendments thereto. Upon the entry of such an order, the 
+commissioner shall promptly notify the person subject to the order that:(1) It has been 
+entered;(2) the reasons therefor; and(3) that upon written request within 15 days after service of 
+the order the matter will be set for a hearing which shall be conducted in accordance with the 
+provisions of the Kansas administrative procedure act. If no hearing is requested and none is 
+ordered by the commissioner, the order will remain in effect until it is modified or vacated by the 
+commissioner. If a hearing is requested or ordered, the commissioner, after notice of and 
+opportunity for hearing to the person subject to the order, by written findings of fact and 
+conclusions of law, shall vacate, modify or make permanent the order.(d)(1) Any person who 
+violates the provisions of this act shall be guilty of a:(A) Severity level 7, nonperson felony if the 
+value of the viatical settlement contract is $25,000 or more;(B) severity level 9, nonperson felony 
+if the value of the viatical settlement contract is at least $1,000 but less than $25,000; or(C) class 
+A nonperson misdemeanor if the value of the viatical settlement contract is less than 
+$1,000.(2) If the value of the insurance premium is less than $1,000 and such agent or broker 
+has, within five years immediately preceding commission of the crime, been convicted of 
+violating this section two or more times shall be guilty of a severity level 9, nonperson 
+felony.(e) Restitution may be ordered in addition to, but not in lieu of, any other penalty imposed 
+under this act. 
+K.S.A. 40-5013 
+Section 40-5014 - Same; violation of act also unfair or deceptive trade practice 
+Any violation of this act shall also be considered an unfair or deceptive act or practice 
+under K.S.A. 40-2404, and amendments thereto, and subject to the penalties contained in K.S.A. 
+40-2401 et seq., and amendments thereto. 
+K.S.A. 40-5014 
+Section 40-5015 - Same; rules and regulations 
+The commissioner shall have the authority to: 
+(a) Promulgate rules and regulations necessary to implement the provisions of this 
+act;(b) establish standards for evaluating reasonableness of payments under viatical settlement 
+contracts for persons who are terminally or chronically ill. Such authority includes, but is not 
+limited to, regulation of discount rates used to determine the amount paid in exchange for 
+assignment, transfer, sale, devise or bequest of a benefit under a life insurance 
+policy;(c) establish appropriate licensing requirements, fees and standards for continued 
+licensure for viatical settlement providers or viatical settlement brokers;(d) require a bond or 
+other mechanism for financial accountability for viatical settlement providers and viatical 
+settlement brokers; and(e) adopt rules and regulations governing the relationship and 
+responsibilities of both insurers and viatical settlement providers or viatical settlement brokers 
+during the viatication of a life insurance policy or certificate. 
+K.S.A. 40-5015 
+Section 40-5016 - Same; continuation of preexisting viatical settlement business 
+
+A viatical settlement provider or viatical settlement broker transacting business in this state may 
+continue to do so pending approval or disapproval of the viatical settlement provider or viatical 
+settlement broker's application for a license as long as the application is filed with the 
+commissioner by July 1, 2002. 
+K.S.A. 40-5016 
+ 

@@ -1,0 +1,942 @@
+State of Oregon: Life Settlement Statutes 
+Oregon Revised Statutes—Chapter 744 Insurance 
+Section 744.318 - Definitions for ORS 744.318 to 744.384 
+As used in ORS 744.318 to 744.384, 744.991 and 744.992: 
+(1) "Advertising" means any written, electronic or printed communication or any communication 
+by means of recorded telephone messages or transmission on radio, television, the Internet or 
+similar communications media, including film strips, motion pictures and videos, published, 
+disseminated, circulated or placed directly before the public in this state for the purpose of 
+creating an interest in or inducing a person to purchase or sell, assign, devise, bequest or transfer 
+the death benefit or ownership of a life insurance policy or to purchase or sell, assign, devise, 
+bequest or transfer the death benefit or ownership of a life insurance policy pursuant to a life 
+settlement contract.(2) "Business of life settlements" means an activity involved in, but not 
+limited to, the offering, soliciting, negotiating, procuring, effectuating, purchasing, investing, 
+financing, monitoring, tracking, underwriting, selling, transferring, assigning, pledging, 
+hypothecating or in any other manner acquiring an interest in a life insurance policy by means of 
+a life settlement contract.(3) "Chronically ill" means:(a) Being unable to perform at least two 
+activities of daily living, such as eating, toileting, moving around, bathing or 
+dressing;(b) Requiring substantial supervision to protect the individual from threats to health and 
+safety due to severe cognitive impairment; or(c) Having a level of disability similar to that 
+described in paragraph (a) of this subsection as determined by the Director of the Department of 
+Consumer and Business Services.(4)(a) "Financing entity" means an underwriter, placement 
+agent, lender, purchaser of securities, purchaser of a policy or certificate from a life settlement 
+provider, credit enhancer or any other person or entity that has a direct ownership in a policy or 
+certificate that is the subject of a life settlement contract, but:(A) Whose principal activity related 
+to the transaction is providing funds to effect the life settlement or purchase of one or more 
+settled policies; and(B) Who has an agreement in writing with one or more licensed life 
+settlement providers to finance the acquisition of life settlement contracts.(b) "Financing entity" 
+does not include a nonaccredited investor or a life settlement purchaser.(5) "Licensee" means a 
+life settlement provider, life settlement broker or life settlement investment agent.(6) "Life 
+insurance producer" means any person licensed in this state as a resident or nonresident 
+insurance producer who has received qualification or authority under ORS 744.062 or 744.063 to 
+transact life insurance.(7)(a) "Life settlement broker" means a person, including a life insurance 
+producer, working exclusively on behalf of an owner and for a fee, commission or other valuable 
+consideration, who offers or attempts to negotiate life settlement contracts between an owner and 
+one or more life settlement providers or one or more life settlement brokers. Notwithstanding the 
+manner in which the life settlement broker is compensated, a life settlement broker is deemed to 
+represent only the owner, and not the life insurance producer or the life settlement provider, and 
+owes a fiduciary duty to the owner to act according to the owner's instructions and in the best 
+interest of the owner.(b) "Life settlement broker" does not include an attorney, a certified public 
+accountant or a financial planner, accredited by a nationally recognized accreditation agency, 
+who is retained to represent the owner and whose compensation is not paid directly or indirectly 
+by the life settlement provider or purchaser.(8)(a) "Life settlement contract" means a written 
+agreement between an owner and a life settlement provider or any affiliate of the life settlement 
+provider establishing the terms under which compensation or anything of value is or will be paid, 
+
+which compensation or value is less than the expected death benefits of the policy, in return for 
+the owner's present or future assignment, transfer, sale, devise or bequest of the death benefit or 
+ownership of any portion of the insurance policy or certificate of insurance.(b) "Life settlement 
+contract" includes the transfer for compensation or value of ownership or beneficial interest in a 
+trust or other entity that owns a life insurance policy or certificate of insurance if the trust or 
+other entity was formed for the principal purpose of acquiring one or more life insurance 
+contracts insuring the life of a person residing in this state.(c) "Life settlement contract" also 
+includes a premium finance loan made for a life insurance policy by a lender to an owner on, 
+before or after the date of issuance of the policy if:(A) The owner or the insured receives on the 
+date of the premium finance loan a guarantee of a future life settlement value of the policy; 
+or(B) The owner or the insured agrees on the date of the premium finance loan to sell the policy 
+or any portion of its death benefit on any date following the issuance of the policy.(d) "Life 
+settlement contract" does not include:(A) A policy loan or accelerated death benefit made by the 
+insurer pursuant to the policy's terms;(B) Loan proceeds that are used solely to pay:(i) Premiums 
+for the policy; or(ii) The costs of the loan, including, without limitation, interest, arrangement 
+fees, utilization fees and similar fees, closing costs, legal fees and expenses, trustee fees and 
+expenses and third party collateral provider fees and expenses, including fees payable to letter of 
+credit issuers;(C) A loan made by a bank or other licensed financial institution in which the 
+lender takes an interest in a life insurance policy solely to secure repayment of a loan or, if there 
+is a default on the loan and the policy is transferred, the transfer of such a policy by the lender. 
+However, neither the default itself nor the transfer of the policy in connection with a default may 
+occur pursuant to an agreement or understanding with any other person for the purpose of 
+evading regulation under ORS 744.318 to 744.384, 744.991 and 744.992;(D) A premium finance 
+loan made by a lender that does not violate the provisions of ORS 746.405 to 746.530, if the 
+premium finance loan is not described in paragraph (c) of this subsection;(E) An agreement in 
+which all the parties are closely related to the insured by blood or law or have a lawful 
+substantial economic interest in the continued life, health and bodily safety of the person insured, 
+or are trusts established primarily for the benefit of such parties;(F) Any designation, consent or 
+agreement by an insured who is an employee of an employer in connection with the purchase by 
+the employer, or trust established by the employer, of life insurance on the life of the 
+employee;(G) A legitimate business succession planning arrangement:(i) Between one or more 
+shareholders in a corporation or between a corporation and one or more of its shareholders or one 
+or more trusts established by its shareholders;(ii) Between one or more partners in a partnership 
+or between a partnership and one or more of its partners or one or more trusts established by its 
+partners; or(iii) Between one or more members in a limited liability company or between a 
+limited liability company and one or more of its members or one or more trusts established by its 
+members;(H) An agreement entered into by a service recipient, or a trust established by the 
+service recipient and a service provider, or a trust established by the service provider, who 
+performs significant services for the service recipient's trade or business; or(I) Any other 
+contract, transaction or arrangement exempted from the definition of life settlement contract by 
+the director based on a determination that the contract, transaction or arrangement is not of the 
+type intended to be regulated by ORS 744.318 to ORS 744.384, 744.991 and 744.992.(9) "Life 
+settlement investment agent" means a person who is an appointed or contracted agent of a 
+licensed life settlement provider who solicits or arranges the funding for the purchase of a life 
+settlement by a life settlement purchaser and who is acting on behalf of a life settlement 
+provider.(10)(a) "Life settlement provider" means a person, other than an owner, that enters into 
+
+or effectuates a life settlement contract with an owner resident in this state.(b) "Life settlement 
+provider" does not include:(A) A bank, savings bank, savings and loan association, credit union 
+or other licensed lending institution that takes an assignment of a life insurance policy solely as 
+collateral for a loan;(B) A premium finance company making premium finance loans and 
+exempted by the director from the licensing requirement under ORS 746.405 to 746.530 that 
+takes an assignment of a life insurance policy solely as collateral for a loan;(C) The issuer of the 
+life insurance policy;(D) An insurer certified under ORS 731.354 or accredited under 
+ORS 731.511 that provides stop loss coverage or financial guaranty insurance to a life settlement 
+provider, purchaser, financing entity, special purpose entity or related provider trust;(E) An 
+individual who enters into or effectuates no more than one agreement in a calendar year for the 
+transfer of life insurance policies for any value less than the expected death benefit;(F) A 
+financing entity;(G) A special purpose entity;(H) A related provider trust;(I) A life settlement 
+purchaser; or(J) Any other person that the director determines is not the type of person intended 
+to be covered by the definition of "life settlement provider."(11) "Life settlement purchase 
+agreement" means a contract or agreement, entered into by a life settlement purchaser and to 
+which the owner is not a party, to purchase a life insurance policy or an interest in a life 
+insurance policy that is entered into for the purpose of deriving an economic benefit.(12)(a) "Life 
+settlement purchaser" means a person who, to derive an economic benefit:(A) Provides a sum of 
+money as consideration for a life insurance policy or an interest in the death benefits of a life 
+insurance policy; or(B) Owns or acquires or is entitled to a beneficial interest in a trust that owns 
+a life settlement contract or is the beneficiary of a life insurance policy that has been or will be 
+the subject of a life settlement contract.(b) "Life settlement purchaser" does not include:(A) A 
+licensee under ORS 744.321, 744.323 or 744.324;(B) An accredited investor or qualified 
+institutional buyer as defined in Rule 501(a) or Rule 144A promulgated under the Federal 
+Securities Act of 1933, as amended;(C) A financing entity;(D) A special purpose entity; or(E) A 
+related provider trust.(13)(a) "Owner" means the owner of a life insurance policy or a certificate 
+holder under a group policy who resides in this state and enters or seeks to enter into a life 
+settlement contract. For the purposes of ORS 744.318 to 744.384, 744.991 and 744.992, an 
+owner shall not be limited to an owner of a life insurance policy or a certificate holder under a 
+group policy insuring the life of an individual with a terminal or chronic illness or condition 
+except when specifically addressed. If there is more than one owner on a single policy and the 
+owners are residents of different states, the transaction shall be governed by the law of the state 
+in which the owner having the largest ownership percentage resides or, if the owners hold equal 
+ownership, the state of residence of one owner agreed upon in writing by all the 
+owners.(b) "Owner" does not include:(A) A licensee under ORS 744.321, 744.323 or 744.324, 
+including a life insurance producer acting as a life settlement broker under ORS 744.323;(B) A 
+qualified institutional buyer as defined in Rule 144A promulgated under the Federal Securities 
+Act of 1933, as amended;(C) A financing entity;(D) A special purpose entity; or(E) A related 
+provider trust.(14) "Policy" means an individual or group policy, group certificate, contract or 
+arrangement of life insurance owned by a resident of this state, regardless of whether delivered 
+or issued for delivery in this state.(15) "Related provider trust" means a trust established by a 
+licensed life settlement provider or a financing entity for the sole purpose of holding the 
+ownership or beneficial interest in purchased policies in connection with a financing 
+transaction.(16) "Settled policy" means a life insurance policy or certificate that has been 
+acquired by a life settlement provider pursuant to a life settlement contract.(17) "Special purpose 
+entity" means a corporation, partnership, trust, limited liability company or other similar entity 
+
+formed solely to provide either direct or indirect access to institutional capital markets:(a) For a 
+financing entity or licensed life settlement provider;(b) In connection with a transaction in which 
+the securities in the special purpose entity are acquired by the owner or by qualified institutional 
+buyers as defined in Rule 144 promulgated under the Securities Act of 1933, as amended; 
+or(c) In connection with a transaction in which the securities pay a fixed rate of return 
+commensurate with established asset-backed institutional capital markets.(18)(a) "Stranger-
+originated life insurance" means a practice or a plan to initiate a life insurance policy for the 
+benefit of a third party investor who, at the time of policy origination, has no insurable interest in 
+the insured. Such practices include but are not limited to cases in which life insurance is 
+purchased with resources or guarantees from or through a person or entity who, at the time of 
+policy inception, could not lawfully initiate the policy, and for which, at the time of policy 
+inception, there is an arrangement or agreement, whether verbal or written, to directly or 
+indirectly transfer the ownership of the policy or the policy benefits to a third party.(b) Trusts 
+that are created to give the appearance of insurable interest, and are used to initiate policies for 
+investors, are considered stranger-originated life insurance arrangements.(c) Stranger-originated 
+life insurance arrangements do not include those practices set forth in subsection (8)(d) of this 
+section.(19) "Terminally ill" means having an illness or sickness that can reasonably be expected 
+to result in death in 24 months or less. 
+ORS 744.318 
+ 
+Section 744.321 - Life settlement providers(1) A person shall not act as a life settlement provider 
+unless the person holds a license of life settlement provider issued by the Director of the 
+Department of Consumer and Business Services.(2) A life settlement provider may use the term 
+"viatical settlement provider" to describe the business transacted under the license and may use 
+the term "viatical settlement contract" instead of "life settlement contract."(3) A related provider 
+trust must have a written agreement with a licensed life settlement provider under which the 
+licensed life settlement provider is responsible for ensuring compliance with all statutory and 
+regulatory requirements and under which the trust agrees to make all records and files related to 
+life settlement transactions available to the director as if those records and files were maintained 
+directly by the licensed life settlement provider. 
+ORS 744.321 
+Section 744.323 - Life settlement brokers(1) A person shall not act as a life settlement broker 
+unless the person holds a license of life settlement broker issued by the Director of the 
+Department of Consumer and Business Services.(2) A life insurance producer who has been duly 
+licensed as a resident insurance producer with a life line of authority in this state or the 
+producer's home state for at least one year and is licensed as a nonresident producer in this state 
+meets the licensing requirements of this section and is permitted to operate as a life settlement 
+broker in this state.(3) A life settlement broker may use the term "viatical settlement broker" to 
+describe the business transacted under the license and may use the term "viatical settlement 
+contract" instead of "life settlement contract." 
+ORS 744.323 
+Section 744.324 - Life settlement investment agents 
+
+A person shall not operate as a life settlement investment agent unless the person 
+holds a license of life settlement investment agent issued by the Director of the 
+Department of Consumer and Business Services or the person has obtained the 
+appropriate license from the equivalent chief insurance regulatory official of the state 
+of residence of the life settlement purchaser whom the agent is negotiating with on 
+behalf of a life settlement provider. If there is more than one purchaser of a single 
+policy and the purchasers are residents of different states, the life settlement 
+investment agent must be licensed by the state in which the purchaser having the 
+largest percentage ownership resides or, if the purchasers hold equal ownership, the 
+state of residence of one purchaser agreed upon in writing by all purchasers. 
+ORS 744.324 
+ 
+Section 744.326 - License application; fee(1) In order to obtain a license to transact business as a 
+life settlement provider or as a life settlement broker, an applicant shall apply for the license on a 
+form prescribed by the Director of the Department of Consumer and Business Services, with 
+payment of any fee required for the application.(2) The director may request biographical, 
+organizational, locational, financial, employment and any other information on the application 
+form that the director determines to be relevant to the evaluation of applications and to the 
+granting of the license. The director may also require a statement of the business plan or plan of 
+operation of the applicant. The director may also require an applicant for a life settlement 
+provider license to file with the application a copy of the life settlement contract that the 
+applicant intends to use in business under the license.(3) If an applicant is a corporation, the 
+corporation must be incorporated under the laws of this state or must be a foreign corporation 
+authorized to transact business in this state. 
+ORS 744.326 
+Section 744.328 - Issuance of license(1) If the Director of the Department of Consumer and 
+Business Services determines that an applicant has satisfied all requirements for the license for 
+which application is made, the director shall issue the license to the applicant. The director may 
+issue a license if the director determines that the applicant, as required to be set forth in the 
+application for the license:(a) Has not engaged in conduct that would authorize the director to 
+refuse to issue a license under ORS 744.338;(b) Is competent and trustworthy and intends to act 
+in good faith in the capacity specified by the license applied for;(c) Has demonstrated evidence 
+of financial responsibility in a format prescribed by the director through either a surety bond 
+executed in an amount and in a manner prescribed by the director or a deposit of cash, 
+certificates of deposit or securities or any combination thereof in an amount and manner 
+prescribed by the director. The director shall accept as evidence of financial responsibility proof 
+that financial instruments consistent with the requirements under this paragraph have been filed 
+with at least one state in which the applicant is licensed as a life settlement provider, life 
+settlement broker or life settlement investment agent;(d) Has a good business reputation and has 
+had experience, training or education so as to be qualified in the business of the licensee;(e) If a 
+life settlement provider or broker, has provided an antifraud plan under ORS 744.374(10); 
+and(f) If a life settlement provider, has provided a detailed plan of operation in a manner 
+
+prescribed by the director.(2) The director may refuse to issue a license in the name of any firm, 
+partnership or corporation if the director is not satisfied that any officer, employee, stockholder 
+or partner thereof who may materially influence the conduct of the applicant meets the standards 
+of this section.(3) The director may issue a license to a nonresident applicant only if the 
+nonresident applicant files with the director in writing an appointment of the director to be the 
+attorney of the applicant upon whom all legal process in any action or proceeding against the 
+applicant may be served. In the appointment, the applicant shall agree that any lawful process 
+against the applicant that is served upon the director shall be of the same legal force and validity 
+as if served upon the applicant, and that the authority shall continue in force so long as any 
+liability remains outstanding in this state. An appointment under this subsection becomes 
+effective on the date that the director issues the license to the applicant.(4) If the director denies 
+an application, the director shall so inform the applicant, stating the grounds for the denial. 
+ORS 744.328 
+Section 744.331 - Expiration of license; rules for renewal(1) A license issued under 
+ORS 744.328 expires on its expiration date unless it is renewed on or before its expiration 
+date.(2) Unless the Director of the Department of Consumer and Business Services designates 
+another date, a license expires on the last day of the month in which the second anniversary of 
+the initial issuance date of the license occurs, and on the second anniversary following each 
+renewal.(3) The director by rule may establish requirements for renewing licenses. 
+ORS 744.331 
+Section 744.333 - Individual acting as provider under license of firm or corporation 
+An individual may act as a life settlement provider under the authority of the license of a firm or 
+corporate life settlement provider, whether or not the individual holds a license as a life 
+settlement provider, if: 
+(1) The individual is a member or employee of the firm or is an employee, officer or director of 
+the corporation; and(2) The individual is designated by the firm or corporation on its license 
+application or on an amendatory or supplementary form thereto as authorized to act as a life 
+settlement provider under the authority of the license. 
+ORS 744.333 
+Section 744.336 - Notification by licensee of material change affecting qualification for license 
+A licensee shall immediately notify the Director of the Department of Consumer and Business 
+Services of any material change in ownership or control or in any other matter affecting the 
+qualification of the licensee for the license in this state. 
+ORS 744.336 
+Section 744.338 - Suspension, revocation, refusal to issue or renew license(1) The Director of 
+the Department of Consumer and Business Services may suspend, revoke, refuse to issue or 
+refuse to renew a license of a licensee if the director finds one or more of the following with 
+respect to the licensee or applicant for a license:(a) Dishonesty, fraud or gross negligence in the 
+conduct of business as a licensee, or the licensee or applicant is otherwise shown to be 
+untrustworthy or incompetent to act as a licensee.(b) The life settlement provider demonstrates a 
+
+pattern of unreasonable payments to policyholders or certificate holders.(c) Falsification by the 
+applicant or licensee of an application for the license or renewal thereof, or misrepresentation or 
+engagement in any other dishonest act in relation to the application.(d) Conduct resulting in a 
+conviction of a felony under the laws of any state or of the United States, to the extent that such 
+conduct may be considered under ORS 670.280.(e) Conviction of any crime, an essential 
+element of which is dishonesty or fraud, under the laws of any state or of the United 
+States.(f) Refusal to renew or cancellation, revocation or suspension of authority to transact 
+insurance or business as a life settlement provider, life settlement broker or similar entity in 
+another state.(g) Failure to pay a civil penalty imposed by final order of the director or to carry 
+out terms of probation set by the director.(h) Refusal by a licensee to be examined or to produce 
+accounts, records or files for examination, refusal by any officers to give information with 
+respect to the affairs of the licensee or refusal to perform any other legal obligation as to the 
+examination when required by the director.(i) Affiliation with or under the same general 
+management or interlocking directorate or ownership as another life settlement provider or life 
+settlement broker or an insurer, any of which unlawfully transacts business in this 
+state.(j) Failure at any time to meet any qualification for which issuance of the license could 
+have been refused had the failure then existed and been known to the director.(k) Violation of 
+any rule or order of the director or any provision of the Insurance Code by a licensee or any 
+officer, partner, member or key management personnel of the licensee.(2) The director may 
+suspend or refuse to renew a license immediately and without hearing if the director determines 
+that one or both of the following circumstances exist:(a) The licensee is insolvent.(b) The 
+financial condition or business practices of the licensee otherwise pose an imminent threat to the 
+public health, safety or welfare of the residents of this state.(3) A life settlement provider or life 
+settlement broker holding a license that has not been renewed or has been revoked shall 
+surrender the license to the director at the director's request.(4) The director may take any other 
+administrative action authorized under the Insurance Code in addition to or in lieu of the actions 
+authorized under this section. 
+ORS 744.338 
+Section 744.341 - Terms of contract(1) A life settlement contract must be in writing. A life 
+settlement provider shall establish in the contract the terms under which the life settlement 
+provider will pay compensation or anything of value in return for the policyholder's or certificate 
+holder's assignment, transfer, sale, devise or bequest of the death benefit or ownership of the 
+insurance policy or certificate to the life settlement provider.(2) A life settlement provider shall 
+not use a life settlement contract form or provide to an owner a disclosure statement form in this 
+state unless the life settlement provider has filed the form with the Director of the Department of 
+Consumer and Business Services and the director has approved the form. The director shall 
+disapprove a life settlement contract form if, in the director's opinion, the contract or any 
+provision of the contract is unreasonable, contrary to the interests of the public, otherwise 
+misleading or unfair to the policyholder or certificate holder or in violation of any of the 
+requirements of ORS 744.318 to 744.384, 744.991 and 744.992.(3) Each life settlement contract 
+entered into in this state must contain a provision enabling the policyholder or certificate holder 
+to rescind the contract not later than the 60th day after the date on which the contract is executed 
+by all parties or not later than the 30th day after the policyholder or certificate holder receives the 
+life settlement proceeds, whichever is the lesser period. In order to rescind such a contract, a 
+
+policyholder or certificate holder who has received the proceeds must return them to the life 
+settlement provider. 
+ORS 744.341 
+Section 744.343 - Annual report and statement by provider; restrictions on disclosure of 
+information; rules(1) Each life settlement provider shall file a report for the preceding calendar 
+year with the Director of the Department of Consumer and Business Services on or before March 
+1 of each year, or within such extension of time therefor as the director may grant. The report 
+shall be in the form and contain such information as the director prescribes and shall be verified 
+as follows:(a) If the life settlement provider is a corporation, by at least two principal officers of 
+the life settlement provider.(b) If the life settlement provider is a partnership, by two 
+partners.(c) If the life settlement provider is neither a corporation nor a partnership, by its 
+president and secretary.(2) For a policy settled within five years of policy issuance, a life 
+settlement provider shall file with the director on or before March 1 of each year an annual 
+statement containing such information as the director may prescribe by regulation. In addition to 
+any other requirements, the annual statement must specify the total number and aggregate face 
+amount and life settlement proceeds of policies settled during the immediately preceding 
+calendar year, together with a breakdown of the information by policy issue year. The annual 
+statement must also include the names of the insurance companies whose policies have been 
+settled and the life settlement brokers that have settled the policies. The information must be 
+limited to only those transactions for which the owner is a resident of this state.(3) Except as 
+otherwise allowed or required by law, a life settlement provider, life settlement broker, life 
+settlement investment agent, insurance company, insurance producer, information bureau, rating 
+agency or company, or any other person with actual knowledge of an insured's identity, may not 
+disclose the fact that the person is insured or the insured's financial or medical information to any 
+other person unless the disclosure:(a) Is necessary to effect a life settlement between the owner 
+and a life settlement provider and the owner and insured have provided prior written consent to 
+the disclosure;(b) Is necessary to effect a life settlement purchase agreement between the life 
+settlement purchaser and a life settlement provider and the owner and insured have provided 
+prior written consent to the disclosure;(c) Is provided in response to an investigation or 
+examination by the director or any other governmental officer or agency or pursuant to the 
+requirements of ORS 744.346;(d) Is a term of or condition to the transfer of a policy by one life 
+settlement provider to another life settlement provider;(e) Is necessary to permit a financing 
+entity, related provider trust or special purpose entity to finance the purchase of policies by a life 
+settlement provider and the owner and insured have provided prior written consent to the 
+disclosure;(f) Is necessary to allow the life settlement provider or life settlement broker or their 
+authorized representatives to make contacts for the purpose of determining health status; or(g) Is 
+required to purchase stop loss coverage or financial guaranty insurance. 
+ORS 744.343 
+Section 744.346 - Examination of business and practices of licensee or applicant; records(1) The 
+Director of the Department of Consumer and Business Services may examine the business and 
+practices of any licensee or applicant for a license when the director determines an examination 
+to be necessary. The director may order a licensee or applicant to produce any records, books, 
+files or other information reasonably necessary to ascertain whether or not the licensee or 
+applicant is acting or has acted in violation of the law or otherwise contrary to the interests of the 
+
+public. The expenses incurred in conducting any examination shall be paid by the licensee or 
+applicant.(2)(a) A person required to be licensed under ORS 744.321 and 744.323 shall for five 
+years retain copies of all:(A) Proposed, offered or executed contracts, purchase agreements, 
+underwriting documents, policy forms and applications from the date of the proposal, offer or 
+execution of the contract or purchase agreement, whichever is later;(B) Checks, drafts or other 
+evidence and documentation related to the payment, transfer, deposit or release of funds from the 
+date of the transaction; and(C) Other records and documents related to the requirements under 
+ORS 744.318 to 744.384, 744.991 and 744.992.(b) This section does not relieve a person of the 
+obligation to produce these documents for the director after the retention period has expired if 
+the person has retained the documents.(c) Records required to be retained by this section must be 
+legible and complete and may be retained in paper, photograph, microprocess, magnetic, 
+mechanical or electronic media, or by any process that accurately reproduces or forms a durable 
+medium for the reproduction of a record.(3) The director at any time may require a licensee to 
+fully disclose the identity of all stockholders, partners, officers and employees.(4) Names of, and 
+individual identification data for, all policyholders and certificate holders who have entered life 
+settlement contracts with life settlement providers are confidential as provided in ORS 705.137. 
+ORS 744.346 
+Section 744.354 - Disclosure by life settlement provider, broker or investment agent to policy 
+owner(1) With an application for a life settlement, a life settlement provider or life settlement 
+broker shall provide the owner with at least the following disclosures no later than the time the 
+application for the life settlement contract is signed by all parties. The disclosures must be 
+provided in a separate document that is signed by the owner and the life settlement provider or 
+life settlement broker, and must provide the following information:(a) There are possible 
+alternatives to life settlement contracts, including any accelerated death benefits or policy loans 
+offered under the owner's life insurance policy.(b) A life settlement broker represents exclusively 
+the owner, and not the insurer or the life settlement provider, and owes a fiduciary duty to the 
+owner, including a duty to act according to the owner's instructions and in the best interest of the 
+owner.(c) Some or all of the proceeds of the life settlement may be taxable under federal and 
+state income tax, and assistance should be sought from a professional tax adviser.(d) Proceeds of 
+the life settlement may be subject to the claims of creditors.(e) Receipt of proceeds from a life 
+settlement contract may affect the owner's eligibility for public assistance or other government 
+benefits or entitlements, and advice should be obtained from appropriate agencies. Receipt of 
+proceeds from a life settlement contract may reduce the owner's risk of becoming impoverished 
+and becoming dependent on public assistance or other government benefits or 
+entitlements.(f) The owner has the right to rescind a life settlement contract before the earlier of 
+60 calendar days after the date upon which the life settlement contract is executed by all parties 
+or 30 calendar days after the life settlement proceeds have been paid to the owner, as provided in 
+ORS 744.364(3). Rescission, if exercised by the owner, is effective only if both notice of the 
+rescission is given, and the owner repays all proceeds and any premiums, loans and loan interest 
+paid on account of the life settlement within the rescission period. If the insured dies during the 
+rescission period, the life settlement contract shall be deemed to have been rescinded, subject to 
+repayment by the owner or the owner's estate of all life settlement proceeds and any premiums, 
+loans and loan interest of the life settlement within 60 days of the insured's death.(g) Funds will 
+be sent to the owner within three business days after the life settlement provider has received the 
+insurer or group administrator's written acknowledgment that ownership of the policy or interest 
+
+in the certificate has been transferred and the beneficiary has been designated.(h) Entering into a 
+life settlement contract may prevent the owner from qualifying for new life insurance coverage 
+in the future and may cause other rights or benefits, including conversion rights and waiver of 
+premium benefits that may exist under the policy or certificate, to be forfeited by the owner. 
+Assistance should be sought from a financial adviser.(i) The following language: "All medical, 
+financial or personal information solicited or obtained by a life settlement provider or life 
+settlement broker about an insured, including the insured's identity or the identity of family 
+members, a spouse or a significant other may be disclosed as necessary to effect the life 
+settlement between the owner and the life settlement provider. If you are asked to provide this 
+information, you will be asked to consent to the disclosure. The information may be provided to 
+someone who buys the policy or provides funds for the purchase. You may be asked to renew 
+your permission to share information every two years."(j) Following execution of a life contract, 
+the insured may be contacted for the purpose of determining the insured's health status and to 
+confirm the insured's residential or business street address and telephone number, or as otherwise 
+provided in ORS 744.318 to 744.384, 744.991 and 744.992. This contact is limited to once every 
+three months if the insured has a life expectancy of more than one year, and to no more than once 
+per month if the insured has a life expectancy of one year or less. All such contacts shall be made 
+only by a life settlement provider licensed in the state in which the owner resided at the time of 
+the life settlement, or by the authorized representative of a duly licensed life settlement 
+provider.(2) Prior to or concurrently with the disclosures required under subsection (1) of this 
+section, the owner shall be given a brochure describing the process of life settlements. The 
+Director of the Department of Consumer and Business Services shall develop and approve a 
+form for the brochure.(3) A life settlement provider shall provide the owner with at least the 
+following disclosures no later than the date the life settlement contract is signed by all parties. 
+The disclosures shall be conspicuously displayed in the life settlement contract or in a separate 
+document signed by the owner and provide the following information:(a) The affiliation, if any, 
+between the life settlement provider and the issuer of the insurance policy to be settled;(b) The 
+name, business address and telephone number of the life settlement provider;(c) Any affiliations 
+or contractual arrangements between the life settlement provider and the life settlement 
+purchaser;(d) If an insurance policy to be settled has been issued as a joint policy or involves 
+family riders or any coverage of a life other than the insured under the policy to be settled, 
+information about the possible loss of coverage on the other lives under the policy and the need 
+to consult with the owner's insurance producer or the insurer issuing the policy for advice on the 
+proposed life settlement;(e) The dollar amount of the current death benefit payable to the life 
+settlement provider under the policy or certificate. If known, disclosure of the availability of any 
+additional guaranteed insurance benefits, the dollar amount of any accidental death and 
+dismemberment benefits under the policy or certificate and the extent to which the owner's 
+interest in those benefits will be transferred as a result of the life settlement contract;(f) If the 
+funds will be escrowed with an independent third party during the transfer process, the name, 
+business address and telephone number of the independent third party escrow agent, and the fact 
+that the owner may inspect or receive copies of the relevant escrow or trust agreements or 
+documents;(g) The name, business address and telephone number of the life settlement 
+broker;(h) A full, complete and accurate description of all offers, counter-offers, acceptances and 
+rejections relating to the proposed life settlement contract;(i) A written disclosure of any 
+affiliations or contractual arrangements between the life settlement broker and any person 
+making an offer in connection with the proposed life settlement contracts;(j) The amount and 
+
+method of calculating the broker's compensation. Compensation includes anything of value paid 
+or given to a life settlement broker for the placement of a policy; and(k) When any portion of the 
+life settlement broker's compensation, as described in paragraph (j) of this subsection, is taken 
+from a proposed life settlement offer, disclosure of the total amount of the life settlement offer 
+and the percentage of the life settlement offer comprised by the life settlement broker's 
+compensation.(4) If the life settlement provider transfers ownership or changes the beneficiary of 
+the insurance policy, the provider shall communicate in writing the change in ownership or 
+beneficiary to the insured within 20 days after the change.(5) A life settlement provider or its life 
+settlement investment agent shall provide the life settlement purchaser with at least the following 
+disclosures prior to the date the life settlement purchase agreement is signed by all parties. The 
+disclosures must be conspicuously displayed in any life purchase contract or in a separate 
+document signed by the life settlement purchaser and life settlement provider or life settlement 
+investment agent, and must make the following disclosures to the life settlement 
+purchaser:(a) The purchaser shall receive no returns, such as dividends and interest, until the 
+insured dies and a death claim payment is made.(b) The actual annual rate of return on a life 
+settlement contract is dependent upon an accurate projection of the insured's life expectancy and 
+the actual date of the insured's death. An annual guaranteed rate of return is not 
+determinable.(c) The settled life insurance contract should not be considered a liquid purchase 
+since it is impossible to predict the exact timing of its maturity and the funds probably are not 
+available until the death of the insured. There is no established secondary market for resale of 
+these products by the purchaser.(d) The purchaser may lose all benefits or may receive 
+substantially reduced benefits if the insurer goes out of business during the term of the life 
+investment.(e) The purchaser is responsible for payment of the insurance premium or other costs 
+related to the policy, if required by the terms of the life purchase agreement. These payments 
+may reduce the purchaser's return. If a party other than the purchaser is responsible for the 
+payment, the name and address of that party also shall be disclosed.(f)(A) The purchaser is 
+responsible for payment of the insurance premiums or other costs related to the policy.(B) The 
+amount of the premiums, if applicable.(g) The name, business address and telephone number of 
+the independent third party providing escrow services and the relationship to the broker.(h) The 
+amount of any trust fees or other expenses to be charged to the life settlement 
+purchaser.(i) Whether the purchaser is entitled to a refund of all or part of the purchaser's 
+investment under the settlement contract if the policy is later determined to be null and 
+void.(j)(A) Group policies may contain limitations or caps in the conversion rights, and 
+additional premiums may have to be paid if the policy is converted.(B) The name of the party 
+responsible for the payment of the additional premiums.(C) If a group policy is terminated and 
+replaced by another group policy, there may be no right to convert the original coverage.(k) The 
+risks associated with policy contestability, including but not limited to the risk that the purchaser 
+will have no claim or only a partial claim to death benefits should the insurer rescind the policy 
+within the contestability period.(l) Whether the purchaser will be the owner of the policy in 
+addition to being the beneficiary and if the purchaser is the beneficiary only and not also the 
+owner, the special risks associated with that status, including but not limited to the risk that the 
+beneficiary may be changed or the premium may not be paid.(m) The experience and 
+qualifications of the person who determines the life expectancy of the insured, the information 
+this projection is based on and the relationship of the projection maker to the life settlement 
+provider, if any.(6) Disclosure to a life settlement purchaser shall include distribution of a 
+brochure describing the process of investment in life settlements, in a form to be developed and 
+
+approved by the director.(7) A life settlement provider or its life settlement investment agent 
+shall provide the life settlement purchaser with at least the following disclosures no later than at 
+the time of the assignment, transfer or sale of all or a portion of an insurance policy. The 
+disclosures must be contained in a document signed by the life settlement purchaser and life 
+settlement provider or life settlement investment agent, and must make the following disclosures 
+to the life settlement purchaser:(a) The life expectancy certifications obtained by the provider in 
+the process of determining the price paid to the owner.(b) If premium payments or other costs 
+related to the policy have been escrowed, the date when the escrowed funds will be depleted, 
+whether the purchaser is responsible for payment of premiums thereafter and, if so, the amount 
+of the premiums.(c) Whether or not premium payments or other costs related to the policy have 
+been waived. If waived, whether or not the investor is responsible for payment of the premiums 
+if the insurer that wrote the policy terminates the waiver after purchase, and the amount of those 
+premiums.(d) The type of policy offered or sold, such as whole life, term life, universal life or a 
+group policy certificate, any additional benefits contained in the policy and the current status of 
+the policy.(e) If the policy is term insurance, the special risks associated with term insurance, 
+including but not limited to the purchaser's responsibility for additional premiums if the owner 
+continues the term policy at the end of the current term.(f) If the policy is contestable.(g) If the 
+insurer that wrote the policy has any additional rights that could negatively affect or extinguish 
+the purchaser's rights under the life settlement contract, what these rights are and under what 
+conditions these rights are activated.(h) The name and address of the person responsible for 
+monitoring the insured's condition. A description of how often the monitoring of the insured's 
+condition is done, how the date of death is determined and how and when this information is 
+transmitted to the purchaser.(8) The life settlement purchase agreement is voidable by the 
+purchaser at any time within three days after the disclosures mandated by subsection (7) of this 
+section are received by the purchaser. 
+ORS 744.354 
+Section 744.359 - Disclosure by life settlement broker or provider to insurer 
+Prior to the initiation of a plan, transaction or series of transactions, a life settlement 
+broker or life settlement provider shall fully disclose to an insurer the plan, transaction 
+or series of transactions to which the life settlement broker or life settlement provider 
+is a party, to originate, renew, continue or finance a life insurance policy with the 
+insurer for the purpose of engaging in the business of life settlements at anytime prior 
+to, or during the first five years after, issuance of the policy. 
+ORS 744.359 
+Section 744.362 - Disclosure by insurance company to policy owner; rules(1) With respect to 
+each policy issued by an insurance company, the insurance company shall provide notice to the 
+owner of an individual life insurance policy when the insured person under such a policy is 60 
+years of age or older and:(a) The life insurance company receives notice from such an owner of a 
+request to surrender, in whole or in part, an individual policy;(b) The life insurance company 
+receives notice from such an owner of a request to receive an accelerated death benefit under an 
+individual policy; or(c) The life insurance company sends to such an owner all notices of lapse of 
+an individual policy, other than a term policy.(2)(a) The notice must consist of the following 
+statement in large, bold or otherwise conspicuous typeface calculated to draw the eye: "Life 
+
+insurance is a critical part of a broader financial plan. There are many options available, and you 
+have the right to shop around and seek advice from different financial advisers in order to find 
+the option best suited to your needs."(b) The communication of the notice must also contain a 
+statement advising the recipient that the recipient may contact the Division of Financial 
+Regulation of the Department of Consumer and Business Services for more information, and 
+must include an address or other location or manner by which the recipient may contact the 
+Division of Financial Regulation.(c) The department shall adopt by rule the appropriate address 
+or other location or manner of contact to be included in the required notice.(3)(a) The Director of 
+the Department of Consumer and Business Services shall make available to the public 
+information designed to educate the consumer about the consumer's rights as an owner of a life 
+insurance policy. The information must be written in lay terms and must advise the 
+consumer:(A) That life insurance is a critical part of a broader financial plan, and that the 
+consumer is encouraged, and has a right, to seek additional financial advice and 
+opinions;(B) That possible alternatives to lapse exist; and(C) Of the definitions of common 
+industry terms.(b) The information described in paragraph (a) of this subsection may include 
+brief descriptions of common products available from licensees. These products must be 
+discussed in general terms for informative purposes only, and not be identifiable to any specific 
+licensee. 
+ORS 744.362 
+Section 744.364 - Life settlement contract requirements(1)(a) A life settlement provider entering 
+into a life settlement contract shall first obtain:(A) If the owner is the insured, a written statement 
+from a licensed physician, a naturopathic physician licensed under ORS chapter 685, a physician 
+associate licensed under ORS 677.505 to 677.525 or a nurse practitioner licensed under 
+ORS 678.375 to 678.390 that the owner is of sound mind and under no constraint or undue 
+influence to enter into a life settlement contract; and(B) A document in which the insured 
+consents to the release of the insured's medical records to a licensed life settlement provider, life 
+settlement broker and the insurance company that issued the life insurance policy covering the 
+life of the insured.(b) Within 20 days after an owner executes documents necessary to transfer 
+any rights under an insurance policy or, if the insured is terminally ill, within 20 days after an 
+owner entering any agreement, option, promise or any other form of understanding, expressed or 
+implied, to transfer the policy for value, the life settlement provider shall give written notice to 
+the insurer that issued the insurance policy that the policy has or will become a settled policy. 
+The notice must be accompanied by the documents required by paragraph (c) of this 
+subsection.(c) The life settlement provider shall deliver a copy of the medical release required 
+under paragraph (a)(B) of this subsection, a copy of the owner's application for the life 
+settlement contract, the notice required under paragraph (b) of this subsection and a request for 
+verification of coverage to the insurer that issued the life policy that is the subject of the life 
+transaction. The Director of the Department of Consumer and Business Services shall develop 
+and approve a form for the request for verification.(d) The insurer shall respond to a request for 
+verification of coverage submitted on an approved form by a life settlement provider or life 
+settlement broker within 30 calendar days of the date the request is received and shall indicate 
+whether, based on the medical evidence and documents provided, the insurer intends to pursue 
+an investigation at this time regarding the validity of the insurance contract or possible fraud. 
+The insurer shall accept a request for verification of coverage made on a form approved by the 
+director. The insurer shall accept an original or facsimile or electronic copy of such request and 
+
+any accompanying authorization signed by the owner. Failure by the insurer to meet its 
+obligations under this subsection is a violation of the Insurance Code.(e) Prior to or at the time of 
+execution of the life settlement contract, the life settlement provider shall obtain a witnessed 
+document in which the owner consents to the life settlement contract, represents that the owner 
+has a full and complete understanding of the life settlement contract, that the owner has a full and 
+complete understanding of the benefits of the life insurance policy, acknowledges that the owner 
+is entering into the life settlement contract freely and voluntarily and, for persons with a terminal 
+illness or chronic illness or condition, acknowledges that the insured has a terminal illness or 
+chronic illness and that the terminal illness or chronic illness or condition was diagnosed after 
+the life insurance policy was issued.(f) If a life settlement broker performs any of the activities 
+required of the life settlement provider, the provider is deemed to have fulfilled the requirements 
+of this section that were performed by the broker.(2) All medical information solicited or 
+obtained by any licensee is privileged and confidential under ORS 705.137.(3)(a) All life 
+settlement contracts entered into in this state must provide the owner with an absolute right to 
+rescind the contract before the earlier of 60 calendar days after the date upon which the life 
+settlement contract is executed by all parties or 30 calendar days after the life settlement 
+proceeds have been sent to the owner under subsection (5) of this section.(b) The life settlement 
+provider may condition rescission upon the owner both giving notice and repaying to the life 
+settlement provider within the rescission period all proceeds of the settlement and any premiums, 
+loans and loan interest paid by or on behalf of the life settlement provider in connection with or 
+as a consequence of the life settlement.(c) If the insured dies during the rescission period, the life 
+settlement contract is deemed to have been rescinded, subject to repayment within 60 calendar 
+days of the death of the insured to the life settlement provider or purchaser of all life settlement 
+proceeds and any premiums, loans and loan interest that have been paid by the life settlement 
+provider or purchaser.(d) In the event of any rescission, if the life settlement provider has paid 
+commissions or other compensation to a life settlement broker in connection with the rescinded 
+transaction, the life settlement broker shall refund all such commissions and compensation to the 
+life settlement provider within five business days following receipt of written demand from the 
+life settlement provider. The demand must be accompanied by either the owner's notice of 
+rescission if rescinded at the election of the owner, or the notice of the death of the insured if 
+rescinded by reason of the death of the insured within the applicable rescission period.(4) The 
+life settlement purchaser shall have the right to rescind a life settlement contract within three 
+days after the disclosures mandated by ORS 744.354 (7) are received by the purchaser.(5)(a) The 
+life settlement provider shall instruct the owner to send the executed documents required to 
+effect the change in ownership, assignment or change in beneficiary directly to an independent 
+escrow agent selected by the provider.(b) Within three business days after the date the escrow 
+agent receives the document, or from the date the life settlement provider receives the 
+documents, if the owner erroneously provides the documents directly to the provider, the 
+provider shall pay or transfer the proceeds of the life settlement into an escrow or trust account 
+maintained in a state or federally chartered financial institution whose deposits are insured by the 
+Federal Deposit Insurance Corporation.(c) Upon payment of the settlement proceeds into the 
+escrow account, the escrow agent shall deliver the original change in ownership, assignment or 
+change in beneficiary forms to the life settlement provider or related provider trust or other 
+designated representative of the life settlement provider. Upon the escrow agent's receipt of the 
+acknowledgment of the properly completed transfer of ownership, assignment or designation of 
+beneficiary from the insurance company, the escrow agent shall pay the settlement proceeds to 
+
+the owner.(6) Failure to pay the owner the full contract amount for the life settlement contract 
+within the time set forth under subsection (5) of this section renders the life settlement contract 
+voidable by the owner until the time full payment is tendered to and accepted by the owner. 
+Funds are deemed sent by a life settlement provider to an owner as of the date that the escrow 
+agent either releases funds for wire transfer to the owner or places a check for delivery to the 
+owner via the United States Postal Service or another nationally recognized delivery 
+service.(7)(a) Contacts with the insured for the purpose of determining the health status of the 
+insured by the life settlement provider or life settlement broker after the life settlement has 
+occurred may be made only by the life settlement provider or broker licensed in this state or its 
+authorized representatives and are limited to once every three months for insureds with a life 
+expectancy of more than one year, and to no more than once per month for insureds with a life 
+expectancy of one year or less.(b) The limitations set forth in this subsection do not apply to any 
+contacts with an insured for reasons other than determining the insured's health status. 
+ORS 744.364 
+Section 744.367 - Limitations on ability to enter life settlement contract; exceptions(1) A person 
+may not enter into a life settlement contract at any time prior to the application or issuance of a 
+policy that is the subject of a life settlement contract or within a five-year period commencing 
+with the date of issuance of the insurance policy or certificate. However, this five-year restriction 
+does not apply if the owner certifies to the life settlement provider that any one or more of the 
+following conditions has been met within the five-year period:(a) The policy was issued upon the 
+owner's exercise of conversion rights arising out of a group or individual policy if the total of the 
+time covered under the conversion policy plus the time covered under the prior policy is at least 
+60 months. The time covered under a group policy is calculated without regard to any change in 
+insurance carriers, provided the coverage has been continuous and under the same group 
+sponsorship;(b) The owner submits independent evidence to the life settlement provider that one 
+or more of the following conditions have been met within the five-year period:(A) The owner or 
+insured is terminally ill or chronically ill;(B) The owner's spouse dies;(C) The owner divorces 
+the owner's spouse;(D) The owner retires from full-time employment;(E) The owner becomes 
+physically or mentally disabled and a physician, naturopathic physician licensed under ORS 
+chapter 685, physician associate licensed under ORS 677.505 to 677.525 or nurse practitioner 
+licensed under ORS 678.375 to 678.390 determines that the disability prevents the owner from 
+maintaining full-time employment; or(F) A final order, judgment or decree is entered by a court 
+of competent jurisdiction, on the application of a creditor of the owner, adjudicating the owner 
+bankrupt or insolvent, or approving a petition seeking reorganization of the owner or appointing 
+a receiver, trustee or liquidator to all or a substantial part of the owner's assets; or(c) The owner 
+enters into a life settlement contract more than two years after the date of issuance of a policy 
+and, with respect to the policy, at all times prior to the date that is two years after policy 
+issuance, the following conditions are met:(A) Policy premiums have been funded exclusively 
+with unencumbered assets, including an interest in the life insurance policy being financed only 
+to the extent of its net cash surrender value, provided by, or full recourse liability incurred by, the 
+insured or a person closely related to the insured by blood or law or a party having a lawful 
+substantial economic interest in the continued life, health and bodily safety of the person insured, 
+or a trust established primarily for the benefit of such parties;(B) There is no agreement or 
+understanding with any other person to guarantee any such liability or to purchase or stand ready 
+to purchase the policy, including through an assumption or forgiveness of the loan; 
+
+and(C) Neither the insured nor the policy has been evaluated for settlement.(2) Copies of the 
+independent evidence described in subsection (1)(b) of this section and documents required by 
+ORS 744.364 (1) must be submitted to the insurer when the life settlement provider or other 
+party entering into a life settlement contract with an owner submits a request to the insurer for 
+verification of coverage. The copies must be accompanied by a letter of attestation from the life 
+settlement provider that the copies are true and correct copies of the documents received by the 
+life settlement provider.(3) If the life settlement provider submits to the insurer a copy of the 
+owner's or insured's certification described in and the documents required by ORS 744.364 
+(1) when the provider submits a request to the insurer to effect the transfer of the policy or 
+certificate to the life settlement provider, the copy conclusively establishes that the life 
+settlement contract satisfies the requirements of this section and the insurer shall respond in a 
+timely manner to the request.(4) An insurer may not, as a condition of responding to a request for 
+verification of coverage or effecting the transfer of a policy pursuant to a life settlement contract, 
+require that the owner, insured, life settlement provider or life settlement broker sign any forms, 
+disclosures, consent or waiver form that has not been expressly approved by the Director of the 
+Department of Consumer and Business Services for use in connection with life settlement 
+contracts in this state.(5) Upon receipt of a properly completed request for a change of ownership 
+or beneficiary of a policy, the insurer shall respond in writing within 30 calendar days with 
+written acknowledgement confirming that the change has been effected or specifying the reasons 
+why the requested change cannot be processed. The insurer may not unreasonably delay 
+effecting change of ownership or beneficiary and may not otherwise seek to interfere with any 
+life settlement contract lawfully entered into in this state. 
+ORS 744.367 
+ 
+Section 744.369 - Unlawful life settlement contract actions(1) With respect to a life settlement 
+contract or insurance policy, it is unlawful for a life settlement broker to knowingly solicit an 
+offer from, effectuate a life settlement contract with or make a sale to a life settlement provider, 
+financing entity or related provider trust that is controlling, controlled by or under common 
+control with a life settlement broker, unless that relationship is disclosed to the owner.(2) With 
+respect to a life settlement contract or insurance policy, it is unlawful for a life settlement broker 
+to knowingly enter into a life settlement contract with an owner if, in connection with the life 
+settlement contract, anything of value will be paid to a life settlement broker that is controlling, 
+controlled by or under common control with a life settlement provider, financing entity or related 
+provider trust that is involved in the settlement contract, unless that relationship is disclosed to 
+the owner.(3) A person may not issue, solicit, market or otherwise promote the purchase of an 
+insurance policy for the purpose of, or with an emphasis on, settling the policy.(4) A person may 
+not enter into a premium finance arrangement under which the person receives any proceeds, 
+fees or other consideration, directly or indirectly, from the proceeds of the policy, from the 
+owner of the policy or from any other person with respect to the premium finance agreement, the 
+life settlement contract or any other transaction related to the policy that are in addition to the 
+amounts required to pay the principal, interest and service charges related to the policy premiums 
+under the premium finance agreement or subsequent sale of the agreement. Any payments, 
+charges, fees or other amounts in addition to the amounts required to pay the principal, interest 
+and service charges related to policy premiums paid under the premium finance agreement must 
+be remitted to the original owner of the policy or the original owner's estate if the original owner 
+
+is not living at the time of the determination of overpayment.(5) In the solicitation, application or 
+issuance of a life insurance policy, a person may not employ any device, scheme or artifice in 
+violation of ORS 743.040.(6) A life settlement provider may not enter into a life settlement 
+contract unless the life settlement promotional, advertising and marketing materials, as may be 
+prescribed by regulation, have been filed with the Director of the Department of Consumer and 
+Business Services.(7) A life insurance producer, insurance company, life settlement broker, life 
+settlement provider or life settlement investment agent may not make any statement or 
+representation to the applicant or policyholder in connection with the sale or financing of a life 
+insurance policy to the effect that the insurance is free or without cost to the policyholder for any 
+period of time unless provided in the policy.(8) A person may not present, cause to be presented 
+or prepare with the knowledge or belief that it will be presented to or by a life settlement 
+provider, life settlement broker, life settlement purchaser, life settlement investment agent, 
+financing entity, insurer, insurance producer or any other person, false material information, or 
+conceal material information, as part of, in support of or concerning a fact material to one or 
+more of the following:(a) An application for the issuance of a life settlement contract or 
+insurance policy;(b) The underwriting of a life settlement contract or insurance policy;(c) A 
+claim for payment or benefit pursuant to a life settlement contract or insurance 
+policy;(d) Premiums paid on an insurance policy, or as a result of a life settlement purchase 
+agreement;(e) Payments and changes in ownership or beneficiary made in accordance with the 
+terms of a life settlement contract, life settlement purchase agreement or insurance policy;(f) The 
+reinstatement or conversion of an insurance policy;(g) The solicitation, offer, effectuation or sale 
+of a life settlement contract, insurance policy or life settlement purchase agreement;(h) The 
+issuance of written evidence of a life settlement contract, life settlement purchase agreement or 
+insurance; or(i) A financing transaction.(9) A person may not employ any plan, financial 
+structure, device, scheme or artifice to defraud related to settled policies.(10) A person may not 
+enter into any practice or plan that involves stranger-originated life insurance.(11) A person may 
+not fail to disclose to the insurer when requested by the insurer that the prospective insured has 
+undergone a life expectancy evaluation by any person or entity other than the insurer or its 
+authorized representatives in connection with the issuance of the policy.(12) A person may not, 
+and may not permit employees or agents to:(a) Remove, conceal, alter, destroy or sequester from 
+the director the assets or records of a licensee or other person engaged in the business of life 
+settlements;(b) Misrepresent or conceal the financial condition of a licensee, financing entity, 
+insurer or other person;(c) Transact the business of life settlements in violation of laws requiring 
+a license, certificate of authority or other legal authority for the transaction of the business of life 
+settlements; or(d) File with the director or the equivalent chief insurance regulatory official of 
+another jurisdiction a document containing false information or otherwise conceal information 
+about a material fact from the director.(13) A person may not embezzle, steal, misappropriate or 
+convert moneys, funds, premiums, credits or other property of a life settlement provider, insurer, 
+insured, owner, insurance policyowner or any other person engaged in the business of life 
+settlements or insurance.(14) A person may not recklessly enter into, negotiate, broker or 
+otherwise deal in a life settlement contract, the subject of which is a life insurance policy that 
+was obtained by presenting false information concerning any fact material to the policy or by 
+concealing, for the purpose of misleading another, information concerning any fact material to 
+the policy, for which the person or the persons intended to defraud the policy's issuer, the life 
+settlement provider or the owner. For the purposes of this subsection, "recklessly" means 
+engaging in conduct in conscious and clearly unjustifiable disregard of a substantial likelihood of 
+
+the existence of the relevant facts or risks, such disregard involving a gross deviation from 
+acceptable standards of conduct.(15) A person may not facilitate the change of state of 
+ownership of a policy or certificate or the state of residency of an owner to a state or jurisdiction 
+that does not have a law similar to ORS 744.318 to 744.384, 744.991 and 744.992 for the express 
+purposes of evading or avoiding the provisions of 
+ORS 744.318 to 744.384, 744.991 and 744.992.(16) A person may not attempt to commit, assist, 
+aid or abet in the commission of, or conspire to commit the acts or omissions specified in, this 
+subsection.(17) A life settlement investment agent shall not have any contact, directly or 
+indirectly, with the owner or insured under the policy or have knowledge of the identity of the 
+owner or insured. 
+ORS 744.369 
+Section 744.372 - Advertising of life settlement contracts; rules(1) This section applies to any 
+advertising of life settlement contracts, life purchase agreements or related products or services 
+intended for dissemination in this state, including Internet advertising viewed by persons located 
+in this state. When disclosure requirements are established pursuant to federal regulation, this 
+section is interpreted so as to minimize or eliminate conflict with federal regulation wherever 
+possible.(2) Every licensee must establish and at all times maintain a system of control over the 
+content, form and method of dissemination of all advertisements of its contracts, products and 
+services. All advertisements, regardless of by whom written, created, designed or presented, is 
+the responsibility of the licensees, as well as the individual who created or presented the 
+advertisement. A system of control must include regular routine notification, at least once a year, 
+to agents and others authorized by the licensee who disseminate advertisements, of the 
+requirements of this section and the requirements adopted by the Director of the Department of 
+Consumer and Business Services in the use of any advertisements not furnished by the 
+licensee.(3) Advertisements must be truthful and not misleading in fact or by implication. The 
+form and content of an advertisement of a life settlement contract or life settlement purchase 
+agreement must be sufficiently complete and clear so as to avoid deception. It may not have the 
+capacity or tendency to mislead or deceive.(4) An advertisement may not use the name or title of 
+a life insurance company or a life insurance policy unless the named company or policy-holder 
+consents to the usage in a form prescribed by the director.(5) An advertisement may not 
+represent that premium payments will not be required to be paid on the life insurance policy that 
+is the subject of a life settlement contract or life settlement purchase agreement in order to 
+maintain that policy, unless that is the fact.(6) An advertisement may not state or imply that a life 
+settlement contract or life settlement purchase agreement, benefit or service has been approved 
+or endorsed by a group of individuals, society, association or other organization unless that is the 
+fact and unless any relationship between an organization and the licensee is disclosed. If the 
+entity making the endorsement or testimonial is owned, controlled or managed by the licensee, or 
+receives any payment or other consideration from the licensee for making an endorsement or 
+testimonial, that fact must be disclosed in the advertisement.(7) When an endorsement refers to 
+benefits received under a life settlement contract or life settlement purchase agreement, all 
+pertinent information must be retained for a period of five years after its use.(8) An 
+advertisement may not contain statistical information unless it accurately reflects recent and 
+relevant facts. The source of all statistics used in an advertisement must be identified.(9) An 
+advertisement may not directly or indirectly create the impression that any division or agency of 
+this state or of the United States government endorses, approves or favors:(a) Any licensee or its 
+
+business practices or methods of operation;(b) The merits, desirability or advisability of any life 
+settlement contract or life settlement purchase agreement;(c) Any life settlement contract or life 
+settlement purchase agreement; or(d) Any life insurance policy or life insurance 
+company.(10) The director may adopt rules to implement this section. 
+ORS 744.372 
+Section 744.374 - Enforcement of life settlement contract provisions; reporting of violations; 
+required antifraud initiatives(1) A person may not knowingly or intentionally interfere with the 
+enforcement of the provisions of ORS 744.318 to 744.384, 744.991 and 744.992 or 
+investigations of suspected or actual violations of 
+ORS 744.318 to 744.384, 744.991 and 744.992.(2) A person in the business of life settlements 
+may not knowingly or intentionally permit any person convicted of a felony involving dishonesty 
+or breach of trust to participate in the business of life settlements.(3) Life settlements contracts 
+and purchase agreement forms and applications for life settlements, regardless of the form of 
+transmission, must contain the following statement or a substantially similar statement: "Any 
+person who knowingly presents false information in this application is guilty of a crime and may 
+be subject to fines and confinement in prison."(4) The lack of a statement as required in 
+subsection (3) of this section does not constitute a defense in any investigation or prosecution for 
+an act violating any provision of ORS 744.318 to 744.384, 744.991 and 744.992.(5) Any person 
+engaged in the business of life settlements having knowledge or a reasonable suspicion that a 
+fraudulent life settlement act is being, will be or has been committed must provide to the 
+Director of the Department of Consumer and Business Services information as required by, and 
+in a manner prescribed by, the director.(6) Any other person having knowledge or a reasonable 
+belief that a fraudulent life settlement act is being, will be or has been committed may provide to 
+the director the information required by, and in a manner prescribed by, the director.(7)(a) No 
+civil liability is imposed on and no cause of action arises from a person's furnishing information 
+concerning suspected, anticipated or completed fraudulent life settlement acts or suspected or 
+completed fraudulent insurance acts, if the information is provided to or received from:(A) The 
+director or the director's employees, agents or representatives;(B) Federal, state or local law 
+enforcement or regulatory officials or their employees, agents or representatives;(C) A person 
+involved in the prevention and detection of fraudulent life settlement acts or that person's agents, 
+employees or representatives;(D) The National Association of Insurance Commissioners, the 
+Financial Industry Regulatory Authority or the North American Securities Administrators 
+Association, or their employees, agents or representatives, or any other regulatory body 
+overseeing life insurance, life settlements, securities or investment fraud; or(E) The life insurer 
+that issued the life insurance policy covering the life of the insured.(b) Paragraph (a) of this 
+subsection shall not apply to statements made with actual malice. In an action brought against a 
+person for filing a report or furnishing other information concerning a fraudulent life settlement 
+act, the party bringing the action must plead specifically any allegation that paragraph (a) of this 
+subsection does not apply because the person filing the report or furnishing the information did 
+so with actual malice.(c) A person furnishing information as identified in paragraph (a) of this 
+subsection is entitled to an award of attorney fees and costs if the person is the prevailing party in 
+a civil cause of action for libel, slander or any other relevant tort arising out of activities in 
+carrying out the provisions of ORS 744.318 to 744.384, 744.991 and 744.992 and the party 
+bringing the action was not substantially justified in doing so. For purposes of this paragraph, a 
+proceeding is "substantially justified" if it had a reasonable basis in law or fact at the time that it 
+
+was initiated. However, such an award does not apply to a person furnishing information 
+concerning the person's own fraudulent life settlement acts.(d) This section does not abrogate or 
+modify common law or statutory privileges or immunities enjoyed by a person described in 
+paragraph (a) of this subsection.(8) The documents and evidence obtained by the director in an 
+investigation of suspected or actual fraudulent life settlement acts are privileged and confidential 
+under ORS 705.137.(9) This section does not:(a) Preempt the authority or relieve the duty of 
+other law enforcement or regulatory agencies to investigate, examine and prosecute suspected 
+violations of law;(b) Prevent or prohibit a person from disclosing voluntarily information 
+concerning life settlement fraud to a law enforcement or regulatory agency other than the 
+Department of Consumer and Business Services; or(c) Limit the powers granted elsewhere by 
+the laws of this state to the director or any other state department or agency to investigate and 
+examine possible violations of law and to take appropriate action against 
+wrongdoers.(10)(a) Life settlement providers and life settlement brokers must have in place 
+antifraud initiatives reasonably calculated to detect, prosecute and prevent fraudulent life 
+settlement acts. At the discretion of the director, the director may order, or a licensee may 
+request and the director may grant, such modifications of the required initiatives described in 
+paragraph (b) of this subsection as necessary to ensure an effective antifraud program. The 
+modifications may be more or less restrictive than the required initiatives as long as the 
+modifications may reasonably be expected to accomplish the purpose of this 
+section.(b) Antifraud initiatives must include:(A) Fraud investigators, who may be life settlement 
+provider or life settlement broker employees or independent contractors; and(B) An antifraud 
+plan, which must be submitted to the director. The antifraud plan must include, but is not limited 
+to:(i) A description of the procedures for detecting and investigating possible fraudulent life 
+settlement acts and procedures for resolving material inconsistencies between medical records 
+and insurance applications;(ii) A description of the procedures for reporting possible fraudulent 
+life settlement acts to the director;(iii) A description of the plan for antifraud education and 
+training of underwriters and other personnel; and(iv) A description or chart outlining the 
+organizational arrangement of the antifraud personnel who are responsible for investigating and 
+reporting possible fraudulent life settlement acts and investigating unresolved material 
+inconsistencies between medical records and insurance applications.(c) Antifraud plans 
+submitted to the director are privileged and confidential under ORS 705.137. 
+ORS 744.374 
+Section 744.382 - Prohibitions on finder's fee, solicitations, discrimination(1) A licensee may not 
+pay or offer to pay a finder's fee, commission or other compensation to a person described in this 
+subsection, in connection with a policy insuring the life of an individual with a terminal illness or 
+condition. The prohibition under this subsection applies with respect to payments or offers of 
+payment to:(a) The physician, naturopathic physician, attorney or accountant of the policyholder, 
+of the certificate holder or of the insured individual when the individual is other than the 
+policyholder or certificate holder.(b) Any person other than a physician, naturopathic physician, 
+attorney or accountant described in paragraph (a) of this subsection, who provides medical, legal 
+or financial planning services to the policyholder, to the certificate holder or to the insured 
+individual when the individual is other than the policyholder or certificate holder.(c) Any person 
+other than one described in paragraph (a) or (b) of this subsection who acts as an agent of the 
+policyholder, certificate holder or insured individual.(2) A licensee may not solicit an investor 
+who could influence the treatment of the illness or condition of the individual whose life would 
+
+be the subject of a life settlement contract.(3) All information solicited or obtained from a 
+policyholder or certificate holder by a licensee is subject to ORS 746.600 to 746.690. For 
+purposes of this subsection, a licensee is considered an insurance-support organization within the 
+meaning of ORS 746.600.(4) A licensee may not discriminate in the making of a life settlement 
+contract on the basis of race, religion, creed, sex, sexual orientation, gender identity, national 
+origin, marital status, age, familial status or occupation or discriminate between persons who 
+have dependents and persons who do not have dependents. 
+ORS 744.382 
+Section 744.384 - Rules; standards 
+The Director of the Department of Consumer and Business Services may adopt rules 
+for the purpose of carrying out ORS 744.318 to 744.384, 744.991 and 744.992. In 
+addition: 
+(1) The director may establish standards for evaluating reasonableness of payments under life 
+settlement contracts for persons who are terminally ill or chronically ill. The authority includes 
+but is not limited to regulation of discount rates used to determine the amount paid in exchange 
+for assignment, transfer, sale, devise or bequest of a benefit under a life insurance policy insuring 
+the life of a person who is terminally ill or chronically ill. For the purpose of the standards, the 
+director shall consider payments made in regional and national life settlement markets, to the 
+extent such information is available, as well as model standards developed by the National 
+Association of Insurance Commissioners.(2) The director may establish trade practice standards 
+by rule for the purpose of regulating advertising and solicitation of life settlement 
+contracts.(3) The director may adopt rules governing the relationship and responsibilities of both 
+insurers and life settlement providers, life settlement brokers and life settlement investment 
+agents during the settlement of a life insurance policy or certificate.(4) The director may adopt 
+rules governing disclosure by a life settlement provider or broker to an insured of the tax 
+implications and effect on life insurance capacity of a life settlement.(5) The director may adopt 
+rules governing the confidentiality of an insured's personal financial or medical information 
+provided to a life settlement broker, life settlement provider or life settlement investment agent. 
+ORS 744.384 
+ 
+ 
+ 

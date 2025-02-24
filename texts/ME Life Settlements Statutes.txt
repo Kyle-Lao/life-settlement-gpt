@@ -1,0 +1,1161 @@
+State of Maine: Life Settlements Statutes 
+Maine Statutes → Title 24-A Maine Insurance Code → Chapter 85 – Viatical and Life 
+Settlements Act 
+Section 6801 - Short title 
+This chapter may be known and cited as the "Viatical and Life Settlements Act." [2003, c. 636, 
+§3 (AMD).] 
+24-A M.R.S. § 6801 
+Section 6802-A - Definitions 
+As used in this chapter, unless the context otherwise indicates, the following terms have the 
+following meanings. [2003, c. 636, §5 (NEW).] 
+1.Advertising. "Advertising" means any written, electronic or printed communication or any 
+communication by means of recorded telephone messages or transmitted on radio, television, the 
+Internet or a similar communications medium, including film strips, motion pictures and videos, 
+published, disseminated, circulated or placed before the public, directly or indirectly, for the 
+purpose of creating an interest in or inducing a person to sell a life insurance policy pursuant to a 
+settlement contract. 
+[2003, c. 636, §5 (NEW).] 
+2.Business of settlements. "Business of settlements" means any activity involved in, but not 
+limited to, the offering, solicitation, negotiation, procurement, effectuation, purchasing, 
+financing, monitoring, tracking, underwriting, selling, transferring, assigning, pledging, 
+hypothecating or in any other manner engaging in the business of settlement contracts. 
+[2003, c. 636, §5 (NEW).] 
+3.Chronically ill. "Chronically ill" means:A. Being unable to perform at least 2 activities of 
+daily living, including, but not limited to, eating, moving from one place to another, bathing, 
+dressing, voiding the bladder, eliminating the bowel or maintaining continence; [2003, c. 636, §5 
+(NEW).]B. Requiring substantial supervision to protect the individual from threats to health and 
+safety due to severe cognitive impairment; or [2003, c. 636, §5 (NEW).]C. Having a level of 
+disability similar to that described in paragraph A, as determined by the United States Secretary 
+of Health and Human Services. [2003, c. 636, §5 (NEW).] 
+[2003, c. 636, §5 (NEW).] 
+4.Financing entity. "Financing entity" means an underwriter, placement agent, lender, purchaser 
+of securities, purchaser of a policy or certificate from a settlement provider, credit enhancer or 
+any entity that has a direct ownership in a policy or certificate that is the subject of a settlement 
+contract:A. Whose principal activity related to the transaction is providing funds to effect the 
+settlement or purchase of one or more purchased policies or to provide credit enhancement; and 
+[2003, c. 636, §5 (NEW).]B. Who has an agreement in writing with one or more licensed 
+settlement providers to finance the acquisition of settlement contracts or to provide stop loss 
+insurance. [2003, c. 636, §5 (NEW).] 
+"Financing entity" does not include a nonaccredited investor. 
+
+[2003, c. 636, §5 (NEW).] 
+5.Financing transaction. "Financing transaction" means any transaction in which a licensed 
+settlement provider obtains financing for the purchase, acquisition, transfer or other assignment 
+of one or more settlement contracts or policies acquired pursuant to a settlement contract or 
+interests therein, including, without limitation, any secured or unsecured financing, securitization 
+transaction or securities offering, either registered or exempt from registration under federal and 
+state securities law, or otherwise sells, assigns, transfers, pledges, hypothecates or otherwise 
+disposes of a settlement contract or policy acquired pursuant to a settlement contract or interest 
+therein. 
+[2003, c. 636, §5 (NEW).] 
+6.Fraudulent viatical or life settlement act. "Fraudulent viatical or life settlement act" 
+includes:A. Acts or omissions committed by any person who, knowingly or with intent to 
+defraud, for the purpose of depriving another of property or for pecuniary gain, commits, or 
+permits its employees or its agents to engage in, acts including:(1) Presenting, causing to be 
+presented or preparing with knowledge or belief that it will be presented to or by a settlement 
+provider, settlement producer, financing entity, insurer, insurance producer or any other person 
+false material information, or concealing material information, as part of, in support of or 
+concerning a fact material to one or more of the following:(a) An application for the issuance of 
+a settlement contract or insurance policy;(b) The underwriting of a settlement contract or 
+insurance policy;(c) A claim for payment or benefit pursuant to a settlement contract or 
+insurance policy;(d) Premiums paid on an insurance policy;(e) Payments and changes in 
+ownership or beneficiary made in accordance with the terms of a settlement contract or insurance 
+policy;(f) The reinstatement or conversion of an insurance policy;(g) The solicitation, offer, 
+effectuation or sale of a settlement contract or insurance policy;(h) The issuance of written 
+evidence of a settlement contract or insurance policy; or(i) A financing 
+transaction;(2) Employing any device, scheme or artifice to defraud related to policies acquired 
+pursuant to a settlement contract;(3) Entering into stranger-originated life insurance; 
+or(4) Failing to disclose to the insurer when requested by the insurer that the prospective insured 
+has undergone a life expectancy evaluation by any person other than the insurer or its authorized 
+representatives in connection with the issuance of a policy; [2007, c. 543, §1 (AMD).]B. In the 
+furtherance of a fraud or to prevent the detection of a fraud committing or permitting one's 
+employees or agents to:(1) Remove, conceal, alter, destroy or sequester from the superintendent 
+the assets or records of a licensee or other person engaged in the business of 
+settlements;(2) Misrepresent or conceal the financial condition of a licensee, financing entity, 
+insurer or other person;(3) Transact the business of settlements in violation of laws requiring a 
+license, certificate of authority or other legal authority for the transaction of the business of 
+settlements; or(4) File with the superintendent or the chief insurance regulatory official of 
+another jurisdiction a document containing false information or otherwise concealing 
+information about a material fact from the superintendent; [2003, c. 636, §5 
+(NEW).]C. Embezzlement, theft, misappropriation or conversion of money, funds, premiums, 
+credits or other property of a settlement provider, insurer, insured, viator, insurance policyowner 
+or any other person engaged in the business of settlements or insurance; [2003, c. 636, §5 
+(NEW).]D. Recklessly entering into, brokering or otherwise dealing in a settlement contract, the 
+subject of which is a life insurance policy that was obtained by presenting false information 
+
+concerning any fact material to the policy or by concealing, for the purpose of misleading 
+another, information concerning any fact material to the policy, when the viator or the viator's 
+agent intended to defraud the policy's issuer. For the purposes of this paragraph, "recklessly" 
+means engaging in conduct in consciously and clearly unjustifiable disregard of a substantial 
+likelihood of the existence of the relevant facts or risks, such disregard involving a gross 
+deviation from acceptable standards of conduct; [2009, c. 376, §1 (AMD).]E. Attempting to 
+commit; assisting, aiding or abetting in the commission of; or conspiring to commit the acts or 
+omissions specified in this subsection; [2009, c. 376, §1 (AMD).]F. Engaging in any transaction, 
+practice or course of business by a person who knows or reasonably should have known that the 
+intent was to avoid the notice requirements of this chapter; [2009, c. 376, §1 (NEW).]G. With 
+respect to a settlement producer, knowingly soliciting an offer from, effectuating a life settlement 
+contract with or making a sale to any settlement provider, financing entity or related provider 
+trust that is controlling, controlled by or under common control with the producer, unless this 
+relationship is disclosed to the viator; [2009, c. 376, §1 (NEW).]H. With respect to a settlement 
+provider, knowingly entering into a settlement contract if anything of value will be paid to a 
+settlement producer controlling, controlled by or under common control with the provider or the 
+financing entity or related provider trust that is involved in the settlement contract, unless this 
+relationship is disclosed to the viator; and [2009, c. 376, §1 (NEW).]I. Any statement or 
+representation to the applicant or policyholder in connection with the sale or financing of a life 
+insurance policy to the effect that the insurance is free or without cost to the policyholder for any 
+period of time, unless free coverage is provided in the policy in the manner described. [2009, c. 
+376, §1 (NEW).] 
+[2009, c. 376, §1 (AMD).] 
+6-A.Life expectancy evaluation. "Life expectancy evaluation" means any evaluation of the 
+number of months the insured under the life insurance policy to be settled can be expected to 
+live, or of the probability that the insured will live beyond a specified date, considering medical 
+records and appropriate experiential data. 
+[2009, c. 376, §2 (AMD).] 
+7.Policy. "Policy" means an individual or group policy, group certificate, contract or 
+arrangement of life insurance affecting the rights of a resident of this State or bearing a 
+reasonable relation to this State, regardless of whether delivered or issued for delivery in this 
+State. 
+[2003, c. 636, §5 (NEW).] 
+8.Related provider trust. "Related provider trust" means a titling trust or other trust established 
+by a licensed settlement provider or a financing entity for the sole purpose of holding the 
+ownership or beneficial interest in purchased policies in connection with a financing transaction. 
+The trust must have a written agreement with the licensed settlement provider under which the 
+licensed settlement provider is responsible for ensuring compliance with all statutory and 
+regulatory requirements and under which the trust agrees to make all records and files related to 
+settlement transactions available to the superintendent as if those records and files were 
+maintained directly by the licensed settlement provider. 
+[2003, c. 636, §5 (NEW).] 
+
+9.Settlement contract. 
+[2007, c. 543, §3 (RP).] 
+9-A.Settlement contract. "Settlement contract" means an agreement between a viator and a 
+settlement provider establishing the terms under which compensation or anything of value will 
+be paid, which compensation or value is less than the expected death benefit of the insurance 
+policy or certificate, in return for the viator's assignment, transfer, sale, devise or bequest of the 
+death benefit or ownership of any portion of the insurance policy or certificate of insurance. 
+"Settlement contract" includes the transfer for compensation or value of ownership or beneficial 
+interest in a trust or other entity that owns such policy if the trust or other entity was formed or 
+availed of for the principal purpose of acquiring one or more life insurance contracts, which life 
+insurance contract insures the life of a person residing in this State. "Settlement contract" 
+includes a premium finance loan made for a life insurance policy by a lender to a viator on or 
+before the date of issuance of the policy when the viator or the insured receives on the date of the 
+premium finance loan a guarantee of a future settlement value of the policy or when the viator or 
+the insured agrees on the date of the premium finance loan to sell the policy or any portion of its 
+death benefit on any date following the issuance of the policy. "Settlement contract" does not 
+include:A. A policy loan or accelerated death benefit made by the insurer pursuant to the policy's 
+terms; [2007, c. 543, §4 (NEW).]B. A collateral assignment of a policy by the owner of the 
+policy, unless the assignee knows or reasonably expects that the owner does not intend to repay 
+the loan; [2009, c. 376, §3 (AMD).]C. Loan proceeds that are used solely to pay:(1) Premiums 
+for the policy; and(2) The costs of the loan, including, without limitation, interest, arrangement 
+fees, utilization fees and similar fees, closing costs, legal fees and expenses, trustee fees and 
+expenses and 3rd-party collateral provider fees and expenses, including fees payable to letter of 
+credit issuers; [2007, c. 543, §4 (NEW).]D. A loan made by a bank or other licensed financial 
+institution in which the lender takes an interest in a life insurance policy solely to secure 
+repayment of a loan or, if there is a default on the loan and the policy is transferred, the transfer 
+of such a policy by the lender, as long as neither the default itself nor the transfer of the policy in 
+connection with such default is pursuant to an agreement or understanding with any other person 
+for the purpose of evading regulation under this chapter; [2007, c. 543, §4 (NEW).]E. Unless the 
+premium finance loan otherwise constitutes a settlement contract under this subsection, a loan 
+made by a lender that does not violate Title 9-A, Article 2; [2007, c. 543, §4 (NEW).]F. An 
+agreement in which all the parties are closely related to the insured by blood or law or have a 
+lawful substantial economic interest in the continued life, health and bodily safety of the person 
+insured or are trusts established primarily for the benefit of such parties; [2007, c. 543, §4 
+(NEW).]G. Any designation, consent or agreement by an insured who is an employee of an 
+employer in connection with the purchase by the employer, or by a trust established by the 
+employer, of life insurance on the life of the employee; [2007, c. 543, §4 (NEW).]H. A bona fide 
+business succession planning arrangement:(1) Between shareholders in a corporation or between 
+a corporation and one or more of its shareholders or one or more trusts established by its 
+shareholders;(2) Between partners in a partnership or between a partnership and one or more of 
+its partners or one or more trusts established by its partners; or(3) Between members in a limited 
+liability company or between a limited liability company and one or more of its members or one 
+or more trusts established by its members; [2007, c. 543, §4 (NEW).]I. An agreement entered 
+into by a service recipient, or a trust established by the service recipient, and a service provider, 
+or a trust established by the service provider, who performs significant services for the service 
+
+recipient's trade or business; or [2007, c. 543, §4 (NEW).]J. Any contract, transaction or 
+arrangement other than those set forth in paragraphs A to I exempted from the definition of 
+"settlement contract" by the superintendent by rule based on a determination that the contract, 
+transaction or arrangement is not of the type intended to be regulated by this chapter. Rules 
+adopted pursuant to this paragraph are routine technical rules as defined in Title 5, chapter 375, 
+subchapter 2-A. [2007, c. 543, §4 (NEW).] 
+[2009, c. 376, §3 (AMD).] 
+10.Settlement producer. "Settlement producer" means any person who has life insurance 
+producer authority, who acts or aids in any manner in the soliciting of a settlement on behalf of a 
+viator and for a fee, commission or other valuable consideration offers or attempts to negotiate 
+settlement contracts between a viator and one or more settlement providers. "Settlement 
+producer" does not include an attorney, accountant, financing entity or person exercising a power 
+of attorney granted by the viator retained to represent the viator and whose compensation is paid 
+solely by the viator without regard to whether the settlement is effected. "Settlement producer" 
+does not include a credit union or an employer or association that makes its employees or 
+members aware of settlement contracts. 
+[2009, c. 376, §4 (AMD).] 
+11.Settlement provider. "Settlement provider" means a person other than the viator that enters 
+into or effectuates a settlement contract. "Settlement provider" does not include:A. A supervised 
+lender, as defined in Title 9-A, section 1-301, subsection 39, that takes an assignment of a life 
+insurance policy as collateral for a loan; [2003, c. 636, §5 (NEW).]B. The issuer of a life 
+insurance policy providing accelerated benefits under section 2555 and pursuant to the contract; 
+[2003, c. 636, §5 (NEW).]C. An authorized or eligible insurer that provides stop-loss coverage to 
+a settlement provider, purchaser, financing entity, special purpose entity or related provider trust; 
+[2003, c. 636, §5 (NEW).]D. A viator's friend or family member or other natural person who 
+enters into no more than one agreement in a calendar year for the assignment, transfer, sale, 
+devise or bequest of a life insurance policy for any value less than the expected death benefit; 
+[2003, c. 636, §5 (NEW).]E. A financing entity; [2003, c. 636, §5 (NEW).]F. A special purpose 
+entity; [2003, c. 636, §5 (NEW).]G. A related provider trust; or [2003, c. 636, §5 (NEW).]H. An 
+accredited investor or qualified institutional buyer as defined respectively in Regulation D, Rule 
+501 and Rule 144A of the Federal Securities Act of 1933, as amended, and who acquires a policy 
+from a settlement provider. [2003, c. 636, §5 (NEW).] 
+[2003, c. 636, §5 (NEW).] 
+12.Special purpose entity. "Special purpose entity" means a corporation, partnership, trust, 
+limited liability company or similar entity formed solely to provide either directly or indirectly 
+access to institutional capital markets for a financing entity or licensed settlement provider. 
+[2003, c. 636, §5 (NEW).] 
+12-A.Stranger-originated life insurance. "Stranger-originated life insurance" means an act or 
+practice to initiate a life insurance policy for the benefit of a person who, at the time of the 
+origination of the policy, has no insurable interest in the insured. "Stranger-originated life 
+insurance" includes, but is not limited to, cases in which life insurance is purchased with 
+resources or guarantees from or through a person who, at the time of the inception of the policy, 
+
+could not lawfully initiate the policy and when, at the time of policy inception, there is an 
+arrangement or agreement to directly or indirectly transfer the ownership of the policy or the 
+policy benefits to another person. "Stranger-originated life insurance" also includes the creation 
+of a trust to give the appearance of insurable interest and the use of such a trust in order to 
+initiate policies for investors in circumvention or violation of insurable interest laws and the 
+prohibition against wagering on life. 
+[2009, c. 597, §1 (AMD).] 
+13.Terminally ill. "Terminally ill" means having an illness or sickness that can reasonably be 
+expected to result in death within 24 months or less. 
+[2003, c. 636, §5 (NEW).] 
+14.Viator. "Viator" means a person who assigns, transfers, sells, devises or bequeaths or seeks to 
+assign, transfer, sell, devise or bequeath a death benefit or ownership of a life insurance policy or 
+certificate under a settlement contract. "Viator" does not include:A. A settlement provider 
+licensed under this chapter; [2003, c. 636, §5 (NEW).]B. An accredited investor or qualified 
+institutional buyer as defined respectively in Regulation D, Rule 501 and Rule 144A of the 
+Federal Securities Act of 1933, as amended; [2003, c. 636, §5 (NEW).]C. A financing entity; 
+[2003, c. 636, §5 (NEW).]D. A special purpose entity; or [2003, c. 636, §5 (NEW).]E. A related 
+provider trust. [2003, c. 636, §5 (NEW).] 
+[2003, c. 636, §5 (NEW).] 
+24-A M.R.S. § 6802-A 
+Section 6803 - Settlement provider and producer license; license requirements1.License 
+required. Licenses are required in accordance with this subsection.A. A person may not act as a 
+settlement provider without a license from the superintendent issued pursuant to this section and 
+subject to the provisions of this chapter. [2003, c. 636, §6 (AMD).]B. A person may not perform 
+the functions of, or otherwise act as, a settlement producer without a license from the 
+superintendent as a life insurance producer. [2003, c. 636, §6 (AMD).]C. [2003, c. 636, §6 
+(RP).]C-1. If there is more than one viator on a single policy and the viators are residents of 
+different states, the settlement contract is governed by the law of the state in which the viator 
+having the largest percentage ownership resides or, if the viators hold equal ownership, the state 
+of residence of one viator agreed upon in writing by all viators. [2003, c. 636, §6 
+(NEW).]D. [2003, c. 636, §6 (RP).]E. [2003, c. 636, §6 (RP).] 
+[2003, c. 636, §6 (AMD).] 
+2.Application; fee. Application for a settlement provider license must be made to the 
+superintendent by the applicant on a form prescribed by the superintendent. The application must 
+be accompanied by a fee not to exceed $400 in accordance with section 601. 
+[2003, c. 636, §6 (AMD).] 
+3.Renewal. A license for a settlement provider is continuous as long as the licensee remains 
+qualified. The settlement provider must pay an annual fee not to exceed $400 in accordance with 
+section 601. Failure to pay the fee within the terms prescribed may result in the revocation of the 
+
+license unless cured within 5 days of written notice of failure to pay to the principal office of the 
+licensee. 
+[2003, c. 636, §6 (AMD).] 
+4.Information required. The applicant for a settlement provider license shall provide such 
+information as the superintendent requires and the information must be submitted on forms 
+required by the superintendent. The superintendent may at any time require the applicant to 
+disclose fully the identity of all stockholders except stockholders owning less than 5% of the 
+shares of an applicant whose shares are publicly traded, partners, officers, directors, members 
+and employees and the superintendent may, in the exercise of the superintendent's discretion, 
+refuse to issue a license to an applicant if not satisfied that any stockholder, partner, director, 
+member or employee of the applicant who may materially influence the applicant's conduct 
+meets the criteria set forth in subsection 6. A settlement provider shall provide to the 
+superintendent new or revised information about officers, stockholders controlling 10% or more 
+of stock, partners, directors, members or designated employees within 30 days of the change. 
+[2003, c. 636, §6 (AMD).] 
+5.Authority under license. A settlement provider license issued to any person authorizes all 
+officers, partners, directors, members and key management personnel of that person to act on 
+behalf of the settlement provider, unless such activity requires a license under another provision 
+of this Title. All officers, partners, directors, members and key management personnel of the 
+person must be named in the application and any supplements to the application. 
+[2003, c. 636, §6 (AMD).] 
+6.Investigation. Upon the filing of an application and the payment of the settlement provider 
+license fee, the superintendent shall make an investigation of the applicant and shall issue a 
+license if the superintendent finds that the applicant:A. Has provided a detailed plan of operation; 
+[1997, c. 430, §1 (NEW); 1997, c. 430, §2 (AFF).]B. Is competent and trustworthy and intends to 
+act in good faith in the capacity of a settlement provider; [2003, c. 636, §6 (AMD).]C. Has a 
+good business reputation and has had experience, training or education so as to be qualified as a 
+settlement provider; [2003, c. 636, §6 (AMD).]D. If organized under the laws of this State, has 
+provided a certificate of good standing from this State. If the applicant is a foreign entity, it must 
+provide a certificate of good standing from its state of organization and a certificate of good 
+standing from this State; [2003, c. 636, §6 (AMD).]E. Has no officer, partner, director, member 
+or key management personnel of the applicant that has been found guilty of, or has pleaded 
+guilty or nolo contendere to, any crime involving fraud or moral turpitude, regardless of whether 
+a judgment of conviction has been entered by the court; and [2003, c. 636, §6 (AMD).]F. Has 
+provided an antifraud plan that meets the requirements of section 6818. [2003, c. 636, §6 
+(NEW).] 
+[2003, c. 636, §6 (AMD).] 
+7.Financial responsibility. Evidence of financial responsibility must be provided to the 
+superintendent in accordance with this subsection.A. A settlement provider shall provide 
+evidence of financial accountability. Such evidence may include, but is not limited to, a binding 
+and committed lending facility of at least $1,000,000 with a term of at least one year or a net 
+worth in excess of $100,000. [2003, c. 636, §6 (AMD).] 
+
+[2003, c. 636, §6 (AMD).] 
+8.Nonresidents. The superintendent may not issue a settlement provider license to a nonresident 
+applicant unless a written designation of an agent for service of process is filed and maintained 
+with the superintendent or the applicant has filed with the superintendent the applicant's written 
+irrevocable consent that any action against the applicant may be commenced against the 
+applicant by service of process on the superintendent. 
+[2003, c. 636, §6 (AMD).] 
+9.List. The superintendent shall maintain a complete list of all settlement providers licensed or 
+with license pending in this State. The list must be available upon request to the general public. 
+[2003, c. 636, §6 (AMD).] 
+24-A M.R.S. § 6803 
+Section 6803-A - Fiduciary obligation of settlement producer 
+Irrespective of the manner in which the settlement producer is compensated, a settlement 
+producer may represent only the interests of the viator and owes a fiduciary duty to the viator. 
+[2009, c. 376, §6 (NEW).] 
+24-A M.R.S. § 6803-A 
+Section 6804 - License revocation and administrative assessments1.Superintendent's authority. 
+[2003, c. 636, §7 (RP).] 
+1-A.Superintendent's authority. The superintendent may deny, suspend, revoke or refuse to 
+renew the license of a settlement provider if the superintendent finds just cause to do so, which 
+may include, but is not limited to, a finding that:A. There was any material misrepresentation in 
+the application for the license or other information submitted to the superintendent; [2003, c. 
+636, §7 (NEW).]B. The licensee or any officer, partner, director, member or key management 
+personnel of the licensee has been convicted of fraudulent or dishonest practices, is subject to a 
+final administrative action to suspend or revoke a settlement provider license or is otherwise 
+shown to be untrustworthy or incompetent to act as a settlement provider; [2003, c. 636, §7 
+(NEW).]C. The licensee as a settlement provider demonstrates an unreasonable pattern of 
+payments to viators; [2003, c. 636, §7 (NEW).]D. The licensee or any officer, partner, director, 
+member or key management personnel of the licensee has been found guilty of, or has pleaded 
+guilty or nolo contendere to, any crime involving fraud or moral turpitude, regardless of whether 
+a judgment of conviction has been entered by the court; [2003, c. 636, §7 (NEW).]E. The 
+settlement provider has entered into any settlement contract that has not been approved pursuant 
+to this chapter; [2003, c. 636, §7 (NEW).]F. The settlement provider has failed to honor 
+contractual obligations set out in a settlement contract; [2003, c. 636, §7 (NEW).]G. The 
+settlement provider no longer meets the requirements for initial licensure; [2003, c. 636, §7 
+(NEW).]H. The settlement provider has assigned, transferred or pledged a policy acquired 
+pursuant to a settlement contract to a person other than a settlement provider licensed in this 
+State, an accredited investor or qualified institutional buyer as defined respectively in Regulation 
+D, Rule 501 and Rule 144A of the Federal Securities Act of 1933, as amended, a financing 
+
+entity, a special purpose entity or a related provider trust; or [2003, c. 636, §7 (NEW).]I. The 
+licensee has violated any of the provisions of this chapter or any rules adopted pursuant to this 
+chapter. [2003, c. 636, §7 (NEW).] 
+[2003, c. 636, §7 (NEW).] 
+2.Hearing. Before the superintendent may deny a license application or suspend, revoke or 
+refuse to renew the license of a settlement provider, the licensee or applicant has an opportunity 
+for a hearing in accordance with Title 5, chapter 375, subchapter 4. 
+[2003, c. 636, §7 (AMD).] 
+3.Administrative penalty. The superintendent may, in addition to denying a license application 
+or suspending or revoking a license, assess an administrative civil forfeiture of $500 for each 
+willful violation of this chapter. This section may not be construed to diminish the penalties 
+available for any violation of chapter 23, in addition to any penalties authorized under 
+section 12-A. 
+[1997, c. 430, §1 (NEW); 1997, c. 430, §2 (AFF).] 
+24-A M.R.S. § 6804 
+ 
+Section 6805 - Approval of settlements contracts; disclosure statements and applications 
+A settlement contract must be in writing and signed by all parties to the contract. A person may 
+not use any contract, disclosure statement or application form with a viator who is a resident of 
+this State unless it has been filed with and approved by the superintendent, pursuant to 
+sections 2412 and 2413. The superintendent shall disapprove a settlement contract form or 
+disclosure statement form if, in the superintendent's opinion, the contract or provisions contained 
+therein are unreasonable, contrary to the interests of the public or otherwise misleading or unfair 
+to the viator. All such forms must be approved or denied by the superintendent within 60 
+calendar days following receipt of submission by the superintendent. [2009, c. 376, §7 (AMD).] 
+24-A M.R.S. § 6805 
+Section 6806 - Reporting requirements; confidentiality of information1.Annual report. A 
+settlement provider licensee shall file with the superintendent by March 1st of each year an 
+annual statement containing such information as the superintendent prescribes by rule, including 
+information related to settlement transactions on policies settled within 5 years of policy 
+issuance. The superintendent may not adopt any rule that requires the submission of information 
+that permits the identification of a viator or relates to transactions when the viator is not a 
+resident of this State. The superintendent may not request, collect or compile personal 
+information that identifies any viator or insured except in connection with the investigation of a 
+specific complaint and with the prior written permission of the viator or insured or the viator's or 
+insured's estate or representative to collect that information. The annual statement required by 
+this subsection and by rule of the superintendent is a public record within the meaning of Title 1, 
+chapter 13, subchapter 1. 
+[2017, c. 75, §1 (AMD).] 
+
+1-A.Fee for filing annual report. The fee for filing the annual report is the same as for an 
+insurer as provided in section 601. On or before July 1st of each year, the superintendent shall 
+forward to each settlement provider an itemized bill for the amount due for the filing of the 
+annual statement and the amount due for the certificate of authority annual fee. 
+[2003, c. 636, §9 (AMD).] 
+2.Privacy protection. Except as otherwise required or permitted by law, a settlement provider, 
+settlement producer, insurance company, insurance producer, independent insurance producer, 
+information bureau, rating company or any other person with actual knowledge of the identity of 
+a viator, or of the insured if other than the viator, may not disclose that identity, or the insured's 
+financial or medical information, to any other person unless the disclosure:A. Is necessary to 
+effectuate a settlement contract between the viator and a settlement provider and the viator and 
+the insured have provided prior written consent to the disclosure; [2003, c. 636, §9 (AMD).]B. Is 
+provided in response to an investigation or examination by the superintendent or any other 
+government officer or agency pursuant to section 6807; [2003, c. 636, §9 (AMD).]C. Is 
+necessary to permit a financing entity, related provider trust or special purpose entity to finance 
+the purchase of policies by a settlement provider and the viator and insured have provided prior 
+written consent to the disclosure; [2003, c. 636, §9 (AMD).]D. Is a term or condition to the 
+transfer of a policy by one settlement provider to another settlement provider; [2003, c. 636, §9 
+(NEW).]E. Is necessary to allow the settlement provider or insurance producer or an authorized 
+representative to make contacts for the purpose of determining health status; or [2003, c. 636, §9 
+(NEW).]F. Is required to purchase stop-loss coverage. [2003, c. 636, §9 (NEW).] 
+[2003, c. 636, §9 (AMD).] 
+3.Sale or transfer. 
+[2003, c. 636, §9 (RP).] 
+24-A M.R.S. § 6806 
+Section 6807 - Examinations and investigations1.Complaint. 
+[2003, c. 636, §10 (RP).] 
+1-A.Examinations. The superintendent may conduct examinations in accordance with this 
+subsection.A. The superintendent may conduct an examination under this chapter of a licensee as 
+often as the superintendent in the superintendent's sole discretion considers appropriate. [2003, c. 
+636, §10 (NEW).]B. For purposes of completing an examination of a licensee under this chapter, 
+subject to the provisions of section 6806, the superintendent may examine or investigate any 
+person, or the business of any person, insofar as the examination or investigation is, in the sole 
+discretion of the superintendent, considered necessary or material to the examination of the 
+licensee. [2003, c. 636, §10 (NEW).]C. In lieu of an examination under this chapter of any 
+foreign or alien licensee licensed in this State, the superintendent may, at the superintendent's 
+discretion, accept an examination report on the licensee as prepared by the superintendent of 
+insurance for the licensee's state of domicile or port-of-entry state. [2003, c. 636, §10 (NEW).] 
+[2003, c. 636, §10 (NEW).] 
+2.Confidential information. 
+
+[2003, c. 636, §10 (RP).] 
+3.Records. Records of all settlement transactions must be maintained by the settlement provider 
+licensee in accordance with this subsection.A. A settlement provider required to be licensed by 
+this chapter shall retain for 5 years copies of all:(1) Proposed, offered or executed settlement 
+contracts, settlement purchase agreements, underwriting documents, policy forms and 
+applications from the date of the proposal, offer or execution of the settlement contract or 
+settlement purchase agreement, whichever is later;(2) Checks, drafts or other evidence and 
+documentation related to the payment, transfer, deposit or release of funds from the date of the 
+transaction; and(3) Other records and documents related to the requirements of this chapter. 
+[2003, c. 636, §10 (NEW).]B. This subsection does not relieve a settlement provider licensee of 
+the obligation to produce these documents to the superintendent after the retention period has 
+expired if the person has retained the documents. [2003, c. 636, §10 (NEW).]C. Subject to the 
+provisions of section 6806, records required to be retained by this subsection must be legible and 
+complete and may be retained in paper, photographic, microprocess, magnetic, mechanical or 
+electronic media or by any process that accurately reproduces or forms a durable medium for the 
+reproduction of a record. [2003, c. 636, §10 (NEW).] 
+[2003, c. 636, §10 (AMD).] 
+4.Immunity. A cause of action may not arise against any person for the act of communicating or 
+delivering information or data to the superintendent or the superintendent's authorized 
+representative or examiner pursuant to an examination made under this chapter if the act of 
+communication or delivery was performed in good faith and without fraudulent intent or the 
+intent to deceive. This subsection does not abrogate or modify in any way any common law or 
+statutory privilege or immunity heretofore enjoyed by the superintendent, the superintendent's 
+authorized representatives or any examiner appointed by the superintendent.A. A cause of action 
+may not arise against the superintendent, the superintendent's authorized representatives or any 
+examiner appointed by the superintendent for any statements made or conduct performed in good 
+faith while carrying out the provisions of this chapter. [2003, c. 636, §10 (NEW).]B. A cause of 
+action may not arise against any person for the act of communicating or delivering information 
+or data to the superintendent or the superintendent's authorized representative or examiner 
+pursuant to an examination made under this chapter if the act of communication or delivery was 
+performed in good faith and without fraudulent intent or the intent to deceive. This paragraph 
+does not abrogate or modify in any way any common law or statutory privilege or immunity 
+heretofore enjoyed by any person identified in paragraph A. [2003, c. 636, §10 (NEW).]C. A 
+person identified in paragraph A or B is entitled to an award of attorney's fees and costs if that 
+person is the prevailing party in a civil cause of action for libel, slander or any other relevant tort 
+arising out of activities in carrying out the provisions of this chapter and the party bringing the 
+action was not substantially justified in doing so. For purposes of this paragraph, a proceeding is 
+"substantially justified" if the proceeding had a reasonable basis in law or fact at the time that it 
+was initiated. [2003, c. 636, §10 (NEW).] 
+[2003, c. 636, §10 (AMD).] 
+5.Conduct of examinations. The following provisions govern the conduct of 
+examinations.A. Upon determining that an examination should be conducted, the superintendent 
+shall issue an examination warrant appointing one or more examiners to perform the examination 
+
+and instructing them as to the scope of the examination. In conducting the examination, the 
+examiner shall observe those guidelines and procedures as the superintendent considers 
+appropriate. [2003, c. 636, §10 (NEW).]B. Every licensee or person from whom information is 
+sought and its officers, directors and agents shall provide to the examiners timely, convenient 
+and free access at all reasonable hours at its offices to all books, records, accounts, papers, 
+documents, assets and computer or other recordings relating to the property, assets, business and 
+affairs of the licensee or person being examined. The officers, directors, employees and agents of 
+the licensee or person shall facilitate the examination and aid in the examination insofar as it is in 
+their power to do so. The refusal of a licensee, by its officers, directors, employees or agents, to 
+submit to examination or to comply with any reasonable written request of the superintendent is 
+grounds for suspension or refusal of, or nonrenewal of, any license or authority held by the 
+licensee to engage in the business of settlements or other business subject to the superintendent's 
+jurisdiction. Any proceedings for suspension, revocation or refusal of any license or authority 
+must be conducted pursuant to Title 5, chapter 375, subchapter 4. [2003, c. 636, §10 
+(NEW).]C. The superintendent has the power to issue subpoenas, to administer oaths and to 
+examine under oath any person as to any matter pertinent to the examination. Upon the failure or 
+refusal of a person to obey a subpoena, the superintendent may petition a court of competent 
+jurisdiction and, upon proper showing, the court may enter an order compelling the witness to 
+appear and testify or produce documentary evidence. Failure to obey the court order is 
+punishable as contempt of court. [2003, c. 636, §10 (NEW).]D. When making an examination 
+under this chapter, the superintendent may retain attorneys, appraisers, independent actuaries, 
+independent certified public accountants or other professionals or specialists as examiners, the 
+reasonable cost of which must be borne by the licensee that is the subject of the examination. 
+[2003, c. 636, §10 (NEW).]E. This chapter may not be construed to limit the superintendent's 
+authority to terminate or suspend an examination in order to pursue other legal or regulatory 
+action pursuant to the insurance laws of this State. Findings of fact and conclusions made 
+pursuant to any examination are prima facie evidence in any legal or regulatory action. [2003, c. 
+636, §10 (NEW).]F. This chapter may not be construed to limit the superintendent's authority to 
+use and, if appropriate, to make public any final or preliminary examination report, any examiner 
+or licensee workpapers or other documents or any other information discovered or developed 
+during the course of any examination in the furtherance of any legal or regulatory action that the 
+superintendent may, in the superintendent's sole discretion, consider appropriate. [2003, c. 636, 
+§10 (NEW).] 
+[2003, c. 636, §10 (NEW).] 
+6.Examination reports. Examination reports may be composed only of facts appearing upon the 
+books, records or other documents of the licensee or its agents or other persons examined or as 
+ascertained from the testimony of its officers or agents or other persons examined concerning its 
+affairs and of such conclusions and recommendations as the examiners find reasonably 
+warranted from the facts. No later than 60 days following completion of the examination, the 
+examiner in charge shall file under oath with the superintendent a verified written report of 
+examination. Upon receipt of the verified report, the superintendent shall transmit the report to 
+the licensee examined, together with a notice that affords the licensee examined a reasonable 
+opportunity of not more than 30 days to make a written submission or rebuttal with respect to 
+any matters contained in the examination report. In the event the superintendent determines that 
+
+regulatory action is appropriate as a result of an examination, the superintendent may initiate any 
+proceedings or actions provided by law. 
+[2003, c. 636, §10 (NEW).] 
+7.Confidentiality of examination information. The disclosure of information is governed by 
+this subsection.A. Names and individual identification data for all viators and insured persons are 
+considered private and confidential information and may not be disclosed by the superintendent, 
+unless required by law. [2003, c. 636, §10 (NEW).]B. Except as otherwise provided in this 
+chapter, all examination reports, workpapers, recorded information, documents and copies 
+thereof produced by, obtained by or disclosed to the superintendent or any other person in the 
+course of an examination made under this chapter, or in the course of analysis or investigation by 
+the superintendent of the financial condition or market conduct of a licensee, are confidential by 
+law and privileged, are not subject to subpoena and are not subject to discovery or admissible in 
+evidence in any private civil action. The superintendent is authorized to use the documents, 
+materials or other information in the furtherance of any regulatory or legal action brought as part 
+of the superintendent's official duties. 
+For the purposes of this paragraph and paragraph C, "chapter" includes the law of another state 
+or jurisdiction that is substantially similar to this chapter. [2003, c. 636, §10 (NEW).] 
+C. Documents, materials or other information, including, but not limited to, all workpapers and 
+copies thereof, in the possession or control of the National Association of Insurance 
+Commissioners, or its successor organization, and its affiliates and subsidiaries are confidential 
+by law and privileged, are not subject to subpoena and are not subject to discovery or admissible 
+in evidence in any private civil action if they are:(1) Created, produced or obtained by or 
+disclosed to the National Association of Insurance Commissioners, or its successor organization, 
+and its affiliates and subsidiaries in the course of assisting an examination made under this 
+chapter or assisting a superintendent in the analysis or investigation of the financial condition or 
+market conduct of a licensee; or(2) Disclosed to the National Association of Insurance 
+Commissioners, or its successor organization, and its affiliates and subsidiaries under paragraph 
+D by a superintendent. [2003, c. 636, §10 (NEW).]D. The superintendent and any person that 
+receives documents, material or other information while acting under the authority of the 
+superintendent, including the National Association of Insurance Commissioners, or its successor 
+organization, and its affiliates and subsidiaries, may not testify in any private civil action 
+concerning any confidential documents, materials or information subject to paragraph A. [2003, 
+c. 636, §10 (NEW).]E. In order to assist in the performance of the superintendent's duties, the 
+superintendent:(1) May share documents, materials or other information, including the 
+confidential and privileged documents, materials or information subject to paragraph A, with 
+other state, federal and international regulatory agencies, with the National Association of 
+Insurance Commissioners, or its successor organization, and its affiliates and subsidiaries and 
+with state, federal and international law enforcement authorities, as long as the recipient agrees 
+to maintain the confidentiality and privileged status of the documents, materials, communication 
+or other information; and(2) May receive documents, materials, communications or information, 
+including otherwise confidential and privileged documents, materials or information, from the 
+National Association of Insurance Commissioners, or its successor organization, and its affiliates 
+and subsidiaries and from regulatory and law enforcement officials of foreign or other domestic 
+jurisdictions and shall maintain as confidential or privileged any document, material or 
+
+information received with notice or the understanding that it is confidential or privileged under 
+the laws of the jurisdiction that is the source of the document, material, or information. [2003, c. 
+636, §10 (NEW).]F. A waiver of any applicable privilege or claim of confidentiality in the 
+documents, materials or information does not occur as a result of disclosure to the superintendent 
+under this section or as a result of sharing as authorized in paragraph E. [2003, c. 636, §10 
+(NEW).]G. A privilege established under the law of any state or jurisdiction that is substantially 
+similar to the privilege established under this subsection is available and enforced in any 
+proceeding in, and in any court of, this State. [2003, c. 636, §10 (NEW).]H. This chapter may 
+not prevent or be construed as prohibiting the superintendent from disclosing the content of an 
+examination report or preliminary examination report or results, or any matter relating thereto, to 
+the superintendent of insurance of any other state or country or to law enforcement officials of 
+this State or any other state or an agency of the Federal Government at any time or to the 
+National Association of Insurance Commissioners, or its successor organization, as long as such 
+agency or office receiving the report or matters relating thereto agrees in writing to hold it 
+confidential and in a manner consistent with this chapter. [2003, c. 636, §10 (NEW).] 
+[2003, c. 636, §10 (NEW).] 
+8.Conflict of interest. The following provisions apply.A. An examiner may not be appointed by 
+the superintendent if the examiner, either directly or indirectly, has a conflict of interest or is 
+affiliated with the management of or owns a pecuniary interest in any person subject to 
+examination under this chapter. This section may not be construed to automatically preclude an 
+examiner from being:(1) A viator;(2) An insured in an insurance policy acquired pursuant to a 
+settlement contract; or(3) A beneficiary in an insurance policy that is proposed to be acquired 
+pursuant to a settlement contract. [2003, c. 636, §10 (NEW).]B. Notwithstanding the 
+requirements of this subsection, the superintendent may retain from time to time, on an 
+individual basis, qualified actuaries, certified public accountants or similar individuals who are 
+independently practicing their professions, even though these persons may from time to time be 
+similarly employed or retained by persons subject to examination under this chapter. [2003, c. 
+636, §10 (NEW).] 
+[2003, c. 636, §10 (NEW).] 
+9.Investigative authority of superintendent. In addition to the authority granted pursuant to 
+section 220, the superintendent may investigate persons engaged in the business of settlements 
+and persons suspected of engaging in fraudulent viatical or life settlement acts. 
+[2003, c. 636, §10 (NEW).] 
+24-A M.R.S. § 6807 
+Section 6808 - Disclosure 
+With each application for a settlement, a settlement provider shall disclose in writing at least the 
+following disclosures to a viator. Disclosure to a viator must include distribution of a brochure, 
+approved by the superintendent, describing the process of settlements. The disclosures must be 
+provided to the viator no later than the time the application for the settlement contract is signed 
+by all parties and must be signed by the viator and the settlement provider and provide the 
+following information: [2003, c. 636, §10 (AMD).] 
+
+1.Alternatives or options. Possible alternatives to or options that can be used in conjunction 
+with settlement contracts, including, but not limited to, accelerated death benefits or policy loans 
+offered by the issuer of the life insurance policy; 
+[2003, c. 636, §10 (AMD).] 
+2.Federal tax implications. The fact that some or all of the proceeds of the settlement contract 
+may be free from federal income tax under the federal Health Insurance Portability and 
+Accountability Act of 1996, Public Law 104-191; and that restrictions, qualifications and other 
+tax laws, particularly those of the state in which the viator resides, may apply and assistance 
+should be sought from a professional tax advisor; 
+[2003, c. 636, §10 (AMD).] 
+3.State tax implications. The fact that some or all of the proceeds of the settlement may be free 
+from state income tax under section 6809 and that restrictions, qualifications and other tax laws, 
+including those of the state in which the viator resides, may apply and assistance should be 
+sought from a professional tax advisor; 
+[2003, c. 636, §10 (AMD).] 
+4.Claims of creditors. The fact that proceeds of the settlement could be subject to the claims of 
+creditors; 
+[2003, c. 636, §10 (AMD).] 
+5.Effect on government benefits. The fact that receipt of the proceeds of the settlement may 
+adversely affect the recipient's eligibility for Medicaid or other means-based government 
+programs, benefits or entitlements and that advice should be obtained from the appropriate 
+agencies; 
+[2003, c. 636, §10 (AMD).] 
+6.Right to rescind. The fact that the viator has the right to rescind a settlement contract before 
+the earlier of 30 calendar days after the date upon which the settlement contract is executed by 
+all parties or 15 calendar days after the date upon which payment is received by the viator as 
+provided in section 6809. If exercised by the viator, rescission is effective only if both notice of 
+the rescission is given and repayment of all proceeds and any premiums, loans and loan interest 
+to the settlement provider is made within the rescission period. If the insured dies during the 
+rescission period, the settlement contract is deemed to have been rescinded, subject to repayment 
+of all proceeds and any premiums, loans and loan interest to the settlement provider; 
+[2003, c. 636, §10 (AMD).] 
+7.Potential reduction or loss of benefits to beneficiary. The fact that entering into a settlement 
+contract may cause other rights or benefits, including conversion rights and waiver of premium 
+benefits that may exist under the policy or certificate, to be forfeited by the viator and that 
+assistance should be sought from a financial adviser; 
+[2003, c. 636, §10 (AMD).] 
+
+7-A.Potential inability to purchase additional insurance. The fact that, because of limits 
+insurers may set on the amount of insurance on a single life, a change of ownership could leave 
+the viator without the ability to purchase insurance in the future to replace the transferred policy; 
+[2009, c. 376, §9 (NEW).] 
+8.Funds. The fact that funds will be sent to the viator within 3 business days after the settlement 
+provider has received the insurer's or group administrator's acknowledgment that ownership of 
+the policy or interest in the certificate has been transferred and the beneficiary has been 
+designated; and 
+[2003, c. 636, §10 (NEW).] 
+9.Privacy disclosure. A statement containing the following language: "All medical, financial or 
+personal information solicited or obtained by a settlement provider or settlement producer about 
+an insured, including the insured's identity or the identity of family members, a spouse or a 
+significant other, may be disclosed as necessary to effect the settlement contract between the 
+viator and the settlement provider. If you are asked to provide this information, you will be asked 
+to consent to the disclosure. The information may be provided to someone who buys the policy 
+or provides funds for the purchase. You may be asked to renew your permission to share 
+information every 2 years." 
+[2003, c. 636, §10 (NEW).] 
+24-A M.R.S. § 6808 
+Section 6808-A - Contact with insured; additional disclosures1.Contact with insured. The 
+insured may be contacted by either the settlement provider or its authorized representative for the 
+purpose of determining the insured's health status. This contact is limited to once every 3 months 
+if the insured has a life expectancy of more than one year and no more than once per month if the 
+insured has a life expectancy of one year or less. 
+[2003, c. 636, §11 (NEW).] 
+2.Additional disclosures. A settlement provider shall provide the viator with at least the 
+following disclosures no later than the date the settlement contract is signed by all parties. The 
+disclosures must be conspicuously displayed in the settlement contract or in a separate document 
+signed by the viator and the settlement provider or settlement producer and must provide the 
+following information:A. The affiliation, if any, between the settlement provider and the issuer 
+of the insurance policy to be acquired pursuant to a settlement contract; [2003, c. 636, §11 
+(NEW).]B. The name, address and telephone number of the settlement provider; [2003, c. 636, 
+§11 (NEW).]C. If an insurance policy to be purchased has been issued as a joint policy or 
+involves family riders or any coverage of a life other than the insured's under the policy to be 
+purchased, information regarding the possible loss of coverage on the other lives under the 
+policy and advice to consult with the viator's insurance producer or the insurer issuing the policy 
+for advice on the proposed settlement; [2003, c. 636, §11 (NEW).]D. The dollar amount of the 
+current death benefit payable to the settlement provider under the policy or certificate. If known, 
+the settlement provider shall also disclose the availability of any additional guaranteed insurance 
+benefits, the dollar amount of any accidental death and dismemberment benefits under the policy 
+or certificate and the settlement provider's interest in those benefits; [2009, c. 376, §10 
+
+(AMD).]E. The name, business address and telephone number of the independent 3rd-party 
+escrow agent and the fact that the viator may inspect or receive copies of the relevant escrow or 
+trust agreements or documents; [2009, c. 376, §10 (AMD).]F. A reconciliation of the settlement 
+provider's gross offer to the net amount to be received by the viator; [2009, c. 376, §10 
+(NEW).]G. The identity of all persons compensated directly or indirectly by the settlement 
+provider for the settlement contract, the amount of compensation paid to each and the method of 
+calculating that compensation; [2009, c. 376, §10 (NEW).]H. Notice that the insured may be 
+contacted as permitted by subsection 1 for the purpose of determining the insured's health; [2009, 
+c. 376, §10 (NEW).]I. An offer to disclose to the insured all life expectancy estimates obtained 
+by the provider; and [2009, c. 376, §10 (NEW).]J. Notice that complaints and inquiries may be 
+brought to the attention of the superintendent. [2009, c. 376, §10 (NEW).] 
+[2009, c. 376, §10 (AMD).] 
+2-A.Disclosure by settlement producers. A settlement producer shall provide the viator with at 
+least the following disclosures no later than the date the settlement contract is signed by all 
+parties. The disclosures must be conspicuously displayed in the settlement contract or in a 
+separate document signed by the viator and the settlement producer and must provide the 
+following information:A. Notice that a settlement producer must exclusively represent the viator, 
+not the insurer or the settlement provider, and owes a fiduciary duty to the viator; [2009, c. 376, 
+§11 (NEW).]B. A description of all offers, counteroffers, acceptances and rejections relating to 
+any proposed settlement of the policy; [2009, c. 376, §11 (NEW).]C. If any other persons are 
+compensated directly or indirectly by the settlement producer for the settlement contract, their 
+identity, the amount of compensation paid to each and the method of calculating that 
+compensation; and [2009, c. 376, §11 (NEW).]D. Notice that complaints and inquiries may be 
+brought to the attention of the superintendent. [2009, c. 376, §11 (NEW).] 
+[2009, c. 376, §11 (NEW).] 
+3.Notice of change in ownership or beneficiary. If the settlement provider transfers ownership 
+or changes the beneficiary of the insurance policy, the settlement provider shall communicate the 
+change in ownership or beneficiary to the insured within 20 days after the change. 
+[2003, c. 636, §11 (NEW).] 
+4.Disclosure of policyowner's rights. The superintendent shall develop an informational 
+brochure to apprise consumers of their rights as owners of life insurance policies. The document 
+must be made available at no cost to all insurance companies and life insurance producers and 
+written in lay terms.A. The brochure must advise the consumer:(1) That life insurance is a 
+critical part of a broader financial plan and that the consumer is encouraged, and has a right, to 
+seek additional financial advice and opinions;(2) That possible alternatives to the lapse of the 
+policy exist; and(3) Of the definitions of common industry terms. [2009, c. 376, §12 
+(NEW).]B. The brochure must contain the following statement in large, bold or otherwise 
+conspicuous typeface calculated to draw the eye: "Life insurance is a critical part of a broader 
+financial plan. There are many options available, and you have the right to shop around and seek 
+advice from different financial advisers in order to find the option best suited to your needs." 
+[2009, c. 376, §12 (NEW).]C. The brochure may include brief descriptions of common products 
+available from settlement providers. These products must be described in general terms for 
+informative purposes only and not identify any specific settlement provider. [2009, c. 376, §12 
+
+(NEW).]D. If the insured under an individual life insurance policy is 60 years of age or older, or 
+is known by the insurer to be terminally ill or chronically ill, the insurer shall send notice to the 
+policyowner that there may be alternative transactions available, including a copy of the 
+superintendent's brochure, whenever:(1) The policyowner has requested the surrender of the 
+policy in whole or in part;(2) The policyowner has requested an accelerated death benefit;(3) The 
+insurer sends an initial notice that the policy may lapse; or(4) As the superintendent may require 
+by rule. [2009, c. 376, §12 (NEW).] 
+[2009, c. 376, §12 (NEW).] 
+24-A M.R.S. § 6808-A 
+Section 6809 - General provisions for settlement contracts1.Prior conditions. A settlement 
+provider entering into a settlement contract with a viator shall first obtain:A. If the viator is the 
+insured, a written statement from a licensed attending physician that the viator is of sound mind 
+and under no constraint or undue influence to enter into a settlement contract; [2003, c. 636, §12 
+(AMD).]B. Prior to or at the time of execution of the settlement contract, a witnessed document 
+in which the viator consents to the settlement contract, represents that the viator has a full and 
+complete understanding of the settlement contract and that the viator has a full and complete 
+understanding of the benefits of the life insurance policy, acknowledges that the viator has 
+entered into the settlement contract freely and voluntarily and, for persons who are terminally ill 
+or chronically ill, acknowledges that the insured is terminally ill or chronically ill and that the 
+terminal or chronic illness was diagnosed after the life insurance policy was issued; and [2003, c. 
+636, §12 (AMD).]C. Notwithstanding section 2159, subsection 3 or any other provisions of state 
+law, a document in which the insured consents to the release of the insured's medical records to a 
+settlement provider and, if the life insurance policy was issued less than 2 years from the date of 
+application for a settlement contract to the insurance company that issued the life insurance 
+policy covering the life of the insured. [2003, c. 636, §12 (AMD).] 
+The insurer shall respond to a request for verification of coverage submitted by a settlement 
+provider not later than 30 calendar days from the date the request is received. The request for 
+verification of coverage must be made on a form approved by the superintendent. In its response, 
+the insurer shall indicate whether, based on the medical evidence and documents provided, the 
+insurer intends to pursue an investigation regarding the validity of the insurance contract. 
+[2003, c. 636, §12 (AMD).] 
+2.Confidentiality of medical information. All medical information solicited or obtained by any 
+licensee is subject to the applicable provisions of state law relating to confidentiality of medical 
+information. 
+[1997, c. 430, §1 (NEW); 1997, c. 430, §2 (AFF).] 
+3.Unconditional rescission. All settlement contracts must contain a provision that the viator has 
+the right to rescind a settlement contract before the earlier of 30 calendar days after the date upon 
+which the settlement contract is executed by all parties or 15 calendar days after the date upon 
+which payment is received by the viator as provided in section 6808. Rescission if exercised by 
+the viator is effective only if both notice of the rescission is given and a full repayment of all 
+proceeds and any premiums, loans and loan interest to the settlement provider is made within the 
+
+rescission period. If the insured dies during the rescission period, the settlement contract is 
+deemed to have been rescinded, subject to repayment of all proceeds and any premiums, loans 
+and loan interest to the settlement provider. 
+[2003, c. 636, §12 (AMD).] 
+4.Transfer of insurance policy. The settlement provider shall designate an independent escrow 
+agent and instruct the viator to send the executed documents required to effect the change in 
+ownership or assignment or change in beneficiary directly to the independent escrow agent. 
+Within 3 business days after the date the escrow agent receives the document, or from the date 
+the settlement provider receives the documents, if the viator erroneously provides the documents 
+directly to the provider, the settlement provider shall pay or transfer the proceeds of the 
+settlement into an escrow or trust account maintained in a state or federally chartered financial 
+institution whose deposits are insured by the Federal Deposit Insurance Corporation or its 
+successor. Upon payment of the settlement proceeds into the escrow account, the escrow agent 
+shall deliver the original change in ownership or assignment or change in beneficiary forms to 
+the settlement provider or related provider trust. Upon the escrow agent's receipt of the 
+acknowledgment of the properly completed transfer of ownership or assignment or designation 
+of beneficiary from the insurance company, the escrow agent shall pay the settlement proceeds to 
+the viator. 
+[2009, c. 376, §13 (AMD).] 
+5.Effect of failure to tender consideration. Failure to tender consideration for the settlement 
+under the terms of the settlement contract renders the contract voidable for lack of consideration 
+until the time consideration is tendered to and accepted by the viator. 
+[2003, c. 636, §12 (AMD).] 
+6.Unlicensed provider. 
+[2003, c. 636, §12 (RP).] 
+7.Income. 
+[2003, c. 636, §12 (RP).] 
+8.Advertising standards. 
+[2003, c. 636, §12 (RP).] 
+9.Contacts with the insured. An insured may designate one or more adult individuals in regular 
+contact with the insured as the individual for all inquiries regarding the insured's health status 
+and, if that designation is made, a settlement provider may not make these inquiries to the 
+insured unless the settlement provider is unable, for more than 30 days, to contact the designee 
+after diligent effort. The insured may change this designation at any time upon written notice to 
+the settlement provider. Contacts with the insured for the purpose of determining the health 
+status of the insured after the settlement has occurred are limited to once every 3 months for 
+insureds with an estimated life expectancy of more than one year and once per month for 
+insureds with a life expectancy of one year or less. The settlement provider shall explain to the 
+insured the procedure for these contacts prior to the time the settlement contract is entered into. 
+The limitation in this rule on contacts does not apply to contacts made for reasons other than 
+
+determining the insured's health status or necessary to maintain the policy in force. Settlement 
+providers are responsible for the actions of their authorized representatives. 
+[2003, c. 636, §12 (AMD).] 
+24-A M.R.S. § 6809 
+Section 6810 - Rules 
+The superintendent may adopt rules implementing this chapter. These rules are routine technical 
+rules under Title 5, chapter 375, subchapter 2-A. Rules may be adopted to: [2003, c. 636, §13 
+(AMD).] 
+1.Standards for evaluating reasonableness of payments. Establish standards for evaluating the 
+reasonableness of payments to viators under a settlement contract only when the insured in the 
+policy that is the subject of a settlement contract is terminally ill or chronically ill. This authority 
+includes, but is not limited to, regulation of discount rates used to determine the amount paid in 
+exchange for assignment, transfer, sale, devise or bequest of a benefit under a life insurance 
+policy; 
+[2003, c. 636, §13 (NEW).] 
+2.Licensing requirements and standards. Establish appropriate licensing requirements and 
+standards for continued licensure for settlement providers; 
+[2003, c. 636, §13 (NEW).] 
+3.Mechanism for financial accountability. Require a bond or other mechanism for financial 
+accountability for settlement providers; 
+[2003, c. 636, §13 (NEW).] 
+4.Govern relationship and responsibilities. Govern the relationship and responsibilities of both 
+insurers and settlement providers and settlement producers and others in the business of 
+settlement during the period of consideration or effectuation of a settlement contract; and 
+[2003, c. 636, §13 (NEW).] 
+5.Implement other requirements. Implement any other requirements of this chapter. 
+[2003, c. 636, §13 (NEW).] 
+24-A M.R.S. § 6810 
+Section 6811 - Prohibited practices and provisions under policies1.Assignment. The following 
+provisions govern assignment.A. A policy of individual or group life insurance that permits 
+assignment issued or delivered in this State may not, in any way, restrict a person from making 
+an absolute assignment of rights for consideration. Prohibited restrictions include, but are not 
+limited to, assignments only as a gift and without consideration, assignments only to a limited 
+class of persons and assignments only to a natural person and not to a legal entity. [2003, c. 636, 
+§13 (AMD).]B. A life insurance company that acknowledges and records an absolute assignment 
+of life insurance policy or rights under a group life insurance policy may rely solely on the 
+authorization of the assignor to make the assignment and the life insurance company is not 
+
+obligated to inquire into the validity, sufficiency or terms of the assignment. In acknowledging 
+and recording an assignment, a life insurance company acting in good faith and reliance on the 
+presentation of the absolute assignment, acts in a ministerial capacity and may exhibit no 
+discretion as to whether an assignor may make the assignment or whether the assignment 
+conforms with applicable law. [1997, c. 430, §1 (NEW); 1997, c. 430, §2 (AFF).] 
+[2003, c. 636, §13 (AMD).] 
+2.Rights under an assignment. The following provisions apply to an assignment.A. For life 
+insurance contracts that permit assignment:(1) A person has the right to assign, transfer, sell or 
+bequeath the ownership of or death benefit payable under a life insurance policy or certificate at 
+any time for any remaining portion of that coverage after exercising any option for accelerated 
+benefits;(2) A person also has the right to assign, transfer, sell, devise or bequeath the ownership 
+of or death benefit payable under a life insurance policy or certificate if that coverage is on 
+disability waiver of premium at any time; and(3) The absolute assignee of an individual life 
+insurance policy or of all rights under a group life insurance policy has all rights at law or in 
+equity as the assignor held under that policy, including, but not limited to, the right to convert the 
+coverage to an individual policy, the right to timely notice of the right to that conversion at the 
+time that right accrues, the right to make premium payments or take such other action as may be 
+necessary under the policy in order to preserve the value of the coverage assigned, the right to 
+receive information concerning the coverage, the right to receive notice of a lapse or 
+discontinuation of coverage, the exclusive right to exercise any options concerning the assigned 
+coverage during an open enrollment period and all such other rights and privileges initially 
+granted to a person under the terms of the individual or group life insurance policy. [2003, c. 
+636, §13 (AMD).]B. A person has the right to exercise any option for accelerated benefits under 
+the terms of any individual or group life insurance policy at any time for any unassigned portion 
+of that policy or certificate. [2003, c. 636, §13 (AMD).] 
+[2003, c. 636, §13 (AMD).] 
+3.Failure to give notice under group life insurance policy. If the rights under a group life 
+insurance policy have been assigned and the administrator of the policy fails to give notice to the 
+assignee that a person is no longer a covered person under the group and of the right to convert 
+the policy to an individual life insurance policy, the period of time during which the assignee 
+must make application for conversion under the terms of the group life insurance policy begins 
+from the date the notice is given to the assignee. 
+[2003, c. 636, §13 (AMD).] 
+4.Riders and postsettlement increases or additions. With respect to policies containing a 
+provision for double or additional indemnity for accidental death or any other riders or additional 
+death benefits, including the increase in the death benefit in excess of the amount of the death 
+benefits of the date the settlement contract is effected at the time the policy is assigned, 
+transferred, sold, devised or bequeathed, unless otherwise mutually agreed to in writing by the 
+viator and the settlement provider, the additional amount remains payable to the beneficiary last 
+named by the viator prior to entering into the settlement contract or to such other beneficiary 
+other than the settlement provider as the viator may thereafter designate or, in the absence of a 
+designation, to the estate of the viator. 
+[2003, c. 636, §13 (AMD).] 
+
+5.Prohibition on settlements. It is a violation of this chapter for any person to enter into a 
+settlement contract at any time prior to, or at the time of the application for, the issuance of a 
+policy or within a 2-year period commencing with the date of issuance of the insurance policy or 
+certificate unless the viator certifies to the settlement provider that one or more of the following 
+conditions have been met within the 2-year period:A. The policy was issued upon the viator's 
+exercise of conversion rights arising out of a group or individual policy, as long as the total of 
+the time covered under the conversion policy plus the time covered under the prior policy is at 
+least 24 months. The time covered under a group policy must be calculated without regard to any 
+change in insurance carriers, as long as the coverage has been continuous and under the same 
+group sponsorship; and [2003, c. 636, §13 (NEW).]B. The viator submits independent evidence 
+to the settlement provider that one or more of the following conditions have been met within the 
+2-year period:(1) The viator or insured is terminally ill or chronically ill; or(2) The viator or 
+insured disposes of the viator's entire ownership interest in a closely held corporation pursuant to 
+the terms of a buyout or other similar agreement in effect at the time the insurance policy was 
+initially issued. [2003, c. 636, §13 (NEW).] 
+[2007, c. 543, §6 (AMD).] 
+6.Submission of certification. If the settlement provider submits to the insurer a copy of the 
+owner's or insured's certification described in subsection 5 when the settlement provider submits 
+a request to the insurer to effect the transfer of the policy or certificate to the settlement provider, 
+the copy is deemed to conclusively establish that the settlement contract satisfies the 
+requirements of this section and the insurer shall timely respond to the request. 
+[2003, c. 636, §13 (NEW).] 
+24-A M.R.S. § 6811 
+Section 6812 - Insurance company practices1.Duty to provide information. In addition to the 
+provisions in section 6809, an insurance company that is licensed to do business in this State 
+shall promptly respond to reasonable requests for policy information from a settlement provider 
+or settlement producer upon the receipt of the following documents in the office of the insurance 
+company:A. An authorization signed by the viator to release specified information regarding the 
+policy or certificate to a named licensed settlement provider or settlement producer; and [2003, c. 
+636, §13 (AMD).]B. A request in writing from the settlement provider or settlement producer for 
+the specified policy or certificate information. [2003, c. 636, §13 (AMD).] 
+Requests for the following items related to the policy or certificate that is the subject of a 
+settlement transaction are deemed to be reasonable: ownership of and death benefits under the 
+policy or certificate; premium information on the policy or certificate; liens, assignments and 
+additional benefits; waiver of premium; and ownership and assignment provisions. The 
+information provided must be the most recent information on file. By rule, the superintendent 
+may specify additional criteria for information requests deemed reasonable under this section by 
+a settlement provider. 
+[2003, c. 636, §13 (AMD).] 
+2.Conversion of group insurance. An issuer or 3rd-party administrator of a group life insurance 
+policy shall promptly issue an individual conversion policy if the conversion is being requested 
+
+for the purpose of entering into a settlement contract. For the purposes of this section, issuance of 
+such a policy is deemed timely if it meets relevant standards for timeliness under chapter 23. 
+This subsection may not be construed to create any new conversion rights not already granted by 
+the policy or certificate being acquired pursuant to a settlement contract. 
+[2003, c. 636, §13 (AMD).] 
+3.Right to assign rights or benefits. Subsection 1 or 2 does not prohibit a viator under a group 
+life insurance policy from assigning rights or benefits under the policy to a licensed settlement 
+provider or converting the coverage to an individual life insurance policy. 
+[2003, c. 636, §13 (AMD).] 
+4.Assignment restrictions prohibited. A policy of group life insurance issued or in existence in 
+this State that permits any assignment of a viator's rights may not restrict the viator from making 
+assignments other than by gift. 
+[1997, c. 430, §1 (NEW); 1997, c. 430, §2 (AFF).] 
+5.Purchase of securities. This chapter does not require notice to the superintendent of, or restrict 
+an insurance company from investing in, or participating in, or purchasing any securities issued 
+in any transaction including without limitation any financing, securitization transaction or 
+securities offering in which the licensed settlement provider sells, assigns, transfers, pledges, 
+hypothecates or otherwise disposes of settlement contracts, policies acquired pursuant to 
+settlement contracts or any interest therein. 
+[2003, c. 636, §13 (AMD).] 
+6.Protection of policyholder's rights. An insurer may not engage in a transaction, act, practice 
+or course of business or dealing that restricts, limits or impairs in any way the lawful transfer of 
+ownership, change of beneficiary or assignment of a policy. This subsection does not prohibit a 
+lawful contract provision granting irrevocable rights to a beneficiary or lawfully prohibiting 
+assignment. 
+[2009, c. 376, §14 (NEW).] 
+24-A M.R.S. § 6812 
+Section 6812-A - Inquiries and optional disclosures by life insurers1.Permitted inquiries 
+regarding premium financing. In addition to any other information a life insurer may lawfully 
+request in an application for insurance, the insurer may ask whether the proposed owner intends 
+to pay premiums with the assistance of financing from a lender that will use the policy as 
+collateral to support the financing, and if so, whether:A. The applicant has entered into any 
+agreement or arrangement providing for the future sale of this life insurance policy; [2009, c. 
+376, §15 (NEW).]B. The loan arrangement for the policy provides funds sufficient to pay for 
+some or all of the premiums, costs and expenses associated with obtaining and maintaining the 
+applicant's life insurance policy; [2009, c. 376, §15 (NEW).]C. The applicant has entered into 
+any agreement by which the applicant is to receive consideration in exchange for procuring the 
+policy; and [2009, c. 376, §15 (NEW).]D. The borrower has an insurable interest in the insured. 
+[2009, c. 376, §15 (NEW).] 
+[2009, c. 376, §15 (NEW).] 
+
+2.Prohibited transactions. If the information obtained by the life insurer demonstrates that the 
+loan provides funds that can be used for a purpose other than paying for the premiums, costs and 
+expenses associated with obtaining and maintaining the life insurance policy and loan or that the 
+transaction otherwise violates this chapter, the insurer shall reject the application. 
+[2009, c. 376, §15 (NEW).] 
+3.Optional disclosures by the life insurer. The insurer may make disclosures to the applicant, 
+the insured and other affected persons, either on the application, an amendment to the application 
+or a separate document, in the following form: 
+"If you have entered into a loan arrangement in which the policy is used as collateral and the 
+policy does change ownership at some point in the future in satisfaction of the loan, the 
+following may be true: 
+A. A change of ownership could lead to a stranger owning an interest in the insured's life; [2009, 
+c. 376, §15 (NEW).]B. Your ability to purchase future insurance on the insured's life could be 
+limited because there is a limit to how much coverage insurers will issue on one life; [2009, c. 
+376, §15 (NEW).]C. Should there be a change of ownership and should you wish to obtain more 
+insurance coverage on the insured's life in the future, the insured's higher issue age, a change in 
+health status or other factors may reduce the ability to obtain coverage or may result in 
+significantly higher premiums; and [2009, c. 376, §15 (NEW).]D. You should consult a 
+professional advisor because a change in ownership in satisfaction of the loan may result in tax 
+consequences to the owner, depending on the structure of the loan." [2009, c. 376, §15 (NEW).] 
+[2009, c. 376, §15 (NEW).] 
+24-A M.R.S. § 6812-A 
+Section 6814 - Unfair trade practices 
+A violation of this chapter is an unfair trade practice under Title 5, chapter 10 and subject to the 
+penalties contained in that chapter. [1997, c. 430, §1 (NEW); 1997, c. 430, §2 (AFF).] 
+24-A M.R.S. § 6814 
+Section 6815 - Assignment or resale of policies1.Prohibited transfers. A settlement provider 
+may not sell, assign, transfer or pledge a policy acquired pursuant to a settlement contract except 
+to a licensed settlement provider or a person exempt from licensing under section 6803. 
+[2003, c. 636, §15 (AMD).] 
+2.Securities registration. Any sale by a settlement provider of settlement contracts, policies 
+acquired pursuant to settlement contracts or interests therein that constitute a "security" within 
+the meaning of the United States Securities Act of 1933, as amended, or the Maine Uniform 
+Securities Act, as amended, must be registered under those statutes unless there is an available 
+exemption from registration under those statutes. 
+[2005, c. 65, Pt. C, §14 (AMD).] 
+24-A M.R.S. § 6815 
+
+Section 6815-A - Regulatory requirements under Maine Uniform Securities Act 
+This chapter does not preempt the regulatory requirements set forth in the Maine Uniform 
+Securities Act, as amended, including but not limited to the regulation of securities transactions 
+in settlement contracts or viatical settlement contracts and the licensing of any person or entity 
+engaged in the sale of securities. [2005, c. 65, Pt. C, §15 (AMD).] 
+24-A M.R.S. § 6815-A 
+Section 6817 - Advertising of settlements1.Advertising for settlements. Every settlement 
+provider licensee shall establish and at all times maintain a system of control over the content, 
+form and method of dissemination of all advertisements of its contracts, products and services. 
+All advertisements, regardless of by whom written, created, designed or presented, are the 
+responsibility of the settlement provider licensee, as well as the individual who created or 
+presented the advertisement. A system of control must include providing regular routine 
+notification, at least once a year, to agents and others authorized by the settlement licensee to 
+disseminate advertisements; the notification must include the requirements and procedures for 
+approval of any advertisements not furnished by the settlement provider licensee prior to the 
+advertisements' use. 
+[2003, c. 636, §18 (NEW).] 
+2.Form and content. Advertisements must be truthful and not misleading in fact or by 
+implication. The form and content of an advertisement of a settlement contract must be 
+sufficiently complete and clear so as to avoid deception. It may not have the capacity or tendency 
+to mislead or deceive. Whether an advertisement has the capacity or tendency to mislead or 
+deceive must be determined by the superintendent from the overall impression that the 
+advertisement may be reasonably expected to create upon a person of average education or 
+intelligence within the segment of the public to which it is directed. 
+[2003, c. 636, §18 (NEW).] 
+3.Standards for disclosure. An advertisement must comply with standards for disclosure 
+determined by rule by the superintendent. 
+[2003, c. 636, §18 (NEW).] 
+4.Applicability. This section applies to any advertisement of settlement contracts or related 
+products or services intended for dissemination in this State, including advertising on the Internet 
+viewed by persons located in this State. If disclosure requirements are established pursuant to 
+federal regulation, this section must be interpreted so as to minimize or eliminate conflict with 
+federal regulation whenever possible. 
+[2003, c. 636, §18 (NEW).] 
+24-A M.R.S. § 6817 
+Section 6818 - Fraud prevention and control1.Fraudulent viatical or life settlement acts 
+prohibited. Notwithstanding any other provision of law to the contrary:A. A person may not 
+commit a fraudulent viatical or life settlement act; [2003, c. 636, §18 (NEW).]B. A person may 
+not knowingly or intentionally interfere with the enforcement of the provisions of this chapter or 
+
+investigations of suspected or actual violations of this chapter; and [2003, c. 636, §18 
+(NEW).]C. A person in the business of settlements may not knowingly or intentionally permit 
+any person convicted of a crime involving dishonesty or breach of trust to participate in the 
+business of settlements. [2003, c. 636, §18 (NEW).] 
+[2003, c. 636, §18 (NEW).] 
+2.Fraud warning required. Settlement contracts and applications for settlements, regardless of 
+the form of transmission, must contain the following statement or a substantially similar 
+statement: "Any person who knowingly presents false information in an application for insurance 
+or a settlement contract is guilty of a crime and may be subject to fines and confinement in 
+prison." The lack of a statement as required in this subsection does not constitute a defense in 
+any prosecution for a fraudulent viatical or life settlement act. 
+[2003, c. 636, §18 (NEW).] 
+3.Mandatory reporting of fraudulent viatical or life settlement acts. Any person engaged in 
+the business of settlements having knowledge or a reasonable belief that a fraudulent viatical or 
+life settlement act is being, will be or has been committed shall provide to the superintendent the 
+information required by, and in a manner prescribed by, the superintendent. Any other person 
+having knowledge or a reasonable belief that a fraudulent viatical or life settlement act is being, 
+will be or has been committed may provide to the superintendent the information required by, 
+and in a manner prescribed by, the superintendent. 
+[2003, c. 636, §18 (NEW).] 
+4.Immunity from liability. Except as provided in subsection 5, civil liability may not be 
+imposed on and a cause of action may not arise from a person's furnishing information 
+concerning suspected, anticipated or completed fraudulent viatical or life settlement acts or 
+suspected or completed fraudulent insurance acts if the information is provided to or received 
+from:A. The superintendent or the superintendent's employees, agents or representatives; [2003, 
+c. 636, §18 (NEW).]B. Federal, state or local law enforcement or regulatory officials or their 
+employees, agents or representatives; [2003, c. 636, §18 (NEW).]C. The National Association of 
+Insurance Commissioners or its successor organization, National Association of Securities 
+Dealers or its successor organization, the North American Securities Administrators Association 
+or its successor organization, or their employees, agents or representatives of these organizations, 
+or other regulatory body overseeing life insurance, settlements securities or investment fraud; 
+[2003, c. 636, §18 (NEW).]D. A person involved in the prevention and detection of fraudulent 
+viatical or life settlement acts or that person's agents, employees or representatives; or [2003, c. 
+636, §18 (NEW).]E. The life insurer that issued the life insurance policy covering the life of the 
+insured. [2003, c. 636, §18 (NEW).] 
+[2003, c. 636, §18 (NEW).] 
+5.Exception. The following provisions apply to the imposition of civil liability arising from 
+information provided to or received from the superintendent or the superintendent's employees, 
+agents or representatives.A. Subsection 4 does not apply to statements made with actual malice. 
+In an action brought against a person for filing a report or furnishing other information 
+concerning a fraudulent viatical or life settlement act or a fraudulent insurance act, the party 
+bringing the action shall plead specifically any allegation that Subsection 4 does not apply 
+
+because the person filing the report or furnishing the information did so with actual malice. 
+[2003, c. 636, §18 (NEW).]B. Subsection 4 does not apply to a person's furnishing information 
+concerning that person's own suspected, anticipated or completed fraudulent viatical or life 
+settlement acts or suspected or completed fraudulent insurance acts. [2003, c. 636, §18 
+(NEW).]C. This subsection does not abrogate or modify common law or statutory privileges or 
+immunities enjoyed by a person described in subsection 4. [2003, c. 636, §18 (NEW).] 
+[2003, c. 636, §18 (NEW).] 
+6.Confidentiality. The following provisions apply.A. The documents and evidence provided 
+pursuant to subsection 4 or obtained by the superintendent in an investigation of suspected or 
+actual fraudulent viatical or life settlement acts is privileged and confidential and is not a public 
+record under Title 1, chapter 13 and is not subject to discovery or subpoena in a civil or criminal 
+action. [2003, c. 636, §18 (NEW).]B. Paragraph A does not prohibit release by the 
+superintendent of documents and evidence obtained in an investigation of suspected or actual 
+fraudulent viatical or life settlement acts:(1) In administrative or judicial proceedings to enforce 
+laws administered by the superintendent;(2) To federal, state or local law enforcement or 
+regulatory agencies, to an organization established for the purpose of detecting and preventing 
+fraudulent viatical or life settlement acts or to the National Association of Insurance 
+Commissioners or its successor organization; or(3) At the discretion of the superintendent, to a 
+person in the business of settlements that is aggrieved by a fraudulent viatical or life settlement 
+act. [2003, c. 636, §18 (NEW).]C. Release of documents and evidence under paragraph B does 
+not abrogate or modify the privilege granted in paragraph A. [2003, c. 636, §18 (NEW).] 
+[2003, c. 636, §18 (NEW).] 
+7.Other law enforcement or regulatory authority. This section does not:A. Preempt the 
+authority or relieve the duty of other law enforcement or regulatory agencies to investigate, 
+examine and prosecute suspected violations of law; [2003, c. 636, §18 (NEW).]B. Prevent or 
+prohibit a person from disclosing voluntarily information concerning viatical or life settlement 
+fraud to a law enforcement or regulatory agency other than the bureau; or [2003, c. 636, §18 
+(NEW).]C. Limit the powers granted elsewhere by the laws of this State to the superintendent or 
+an insurance fraud unit to investigate and examine possible violations of law and to take 
+appropriate action against wrongdoers. [2003, c. 636, §18 (NEW).] 
+[2003, c. 636, §18 (NEW).] 
+8.Viatical or life settlement antifraud initiatives. In accordance with this subsection, a 
+settlement provider licensee must have in place antifraud initiatives reasonably calculated to 
+detect, prosecute and prevent fraudulent viatical or life settlement acts.A. At the discretion of the 
+superintendent, the superintendent may order, or a licensee may request and the superintendent 
+may grant, such modifications of the required initiatives under paragraph B as necessary to 
+ensure an effective antifraud program. The modifications may be more or less restrictive than the 
+required initiatives as long as the modifications may reasonably be expected to accomplish the 
+purpose of this subsection. [2003, c. 636, §18 (NEW).]B. Antifraud initiatives must 
+include:(1) Fraud investigators, who may be employees of a settlement provider or independent 
+contractors; and(2) An antifraud plan, which must be submitted to the superintendent. The 
+antifraud plan must include, but is not limited to:(a) A description of the procedures for detecting 
+and investigating possible fraudulent viatical or life settlement acts and procedures for resolving 
+
+material inconsistencies between medical records and insurance applications;(b) A description of 
+the procedures for reporting possible fraudulent viatical or life settlement acts to the 
+superintendent;(c) A description of the plan for antifraud education and training of underwriters 
+and other personnel; and(d) A description or chart outlining the organizational arrangement of 
+the antifraud personnel who are responsible for the investigation and reporting of possible 
+fraudulent viatical or life settlement acts and investigating unresolved material inconsistencies 
+between medical records and insurance applications. [2003, c. 636, §18 (NEW).]C. Antifraud 
+plans submitted to the superintendent are privileged and confidential and are not a public record 
+under Title 1, chapter 13 or subject to discovery or subpoena in a civil or criminal action. [2003, 
+c. 636, §18 (NEW).] 
+[2003, c. 636, §18 (NEW).] 
+24-A M.R.S. § 6818 
+Section 6819 - Civil remedies; individual remedy1.Civil remedies and enforcement. In addition 
+to the penalties available pursuant to section 6814, the superintendent may assess fines or take 
+any other enforcement action permitted under section 12-A against any person who violates any 
+provision of this chapter. 
+[2003, c. 636, §18 (NEW).] 
+2.Superior Court action. Any person who is injured by any action of a person in violation of 
+this chapter may bring an action in Superior Court. The requirements for notice and filing of a 
+cause of action under this subsection are governed by the Maine Rules of Civil Procedure. The 
+person may recover damages, together with costs and disbursements. 
+[2003, c. 636, §18 (NEW).] 
+3.No private right of action. Except as specifically provided in subsection 2, this chapter 
+provides no express or implied private right of action. 
+[2003, c. 636, §18 (NEW).] 
+24-A M.R.S. § 6819 
+ 

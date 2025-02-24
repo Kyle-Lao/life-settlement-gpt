@@ -1,0 +1,527 @@
+State of Utah: Life Settlements Statutes 
+Utah Code: Title 31A – Insurance Code: Chapter 36 Life Settlements Act 
+Section 31A-36-101 - Title 
+This chapter is known as the "Life Settlements Act." 
+Utah Code § 31A-36-101 
+Section 31A-36-102 - Definitions 
+As used in this chapter: 
+(1)(a) "Advertising" means a communication placed before the public to:(i) create an interest in a 
+life settlement; or(ii) induce a person pursuant to a life settlement to sell, assign, devise, bequest, 
+or transfer the death benefit or ownership of:(A) a policy; or(B) an interest in a 
+policy.(b) "Advertising" includes the following, if the requirements of Subsection (1)(a) are 
+met:(i) a written, electronic, or printed communication;(ii) a communication by means of a 
+recorded telephone message;(iii) a communication transmitted on radio, television, the Internet, 
+or similar communications media; and(iv) a film strip, motion picture, or video.(2) "Business of 
+life settlements" includes the following:(a) offering a life settlement;(b) soliciting a life 
+settlement;(c) negotiating a life settlement;(d) procuring a life settlement;(e) effectuating a life 
+settlement;(f) purchasing a life settlement;(g) investing in a life settlement;(h) financing a life 
+settlement;(i) monitoring a life settlement;(j) tracking a life settlement;(k) underwriting a life 
+settlement;(l) selling a life settlement;(m) transferring a life settlement;(n) assigning a life 
+settlement;(o) pledging a life settlement;(p) hypothecating a life settlement; or(q) in any other 
+manner acquiring an interest in an insurance policy by means of a life 
+settlement.(3) "Chronically ill" means:(a) being unable to perform at least two activities of daily 
+living, such as eating, toileting, moving from one place to another, bathing, dressing, or 
+continence;(b) requiring substantial supervision for protection from threats to health and safety 
+because of severe cognitive impairment; or(c) having a level of disability similar to that 
+described in Subsection (3)(a).(4) "Depository institution" is as defined in Section 7-1-
+103.(5)(a) "Financing entity" means a person:(i) who has direct ownership in a policy that is the 
+subject of a life settlement;(ii) whose principal activity related to a life settlement is providing 
+money to effect the life settlement or the purchase of one or more settled policies; and(iii) who 
+has an agreement in writing with one or more licensed life settlement providers to finance the 
+acquisition of one or more life settlements.(b) "Financing entity" includes, if the requirements of 
+Subsection (5)(a) are met, the following:(i) an underwriter;(ii) a placement agent;(iii) an 
+enhancer of credit;(iv) a lender;(v) a purchaser of securities; and(vi) a purchaser of a policy from 
+a life settlement provider.(c) "Financing entity" does not include:(i) a nonaccredited investor; 
+or(ii) a life settlement purchaser.(6) "Form" means, in addition to a form as defined in 
+Section 31A-1-301:(a) a life settlement;(b) a disclosure to an owner;(c) a notice of intent to 
+settle; or(d) a verification of coverage.(7) "Life expectancy" means the mean number of months 
+an individual insured under a policy to be settled can be expected to live considering medical 
+records and appropriate experiential data.(8)(a) "Life settlement" means a written 
+agreement:(i) between an owner and a life settlement provider; and(ii) that establishes the terms 
+for the payment of anything of value in exchange for the owner assigning, selling, transferring, 
+devising, releasing, or bequeathing, at the time of or after the exchange, the death benefit or 
+
+ownership of:(A) any portion of a policy; or(B) a beneficial interest in the policy.(b) "Life 
+settlement" includes:(i) the transfer for compensation or value of ownership or beneficial interest 
+in a trust or other entity that owns a policy if the trust or other entity is formed or operated for the 
+principal purpose of acquiring one or more policies; or(ii) a premium finance loan made for a 
+policy by a lender to an owner on, before, or after the date of issuance of the policy if the 
+owner:(A) receives on the date of the premium finance loan a guarantee of a future life 
+settlement value of the policy; or(B) agrees on the date of the premium finance loan to sell the 
+policy or any portion of the policy's death benefit on a date following the issuance of the 
+policy.(c) An agreement described in Subsection (8)(a) is a "life settlement" even if it is referred 
+to by a different name, including:(i) a "viatical settlement"; or(ii) a "senior settlement."(d) "Life 
+settlement" does not include:(i) a loan or accelerated death benefit by an insurer pursuant to the 
+terms of a policy;(ii) loan proceeds that are used solely to pay:(A) premiums for a policy; 
+and(B) the loan costs or other expenses incurred by the lender, including:(I) interest;(II) an 
+arrangement fee;(III) a use fee;(IV) closing costs;(V) attorney fees and expenses;(VI) trustee 
+fees and expenses; and(VII) third party collateral provider fees and expenses, including fees 
+payable to a letter of credit issuer;(iii)(A) a loan made by a licensed lender in which the licensed 
+lender takes an interest in a policy solely to secure repayment of a loan; or(B) the transfer of a 
+policy by a lender, if:(I) the loan is:(Aa) a loan described in Subsection (8)(d)(iii)(A); or(Bb) a 
+premium finance loan that is not a life settlement;(II) the loan is defaulted on;(III) the policy is 
+transferred; and(IV) neither the default itself nor the transfer of the policy in connection with the 
+default is pursuant to an agreement with any other person for the purpose of evading regulation 
+under this chapter;(iv) an agreement where all the participants in the agreement:(A)(I) are 
+closely related to the insured by blood or law; or(II) have a lawful substantial economic interest 
+in the continued life, health, and bodily safety of the person insured; and(B) are trusts established 
+primarily for the benefit of the participants in the agreement;(v) a designation, consent, or 
+agreement by an insured who is an employee of an employer in connection with the purchase by 
+the employer, or trust established by the employer, of life insurance on the life of the employee; 
+or(vi) a business succession planning arrangement not made for the purpose of evading 
+regulation under this chapter:(A)(I) between one or more shareholders in a corporation; 
+or(II) between a corporation and:(Aa) one or more of its shareholders; or(Bb) one or more trusts 
+established by its shareholders;(B)(I) between one or more partners in a partnership; 
+or(II) between a partnership and:(Aa) one or more of its partners; or(Bb) one or more trusts 
+established by its partners; or(C)(I) between one or more members in a limited liability 
+company; or(II) between a limited liability company and:(Aa) one or more of its members; 
+or(Bb) one or more trusts established by its members.(9)(a) "Life settlement producer" means a 
+person licensed in the state as a life insurance producer that on behalf of an owner and for 
+consideration offers or attempts to negotiate a life settlement between the owner and one or more 
+life settlement providers.(b) "Life settlement producer" does not include an attorney licensed to 
+practice law in any state, a certified public accountant, or a financial planner accredited by a 
+nationally recognized accrediting agency:(i) that is retained to represent an owner; and(ii) whose 
+compensation is not paid directly or indirectly by:(A) a life settlement provider; or(B) a life 
+settlement purchaser.(10)(a) "Life settlement provider" means a person other than an owner that 
+enters into or effectuates a life settlement.(b) "Life settlement provider" does not include:(i) a 
+licensed lender that takes an assignment of a policy as security for a loan, including 
+a:(A) depository institution; or(B) lender that makes a premium finance loan that is not described 
+in Subsection (8)(b)(ii);(ii) the issuer of a policy;(iii) an authorized or eligible insurer that 
+
+provides stop-loss coverage to:(A) a life settlement provider;(B) a life settlement purchaser;(C) a 
+financing entity;(D) a special purpose entity; or(E) a related provider trust;(iv) a financing 
+entity;(v) a special purpose entity;(vi) a related provider trust;(vii) a life settlement purchaser; 
+or(viii) a qualified institutional buyer as defined in Rule 144A, 17 C.F.R. Sec. 230.144A that 
+purchases a settled policy from a life settlement provider.(11)(a) "Life settlement purchaser" 
+means a person that, to derive an economic benefit:(i) provides a sum of money as consideration 
+for a policy or an interest in the death benefits of a policy; or(ii) owns, acquires, or is entitled to a 
+beneficial interest in a trust that:(A) owns a life settlement; or(B) is the beneficiary of a policy 
+that has been or will be the subject of a life settlement.(b) "Life settlement purchaser" does not 
+include:(i) a life settlement provider;(ii) a life settlement producer;(iii) an accredited investor as 
+defined in Regulation D, Rule 501, 17 C.F.R. Sec. 230.501;(iv) a qualified institutional buyer as 
+defined in Rule 144A, 17 C.F.R. Sec. 230.144A;(v) a financing entity;(vi) a special purpose 
+entity; or(vii) a related provider trust.(12)(a) "Owner" means any of the following who resides in 
+this state and seeks to enter into a life settlement:(i) the owner of a policy; or(ii) the holder of a 
+certificate of a group policy.(b) "Owner" is not limited to an individual who is terminally ill or 
+chronically ill except when the limitation is expressly provided in this chapter.(c) "Owner" does 
+not include:(i) a life settlement provider;(ii) a life settlement producer;(iii) a qualified 
+institutional buyer as defined in Rule 144A, 17 C.F.R. Sec. 230.144A;(iv) a financing entity;(v) a 
+special purpose entity; or(vi) a related provider trust.(13) "Policy" means:(a) an individual or 
+group life insurance policy;(b) an individual or group annuity policy;(c) a group life insurance 
+certificate;(d) a group annuity certificate; or(e) a life insurance policy or an annuity policy, 
+whether or not delivered or issued for delivery in Utah:(i) affecting the rights of a resident of 
+Utah; or(ii) bearing a reasonable relation to Utah.(14) "Premium finance loan" is a loan made 
+primarily for the purpose of making premium payments on a policy if the loan is secured by an 
+interest in the policy.(15) "Related provider trust" means a trust established by a licensed life 
+settlement provider or a financing entity solely to hold the ownership of or beneficial interests in 
+purchased policies in connection with financing.(16) "Settled policy" means a policy that is 
+acquired by a life settlement provider pursuant to a life settlement.(17) "Special purpose entity" 
+means an entity formed by a licensed life settlement provider solely to enable the life settlement 
+provider to gain access to institutional markets for capital.(18)(a) "Stranger-originated life 
+insurance" means an act, practice, or arrangement to initiate a policy for the benefit of a third 
+party investor or other person who has no insurable interest in the insured resulting in the 
+requirements of Section 31A-21-104 not being met.(b) "Stranger-originated life insurance" 
+includes when:(i) a policy is purchased with resources or guarantees from or through a person 
+who, at the time of policy origination, could not lawfully initiate the policy itself; and(ii) at the 
+time of policy origination, there is an agreement, whether oral or written, to directly or indirectly 
+transfer to a third party the ownership of a policy, policy benefits, or both.(c) "Stranger-
+originated life insurance" does not include:(i) a life settlement that complies with:(A) this 
+chapter; and(B) Section 31A-21-104; or(ii) an act, practice, or arrangement described in 
+Subsection (8)(d).(19) "Terminally ill" means having a condition that reasonably may be 
+expected to result in death within 24 months. 
+Utah Code § 31A-36-102 
+Section 31A-36-103 - Law governing(1) If there is more than one owner on a single policy and 
+the owners are residents of different states, the law of the state in which the owner having the 
+largest percentage ownership resides governs the life settlement. If the owners own equal 
+
+fractions of a policy, the owners may agree in writing that the law of the state in which one 
+resides governs the life settlement.(2) A life settlement that is subject to this chapter may 
+not:(a) require that the life settlement be construed according to the laws of another jurisdiction; 
+or(b) deprive a court of competent jurisdiction in Utah to have jurisdiction over an action. 
+Utah Code § 31A-36-103 
+Section 31A-36-104 - License requirements, revocation, and denial(1)(a) A person may not, 
+without first obtaining a license from the commissioner, operate in or from this state as:(i) a life 
+settlement provider; or(ii) a life settlement producer.(b) A life settlement is included within the 
+scope of the life insurance producer line of authority.(2)(a) To obtain a license as a life 
+settlement provider, an applicant shall:(i) comply with Section 31A-23a-117;(ii) file an 
+application;(iii) pay the license fee; and(iv) provide evidence of financial responsibility.(b) If an 
+applicant for a life settlement provider license complies with Subsection (2)(a) and Section 31A-
+23a-117, the commissioner shall investigate the applicant and issue a life settlement provider 
+license if the commissioner finds that the applicant is competent and trustworthy to engage in the 
+business of providing life settlements by experience, training, or education.(3) In addition to the 
+requirements in Sections 31A-23a-111, 31A-23a-112 and 31A-23a-113, the commissioner may 
+refuse to issue, suspend, revoke, or refuse to renew the license of a life settlement provider or life 
+settlement producer if the commissioner finds that:(a) a life settlement provider demonstrates a 
+pattern of unreasonable payments to owners;(b) the applicant, the licensee, an officer, partner, or 
+member, or key management personnel:(i) is, whether or not a judgment of conviction is entered 
+by the court, found guilty of, or pleads guilty or nolo contendere to:(A) a felony; or(B) a 
+misdemeanor involving fraud or moral turpitude;(ii) violates this chapter; or(iii) is subject to a 
+final administrative action by another state or federal jurisdiction.(c) a life settlement provider 
+enters into a life settlement not approved under this chapter;(d) a life settlement provider fails to 
+honor obligations of a life settlement;(e) a life settlement provider assigns, transfers, or pledges a 
+settled policy to a person other than:(i) a life settlement provider licensed under this chapter;(ii) a 
+life settlement purchaser;(iii) an accredited investor as defined in Regulation D, Rule 501, 17 
+C.F.R. Sec. 230.501;(iv) a qualified institutional buyer as defined in Rule 144A, 17 C.F.R. Sec. 
+230.144A;(v) a financing entity;(vi) a special purpose entity; or(vii) a related provider trust;(f) a 
+life settlement provider fails to maintain a standard set forth in Subsection (2)(b);(g) an applicant 
+or licensee has a material misrepresentation in an initial or renewal application for a license; 
+or(h) the licensee engages in bad faith conduct with one or more owners.(4) If the commissioner 
+denies a license application or suspends, revokes, or refuses to renew the license of a life 
+settlement provider or life settlement producer, the commissioner shall conduct an adjudicative 
+proceeding under Title 63G, Chapter 4, Administrative Procedures Act. 
+Utah Code § 31A-36-104 
+Section 31A-36-105 - Filing and use of forms for life settlement and disclosure(1) A person may 
+not use a form unless the form is filed with the commissioner under Subsection 31A-21-
+201(1).(2) The commissioner may prohibit the use of a form submitted under Subsection (1) 
+pursuant to Subsection 31A-21-201(3).(3) The commissioner may require the submission of 
+advertising material before its use. 
+Utah Code § 31A-36-105 
+ 
+
+Section 31A-36-106 - Reporting requirements and privacy(1)(a) Subject to Subsection (1)(b), a 
+life settlement provider shall file with the commissioner on or before March 1 of each year an 
+annual report containing the information the commissioner prescribes under Section 31A-36-
+119.(b) Notwithstanding Subsection (1)(a), the commissioner shall only require the information 
+for those transactions that involve an owner.(2) Except as otherwise allowed or required by law, 
+the following may not disclose the identity, financial information, or medical information of an 
+insured to any other person:(a) a life settlement provider;(b) a life settlement producer;(c) a 
+producer of insurance;(d) an information bureau;(e) a rating agency or company; or(f) any other 
+person knowing the identity of an insured.(3) Notwithstanding Subsection (2), a person may 
+disclose the identity of an insured if the disclosure is:(a) necessary to effect a life settlement 
+between an owner and a life settlement provider and both the owner and the insured give prior 
+written consent to the disclosure;(b) furnished in response to an investigation or examination by 
+the commissioner or another governmental officer or agency;(c) furnished pursuant to 
+Section 31A-36-114;(d) a term of or condition to the transfer of a policy by one life settlement 
+provider to another life settlement provider;(e) necessary to permit a financing entity, related 
+provider trust, or special purpose entity to finance the purchase of a policy by a life settlement 
+provider and the insured gives prior written consent to the disclosure;(f) necessary to allow the 
+life settlement provider or life settlement producer or the life settlement provider's or life 
+settlement producer's authorized representatives to make a contact to determine the health status 
+of an insured; or(g) required to purchase stop-loss coverage. 
+Utah Code § 31A-36-106 
+Section 31A-36-107 - Examinations and retention of records(1) The commissioner may conduct 
+an examination of a life settlement provider or life settlement producer in accordance with 
+Sections 31A-2-203, 31A-2-203.5, 31A-2-204, and 31A-2-205.(2) A life settlement provider or 
+life settlement producer shall retain for five years copies of:(a) the following records, whether 
+proposed, offered, or executed, from the later of the date of the proposal, offer, or 
+execution:(i) contracts;(ii) purchase agreements;(iii) underwriting documents;(iv) policy forms; 
+and(v) applications;(b) checks, drafts, and other evidence or documentation relating to the 
+payment, transfer, or release of money, from the date of the transaction; and(c) records and 
+documents related to the requirements of this chapter.(3) This section does not relieve a person 
+of the obligation to produce a document described in Subsection (2) to the commissioner after 
+the expiration of the relevant period if the person has retained the document.(4) A record 
+required by this section to be retained:(a) shall be legible and complete; and(b) may be retained 
+in any form or by any process that accurately reproduces or is a durable medium for the 
+reproduction of the record.(5) An examiner may not be appointed by the commissioner if the 
+examiner, either directly or indirectly, has a conflict of interest or is affiliated with the 
+management of or owns a pecuniary interest in a person subject to examination under this 
+chapter. This Subsection (5) does not automatically preclude an examiner from being:(a) an 
+owner;(b) an insured in a settled policy; or(c) a beneficiary in a policy that is proposed to be 
+settled.(6)(a) An examinee under this section shall reimburse the cost of an examination to the 
+department consistent with Section 31A-2-205.(b) Notwithstanding Subsection (6)(a), an 
+individual life settlement producer is not subject to Section 31A-2-205. 
+Utah Code § 31A-36-107 
+ 
+
+Section 31A-36-108 - Required disclosures(1) With an application for a life settlement, a life 
+settlement provider or life settlement producer shall furnish to the owner the disclosures the 
+commissioner may require under Section 31A-36-119, in a separate document signed by the 
+owner and the life settlement provider or life settlement producer, no later than the time the 
+application for the life settlement is signed by all the participants in the life settlement.(2) A life 
+settlement provider shall furnish to the owner the disclosures the commissioner may require 
+under Section 31A-36-119, conspicuously displayed in the life settlement or in a separate 
+document signed by the owner and the life settlement provider, no later than the time the life 
+settlement is signed by all participants in the life settlement. 
+Utah Code § 31A-36-108 
+Section 31A-36-109 - General requirements(1) If a life settlement provider transfers ownership 
+or changes the beneficiary of a settled policy, the life settlement provider shall inform the insured 
+of the transfer or change within 20 calendar days.(2) A life settlement provider that enters a life 
+settlement shall first obtain:(a) if the owner is the insured, a written statement from a licensed 
+attending physician that the owner is of sound mind and under no constraint or undue influence 
+to enter a life settlement;(b) a witnessed document in which the owner represents that:(i) the 
+owner has a full and complete understanding of the life settlement and the benefits of the 
+policy;(ii) the owner has entered the life settlement freely and voluntarily; and(iii) if applicable, 
+the insured is terminally ill or chronically ill and that the illness was diagnosed after the policy 
+was issued; and(c) a document in which the insured consents to the release of the insured's 
+medical records to:(i) a life settlement provider;(ii) a life settlement producer; and(iii) the insurer 
+that issued the policy covering the insured.(3) Within 20 calendar days after an owner executes 
+documents necessary to transfer rights under a policy, or enters into an agreement in any form, 
+express or implied, to settle the policy, the life settlement provider shall give written notice to the 
+issuer of the policy that the policy has or will become settled. The notice shall be accompanied 
+by a copy of the documents required by Subsection (4).(4) The life settlement provider shall 
+deliver a copy of the following to the insurer that issued the policy that is the subject of the life 
+settlement:(a) the medical release required under Subsection (2)(c);(b) a copy of the owner's 
+application for the life settlement; and(c) the notice required under Subsection (3).(5)(a) An 
+insurer shall complete and return a request for verification of coverage not later than 30 calendar 
+days after the day on which the request is received. In its response, the insurer shall indicate 
+whether the insurer intends to pursue an investigation regarding the validity of the insurance 
+contract.(b) An insurer may not require that a person making a request under Subsection (5)(a) 
+provide the insurer additional information in order for the insurer to comply with Subsection 
+(5)(a), if the person provides the insurer:(i) a request for verification of coverage made on an 
+original, facsimile, or electronic copy of a verification of coverage for a policy document 
+adopted by the commissioner by rule made in accordance with Title 63G, Chapter 3, Utah 
+Administrative Rulemaking Act; and(ii) an authorization that accompanies the verification 
+described in Subsection (5)(b)(i) signed by the owner.(6) Medical information solicited or 
+obtained by a life settlement provider or life settlement producer is subject to:(a) other laws of 
+this state relating to the confidentiality of the information; and(b) a rule relating to privacy of 
+medical or personal information promulgated by the commissioner under Title V, Section 505 of 
+the Gramm-Leach-Bliley Act of 1999, 15 U.S.C. Sec. 6805.(7)(a)(i) A life settlement entered 
+into in this state shall reserve to the owner an unconditional right to rescind the life settlement 
+within the rescission period provided for in this Subsection (7).(ii) The rescission period ends 15 
+
+calendar days after the day on which the owner receives the proceeds of the life 
+settlement.(iii) Rescission by an owner may be conditioned on the owner giving notice and 
+repaying to the life settlement provider within the rescission period all proceeds of the life 
+settlement and any premium, loan, or loan interest paid by or on behalf of the life settlement 
+provider in connection with or as a consequence of the life settlement.(b) If the insured dies 
+during the rescission period, the life settlement is considered to be rescinded if the proceeds, 
+premiums, loans, and loan interest paid by the life settlement provider or life settlement 
+purchaser are repaid within 60 calendar days of the day on which the insured dies.(8)(a) Contact 
+with an insured to determine the health status of the insured after a life settlement may be made 
+only by a life settlement provider or life settlement producer that is licensed in this state, or its 
+authorized representative, and no more than:(i) once every three months if the insured has a life 
+expectancy of one year or more; or(ii) once every month if the insured has a life expectancy of 
+less than one year.(b) A life settlement provider or life settlement producer shall explain the 
+procedure for the contacts allowed under this Subsection (8) to the owner when the application 
+for the life settlement is signed by all participants in the life settlement.(c) The limitations of this 
+Subsection (8) do not apply to contacts for purposes other than determining health status.(d) A 
+life settlement provider or life settlement producer is responsible for the acts of its authorized 
+representative in violation of this Subsection (8).(9) The trustee of a related provider trust shall 
+agree in writing with the life settlement provider that:(a) the life settlement provider is 
+responsible for ensuring compliance with all statutory and regulatory requirements; and(b) the 
+trustee will make all records and files related to life settlements available to the commissioner as 
+if those records and files were maintained directly by the life settlement provider.(10) Regardless 
+of the method of compensation, a life settlement producer:(a) represents only the owner; 
+and(b) owes a fiduciary duty to the owner to act according to the owner's instructions and in the 
+best interest of the owner. 
+Utah Code § 31A-36-109 
+ 
+Section 31A-36-110 - Payment and document requirements(1)(a) A life settlement provider shall 
+instruct the owner to send the executed documents required to effect the change in ownership or 
+assignment or change of beneficiary of the affected policy to a designated independent escrow 
+agent.(b) Within three business days after the day on which the escrow agent receives the 
+documents, or within three business days after the day on which the life settlement provider 
+receives the documents if by mistake they are sent directly to the life settlement provider, the life 
+settlement provider shall deposit the proceeds of the life settlement into an escrow or trust 
+account of the escrow agent in a federally insured depository institution.(2)(a) Upon completion 
+of the requirements of Subsection (1), the escrow agent shall deliver the original documents 
+executed by the owner to:(i) the life settlement provider; or(ii) a related provider trust or other 
+designated representative of the life settlement provider.(b) Upon the life settlement provider's 
+receipt from the insurer of an acknowledgment of the change in ownership or assignment or 
+change of beneficiary of the affected policy, the life settlement provider shall instruct the escrow 
+agent to pay the proceeds of the life settlement to the owner.(3) Payment to the owner shall be 
+made within three business days after the day on which the life settlement provider receives the 
+acknowledgment from the insurer. Failure to make the payment within that time makes the life 
+settlement voidable by the owner for lack of consideration until payment is tendered to and 
+accepted by the owner. 
+
+Utah Code § 31A-36-110 
+ 
+Section 31A-36-111 - Prohibited acts(1) An owner may not enter into a life settlement at any 
+time before the application or issuance of a policy.(2) An owner may not enter into a life 
+settlement within two years after the date of issuance of the policy to which the life settlement 
+relates unless the owner certifies to the life settlement provider that one of the following is 
+satisfied:(a) the policy was issued upon the owner's exercise of conversion rights arising out of a 
+group or individual policy if:(i) the total time covered under the conversion policy plus the time 
+covered under the prior policy is at least 24 months; and(ii) the time covered under a group 
+policy, calculated without regard to any change in insurance carriers, is continuous and under the 
+same group sponsorship; or(b) the owner submits to the life settlement provider independent 
+evidence that within the two-year period:(i) the owner or insured is terminally ill;(ii) the owner 
+or insured is chronically ill;(iii) the spouse of the owner dies;(iv) the owner divorces the owner's 
+spouse;(v) the owner retires from full-time employment;(vi) the owner acquires a physical or 
+mental disability and a physician determines that the disability precludes the owner from 
+maintaining full-time employment;(vii) a final judgment or order is entered or issued by a court 
+of competent jurisdiction, on the application of a creditor of the owner:(A) adjudging the owner 
+bankrupt or insolvent;(B) approving a petition for reorganization of the owner; or(C) appointing 
+a receiver, trustee, or liquidator for all or a substantial part of the owner's assets;(viii) the owner 
+experiences a significant decrease in income that is unexpected and impairs the owner's 
+reasonable ability to pay the policy premium; or(ix) the owner or insured disposes of ownership 
+interests in a closely held corporation, pursuant to the terms of a buyout or other similar 
+agreement in effect at the time the policy is initially issued.(3) An insurer may not, as a condition 
+of responding to a request for verification of coverage or effecting the transfer of a policy 
+pursuant to a life settlement, require any of the following to sign a form, disclosure, consent, or 
+waiver that is not filed with the commissioner for use in connection with a life settlement in this 
+state:(a) an owner;(b) an insured;(c) a life settlement provider; or(d) a life settlement 
+producer.(4)(a) Upon receipt of a properly completed request for change of ownership or 
+beneficiary of a policy, an insurer shall respond in writing within 30 calendar days of the day of 
+receipt with written acknowledgment:(i) confirming that the change is effective; or(ii) specifying 
+the reasons why the requested change cannot be processed.(b) An insurer may 
+not:(i) unreasonably delay effecting a change of ownership or beneficiary; and(ii) otherwise seek 
+to interfere with a life settlement lawfully entered into in this state.(5) A person may not issue, 
+solicit, or market the purchase of a policy for the primary purpose of or with a primary emphasis 
+on settling the policy.(6)(a) Unless disclosed to an owner before the execution of a life 
+settlement by the owner, a life settlement producer may not knowingly with respect to the life 
+settlement solicit an offer from, effectuate the life settlement with, or make a sale to any of the 
+following that is controlling, controlled by, or under common control with the life settlement 
+producer:(i) a life settlement provider;(ii) a life settlement purchaser;(iii) a financing entity; 
+or(iv) a related provider trust.(b) Unless disclosed to an owner before the execution of a life 
+settlement by the owner, with respect to the life settlement, a life settlement provider may not 
+knowingly enter into the life settlement with the owner, if, in connection with the life settlement, 
+anything of value will be paid to a life settlement producer that is controlling, controlled by, or 
+under common control with:(i) the life settlement provider;(ii) the life settlement purchaser;(iii) a 
+financing entity; or(iv) a related provider trust. 
+
+Utah Code § 31A-36-111 
+Section 31A-36-112 - Advertising regulations(1)(a) A life settlement provider or life settlement 
+producer shall establish and continuously maintain a system of control over the content, form, 
+and method of dissemination of advertisements of the life settlement provider's or life settlement 
+producer's contracts and services.(b) An advertisement is the responsibility of the life settlement 
+provider or life settlement producer as well as the person that creates or presents the 
+advertisement.(c) A system of control shall include at least annual notification to persons 
+authorized by the life settlement provider or life settlement producer that disseminate 
+advertisements of the requirements and procedures for approval before use of any advertisements 
+not furnished by the life settlement provider or life settlement producer.(2) An advertisement 
+shall be truthful and not misleading in fact or by implication, as determined by the commissioner 
+from the overall impression it may reasonably be expected to create upon a person of average 
+education or intelligence in the segment of the public to which it is directed.(3) A false or 
+misleading statement is not remedied by:(a) making a life settlement available for inspection 
+before it is consummated; or(b) offering to refund payment if the owner is not satisfied within 
+the period prescribed in Subsection 31A-36-109(7). 
+Utah Code § 31A-36-112 
+Section 31A-36-113 - Fraud(1) As used in this section, "recklessly" means engaging in 
+conduct:(a) when a person knows or should have known of a substantial likelihood of the 
+existence of the relevant facts or risks; and(b) involving a significant deviation from acceptable 
+standards of conduct.(2) A person may not, knowingly or with intent to defraud, to deprive 
+another of property or for pecuniary gain, do or permit its employees or agents to engage in any 
+of the following acts:(a)(i) present, cause to be presented or prepare with knowledge or belief 
+that it will be presented, false information to or by a life settlement provider or life settlement 
+producer, a financing entity, an insurer, a provider of insurance or any other person, or to conceal 
+information, as part of, in support of or concerning a fact material to:(A) an application for the 
+issuance of a policy or life settlement;(B) the underwriting of a policy or life settlement;(C) a 
+claim for payment or other benefit under a policy or life settlement;(D) a premium paid on a 
+policy;(E) a payment or change of beneficiary or ownership pursuant to a policy or life 
+settlement;(F) the reinstatement or conversion of a policy;(G) the solicitation, offer, effectuation, 
+or sale of a policy or life settlement;(H) the issuance of written evidence of a policy or life 
+settlement; or(I) a financing transaction;(ii) employ a device, scheme, or artifice to defraud in the 
+business of life settlements;(iii) enter into any plan or practice that involves stranger-originated 
+life insurance; or(iv) employ a device, scheme, or artifice resulting in a violation of Section 31A-
+21-104 in the solicitation, application, or issuance of a policy that is the subject of a life 
+settlement;(b) in furtherance of a fraud or to prevent detection of a fraud:(i) remove, conceal, 
+alter, destroy, or sequester from the commissioner assets or records of a person engaged in the 
+business of life settlements;(ii) misrepresent or conceal the financial condition of a licensee, a 
+financing entity, an insurer, or other person;(iii) transact the business of life settlements in 
+violation of this chapter; or(iv) file with the commissioner or analogous officer of another 
+jurisdiction a document containing false information or otherwise conceal information about a 
+material fact from the commissioner or analogous officer;(c) embezzle, steal, misappropriate, or 
+convert money, premiums, credits, or other property of a life settlement provider, an owner, an 
+insurer, an insured, an owner of a policy, or other person engaged in the business of life 
+
+settlements or insurance;(d) recklessly enter into, negotiate, or otherwise deal in a life settlement, 
+the subject of which is a policy obtained when one or more persons intend to defraud the policy's 
+issuer, the life settlement provider, or the owner by:(i) presenting false information concerning a 
+fact material to the policy; or(ii) concealing, to mislead another, information concerning a fact 
+material to the policy;(e) facilitate a change of the state or jurisdiction of ownership of a policy 
+or the state of residency of an owner to a state or jurisdiction that does not have a law similar to 
+this chapter for the express purpose of evading or avoiding this chapter; or(f) attempt to commit, 
+assist, aid, abet, or conspire to commit an act or omission described in this Subsection (2).(3) A 
+person may not knowingly or intentionally interfere with the enforcement of this chapter or an 
+investigation of a possible violation of this chapter.(4) A person engaged in the business of life 
+settlements may not knowingly or intentionally permit a person convicted of a felony involving 
+dishonesty or breach of trust to participate in the business of life settlements.(5)(a) An 
+application or contract for a life settlement, however transmitted, shall contain the following or a 
+substantially similar statement: "A person that knowingly presents false information in an 
+application for insurance or a life settlement is guilty of a crime and may be subject to fines and 
+confinement in prison."(b) The lack of the statement described in Subsection (5)(a) is not a 
+defense in a prosecution for violation of this section. 
+Utah Code § 31A-36-113 
+Section 31A-36-114 - Reporting of fraud and immunity(1) A person engaged in the business of 
+life settlements that knows or reasonably suspects that a violation of Section 31A-36-113 is 
+being, has been, or will be committed shall provide to the commissioner the information required 
+by, and in a manner prescribed by, the commissioner.(2) A person not engaged in the business of 
+life settlements that knows or reasonably believes that a violation of Section 31A-36-113 is 
+being, has been, or will be committed may furnish to the commissioner the information required 
+by, and in a manner prescribed by, the commissioner.(3) Except as provided in Subsection (4), a 
+person furnishing information of the kind described in this section is immune from liability and 
+civil action if the information is furnished to or received from:(a) the commissioner or the 
+commissioner's employees, agents, or representatives;(b) federal, state, or local law enforcement 
+or regulatory officials or their employees, agents, or representatives;(c) another person involved 
+in the prevention or detection of violations of Section 31A-36-113 or that person's employees, 
+agents, or representatives;(d) the following organizations or their employees, agents, or 
+representatives:(i) the National Association of Insurance Commissioners;(ii) the Financial 
+Industry Regulatory Authority;(iii) the North American Securities Administrators Association; 
+or(iv) another regulatory body overseeing life insurance, life settlements, securities, or 
+investment fraud; or(e) the insurer that issued the policy concerned in the information.(4) The 
+immunity provided in Subsection (3) does not extend to a statement made with actual malice. In 
+an action brought against a person for filing a report or furnishing other information concerning a 
+violation of this section, the plaintiff shall plead specifically that the defendant acted with actual 
+malice.(5) A person furnishing information as identified in Subsection (3) is entitled to an award 
+of attorney fees and costs if:(a) the person is the prevailing party in a civil cause of action for 
+libel, slander, or another relevant tort arising out of activities in carrying out the provisions of 
+this chapter; and(b) the action did not have a reasonable basis in law or fact at the time it was 
+initiated.(6) This section does not supplant or modify any other privilege or immunity at 
+common law or under another statute. 
+Utah Code § 31A-36-114 
+
+Section 31A-36-115 - Confidentiality(1) The following shall be classified as protected records 
+under Title 63G, Chapter 2, Government Records Access and Management Act:(a) a document 
+or information furnished pursuant to Section 31A-36-114; and(b) a document or information 
+obtained by the commissioner in an investigation of a violation of Section 31A-36-
+113.(2) Subsection (1) does not prohibit the commissioner from disclosing documents or 
+evidence so furnished or obtained:(a) in an administrative or judicial proceeding to enforce laws 
+administered by the commissioner;(b) to federal, state, or local law enforcement or regulatory 
+agencies;(c) to an organization established to detect and prevent fraudulent life settlement 
+acts;(d) to the National Association of Insurance Commissioners; or(e) to a person engaged in 
+the business of life settlements that is aggrieved by the violation.(3) Disclosure of a document or 
+evidence under Subsection (2) does not abrogate or modify the privilege granted in Subsection 
+(1). 
+Utah Code § 31A-36-115 
+Section 31A-36-116 - Other law enforcement or regulatory authority 
+This chapter does not: 
+(1) preempt the authority or relieve the duty of other law enforcement or regulatory agencies to 
+investigate, examine, and prosecute suspected violations of law;(2) prevent or prohibit a person 
+from disclosing voluntarily information concerning life settlement fraud to a law enforcement or 
+regulatory agency other than the insurance department; or(3) limit the powers granted elsewhere 
+by law to the commissioner or an insurance fraud unit to investigate and examine possible 
+violations of law and to take appropriate action. 
+Utah Code § 31A-36-116 
+Section 31A-36-117 - Antifraud initiatives(1) The following shall establish and maintain 
+antifraud initiatives which are reasonably calculated to prevent, detect, and assist in the 
+prosecution of violations of Section 31A-36-113:(a) a life settlement provider; and(b) an agency 
+that is a life settlement producer.(2) The commissioner may order, or a licensee may request and 
+the commissioner may approve, modifications of the measures otherwise required under this 
+section, more or less restrictive than those measures, as necessary to protect against 
+fraud.(3) Antifraud initiatives shall include:(a) fraud investigators, that may be 
+either:(i) employees of a life settlement provider or life settlement producer; or(ii) independent 
+contractors;(b) an antifraud plan submitted to the commissioner, which shall include:(i) a 
+description of the procedures for:(A) detecting and investigating possible violations of 
+Section 31A-36-113; and(B) resolving material inconsistencies between medical records and 
+applications for insurance;(ii) a description of the procedures for reporting possible violations to 
+the commissioner;(iii) a description of the plan for educating and training underwriters and other 
+personnel against fraud; and(iv) a description or chart of the organizational arrangement of the 
+personnel responsible for detecting and investigating possible violations of Section 31A-36-113 
+and for resolving material inconsistencies between medical records and applications for 
+insurance.(4) A plan submitted to the commissioner shall be classified as a protected record 
+under Title 63G, Chapter 2, Government Records Access and Management Act. 
+Utah Code § 31A-36-117 
+
+Section 31A-36-118 - Criminal penalties and restitution(1) A person subject to this chapter is 
+subject to:(a) Section 31A-2-308 for an administrative violation of this title;(b) prosecution 
+under Title 76, Chapter 6, Part 4, Theft, for criminal activity involving a life settlement; 
+or(c) prosecution under Section 31A-31-103 for insurance fraud involving a life settlement.(2) A 
+person found to be in violation of this chapter may:(a) be ordered to pay restitution to persons 
+aggrieved by the violation;(b) be ordered to pay a forfeiture;(c) be imprisoned if found guilty of 
+a criminal law by a court of competent jurisdiction; and(d) be subject to a combination of the 
+penalties described in this Subsection (2).(3) Except for a fraudulent act committed by an owner, 
+this section does not apply to the owner. 
+Utah Code § 31A-36-118 
+ 
+Section 31A-36-119 - Authority to make rules 
+In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the 
+commissioner may adopt rules to: 
+(1) establish the requirements for the annual report required under Section 31A-36-
+106;(2) establish standards for evaluating the reasonableness of payments under life 
+settlements;(3) establish appropriate licensing requirements, fees, and standards for continued 
+licensure for:(a) a life settlement provider; and(b) a life settlement producer;(4)(a) determine the 
+amount and conditions of a bond or other assurance of financial responsibility required under 
+Section 31A-23a-117 for a life settlement provider; and(b) require, determine the amount, or 
+determine the conditions of an assurance of financial responsibility for a life settlement producer, 
+including a bond or an errors and omissions insurance policy;(5) govern the relationship of 
+insurers with a life settlement provider or life settlement producer during the settlement of a 
+policy;(6) determine the specific disclosures required under Section 31A-36-108;(7) determine 
+whether advertising for life settlements violates Section 31A-36-112;(8) determine the 
+information to be provided to the commissioner under Section 31A-36-114 and the manner of 
+providing the information;(9) determine additional acts or practices that are prohibited under 
+Section 31A-36-111;(10) establish payment requirements for the payments in Section 31A-36-
+110; and(11) establish the filing procedure for the forms listed in Subsection 31A-36-105(1). 
+Utah Code § 31A-36-119 
+ 
