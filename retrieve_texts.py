@@ -89,8 +89,8 @@ def load_statutes_for_states(states):
 
 def find_relevant_statutes(query, statute_text):
     """
-    Extracts relevant statutes based on the query using keyword filtering and similarity search.
-    Ensures statute section numbers (e.g., "§ 626.99296") are included in a clean format.
+    Extracts relevant statutes based on the query, ensuring statute section numbers are included
+    without altering the format of the original text.
     """
 
     # **Step 1: Split the statute text into sections**
@@ -104,29 +104,26 @@ def find_relevant_statutes(query, statute_text):
     keyword_filtered = [s for s in sections if all(word in s.lower() for word in query.lower().split())]
 
     # **Step 4: Second Filter - Semantic Similarity Search**
-    if keyword_filtered:
-        relevant_sections = keyword_filtered
-    else:
-        relevant_sections = db.similarity_search(query, k=3)  # Retrieve top 3 matches if keywords fail
+    relevant_sections = keyword_filtered if keyword_filtered else db.similarity_search(query, k=3)
 
-    # **Step 5: Extract statute text & section numbers (without breaking format)**
+    # **Step 5: Extract statute text & section numbers without cutting content**
     extracted_statutes = []
     for section in relevant_sections:
         section_text = section.strip() if isinstance(section, str) else section.page_content.strip()
 
         # ✅ **Regex to capture statute section numbers (e.g., "§ 7804", "Section 626.99296")**
-        section_match = re.search(r"((?:Section|§|Article|Chapter)\s*\d+[.\d]*)", section_text)
+        section_match = re.search(r"(§?\s*\d{3,}\.\d+|\bSection\s+\d+[.\d]*)", section_text)
 
         if section_match:
-            statute_section = section_match.group(0)
-            formatted_text = f'"{section_text}"\n📌 **Statute Section:** {statute_section}'
+            statute_section = section_match.group(0)  # Extract statute section number
+            formatted_text = f'{section_text}\n📌 **Statute Section:** {statute_section}'
         else:
-            formatted_text = f'"{section_text}"'
+            formatted_text = section_text  # Keep it unchanged if no section found
 
         extracted_statutes.append(formatted_text)
 
-    # **Step 6: Join multiple relevant statutes if found**
-    return "\n\n".join(extracted_statutes) if extracted_statutes else "No relevant statutes found."
+    # **Step 6: Return results in original format**
+    return "\n\n".join(extracted_statutes) if extracted_statutes else ""
 
 import re
 
