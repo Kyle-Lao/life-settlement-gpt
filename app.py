@@ -3,9 +3,9 @@ import openai
 import os
 from retrieve_texts import extract_states_from_query, load_statutes_for_states, generate_gpt_response
 
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")  # Retrieve from environment variable
+# Get API key from Streamlit secrets
+OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
 
-# Initialize OpenAI Client
 client = openai.OpenAI(api_key=OPENAI_API_KEY)
 
 
