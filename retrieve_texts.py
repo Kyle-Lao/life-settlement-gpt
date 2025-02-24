@@ -1,9 +1,9 @@
 import os
 import re
 import openai
-import streamlit as st
 from langchain_openai import OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
+import streamlit as st
 
 # Get OpenAI API Key from Streamlit Secrets
 OPENAI_API_KEY = st.secrets["general"]["OPENAI_API_KEY"]
