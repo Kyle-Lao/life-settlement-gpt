@@ -88,19 +88,45 @@ def load_statutes_for_states(states):
 
 
 def find_relevant_statutes(query, statute_text):
-    sections = statute_text.split("\n\n")  # Split by double newlines
+    """
+    Extracts relevant statutes based on query using both keyword filtering and vector similarity search.
+    Ensures section numbers (e.g., "Section 626.99296") are included in the extracted text.
+    """
+    
+    # **Step 1: Split the statute text into sections**
+    sections = statute_text.split("\n\n")  # Splitting based on double newlines
+    
+    # **Step 2: Initialize embeddings for FAISS similarity search**
     embeddings = OpenAIEmbeddings()  
     db = FAISS.from_texts(sections, embeddings)
-    
-    # ✅ Filter by Exact Keyword Match
+
+    # **Step 3: First Filter - Exact Keyword Matching**
     keyword_filtered = [s for s in sections if all(word in s.lower() for word in query.lower().split())]
     
+    # **Step 4: Second Filter - Semantic Similarity Search**
     if keyword_filtered:
         relevant_sections = db.similarity_search(query, k=3)  # Retrieve top 3 matches
-        return "\n\n".join([s.page_content for s in relevant_sections])
-    
-    return ""  # Return empty if nothing relevant is found
+    else:
+        relevant_sections = db.similarity_search(query, k=3)  # Always fall back to similarity search
 
+    # **Step 5: Extract statute text & section numbers**
+    extracted_statutes = []
+    for section in relevant_sections:
+        section_text = section.page_content
+
+        # ✅ **Regex to capture "Section 123.456", "§ 1013.1", "Article 5"**
+        section_match = re.search(r"(Section|§|Article|Chapter)\s*\d+[.\d]*", section_text)
+
+        if section_match:
+            statute_section = section_match.group(0)
+            formatted_text = f"**{statute_section}**: {section_text.strip()}"
+        else:
+            formatted_text = section_text.strip()
+
+        extracted_statutes.append(formatted_text)
+
+    # **Step 6: Join multiple relevant statutes if found**
+    return "\n\n".join(extracted_statutes) if extracted_statutes else "No relevant statutes found."
 
 
 import re
