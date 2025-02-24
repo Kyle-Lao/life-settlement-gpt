@@ -3,6 +3,6 @@ streamlit
 python-dotenv
 langchain
 langchain-openai
+streamlit
+langchain_community
 faiss-cpu
-numpy
-pandas
