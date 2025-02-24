@@ -89,39 +89,39 @@ def load_statutes_for_states(states):
 
 def find_relevant_statutes(query, statute_text):
     """
-    Extracts relevant statutes based on query using both keyword filtering and vector similarity search.
-    Ensures section numbers (e.g., "Section 626.99296") are included in the extracted text.
+    Extracts relevant statutes based on the query using both keyword filtering and vector similarity search.
+    Ensures statute section numbers (e.g., "§ 626.99296") are included without breaking the response format.
     """
-    
+
     # **Step 1: Split the statute text into sections**
     sections = statute_text.split("\n\n")  # Splitting based on double newlines
-    
+
     # **Step 2: Initialize embeddings for FAISS similarity search**
     embeddings = OpenAIEmbeddings()  
     db = FAISS.from_texts(sections, embeddings)
 
     # **Step 3: First Filter - Exact Keyword Matching**
     keyword_filtered = [s for s in sections if all(word in s.lower() for word in query.lower().split())]
-    
+
     # **Step 4: Second Filter - Semantic Similarity Search**
     if keyword_filtered:
         relevant_sections = db.similarity_search(query, k=3)  # Retrieve top 3 matches
     else:
         relevant_sections = db.similarity_search(query, k=3)  # Always fall back to similarity search
 
-    # **Step 5: Extract statute text & section numbers**
+    # **Step 5: Extract statute text & section numbers (without breaking format)**
     extracted_statutes = []
     for section in relevant_sections:
-        section_text = section.page_content
+        section_text = section.page_content.strip()
 
-        # ✅ **Regex to capture "Section 123.456", "§ 1013.1", "Article 5"**
-        section_match = re.search(r"(Section|§|Article|Chapter)\s*\d+[.\d]*", section_text)
+        # ✅ **Regex to capture statute section numbers (e.g., "§ 7804", "Section 626.99296")**
+        section_match = re.search(r"(Section|§|Article|Chapter)?\s*\d+[.\d]*", section_text)
 
         if section_match:
             statute_section = section_match.group(0)
-            formatted_text = f"**{statute_section}**: {section_text.strip()}"
+            formatted_text = f'"{section_text}"\n({statute_section})'
         else:
-            formatted_text = section_text.strip()
+            formatted_text = f'"{section_text}"'
 
         extracted_statutes.append(formatted_text)
 
