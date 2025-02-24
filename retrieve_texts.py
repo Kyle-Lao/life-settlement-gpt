@@ -134,12 +134,19 @@ def reinterpret_followup_query(user_query, last_query):
     return user_query  # Default to original query if no inference can be made
 
 
-
 def generate_gpt_response(query, statute_texts):
     responses = []
 
     for state_abbr, (statute_text, statute_file) in statute_texts.items():
         relevant_statutes = find_relevant_statutes(query, statute_text)
+
+        if not relevant_statutes:
+            responses.append(f"📌 **State: {state_abbr}**\n❌ No relevant statutes found for the given query.")
+            continue
+
+        # **Ensure section number is captured correctly**
+        section_match = re.search(r"(Section|§|Article|Chapter)\s*\d+[.\d]*", relevant_statutes)
+        statute_section = section_match.group(0) if section_match else "Unknown Section"
 
         prompt = f"""
         You are an expert in life settlement laws. Answer the question using the provided statute.
@@ -150,16 +157,18 @@ def generate_gpt_response(query, statute_texts):
         {relevant_statutes}
 
         **Instructions:**
-        - Answer in **2-3 sentences MAX**.
-        - **DO NOT add extra commentary or disclaimers**.
+        - **Answer in 2-3 sentences MAX.**
+        - **DO NOT add extra commentary or disclaimers.**
         - **DO NOT make assumptions**—answer **only** using the statute text.
-        - **Always include the exact statute section, chapter, and number**.
-
+        - **Always explicitly include the statute section, chapter, and number**.
+        - **If multiple sections apply, list them as bullet points**.
+        
         ✅ **Answer:**  
-        [Concise answer, directly referencing the law]
+        [Concise answer, directly referencing the law, ensuring section number is included]
 
         📌 **Relevant Statutes:**  
-        "[Exact statute text]"
+        - **{statute_section}**  
+        "{relevant_statutes}"
 
         📌 **Source:** {statute_file}
         """
