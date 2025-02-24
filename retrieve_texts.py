@@ -150,10 +150,10 @@ def generate_gpt_response(query, statute_texts):
         {relevant_statutes}
 
         **Instructions:**
-        - Answer in **1-2 sentences MAX**.
+        - Answer in **2-3 sentences MAX**.
         - **DO NOT add extra commentary or disclaimers**.
         - **DO NOT make assumptions**—answer **only** using the statute text.
-        - **Always include the statute section, chapter, and number**.
+        - **Always include the exact statute section, chapter, and number**.
 
         ✅ **Answer:**  
         [Concise answer, directly referencing the law]
