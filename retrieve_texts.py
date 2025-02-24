@@ -162,14 +162,11 @@ def generate_gpt_response(query, statute_texts):
     for state_abbr, (statute_text, statute_file) in statute_texts.items():
         relevant_statutes = find_relevant_statutes(query, statute_text)
 
-        if not relevant_statutes:
-            responses.append(f"📌 **State: {state_abbr}**\n❌ No relevant statutes found for the given query.")
-            continue
+        # ✅ Extract statute section numbers using regex
+        section_match = re.search(r"(§?\s*\d{3,}\.\d+|\bSection\s+\d+[.\d]*)", relevant_statutes)
+        statute_section = section_match.group(0) if section_match else "Not specified"
 
-        # **Ensure section number is captured correctly**
-        section_match = re.search(r"(Section|§|Article|Chapter)\s*\d+[.\d]*", relevant_statutes)
-        statute_section = section_match.group(0) if section_match else "Unknown Section"
-
+        # ✅ **Construct prompt for GPT to ensure format consistency**
         prompt = f"""
         You are an expert in life settlement laws. Answer the question using the provided statute.
 
@@ -179,22 +176,23 @@ def generate_gpt_response(query, statute_texts):
         {relevant_statutes}
 
         **Instructions:**
-        - **Answer in 2-3 sentences MAX.**
-        - **DO NOT add extra commentary or disclaimers.**
+        - Answer in **2-3 sentences MAX**.
+        - **DO NOT add extra commentary or disclaimers**.
         - **DO NOT make assumptions**—answer **only** using the statute text.
-        - **Always explicitly include the statute section, chapter, and number**.
-        - **If multiple sections apply, list them as bullet points**.
-        
+        - **Always include the exact statute section, chapter, and number**.
+
         ✅ **Answer:**  
-        [Concise answer, directly referencing the law, ensuring section number is included]
+        [Concise answer, directly referencing the law]
 
         📌 **Relevant Statutes:**  
-        - **{statute_section}**  
-        "{relevant_statutes}"
+        "[Exact statute text]"
+
+        📌 **Statute Section:** {statute_section}
 
         📌 **Source:** {statute_file}
         """
 
+        # ✅ Generate response using OpenAI
         response = openai.Client().chat.completions.create(
             model="gpt-4-turbo",
             messages=[{"role": "system", "content": prompt}],
