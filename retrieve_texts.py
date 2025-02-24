@@ -142,7 +142,7 @@ def generate_gpt_response(query, statute_texts):
         relevant_statutes = find_relevant_statutes(query, statute_text)
 
         prompt = f"""
-        You are an expert in life settlement laws. Answer the question using only the provided statute.
+        You are an expert in life settlement laws. Answer the question using the provided statute.
 
         **User Question:** {query}
 
@@ -150,36 +150,29 @@ def generate_gpt_response(query, statute_texts):
         {relevant_statutes}
 
         **Instructions:**
-        - Answer concisely, summarizing the relevant law in 1-2 sentences.
+        - Answer in **1-2 sentences MAX**.
         - **DO NOT add extra commentary or disclaimers**.
         - **DO NOT make assumptions**—answer **only** using the statute text.
-        - **Always include the statute section, chapter, and number** in this format:
+        - **Always include the statute section, chapter, and number**.
 
-          ✅ **Answer:**  
-          [Concise answer, directly referencing the most important parts of the law]
+        ✅ **Answer:**  
+        [Concise answer, directly referencing the law]
 
-          📌 **Relevant Statutes:**  
-          "[Exact statute text]"  
-          (**[Statute Chapter]**, **Statute Section**)
+        📌 **Relevant Statutes:**  
+        "[Exact statute text]"
 
-          📌 **Source:** {statute_file}
+        📌 **Source:** {statute_file}
         """
 
-     response = openai.Client().chat.completions.create(
-    model="gpt-4-turbo",
-    messages=[{"role": "system", "content": prompt}],
-    temperature=0
-)
-
+        response = openai.Client().chat.completions.create(
+            model="gpt-4-turbo",
+            messages=[{"role": "system", "content": prompt}],
+            temperature=0
+        )
 
         responses.append(f"📌 **State: {state_abbr}**\n{response.choices[0].message.content.strip()}")
 
     return "\n\n".join(responses)
-
-
-
-
-
 
 
 
