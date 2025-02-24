@@ -6,7 +6,7 @@ from langchain_community.vectorstores import FAISS
 import streamlit as st
 
 # Get OpenAI API Key from Streamlit Secrets
-OPENAI_API_KEY = st.secrets["general"]["OPENAI_API_KEY"]
+OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
 
 # Pass API key to OpenAI client
 client = openai.OpenAI(api_key=OPENAI_API_KEY)
