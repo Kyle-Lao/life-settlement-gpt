@@ -158,6 +158,7 @@ def reinterpret_followup_query(user_query, last_query):
 
 def generate_gpt_response(query, statute_texts):
     responses = []
+    state_data = {}  # Store responses for each state
 
     for state_abbr, (statute_text, statute_file) in statute_texts.items():
         relevant_statutes = find_relevant_statutes(query, statute_text)
@@ -166,9 +167,9 @@ def generate_gpt_response(query, statute_texts):
         section_match = re.search(r"(§?\s*\d{3,}\.\d+|\bSection\s+\d+[.\d]*)", relevant_statutes)
         statute_section = section_match.group(0) if section_match else "Not specified"
 
-        # ✅ **Construct prompt for GPT to ensure format consistency**
+        # ✅ Construct prompt for GPT to ensure format consistency
         prompt = f"""
-        You are an expert in life settlement laws. Answer the question using the provided statute.
+        You are an expert in life settlement laws. Answer the question using only the provided statute.
 
         **User Question:** {query}
 
@@ -176,33 +177,50 @@ def generate_gpt_response(query, statute_texts):
         {relevant_statutes}
 
         **Instructions:**
-        - Answer in **2-3 sentences MAX**.
+        - Answer in **1-2 sentences MAX**.
         - **DO NOT add extra commentary or disclaimers**.
         - **DO NOT make assumptions**—answer **only** using the statute text.
-        - **Always include the exact statute section, chapter, and number**.
+        - **Always include the statute section, chapter, and number** in this format:
 
-        ✅ **Answer:**  
-        [Concise answer, directly referencing the law]
+          ✅ **Answer:**  
+          [Concise answer, directly referencing the law]
 
-        📌 **Relevant Statutes:**  
-        "[Exact statute text]"
+          📌 **Relevant Statutes:**  
+          "**[Exact statute text]**"  
+          (**{statute_file}**, **{statute_section}**)
 
-        📌 **Statute Section:** {statute_section}
+          📌 **Source:** {statute_file}
 
-        📌 **Source:** {statute_file}
+        **DO NOT provide disclaimers. Only answer what is in the statute.**
         """
 
         # ✅ Generate response using OpenAI
-        response = openai.Client().chat.completions.create(
+        response = openai.ChatCompletion.create(
             model="gpt-4-turbo",
             messages=[{"role": "system", "content": prompt}],
             temperature=0
         )
 
-        responses.append(f"📌 **State: {state_abbr}**\n{response.choices[0].message.content.strip()}")
+        # ✅ Store response for state
+        state_data[state_abbr] = f"""📌 **State: {state_abbr}**
+✅ **Answer:**  
+{response.choices[0].message.content.strip()}
 
-    return "\n\n".join(responses)
+📌 **Relevant Statutes:**  
+"{relevant_statutes}"
 
+📌 **Statute Section:** {statute_section}
+
+📌 **Source:** {statute_file}"""
+
+    # ✅ Return response as single state output or comparison format
+    if len(state_data) > 1:
+        comparison_output = "**📌 State-by-State Comparison:**\n\n"
+        for state, response in state_data.items():
+            comparison_output += f"{response}\n\n"
+        return comparison_output.strip()
+    else:
+        return "\n\n".join(state_data.values())
 
 
 
