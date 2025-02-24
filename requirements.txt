@@ -1,5 +1,5 @@
 streamlit
-openai
+openai>=1.0.0
 langchain
 langchain_openai
 langchain_community
