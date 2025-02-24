@@ -163,11 +163,6 @@ def generate_gpt_response(query, statute_texts):
     for state_abbr, (statute_text, statute_file) in statute_texts.items():
         relevant_statutes = find_relevant_statutes(query, statute_text)
 
-        # ✅ Extract statute section numbers using regex
-        section_match = re.search(r"(§?\s*\d{3,}\.\d+|\bSection\s+\d+[.\d]*)", relevant_statutes)
-        statute_section = section_match.group(0) if section_match else "Not specified"
-
-        # ✅ Construct prompt for GPT to ensure format consistency
         prompt = f"""
         You are an expert in life settlement laws. Answer the question using only the provided statute.
 
@@ -187,40 +182,23 @@ def generate_gpt_response(query, statute_texts):
 
           📌 **Relevant Statutes:**  
           "**[Exact statute text]**"  
-          (**{statute_file}**, **{statute_section}**)
+          (**[Statute Chapter]**, **Statute Section**)
 
           📌 **Source:** {statute_file}
 
         **DO NOT provide disclaimers. Only answer what is in the statute.**
         """
 
-        # ✅ Generate response using OpenAI
-        response = openai.ChatCompletion.create(
+        response = client.chat.completions.create(
             model="gpt-4-turbo",
             messages=[{"role": "system", "content": prompt}],
             temperature=0
         )
 
-        # ✅ Store response for state
-        state_data[state_abbr] = f"""📌 **State: {state_abbr}**
-✅ **Answer:**  
-{response.choices[0].message.content.strip()}
+        state_data[state_abbr] = response.choices[0].message.content.strip()
 
-📌 **Relevant Statutes:**  
-"{relevant_statutes}"
-
-📌 **Statute Section:** {statute_section}
-
-📌 **Source:** {statute_file}"""
-
-    # ✅ Return response as single state output or comparison format
-    if len(state_data) > 1:
-        comparison_output = "**📌 State-by-State Comparison:**\n\n"
-        for state, response in state_data.items():
-            comparison_output += f"{response}\n\n"
-        return comparison_output.strip()
-    else:
-        return "\n\n".join(state_data.values())
+    # **Return responses for multiple states or a single state**
+    return "\n\n".join(state_data.values())
 
 
 
