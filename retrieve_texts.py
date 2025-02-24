@@ -89,8 +89,8 @@ def load_statutes_for_states(states):
 
 def find_relevant_statutes(query, statute_text):
     """
-    Extracts relevant statutes based on the query using both keyword filtering and vector similarity search.
-    Ensures statute section numbers (e.g., "§ 626.99296") are included without breaking the response format.
+    Extracts relevant statutes based on the query using keyword filtering and similarity search.
+    Ensures statute section numbers (e.g., "§ 626.99296") are included in a clean format.
     """
 
     # **Step 1: Split the statute text into sections**
@@ -105,21 +105,21 @@ def find_relevant_statutes(query, statute_text):
 
     # **Step 4: Second Filter - Semantic Similarity Search**
     if keyword_filtered:
-        relevant_sections = db.similarity_search(query, k=3)  # Retrieve top 3 matches
+        relevant_sections = keyword_filtered
     else:
-        relevant_sections = db.similarity_search(query, k=3)  # Always fall back to similarity search
+        relevant_sections = db.similarity_search(query, k=3)  # Retrieve top 3 matches if keywords fail
 
     # **Step 5: Extract statute text & section numbers (without breaking format)**
     extracted_statutes = []
     for section in relevant_sections:
-        section_text = section.page_content.strip()
+        section_text = section.strip() if isinstance(section, str) else section.page_content.strip()
 
         # ✅ **Regex to capture statute section numbers (e.g., "§ 7804", "Section 626.99296")**
-        section_match = re.search(r"(Section|§|Article|Chapter)?\s*\d+[.\d]*", section_text)
+        section_match = re.search(r"((?:Section|§|Article|Chapter)\s*\d+[.\d]*)", section_text)
 
         if section_match:
             statute_section = section_match.group(0)
-            formatted_text = f'"{section_text}"\n({statute_section})'
+            formatted_text = f'"{section_text}"\n📌 **Statute Section:** {statute_section}'
         else:
             formatted_text = f'"{section_text}"'
 
@@ -127,7 +127,6 @@ def find_relevant_statutes(query, statute_text):
 
     # **Step 6: Join multiple relevant statutes if found**
     return "\n\n".join(extracted_statutes) if extracted_statutes else "No relevant statutes found."
-
 
 import re
 
